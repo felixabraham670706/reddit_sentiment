@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+requests
+praw
+openai
+streamlit-autorefresh
+python-dotenv
+streamlit
+pytz
