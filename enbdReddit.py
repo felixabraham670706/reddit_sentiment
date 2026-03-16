@@ -73,10 +73,10 @@ USER_AGENT = "post_bank/1.0 (u/Kind_Ad_910; bank keyword research)"
 HEADERS = {"User-Agent": USER_AGENT}
 
 BANK_QUERIES = {
-    "ENBD": '("emirates nbd" OR enbd OR "INC4588878")',
+    "ENBD": '("emirates nbd" OR "enbd" OR "INC4588878" OR "ENBDX" OR "ENBD APP" OR "ENBD-X")',
     "ADCB": '("abu dhabi commercial bank" OR adcb)',
     "ADIB": '("abu dhabi islamic bank" OR adib)',
-    "EI":   '("emirates islamic")',
+    "EI":   '("emirates islamic" OR "EI+" OR "EI X" OR "EI-X" )',
     "FAB":  '("first abu dhabi bank")',
     "CBD":  '("commercial bank of dubai")',
     "Mashreq": '("mashreq")',
