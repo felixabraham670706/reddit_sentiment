@@ -62,7 +62,7 @@ except (OAuthException, ResponseException) as e:
 # In[4]:
 
 
-LIMIT = 500   # number of results to fetch per bank
+LIMIT = 50   # number of results to fetch per bank
 DAYS  = 1     # lookback period
 
 
