@@ -6,5 +6,5 @@ praw
 openai
 streamlit-autorefresh
 python-dotenv
-streamlit
+streamlit==1.32.0
 pytz
