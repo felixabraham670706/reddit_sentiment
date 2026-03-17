@@ -1,4 +1,204 @@
 bank,subreddit,title,selftext,score,num_comments,url,permalink,created_utc,created_date,author,id
+ENBD,PrivacyCompass,Best VPNs for UAE & Dubai,"FaceTime? Blocked. Skype calls? Gone. Discord voice? Forget it. The whole app ecosystem you rely on for communication has been surgically lobotomized by Etisalat's filters, and unless you prepped before boarding the plane, you're now standing in one of the world's most hyper-connected cities with genuinely *less* communication ability than you had in 2004.
+
+So yeah. This guide exists because the UAE's internet situation is legitimately weird and wildly misunderstood — especially by tourists who assume ""it's just WhatsApp calls, whatever"" until they realize BOTIM costs AED 50/month, their whole family is on FaceTime, and they're standing in a business meeting that depends on a Zoom call that may or may not work depending on whether somebody at TDRA had their coffee this morning.
+
+Let's fix that.
+
+>**Quick verdict**: In February 2026 testing on both Etisalat and Du, only 4 VPNs consistently bypassed UAE restrictions. **NordVPN** is the best long-term pick for expats. **ExpressVPN** is the smartest grab for tourists — zero configuration, worked 100% of the time in testing, 30-day money-back.
+
+# 🔍 What's Actually Blocked in the UAE (The Real List)
+
+This trips people up because it's *selective*, not total. The UAE doesn't block the open web the way North Korea or Turkmenistan do. Your Bloomberg, BBC, Netflix — all fine. What they've carved out is something more specific and arguably more irritating.
+
+The censorship is built around **four pillars**:
+
+**VoIP calling** is the big one, and it's economic, not just ideological. Etisalat and Du both hold government-backed telecom monopolies. Free calls through WhatsApp or Skype eat directly into their revenue. So those call buttons die at the ISP level via deep packet inspection — surgically killed while leaving text messaging intact (because texts don't hurt their business the same way).
+
+|Category|Status|Examples|
+|:-|:-|:-|
+|**VoIP Calls**|❌ Blocked|WhatsApp calls, FaceTime, Skype calling, Telegram calls, Discord voice, Facebook Messenger calls|
+|**Social Media**|✅ Works|Facebook, Instagram, X/Twitter, YouTube, TikTok (mostly)|
+|**Streaming**|✅ Works|Netflix UAE, Spotify, Apple TV+ (regional catalog only)|
+|**Gambling Sites**|❌ Blocked|Betfair, PokerStars, casino sites|
+|**Adult Content**|❌ Blocked|Pornhub, etc.|
+|**Dating Apps**|❌ Blocked|Tinder, Bumble, Grindr|
+|**Business VoIP**|✅ Works|Zoom meetings, Microsoft Teams, Webex, Google Meet|
+|**Messaging**|✅ Works|WhatsApp *texts*, Telegram *messages*, Signal texts|
+|**LGBT Content**|❌ Blocked|Various advocacy/informational sites|
+
+Notice something? Zoom meetings work fine. Teams works fine. The government carved out explicit exceptions for business video conferencing tools because they're needed for economic activity. But Zoom *personal* calling? Inconsistent. It's a genuinely confusing and situational system.
+
+WhatsApp, Telegram, Viber and most consumer app voice/video calls are typically blocked on UAE mobile data and most Wi-Fi networks, while text and media sharing generally continue to function.
+
+# ⚖️ The Legal Situation (Read This Before You Do Anything)
+
+Here's where I need you to actually pay attention, because most articles gloss over the nuance and either terrify you into doing nothing or wave away real legal risk.
+
+**The bottom line: VPNs themselves are legal in the UAE.** The TDRA confirmed back in 2016 that companies, banks, and individuals can use VPNs for legitimate security and privacy purposes. That hasn't changed.
+
+But. And this is a substantial *but*.
+
+Understanding the rules is essential to avoid fines that can reach AED 2 million — with the minimum fine of AED 500,000 (approximately USD 136,000) applying when a VPN facilitates or conceals other criminal activity.
+
+The law punishes *what you do with a VPN* when that thing is illegal — not the VPN itself. Using it to secure your connection on public WiFi? Legal. Using it to access your company's internal network remotely? Explicitly permitted. Using it to browse privately? Broadly fine.
+
+Using it to make WhatsApp calls and unblock content that the TDRA has specifically prohibited? That's where it gets complicated. Technically illegal under the framework. Practically speaking, UAE authorities focus resources on serious violations involving fraud, hacking, terrorism, or organized crime, with no public records documenting tourists or residents prosecuted solely for using VPNs to make WhatsApp calls — though this doesn't make such use legal or risk-free.
+
+My take: If you're a tourist here for a week wanting to call your mom on FaceTime, the enforcement risk is vanishingly small. But you should know the legal framework exists and make your own call (no pun intended) about the risk level you're comfortable with. Don't let anyone tell you it's totally without any legal gray area — it is. And don't let anyone tell you tourists are getting arrested for WhatsApp calls — they're not.
+
+What's clear is that in the first six months of 2025 alone, residents in the UAE downloaded 6.11 million VPN apps — so you're very much not alone in this.
+
+# 🔧 Why Most VPNs Completely Fail in UAE
+
+This is the part where I get annoyed on your behalf.
+
+Most VPN review articles will tell you that X, Y, and Z VPNs work in the UAE. They'll list ten providers with confident green checkmarks. And some of those providers genuinely do not work reliably anymore, and the writers clearly haven't tested recently.
+
+The reason? **Deep Packet Inspection (**`DPI`**)**.
+
+Both Etisalat and Du run sophisticated `DPI` filters at their network gateways. These filters analyze your traffic patterns in real time, looking for the tell-tale packet signatures of `WireGuard`, `OpenVPN`, or `IKEv2`. When they spot those patterns, they block the connection. Not your IP address. The *protocol itself*.
+
+Standard `WireGuard`? Often detectable. Regular `OpenVPN`? Gets flagged. The `IKEv2` protocol that your phone uses by default? Doesn't stand a chance.
+
+Du has historically been more aggressive about VPN detection than Etisalat. Etisalat is generally more lenient but occasionally throttles VPN connections during peak hours. Both ISPs use `DPI`, but Du applies it more consistently.
+
+What actually works is **obfuscation** — disguising your VPN traffic so it looks indistinguishable from regular `HTTPS` web browsing. This is non-negotiable in the UAE. If your VPN doesn't offer it, it will fail on one or both ISPs.
+
+The good news is that some VPNs have built genuinely impressive obfuscation tech specifically for environments like this. The bad news is that it's maybe 4-5 providers that consistently get it right.
+
+# 🏆 The Best VPNs for UAE & Dubai in 2026
+
+|VPN|Obfuscation Method|Etisalat|Du|Best For|Price/Month|
+|:-|:-|:-|:-|:-|:-|
+|**NordVPN**|Obfuscated Servers + `NordWhisper`|✅ 97%|✅ Reliable|Long-term expats|\~$3.09|
+|**ExpressVPN**|`Lightway TCP` (auto)|✅ **100%**|✅ 100%|Tourists, zero setup|\~$6.67|
+|**ProtonVPN**|`Stealth` protocol|✅ Good|✅ Good|Privacy-first users|\~$4.99|
+|**Surfshark**|`NoBorders` Mode|⚠️ Variable|✅ Good|Budget, unlimited devices|\~$2.19|
+
+# #1 NordVPN — Best Overall for UAE Expats
+
+NordVPN sits at the top of basically every serious UAE VPN roundup in 2026, and having looked at the testing data, I understand why — but I'll also be honest about where it's imperfect.
+
+**What makes it work here**: NordVPN's obfuscated servers are specifically designed to disguise `VPN` traffic as normal `HTTPS` traffic. They operate over `OpenVPN TCP`, which routes everything through port `443` — the same port regular websites use. Etisalat's filters genuinely struggle with this. In February 2026 testing on both Etisalat and Du, NordVPN's obfuscated servers connected on the first attempt 97% of the time, with connection times averaging 5 to 8 seconds using `OpenVPN TCP` with obfuscation enabled.
+
+Then there's `NordWhisper` — a brand-new protocol released in late 2025 that goes even further. `NordWhisper` uses web tunnel technology to disguise `VPN` traffic as regular internet activity, making it harder for network filters to detect and block. It's currently available on Windows, Android, and Linux, with macOS/iOS support reportedly coming mid-2026.
+
+One honest caveat: `NordWhisper` is slower than `NordLynx`. And some testing suggests that highly sophisticated `DPI` systems can still detect it under certain conditions. The traditional obfuscated servers remain the more battle-tested option for daily UAE use.
+
+**The security setup**: NordVPN is based in Panama (nowhere near the 5/9/14 Eyes surveillance alliances), runs RAM-only servers that can't store data long-term, and has had its no-logs policy independently audited *five times* as of April 2025 by Deloitte and PwC. It also offers a Double VPN feature — routing your traffic through two servers instead of one — which is genuinely useful if you're an expat with sensitive communications.
+
+>**Setup for Etisalat users**: Don't just hit connect. Go to **Settings → Connection → VPN Protocol** and manually select `OpenVPN TCP`. Then navigate to **Specialty Servers → Obfuscated Servers**. The standard auto-connect won't use obfuscation by default and will likely fail on Etisalat.
+
+**What I don't love**: The setup friction. For a tourist who's never touched VPN settings and just wants to call their family, navigating NordVPN's menus to find obfuscated servers is intimidating. This is genuinely ExpressVPN's advantage (more on that below).
+
+# #2 ExpressVPN — Best for Tourists and Zero-Friction Use
+
+If you're visiting Dubai for less than a month and you don't want to spend fifteen minutes in VPN settings at 2 AM because your connection dropped, ExpressVPN is the answer.
+
+In February 2026 testing on Etisalat and Du, ExpressVPN connected on the first attempt every single time on both ISPs — the only VPN in the tests to achieve 100% first-attempt success, with connection times averaging 3 to 5 seconds.
+
+The key is **automatic obfuscation**. ExpressVPN's `Lightway TCP` protocol detects that you're on a restricted network and applies obfuscation *without you having to do anything*. You open the app, hit connect, and it works. That's... not how most VPNs behave in the UAE.
+
+It has servers in 105+ countries, over a dozen independent security audits completed in 2024 alone, and a no-logs policy backed by real-world court tests (a 2017 server seizure by Turkish authorities recovered nothing useful because there was nothing to recover).
+
+The downsides are real: it costs more than NordVPN, it doesn't have servers *inside* the UAE (which matters if you need a local IP for UAE banking apps or regional services), and you're limited to 8 simultaneous connections where some competitors now offer unlimited.
+
+But for a 5-day trip to Dubai? It's the most friction-free option available. Buy it before you land, connect when you get there, done.
+
+# #3 ProtonVPN — Best for Privacy Purists
+
+ProtonVPN is the choice I'd make if my primary concern was *who has access to my data* rather than just *whether the thing connects*.
+
+Swiss jurisdiction. Strong national privacy laws. Open-source apps that security researchers have actually audited. And the `Stealth` **protocol** — a clever obfuscation method that wraps `OpenVPN` inside `TLS` to make it look like standard web traffic, similar to what you'd see with regular `HTTPS` browsing.
+
+As of April 2025, Proton VPN has undergone three independent audits of its no-logs policy by Securitum, and its server network now spans over 18,100 servers in 129 countries. That server count is actually larger than NordVPN's now, which surprises people who think of Proton as the ""smaller privacy-focused one.""
+
+**Secure Core** is a standout feature: it routes your traffic through privacy-friendly countries (Switzerland, Iceland) *before* connecting to your destination server. So even if something were to compromise an exit server, the attackers would only trace back to a Secure Core country with minimal logging. For high-risk users — journalists, activists, people with legitimate reasons to be extra careful about surveillance — this matters.
+
+The downsides? It's pricier than Surfshark, the live chat support is limited to Swiss business hours (inconvenient when your connection drops at midnight in Dubai), and some users report less consistent connectivity on Etisalat compared to NordVPN.
+
+# #4 Surfshark — Best for Families & Budget Users
+
+Surfshark runs on **unlimited simultaneous connections** for a single subscription. If you're an expat with a family, or just someone who uses 8 different devices, that matters a lot. At roughly $2.19/month on the 2-year plan, it's also the most affordable serious option on this list.
+
+The `NoBorders` **Mode** (their obfuscation system) works well on Du. On Etisalat, it's more inconsistent — NordVPN and Surfshark scored highest in terms of security and privacy among tested UAE VPNs, but Surfshark's Etisalat reliability lags behind NordVPN and ExpressVPN specifically.
+
+Worth noting: Surfshark upgraded to 100Gbps servers in Amsterdam in October 2025, which means speeds have improved meaningfully over what they were even a year ago. And their AI-based phishing detection launched December 2025 adds a layer of protection that matters on UAE public WiFi, which is a legitimate target-rich environment for attackers.
+
+If you're on Du and budget-conscious, Surfshark is a solid call. If you're on Etisalat, test it with the 30-day money-back guarantee before committing.
+
+# 🚫 VPNs That Don't Work (Or Are Risky) in UAE
+
+Worth naming explicitly, because the review ecosystem doesn't always say this clearly:
+
+|VPN|UAE Status|Notes|
+|:-|:-|:-|
+|CyberGhost|❌ Blocked|Confirmed no longer working in UAE as of 2025|
+|PureVPN|⚠️ Inconsistent|Reports of blocking on Etisalat in 2025|
+|VyprVPN|⚠️ Variable|Chameleon protocol sometimes works, sometimes doesn't|
+|**Any Free VPN**|❌ Dead on arrival|No obfuscation, no logs protection, often data-selling; Etisalat blocks them almost immediately|
+|UAE-based VPNs|❌ Avoid|Government jurisdiction means zero real privacy protection|
+
+# 📱 Protocol Quick Reference
+
+|Protocol|Speed|Obfuscation|UAE Viability|
+|:-|:-|:-|:-|
+|`WireGuard` / `NordLynx`|🔥 Fastest|❌ None|⚠️ Unreliable|
+|`OpenVPN UDP`|⚡ Fast|✅ With obfuscated servers|✅ Good|
+|`OpenVPN TCP`|Medium|✅ Best for UAE|✅ **Recommended**|
+|`Lightway TCP` (ExpressVPN)|Fast|✅ Automatic|✅ Excellent|
+|`NordWhisper` (NordVPN)|Slower|✅ Advanced|✅ Good on most|
+|`Stealth` (ProtonVPN)|Medium|✅ Strong|✅ Good|
+|`IKEv2`|Fast|❌ None|❌ Blocked|
+|`PPTP`|Fast|❌ None|❌ **Never use**|
+
+>**If you take nothing else away**: Switch from `WireGuard` or `IKEv2` to `OpenVPN TCP` before connecting in the UAE. Not ""maybe consider it."" Do it. Standard protocols get flagged by `DPI` within seconds.
+
+# 🛠️ Setup Guide: Do This BEFORE You Land in Dubai
+
+This is the most important practical thing in this article. Genuinely.
+
+**VPN provider websites are sometimes inaccessible from inside the UAE.** Not always. But sometimes. If you land without a VPN installed and the website is blocked, you're stuck. App stores can also be wonky about downloading VPN apps in restricted regions depending on your account's country setting.
+
+1. **Buy and install your VPN at home**, before travel. Download the app on every device you'll use.
+2. **Enable obfuscation in settings** before you're on the UAE network. Don't assume the app's default settings are correct.
+3. **For NordVPN**: Go to Settings → Connection → set protocol to `OpenVPN TCP` → return to main screen → Specialty Servers → Obfuscated Servers. Bookmark this flow.
+4. **For ExpressVPN**: Literally just connect. Obfuscation is automatic. (This is why it's recommended for tourists.)
+5. **Test your kill switch** works before relying on it. A kill switch that takes 3+ seconds to engage can leak your real IP to a torrent swarm or sensitive service.
+6. **If Etisalat is blocking you**: Switch from `UDP` to `TCP` in your protocol settings. TCP is slower but significantly better at bypassing DPI. Try different server locations (Netherlands, Germany, Switzerland tend to work well).
+
+# 💡 Pro Tips for Expats (Stuff Nobody Else Mentions)
+
+**UAE banking apps and VPNs don't mix well.** Emirates NBD, ADCB, Mashreq — they all run fraud AI that flags unusual IP locations. If you're connected to a German server and try to log into your UAE bank account, expect to trigger an OTP verification or a temporary lock. Always disable your VPN or use split tunneling to keep banking traffic on your local IP.
+
+**Du vs Etisalat**: If you're buying a UAE SIM card and haven't chosen yet, Du is generally more permissive with VPN connections than Etisalat. Etisalat's DPI is more aggressive and better resourced. For heavy VPN users, Du gives you fewer headaches.
+
+**Split tunneling** solves the banking problem cleanly. Route your UAE banking apps, government apps, and anything that needs a local IP through your normal connection. Route everything else through the VPN. NordVPN, ExpressVPN, and Surfshark all support this properly.
+
+**Hotel and airport WiFi** adds an extra layer of filtering on top of the ISP-level blocks. If your VPN that works fine on your home Etisalat connection fails at a hotel, switch to mobile data first to test — hotel networks often apply their own content filters independently.
+
+# ❓ FAQ
+
+|Question|Answer|
+|:-|:-|
+|**Is using a VPN legal in UAE?**|Yes for legitimate purposes. The legal gray area is using one specifically to bypass blocked VoIP services.|
+|**Will I get arrested for using a VPN?**|No credible reports of tourists prosecuted purely for personal VPN use. Enforcement targets serious cybercrime.|
+|**Do VPNs work on Etisalat?**|Yes — but only with obfuscation enabled. NordVPN (obfuscated servers) and ExpressVPN (`Lightway TCP`) are most reliable.|
+|**Which ISP is better for VPN users?**|Du is generally more permissive than Etisalat with VPN connections.|
+|**Will a free VPN work in UAE?**|No. Free VPNs lack obfuscation and get blocked almost immediately. Also: free VPN = your data is the product.|
+|**Do I need a VPN on hotel WiFi in Dubai?**|Yes, and more urgently than at home — hotel networks are DPI-filtered AND common targets for surveillance and attacks.|
+|**What's the fine for misusing a VPN?**|Under Article 10, fines range from AED 500,000 to AED 2,000,000 if a VPN is used to commit or conceal a crime.|
+
+# The Short Version
+
+The UAE's internet situation is genuinely unusual — not the totalitarian shutdown you'd see in North Korea, but way more sophisticated than the casual content blocking you'd find in most countries. Two ISPs with government backing, DPI technology filtering your traffic in real time, and a legal framework that permits VPNs while technically prohibiting using them to bypass specific restrictions.
+
+Only four VPNs consistently cut through this in early 2026: NordVPN, ExpressVPN, ProtonVPN, and Surfshark (on Du). The protocols that work are `OpenVPN TCP` with obfuscation, `Lightway TCP`, `NordWhisper`, and `Stealth`.
+
+Buy before you land. Enable obfuscation. Know the legal framework. The UAE genuinely is worth visiting — the internet situation just requires a bit more preparation than you'd need in, say, Germany.
+
+*Last tested: February 2026, on Etisalat home broadband and Du mobile data in Dubai. VPN availability in UAE changes frequently — always verify with recent sources before travel.*",1,0,https://www.reddit.com/r/PrivacyCompass/comments/1rvyg74/best_vpns_for_uae_dubai/,https://www.reddit.com/r/PrivacyCompass/comments/1rvyg74/best_vpns_for_uae_dubai/,1773727208.0,2026-03-17 06:00:08,Dear-Owl7333,1rvyg74
 ENBD,UAE,Emirates NBD not returning the stolen money despite police catching the scammer and deporting him,"3 months ago, a transaction of AED7k  was taken from my fathers credit card via Google pay despite my dad not receiving even an OTP from the bank. 
 
 The bank kept denying accountability, so he filed a police case and they arrested the individual who happened to live in UAE itself, the arrested individual confessed to his crime and was deported. 
@@ -75,10 +275,46 @@ Across the room, the crowd parts to let him through, and he stops by the bar. Wi
 \*\*\*
 
 Thanks in advance!",3,0,https://www.reddit.com/r/PubTips/comments/1rvt7vo/qcrit_friendly_match_queer_contemporary_romance/,https://www.reddit.com/r/PubTips/comments/1rvt7vo/qcrit_friendly_match_queer_contemporary_romance/,1773711639.0,2026-03-17 01:40:39,SevenWavesAtMidnight,1rvt7vo
+EI,KoreanFood,"What do you like more, the two Korean oils?","Two kinds of oils eaten in Korea 
+Sesame oil and perilla oil 
+
+Each has its own different charm, so what do you like? ",1,0,https://www.reddit.com/gallery/1rvyjwf,https://www.reddit.com/r/KoreanFood/comments/1rvyjwf/what_do_you_like_more_the_two_korean_oils/,1773727555.0,2026-03-17 06:05:55,Numerous_Ad4297,1rvyjwf
+EI,BDaman,Battle B-Daman Wing Sword,"Selling: Battle B-Daman Wing Sword
+
+Price: 30 usd
+
+Location: Philippines 
+
+MOP: Paypal
+
+MOD: DHL Express",1,0,https://www.reddit.com/gallery/1rvyjfm,https://www.reddit.com/r/BDaman/comments/1rvyjfm/battle_bdaman_wing_sword/,1773727515.0,2026-03-17 06:05:15,jieee1114,1rvyjfm
+EI,FortniteAccSale,"🔴Wildcat , Galaxy , Travis Scott | 800+ Skins | $130 | Full access","\-Comes with Original Email & is email Changeable, Playable on ANY Platform. | I can show vouches 
+
+\-YOU CAN NOT SIGN IN Without Payment 
+
+Cashapp, Venmo , PayPal 
+
+\-NOT GOING FIRST Dont waste time , if it’s still posted it available to buy. Dont message if you don’t have the funds please & thank you. ",1,0,https://www.reddit.com/gallery/1rvyd89,https://www.reddit.com/r/FortniteAccSale/comments/1rvyd89/wildcat_galaxy_travis_scott_800_skins_130_full/,1773726917.0,2026-03-17 05:55:17,Warm-Weakness-885,1rvyd89
+EI,Cooking,Baguette + this spicy dip,"There was a archive post here where I found ideas for what to do with a baguette to spice it up.  
+Most apparently said ""butter dip"".  
+So I did MELT the salted butter, shaved some goat cheese on it, and used that as a dip.  
+It was okay.
+
+But I had this Spicy dip - that really matched the baguette.  
+plain white vinegar (1/2 cup or to your liking)  
+2 tablespoon chopped Kinchay (also spelled *kintsay*), or Chinese celery    
+cracked pepper  
+pinch salt  
+one crushed garlic clove  
+one sliced chili ([**siling labuyo**](https://www.google.com/search?q=siling+labuyo&sca_esv=b4f2a3ba1d58ef3b&biw=1326&bih=723&sxsrf=ANbL-n4nSDd_wbUpWp3xyZSYR-YOlX9lhA%3A1773726563584&ei=Y-u4afmUI5iQ1e8PgcKDqAw&ved=2ahUKEwip4OrQnqaTAxXVVmwGHchLFRQQgK4QegQIARAB&uact=5&oq=siling+labuyo+vegetable&gs_lp=Egxnd3Mtd2l6LXNlcnAiF3NpbGluZyBsYWJ1eW8gdmVnZXRhYmxlMgYQABgHGB4yCBAAGAUYBxgeMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEj5EFC6A1jWD3ACeAGQAQCYAZsBoAGDDaoBBDAuMTO4AQPIAQD4AQGYAgmgApsHwgIKEAAYsAMY1gQYR8ICBRAAGO8FwgIIEAAYogQYiQWYAwCIBgGQBgiSBwMyLjegB-1XsgcDMC43uAeQB8IHAzItOcgHL4AIAA&sclient=gws-wiz-serp&mstk=AUtExfAezHLiNWu4IaC_j6trVYW4T7-mjTPAz3e_m2zG5tmtwp_kNBlxRdipm7UFBSze_MPlTT-jFOroNNln4mYThzjLxCxahOKfW6NDSq16Gv1aIJkKs7gUEjwdlATjFSntJKkLzpqybSwZiVkIiR-N4crJFNCTpsgVvedSB0s6iuTgTN5xfL8sJxhDWhA1VuCdHn2cyyulAloSM5-Mez0w3adoaw&csui=3) (*Capsicum frutescens*))
+
+That's it - this dip is great for meats and apparently baguette w or without the melted butter.",2,2,https://www.reddit.com/r/Cooking/comments/1rvyb2w/baguette_this_spicy_dip/,https://www.reddit.com/r/Cooking/comments/1rvyb2w/baguette_this_spicy_dip/,1773726704.0,2026-03-17 05:51:44,Adventurous_Drink557,1rvyb2w
+EI,PokemonTCG,Opened 3 packs of Destin today..,,2,0,https://i.redd.it/s5hyebx4ojpg1.jpeg,https://www.reddit.com/r/PokemonTCG/comments/1rvyb12/opened_3_packs_of_destin_today/,1773726700.0,2026-03-17 05:51:40,Pristine-Shine-,1rvyb12
+EI,SoFaygo,Has anyone received their signed vinyl with the og cover,"Haven’t heard back from anyone yet about this specific version, I’ve seen the alt cover signed a couple times but haven’t seen someone with this one, anyone have any info on it? My after me vinyl shipped which is cool but got no info on this one yet was supposed to ship in February website says it should ship soon but nothing yet",1,1,https://i.redd.it/54cnkhcunjpg1.jpeg,https://www.reddit.com/r/SoFaygo/comments/1rvya1k/has_anyone_received_their_signed_vinyl_with_the/,1773726601.0,2026-03-17 05:50:01,Ok-Number-1160,1rvya1k
 EI,Nightreign,6th souls platinum,"I didn't know if I was gonna platinum it or not, then I did. Anyway, 6 down 2 to go.",1,0,https://i.redd.it/9pm3uqelnjpg1.jpeg,https://www.reddit.com/r/Nightreign/comments/1rvy94e/6th_souls_platinum/,1773726517.0,2026-03-17 05:48:37,Advanced-Marketing87,1rvy94e
-EI,snappijuorutofftopic,Telian netti pätkii (taas),"Oonko ainut kenellä ei tunnu toimivan toi telian netti? Mulla on pöytäkone ethernetilla, ja sain ""kivana yllätyksenä"" huomata että tänään netti ei näytäkkään toimivan jostain ihmeen syystä. En ole koskenut mihinkään johtoihin tms. ja vielä toissapäivänä pääsin käyttämään konetta ihan normaalisti??? 🫠",2,0,https://www.reddit.com/r/snappijuorutofftopic/comments/1rvy84c/telian_netti_pätkii_taas/,https://www.reddit.com/r/snappijuorutofftopic/comments/1rvy84c/telian_netti_pätkii_taas/,1773726420.0,2026-03-17 05:47:00,kalakukk0,1rvy84c
+EI,snappijuorutofftopic,Telian netti pätkii (taas),"Oonko ainut kenellä ei tunnu toimivan toi telian netti? Mulla on pöytäkone ethernetilla, ja sain ""kivana yllätyksenä"" huomata että tänään netti ei näytäkkään toimivan jostain ihmeen syystä. En ole koskenut mihinkään johtoihin tms. ja vielä toissapäivänä pääsin käyttämään konetta ihan normaalisti??? 🫠",2,1,https://www.reddit.com/r/snappijuorutofftopic/comments/1rvy84c/telian_netti_pätkii_taas/,https://www.reddit.com/r/snappijuorutofftopic/comments/1rvy84c/telian_netti_pätkii_taas/,1773726420.0,2026-03-17 05:47:00,kalakukk0,1rvy84c
 EI,memeexchangecommunism,What have you seen that makes you want to tell someone to get professional help?,,1,1,https://i.redd.it/fxevxpg9ijpg1.jpeg,https://www.reddit.com/r/memeexchangecommunism/comments/1rvxr5y/what_have_you_seen_that_makes_you_want_to_tell/,1773724806.0,2026-03-17 05:20:06,SweetZestyclose6610,1rvxr5y
-EI,Salary,Salary Progression of a Software Engineer @Meta,,11,2,https://i.redd.it/h1b7fyz0ijpg1.png,https://www.reddit.com/r/Salary/comments/1rvxpin/salary_progression_of_a_software_engineer_meta/,1773724652.0,2026-03-17 05:17:32,paperclip_han,1rvxpin
+EI,Salary,Salary Progression of a Software Engineer @Meta,,12,4,https://i.redd.it/h1b7fyz0ijpg1.png,https://www.reddit.com/r/Salary/comments/1rvxpin/salary_progression_of_a_software_engineer_meta/,1773724652.0,2026-03-17 05:17:32,paperclip_han,1rvxpin
 EI,Football_Head_Coach,Need help with offensive formations and tactics,I’ve changed so much stuff around and could use some help with my tactics,2,0,https://i.redd.it/z2ljpbc0ijpg1.jpeg,https://www.reddit.com/r/Football_Head_Coach/comments/1rvxpda/need_help_with_offensive_formations_and_tactics/,1773724639.0,2026-03-17 05:17:19,Electronic-Log7443,1rvxpda
 EI,kuzhongzuole,好好好,,1,0,https://i.redd.it/p38t8oszhjpg1.jpeg,https://www.reddit.com/r/kuzhongzuole/comments/1rvxpc3/好好好/,1773724636.0,2026-03-17 05:17:16,RanToTur,1rvxpc3
 EI,writers,Made a short little comedy story and want to know if its any good,"How To Take Care of Your Anxiety-Ridden Demon 
@@ -185,7 +421,7 @@ Another reason SMEs consider QuickHR is its combination of automation and suppor
 In short, don’t just compare features, evaluate the support experience. For Malaysian small businesses, tools like QuickHR offer a strong mix of local expertise, responsive service, and reliable automation, making HR and payroll much easier to manage as you grow.
 
 ",1,0,https://www.reddit.com/r/payrollsystem/comments/1rvxo8o/best_hr_software_with_reliable_customer_support/,https://www.reddit.com/r/payrollsystem/comments/1rvxo8o/best_hr_software_with_reliable_customer_support/,1773724531.0,2026-03-17 05:15:31,parker_adam916,1rvxo8o
-EI,snes,My current set up,I'm currently using a retrotink 2x pro.,7,1,https://i.redd.it/trk3x4z2hjpg1.jpeg,https://www.reddit.com/r/snes/comments/1rvxm40/my_current_set_up/,1773724334.0,2026-03-17 05:12:14,Ill-Gear-1972,1rvxm40
+EI,snes,My current set up,I'm currently using a retrotink 2x pro.,8,1,https://i.redd.it/trk3x4z2hjpg1.jpeg,https://www.reddit.com/r/snes/comments/1rvxm40/my_current_set_up/,1773724334.0,2026-03-17 05:12:14,Ill-Gear-1972,1rvxm40
 EI,bangladesh,"HELP ME DECIDE: DU Finance vs. BRACU CSE for going abroad + ROI, BRACU CS difficulty","DU's admission deadline is 28 March so PLEASE HELP ME MAKE A DECISION!
 
 I got into DU Finance, which is a BBA program, and I'm going to sit for Summer 2026 exam at BRACU. I'm honestly confused about which one I should pick.
@@ -197,9 +433,9 @@ Secondly, how rigorous is BRACU CS? I'd like to think I'm moderately good at mat
 The cost is also a consideration for me, is spending 14 lacs extra for BRACU CS worth it over studying DU Finance for (practically) free?
 
 Please help a girl out with some advice 🙏",1,3,https://www.reddit.com/r/bangladesh/comments/1rvxjyp/help_me_decide_du_finance_vs_bracu_cse_for_going/,https://www.reddit.com/r/bangladesh/comments/1rvxjyp/help_me_decide_du_finance_vs_bracu_cse_for_going/,1773724136.0,2026-03-17 05:08:56,Lazy_Ambassador_5728,1rvxjyp
-EI,brandonherrara,"Well, isn't that interesting?",,88,7,https://i.redd.it/frxuu4xdgjpg1.jpeg,https://www.reddit.com/r/brandonherrara/comments/1rvxjjc/well_isnt_that_interesting/,1773724093.0,2026-03-17 05:08:13,Street-Top3449,1rvxjjc
+EI,brandonherrara,"Well, isn't that interesting?",,104,7,https://i.redd.it/frxuu4xdgjpg1.jpeg,https://www.reddit.com/r/brandonherrara/comments/1rvxjjc/well_isnt_that_interesting/,1773724093.0,2026-03-17 05:08:13,Street-Top3449,1rvxjjc
 EI,mtgmisprints,Miscut Pirates,,1,0,https://www.reddit.com/gallery/1rvxio9,https://www.reddit.com/r/mtgmisprints/comments/1rvxio9/miscut_pirates/,1773724009.0,2026-03-17 05:06:49,token_zombie,1rvxio9
-EI,Firearms,"Well, isn't that interesting?",,187,23,https://i.redd.it/kiyeqnf0gjpg1.jpeg,https://www.reddit.com/r/Firearms/comments/1rvxi6c/well_isnt_that_interesting/,1773723967.0,2026-03-17 05:06:07,Street-Top3449,1rvxi6c
+EI,Firearms,"Well, isn't that interesting?",,216,23,https://i.redd.it/kiyeqnf0gjpg1.jpeg,https://www.reddit.com/r/Firearms/comments/1rvxi6c/well_isnt_that_interesting/,1773723967.0,2026-03-17 05:06:07,Street-Top3449,1rvxi6c
 EI,femfragranceswap,[WTS] Selling/Trading Niche/Indie 1mL Samples (40+),"Hi all! Looking to reduce my sample collection a bit. Most samples are in **\~1mL dabbers, (a few labeled in atomizers).**   
 Sourced primarily from ScentSplit or LuckyScent (indies directly from the source).
 
@@ -252,7 +488,7 @@ EI,vSeeBox_Support_Gurus,Thanks Derik. Just got my v6 plus and keyboard.,,1,0,ht
 EI,physicaltherapy,Virginia PT license renewal question,"I just got my license in VA as we are moving there and found out I have to renew in December like everyone else. Problem is I barely met the ‘active practice’ requirement for the last 48 months due to being home with my kids (one higher medical needs).
 
   
-So I now need 300 ’actice practice/work’ hours by December doing part time. I have looked into home health or EI, but was confused how the work hours play into that with drive time. Is your commuting time counting towards your practice time? I emailed the board and they would not give me a direct answer. Thanks in advance! ",1,1,https://www.reddit.com/r/physicaltherapy/comments/1rvwnwg/virginia_pt_license_renewal_question/,https://www.reddit.com/r/physicaltherapy/comments/1rvwnwg/virginia_pt_license_renewal_question/,1773721294.0,2026-03-17 04:21:34,Potential_Weird_7068,1rvwnwg
+So I now need 300 ’actice practice/work’ hours by December doing part time. I have looked into home health or EI, but was confused how the work hours play into that with drive time. Is your commuting time counting towards your practice time? I emailed the board and they would not give me a direct answer. Thanks in advance! ",1,2,https://www.reddit.com/r/physicaltherapy/comments/1rvwnwg/virginia_pt_license_renewal_question/,https://www.reddit.com/r/physicaltherapy/comments/1rvwnwg/virginia_pt_license_renewal_question/,1773721294.0,2026-03-17 04:21:34,Potential_Weird_7068,1rvwnwg
 EI,u_Intrusive-Flesh420,9,,1,0,https://www.reddit.com/gallery/1rvwlkp,https://www.reddit.com/r/u_Intrusive-Flesh420/comments/1rvwlkp/9/,1773721099.0,2026-03-17 04:18:19,Intrusive-Flesh420,1rvwlkp
 EI,TrueChefKnives,Nkd Yukurosaki petty,"Yu Kurosaki AS Kokusen Ei Petty 150mm. Rosewood handle
 
@@ -269,9 +505,9 @@ https://news.yahoo.co.jp/articles/4f40abb139bdc5258954564de0f0479372b019b9",6,0,
 EI,Bazi_Astrology,大师们帮忙看看运势,**麻烦大师帮忙看下运势，爱情和事业的，谢谢了**,1,0,https://i.redd.it/jq8d7z9s5jpg1.jpeg,https://www.reddit.com/r/Bazi_Astrology/comments/1rvwex2/大师们帮忙看看运势/,1773720529.0,2026-03-17 04:08:49,juedimaster,1rvwex2
 EI,StardustCrusaders,Don't know if this is true or not,"To be honest I have no idea who this person is but I've been seeing them for a while posting some leaks about other anime and they're also the same person who leaked the the fact that the first episode was finished last month.
 
-Regardless, this all sounds very believable imo, so I thought I'd share it with y'all. What so you think?",35,20,https://www.reddit.com/gallery/1rvwbyh,https://www.reddit.com/r/StardustCrusaders/comments/1rvwbyh/dont_know_if_this_is_true_or_not/,1773720281.0,2026-03-17 04:04:41,Sirgayyy,1rvwbyh
+Regardless, this all sounds very believable imo, so I thought I'd share it with y'all. What so you think?",35,21,https://www.reddit.com/gallery/1rvwbyh,https://www.reddit.com/r/StardustCrusaders/comments/1rvwbyh/dont_know_if_this_is_true_or_not/,1773720281.0,2026-03-17 04:04:41,Sirgayyy,1rvwbyh
 EI,masterduel,Thoughts on PK/Orcust?,"Which one of these two deck ideas should I use? Or what changes should I make to them? (One uses Burning abyss engine, the other focuses more on the Orcust aspect). I feel like making this deck because obviously PK is undoubtedly cool because the GY is basically a second hand, and it’s a deck I’d love playing. Orcust also was just so cool to me (Galatea has a scythe. And the new Malevolent Scythe in the tcg is just amazing… I love scythes too much). Plus, I’d rather have fun playing against the meta than playing with it.",0,0,https://www.reddit.com/gallery/1rvw71y,https://www.reddit.com/r/masterduel/comments/1rvw71y/thoughts_on_pkorcust/,1773719885.0,2026-03-17 03:58:05,Huge_Face2583,1rvw71y
-EI,GundamTCG,Ranked for the first time at locals tonight!,Got 2nd place! 3rd place was also Clan. ,8,1,https://i.redd.it/mmsa419h3jpg1.png,https://www.reddit.com/r/GundamTCG/comments/1rvw5v8/ranked_for_the_first_time_at_locals_tonight/,1773719782.0,2026-03-17 03:56:22,aphxtwinin,1rvw5v8
+EI,GundamTCG,Ranked for the first time at locals tonight!,Got 2nd place! 3rd place was also Clan. ,9,1,https://i.redd.it/mmsa419h3jpg1.png,https://www.reddit.com/r/GundamTCG/comments/1rvw5v8/ranked_for_the_first_time_at_locals_tonight/,1773719782.0,2026-03-17 03:56:22,aphxtwinin,1rvw5v8
 EI,Report_scams,sale of adulterated alcohol and drugs to minors,,1,0,https://i.redd.it/558zklq73jpg1.jpeg,https://www.reddit.com/r/Report_scams/comments/1rvw4q7/sale_of_adulterated_alcohol_and_drugs_to_minors/,1773719688.0,2026-03-17 03:54:48,adriana_coreau3,1rvw4q7
 EI,SorceryTCG,Round 4 from SorceryCon 3 Constructed tournament,"Video editing for the entire event is still undergoing, slowly but surely... In the meantime, please enjoy my match vs Cameron P!",2,0,https://www.youtube.com/watch?v=3frhtVCvQ9Y&feature=youtu.be,https://www.reddit.com/r/SorceryTCG/comments/1rvw2ee/round_4_from_sorcerycon_3_constructed_tournament/,1773719496.0,2026-03-17 03:51:36,unwise_entity,1rvw2ee
 EI,pokemontoys,Alolan Ninetales and Melmetal Tomy Moncolle,,2,0,https://www.reddit.com/gallery/1rvw1p5,https://www.reddit.com/r/pokemontoys/comments/1rvw1p5/alolan_ninetales_and_melmetal_tomy_moncolle/,1773719437.0,2026-03-17 03:50:37,ElHomieCollector,1rvw1p5
@@ -288,9 +524,9 @@ EI,AlexandriaEgy,عبث الزواج في المجتمعات الإسلامية,
 
 أنا مقتنع تمام الاقتناع أن الجواز وعلاقة النسوان بالرجال في مجتمعاتنا دى جاية عليهم بخسارة ودمار في أي وقت ، ونفس الرجالة اللي بتصيح سهلوا الجواز وتعاطفوا معانا ، هم نفسهم نعندهمش مشكلة أنه يتجوز عليها وياخدها استبن بدون ادني مراعاة للمشاعر ، حرفيا مقرفين . ",1,20,https://www.reddit.com/gallery/1rvvxw1,https://www.reddit.com/r/AlexandriaEgy/comments/1rvvxw1/عبث_الزواج_في_المجتمعات_الإسلامية/,1773719126.0,2026-03-17 03:45:26,NeighborhoodWide7527,1rvvxw1
 EI,China_irl,【邻居不请自到】第四集来了！,"我的原创动画短剧【邻居不请自到】(Uninvited Neighbors)第四集上线啦！这集会通过两个美国警察在中国被捕的奇特遭遇展示不同文化之间碰撞出的尴尬感，出于本人经常性往返中美之间的经历，也借此作品想槽一下国人的某些劣根性：小到随地吐痰，随手扔垃圾这类的坏习惯，大到民族主义泛滥的整体政治气氛。而美国人对中国认识的片面性，泛政治化也在片中有所触及。大家如果感兴趣，请直接移步油管观看全片，原创不易，也请点赞转发：  
-[https://youtu.be/L3XvVfu3up0?si=1qmF3DRtMH3AdTbj](https://youtu.be/L3XvVfu3up0?si=1qmF3DRtMH3AdTbj)",7,0,https://www.reddit.com/gallery/1rvvwzz,https://www.reddit.com/r/China_irl/comments/1rvvwzz/邻居不请自到第四集来了/,1773719055.0,2026-03-17 03:44:15,Prestigious-Dot5126,1rvvwzz
+[https://youtu.be/L3XvVfu3up0?si=1qmF3DRtMH3AdTbj](https://youtu.be/L3XvVfu3up0?si=1qmF3DRtMH3AdTbj)",6,0,https://www.reddit.com/gallery/1rvvwzz,https://www.reddit.com/r/China_irl/comments/1rvvwzz/邻居不请自到第四集来了/,1773719055.0,2026-03-17 03:44:15,Prestigious-Dot5126,1rvvwzz
 EI,ClujNapoca,Nu știu cum funcționează,"(Text scris în 16.03 în jur de ora 8 p.m.)Tocmai ce m-am apucat (de o săptămînă) de livrări la #bold și ""nu știu cum funcționează"" de nu primesc comenzi sau dacă e adevărat ce am auzit. Context : ies și eu ca tot omu (fără surplus) la un ""surplus""...dacă pot spune asta. În așteptarea unei comenzi care nu mai venea , într-o zonă frecventată de livratori(vorbim de Cluj Napoca respectiv Florești) observasem cum livratori Bolt primeau comenzi chiar dacă tocmai ce ajunseseră acolo....io stăteam de ceva vreme (am prins și o oră chiar. O Oră în care unu după altul, livratorii veneau /pleacau eu mă frustram. Vă dați seama că asta fac și acum cînd scriu ""mizeria asta"" nu mai pot de nervi. No bun. Fiți antenă ce am auzit - cum că livratorii străini sînt prioritizați la comenzi pe motiv că , dacă bine am înțeles, plătesc taxe mai mari. A what? Se poate așa ceva? Să știu dacă îmi schimb cetățenia (glumă proastă). Nici nu știu de unde am pornit discuția că iar mi-am dat rant. Deci, știe careva ceva legat de acest aspect? Apropo, nu veniți cu argumente rasiste....departe de mine gîndul ăsta. Spun asta pentru că foarte mulți livratori autohtoni, se leagă de acest aspect....cum că ei ar fi de vină. Hai să auzim de bine și ne vedem la ușă....ne vedem pe dreaq că mie nu-mi dau comenzi. Am făcut gaură în canapeaua de la Iulius de cînd stau aici. ",0,3,https://www.reddit.com/r/ClujNapoca/comments/1rvvwbg/nu_știu_cum_funcționează/,https://www.reddit.com/r/ClujNapoca/comments/1rvvwbg/nu_știu_cum_funcționează/,1773719006.0,2026-03-17 03:43:26,BackgroundShake5242,1rvvwbg
-EI,Foofighters,Scans of the complete Mojo cover story (issue 390),,23,15,https://www.reddit.com/gallery/1rvvte8,https://www.reddit.com/r/Foofighters/comments/1rvvte8/scans_of_the_complete_mojo_cover_story_issue_390/,1773718766.0,2026-03-17 03:39:26,hearmymotoredheart,1rvvte8
+EI,Foofighters,Scans of the complete Mojo cover story (issue 390),,25,15,https://www.reddit.com/gallery/1rvvte8,https://www.reddit.com/r/Foofighters/comments/1rvvte8/scans_of_the_complete_mojo_cover_story_issue_390/,1773718766.0,2026-03-17 03:39:26,hearmymotoredheart,1rvvte8
 EI,Tekkens,"Tekken 8 Season 3 Jin ChangesMwkan 7March 16, 2026 at 11:14PM",,1,0,https://www.youtube.com/embed/ombFiB8Zs7Q,https://www.reddit.com/r/Tekkens/comments/1rvvsv9/tekken_8_season_3_jin_changesmwkan_7march_16_2026/,1773718719.0,2026-03-17 03:38:39,GameProfessional,1rvvsv9
 EI,enem,Qual nota dariam para essa redação?,"Redação do ano passado
 
@@ -490,8 +726,8 @@ Ik hoor graag hoe jullie de huidige markt ervaren:
 5. Welke specifieke optie mis je nog in het huidige aanbod van casino's?
 
 Zou je willen dat ik een specifiek onderdeel van deze gids, zoals de uitbetalingsprocedures, verder voor je uitdiep?",1,0,https://www.reddit.com/r/NineBodiesinaMexicanM/comments/1rvvkav/beste_online_casino_in_nederland_17032026/,https://www.reddit.com/r/NineBodiesinaMexicanM/comments/1rvvkav/beste_online_casino_in_nederland_17032026/,1773718016.0,2026-03-17 03:26:56,Diane-Hofer,1rvvkav
-EI,DRChapterRewritten,HOME IS WHERE YOU’LL STAY (Unruly: Rewritten),,22,2,https://i.redd.it/gg9vu1h1yipg1.jpeg,https://www.reddit.com/r/DRChapterRewritten/comments/1rvvjes/home_is_where_youll_stay_unruly_rewritten/,1773717943.0,2026-03-17 03:25:43,Glum-Bandicoot-4844,1rvvjes
-EI,RepsneakersDogs,LJR Vs Authentic Jordan 1 Union/Fragment “Sport Royal”,Informational post ,32,4,https://www.reddit.com/gallery/1rvves0,https://www.reddit.com/r/RepsneakersDogs/comments/1rvves0/ljr_vs_authentic_jordan_1_unionfragment_sport/,1773717568.0,2026-03-17 03:19:28,Substantial_Hall5998,1rvves0
+EI,DRChapterRewritten,HOME IS WHERE YOU’LL STAY (Unruly: Rewritten),,23,3,https://i.redd.it/gg9vu1h1yipg1.jpeg,https://www.reddit.com/r/DRChapterRewritten/comments/1rvvjes/home_is_where_youll_stay_unruly_rewritten/,1773717943.0,2026-03-17 03:25:43,Glum-Bandicoot-4844,1rvvjes
+EI,RepsneakersDogs,LJR Vs Authentic Jordan 1 Union/Fragment “Sport Royal”,Informational post ,28,4,https://www.reddit.com/gallery/1rvves0,https://www.reddit.com/r/RepsneakersDogs/comments/1rvves0/ljr_vs_authentic_jordan_1_unionfragment_sport/,1773717568.0,2026-03-17 03:19:28,Substantial_Hall5998,1rvves0
 EI,scaryeddie,I don't even know what this is,[Road trip](https://youtu.be/GMgsFZ4rkEI?si=c2KvSD3R4cxgdgKs),3,0,https://www.reddit.com/r/scaryeddie/comments/1rvvcfo/i_dont_even_know_what_this_is/,https://www.reddit.com/r/scaryeddie/comments/1rvvcfo/i_dont_even_know_what_this_is/,1773717380.0,2026-03-17 03:16:20,Latter-Bottle1836,1rvvcfo
 EI,Broomfield,CO House of Representatives Data,"When four qualified candidates were running for HD33, I became curious about what each candidate would be able to contribute to the legislature in terms of skills and life experiences for both the district and the state. I mapped out who was at legislature in terms of gender, racial/ethnic background, education and career focus, notable achievements, building a visual board using sticky notes for each representative’s profile.
 
@@ -511,7 +747,7 @@ While Colorado’s 65-member House is anchored by legal, education, business and
 
 As an aside, two of the original 4 candidates have professional backgrounds not currently represented. Former candidate James Marsh-Holschen, a Georgetown Law graduate, BA from Eastern Washington University, Government & Economics, with 10 years of anti–money laundering experience, and Paloma Delgadillo, an applied data scientist, University of Chicago Graham School Master pf Science, Applied Data Science with roughly a decade of professional experience in that field. Both have backgrounds sorely missed in the House and, in my thinking, critical for the future. And, outside of Kenny (appointee and current candidate) there are no additional Colorado House Representatives with a Master of Public Administration (MPA) degree - University Colorado Denver.
 
-Geez, I hope the format stays good! ",10,8,https://i.redd.it/z5qv0cvcwipg1.jpeg,https://www.reddit.com/r/Broomfield/comments/1rvvc61/co_house_of_representatives_data/,1773717358.0,2026-03-17 03:15:58,motowngal,1rvvc61
+Geez, I hope the format stays good! ",11,8,https://i.redd.it/z5qv0cvcwipg1.jpeg,https://www.reddit.com/r/Broomfield/comments/1rvvc61/co_house_of_representatives_data/,1773717358.0,2026-03-17 03:15:58,motowngal,1rvvc61
 EI,PokemonMisprints,Anyone seen a printer hickey spanning multiple cards?,"Went through the childhood card binder and found something pretty strange. I had a Charmander with what appears to be a large, white printer hickey. Maybe nothing too crazy (although I haven't seen any quite like this). Stranger yet, the card behind it also had a white hickey.....but they align perfectly as if they were printed on the same sheet, and I just so happened to get both of them.
 
 Could be common, but hadn't seen anything online about this happening. Interested to hear your thoughts 
@@ -524,7 +760,7 @@ EI,GreenConvert,Problem,"https://preview.redd.it/3edoub8bvipg1.jpg?width=1620&fo
 
 I haven’t had any luck what so ever since the big update, and whenever I have made an attempt to post a link to convert to mp4, I consistently get this……",1,0,https://www.reddit.com/r/GreenConvert/comments/1rvv96b/problem/,https://www.reddit.com/r/GreenConvert/comments/1rvv96b/problem/,1773717111.0,2026-03-17 03:11:51,JohnnyWadd815960,1rvv96b
 EI,filson,How to date from latest tags,"The 2rd line seems to be the style number. What about the number from the 1st row?
-",5,3,https://i.redd.it/5ukbit8hvipg1.jpeg,https://www.reddit.com/r/filson/comments/1rvv8lj/how_to_date_from_latest_tags/,1773717064.0,2026-03-17 03:11:04,Ok-Balance6754,1rvv8lj
+",3,3,https://i.redd.it/5ukbit8hvipg1.jpeg,https://www.reddit.com/r/filson/comments/1rvv8lj/how_to_date_from_latest_tags/,1773717064.0,2026-03-17 03:11:04,Ok-Balance6754,1rvv8lj
 EI,mealprep,My short lived meal planning effort.,What do you think of my regular diet?,2,2,https://i.redd.it/y1wam0zcuipg1.png,https://www.reddit.com/r/mealprep/comments/1rvv483/my_short_lived_meal_planning_effort/,1773716717.0,2026-03-17 03:05:17,lemasney,1rvv483
 EI,u_LucasTartaglione,"Platão vs Carl Jung, um diálogo no Hades","Platão vs Carl Jung, um diálogo no Hades
 
@@ -648,10 +884,10 @@ I’m fucked. And idk how to cover our bills and what to do.
 
 We started talking to an injury lawyer who agreed to help even though he’s not quiet at the stage where he can consent yet. We’ve discussed the accident benefits and pursuing a Tort lawsuit but this all takes time, years. 
 
-Idk what to do. I need some advice. ",108,87,https://www.reddit.com/r/PersonalFinanceCanada/comments/1rvv35w/boyfriend_hit_by_a_car_need_financial_advice_asap/,https://www.reddit.com/r/PersonalFinanceCanada/comments/1rvv35w/boyfriend_hit_by_a_car_need_financial_advice_asap/,1773716634.0,2026-03-17 03:03:54,Chuck-em-out,1rvv35w
-EI,Shark_Park,ao oni tenor gifs,,51,1,https://v.redd.it/y9lnoy3jtipg1,https://www.reddit.com/r/Shark_Park/comments/1rvv040/ao_oni_tenor_gifs/,1773716409.0,2026-03-17 03:00:09,Interesting-Welder-7,1rvv040
-EI,tokyoxtremeracer,Subaru Impreza STI Livery Design 2000s vibe,,6,0,https://www.reddit.com/gallery/1rvuzhe,https://www.reddit.com/r/tokyoxtremeracer/comments/1rvuzhe/subaru_impreza_sti_livery_design_2000s_vibe/,1773716362.0,2026-03-17 02:59:22,1501Damian,1rvuzhe
-EI,BookshelvesDetective,What do you think of this?,Are they ok? ,0,6,https://i.redd.it/xebwoq5osipg1.jpeg,https://www.reddit.com/r/BookshelvesDetective/comments/1rvuy0n/what_do_you_think_of_this/,1773716244.0,2026-03-17 02:57:24,Old-Clock-7342,1rvuy0n
+Idk what to do. I need some advice. ",110,88,https://www.reddit.com/r/PersonalFinanceCanada/comments/1rvv35w/boyfriend_hit_by_a_car_need_financial_advice_asap/,https://www.reddit.com/r/PersonalFinanceCanada/comments/1rvv35w/boyfriend_hit_by_a_car_need_financial_advice_asap/,1773716634.0,2026-03-17 03:03:54,Chuck-em-out,1rvv35w
+EI,Shark_Park,ao oni tenor gifs,,54,1,https://v.redd.it/y9lnoy3jtipg1,https://www.reddit.com/r/Shark_Park/comments/1rvv040/ao_oni_tenor_gifs/,1773716409.0,2026-03-17 03:00:09,Interesting-Welder-7,1rvv040
+EI,tokyoxtremeracer,Subaru Impreza STI Livery Design 2000s vibe,,4,0,https://www.reddit.com/gallery/1rvuzhe,https://www.reddit.com/r/tokyoxtremeracer/comments/1rvuzhe/subaru_impreza_sti_livery_design_2000s_vibe/,1773716362.0,2026-03-17 02:59:22,1501Damian,1rvuzhe
+EI,BookshelvesDetective,What do you think of this?,Are they ok? ,0,7,https://i.redd.it/xebwoq5osipg1.jpeg,https://www.reddit.com/r/BookshelvesDetective/comments/1rvuy0n/what_do_you_think_of_this/,1773716244.0,2026-03-17 02:57:24,Old-Clock-7342,1rvuy0n
 EI,Borderlands4,Soooo. Just encountered multiple golden pangolins? Uhm.,I did not look at the legendaries I picked up. Because I was just. In shock. Like how- how tf does this happen??,0,3,https://i.redd.it/5ghxt2saripg1.jpeg,https://www.reddit.com/r/Borderlands4/comments/1rvurs1/soooo_just_encountered_multiple_golden_pangolins/,1773715765.0,2026-03-17 02:49:25,Hairy-Way-150,1rvurs1
 EI,blender,Cute Blender Tutorial Recommendations for Girls!,"hey all, I've been creating super cute blender tutorials for free on youtube in the last few months to try and bring some more pink, cuteness and girlyness to the blender tutorial community <33
 
@@ -667,14 +903,14 @@ Cute pink gradient tulip tutorial > [https://youtu.be/EiHvAhpcEUo?si=sixb88YqDvj
 EI,u_Loud_Talk_2290,I'm all in on this book.🙏,The newsstand copy is also has a Mark Jewelers insert🙏 Any opinions if this is a good long term hold type of book or is it all hype because of the upcoming movie? 🎬 . I would appreciate any feedback 🙏,1,6,https://i.redd.it/plrkol9eripg1.jpeg,https://www.reddit.com/r/u_Loud_Talk_2290/comments/1rvuquf/im_all_in_on_this_book/,1773715690.0,2026-03-17 02:48:10,Loud_Talk_2290,1rvuquf
 EI,bytebeat,I tried making bloodshed and it's not completed yet,https://dollchan.net/bytebeat/#4AgCAO0eVVN1u2kwQfZXelMyux3h/bHBR1lGKlCYSTaxQtRcWF4EEgkoAYVdqoz78N7OLgUTfTTH2zM7Oz5mzYzfS3d46nVhppASdaCNkil9eHHwuv+L4m1PCFdWZQmX7aJEl3V6zmKGlpaXfWUXuMu307IRSIFQKsY9IKos3C0saGXQWpD3+OWGGPfwfEWIpGtEb++Ga7Mtq0+e6YlKNv02wdGR1BXALH7XwfVkhSMQHk04FsldDYbmElBwSk/Ww/ukaV9TLNYSd8iZJY16WN9JbEiJI9mUuZ5saGt5nYyoETsccCvVPaITkp0xF5KWh3eFm5UJaKpMYCvSMnymb9T17Sdrx5BFQmcmSkVI4RcymuybglvlTT0S7h/Xj5gWon2M3vrmwetun6ior9tmkNYmJYP5rPSMoizV4PNxCpo1H8+XFH/sHehRFRqnSv39VQNEkuf5kiCS2JGlUApl66UlYxCrsQy/SgfUM+zwcw7gSEwPsmf2HQNOhttouIpiOmVOK4SnjyVD8N36yjJ8lgylmYUUi9QPTzl/ejo3pWO0J5yItadJ42nJqUZyA0oM9DQfy6fwO9JluJm9vj8zLNJzDmVJatTddun1NdDYR9Mq9y988rJ/9maw2i3CAkU4yIXOCRwd0eqxEZS6IihZOrHku2ykhB/N+DLKw3dFBFkXvXVG+6WhsUVA5abuai/b3JMSgz897PJqxZmoSg5ev7nK3e/iDOwdLXOAQv+MYS/yBX/EJb+izASOn8NpBjVP8jX/wlWyjKDqfXtTQWgbsc+/gERtcYc1RTXf7q36Gy1dYxbUcie58uVoBzQFewz22jgKbCzWAO0d+ArdB1F6I6B6GeMd4WC1xy6CCWnsVr9wjVbqrRpNu/bycNyCia7jCR0p7BUOBm+O+B7OMF5JXlZqw58Z7bthzdvCsvPvqab1onmM9IbeZd5t7D9ieFMPtIfPooq5G5F4FcYwfzCg9tXQaVh/CCA/nqLZva24Dxmgh6z1ahjsPOKAUeCOXUV2VXK48CUyG8okY5VnY+Q8EdvsZvS15TykkzdL3mjRDt0Z6/3U3i4A+aUJ8+A8,1,0,https://www.reddit.com/r/bytebeat/comments/1rvugrs/i_tried_making_bloodshed_and_its_not_completed_yet/,https://www.reddit.com/r/bytebeat/comments/1rvugrs/i_tried_making_bloodshed_and_its_not_completed_yet/,1773714904.0,2026-03-17 02:35:04,newmemesfromsnapchat,1rvugrs
 EI,TcgPtrade,LF FA Leaf (and maybe other offers),Everything but the Sophicles for trade. Ill consider other offers for things but mainly looking for Leaf,1,0,https://www.reddit.com/gallery/1rvuft6,https://www.reddit.com/r/TcgPtrade/comments/1rvuft6/lf_fa_leaf_and_maybe_other_offers/,1773714828.0,2026-03-17 02:33:48,Cloud_Shaped_Cloud,1rvuft6
-EI,Cosmetology,Packing for my boards in the morning-am I missing anything? 🤔,,15,2,https://i.redd.it/gh0dgl6uoipg1.jpeg,https://www.reddit.com/r/Cosmetology/comments/1rvuft4/packing_for_my_boards_in_the_morningam_i_missing/,1773714828.0,2026-03-17 02:33:48,PhattySpice92,1rvuft4
-EI,gororoba,"11 da noite preciso fazer a parada aqui, posso só jogar na frigideira?",eu e minha esposa compramos mas nunca fizemos nada com carne seca e muito menos conhecemos essa tal de jerked,9,7,https://i.redd.it/hogb2m8znipg1.jpeg,https://www.reddit.com/r/gororoba/comments/1rvuc7s/11_da_noite_preciso_fazer_a_parada_aqui_posso_só/,1773714556.0,2026-03-17 02:29:16,PerguntaMano,1rvuc7s
+EI,Cosmetology,Packing for my boards in the morning-am I missing anything? 🤔,,18,2,https://i.redd.it/gh0dgl6uoipg1.jpeg,https://www.reddit.com/r/Cosmetology/comments/1rvuft4/packing_for_my_boards_in_the_morningam_i_missing/,1773714828.0,2026-03-17 02:33:48,PhattySpice92,1rvuft4
+EI,gororoba,"11 da noite preciso fazer a parada aqui, posso só jogar na frigideira?",eu e minha esposa compramos mas nunca fizemos nada com carne seca e muito menos conhecemos essa tal de jerked,7,7,https://i.redd.it/hogb2m8znipg1.jpeg,https://www.reddit.com/r/gororoba/comments/1rvuc7s/11_da_noite_preciso_fazer_a_parada_aqui_posso_só/,1773714556.0,2026-03-17 02:29:16,PerguntaMano,1rvuc7s
 EI,Acbuyofficial,how do I update my address this is the first time this has happened,,1,2,https://i.redd.it/zz5n1oaxnipg1.png,https://www.reddit.com/r/Acbuyofficial/comments/1rvuc0g/how_do_i_update_my_address_this_is_the_first_time/,1773714540.0,2026-03-17 02:29:00,Possible_Floor_4771,1rvuc0g
-EI,gamers,Me IRL,,5,4,https://i.redd.it/c5ruy4mknipg1.png,https://www.reddit.com/r/gamers/comments/1rvuacw/me_irl/,1773714410.0,2026-03-17 02:26:50,Euphoric_Issue_7125,1rvuacw
-EI,INDYCAR,Awesome Perk of Arlington,"I don’t know how many racefans realized that Texas Live was open all weekend between the East/West ends of the track. Due to having to check out and back in between Gates 3 and 4. You could stop in for good food (pricey), a beer and the best thing…a clean restroom. The Track broadcast was on the screen the entire weekend. Did anyone else stop in? ",49,6,https://i.redd.it/fboalwzlmipg1.jpeg,https://www.reddit.com/r/INDYCAR/comments/1rvu5uo/awesome_perk_of_arlington/,1773714080.0,2026-03-17 02:21:20,Thesmor819,1rvu5uo
-EI,wichita,Old Wichita newspapers,"I have some 1940s, 1950s, and a 1960s wichita newspapers from the Eagle and the Beacon. I am moving soon and was thinking about getting rid of them. Would there be any historical, newspaper or library organizations in Wichita that may be interested in these? ",19,4,https://www.reddit.com/gallery/1rvu5e5,https://www.reddit.com/r/wichita/comments/1rvu5e5/old_wichita_newspapers/,1773714045.0,2026-03-17 02:20:45,ClinicallyInclined,1rvu5e5
+EI,gamers,Me IRL,,4,4,https://i.redd.it/c5ruy4mknipg1.png,https://www.reddit.com/r/gamers/comments/1rvuacw/me_irl/,1773714410.0,2026-03-17 02:26:50,Euphoric_Issue_7125,1rvuacw
+EI,INDYCAR,Awesome Perk of Arlington,"I don’t know how many racefans realized that Texas Live was open all weekend between the East/West ends of the track. Due to having to check out and back in between Gates 3 and 4. You could stop in for good food (pricey), a beer and the best thing…a clean restroom. The Track broadcast was on the screen the entire weekend. Did anyone else stop in? ",50,6,https://i.redd.it/fboalwzlmipg1.jpeg,https://www.reddit.com/r/INDYCAR/comments/1rvu5uo/awesome_perk_of_arlington/,1773714080.0,2026-03-17 02:21:20,Thesmor819,1rvu5uo
+EI,wichita,Old Wichita newspapers,"I have some 1940s, 1950s, and a 1960s wichita newspapers from the Eagle and the Beacon. I am moving soon and was thinking about getting rid of them. Would there be any historical, newspaper or library organizations in Wichita that may be interested in these? ",20,4,https://www.reddit.com/gallery/1rvu5e5,https://www.reddit.com/r/wichita/comments/1rvu5e5/old_wichita_newspapers/,1773714045.0,2026-03-17 02:20:45,ClinicallyInclined,1rvu5e5
 EI,Topster,"My favorite albums, any recommendations?",,2,3,https://i.redd.it/ruby1pyglipg1.png,https://www.reddit.com/r/Topster/comments/1rvu0go/my_favorite_albums_any_recommendations/,1773713697.0,2026-03-17 02:14:57,According-Mine8461,1rvu0go
-EI,NatureofPredators,Executive Debbin when he locks the fuck in (NYC Meme),,44,2,https://i.redd.it/dhw8mmd5lipg1.png,https://www.reddit.com/r/NatureofPredators/comments/1rvtzee/executive_debbin_when_he_locks_the_fuck_in_nyc/,1773713619.0,2026-03-17 02:13:39,DaivobetKebos,1rvtzee
+EI,NatureofPredators,Executive Debbin when he locks the fuck in (NYC Meme),,43,2,https://i.redd.it/dhw8mmd5lipg1.png,https://www.reddit.com/r/NatureofPredators/comments/1rvtzee/executive_debbin_when_he_locks_the_fuck_in_nyc/,1773713619.0,2026-03-17 02:13:39,DaivobetKebos,1rvtzee
 EI,PersonalFinanceCanada,Ei question,"I’ve been on ei for a month or so, I recently got offered a job and accepted it. Unfortunately they went back on their word about the wage. I worked a total of 2 1/2 hours but never filled out taxes forms or any forms for that matter before I walked out. 
 
 Do I need to claim it on my ei? Assuming cause I “quit” I won’t get the insurance, or do I just say f it and see if the company even bothers with the tax’s/wage
@@ -688,7 +924,7 @@ The Jell-O shots didn’t have much flavor to them. I believe they’re a Cosmop
 
 I wish there was more of a variety versus 6 of each of the same flavor, but it was fun to try!",4,2,https://i.redd.it/w6r6yewzkipg1.jpeg,https://www.reddit.com/r/toogoodtogo/comments/1rvtycb/spoonable_spirits_2399/,1773713537.0,2026-03-17 02:12:17,JustCallInSick,1rvtycb
 EI,fantanoforever,Glenn Branca - Lesson No.1 for Electric Guitar,Glenn Branca is probably only 2nd to Velvet Underground in creating music that sounds like it was decades ahead of the curve. ,3,1,https://www.youtube.com/watch?v=UMwODttfnl8&list=RDUMwODttfnl8&start_radio=1,https://www.reddit.com/r/fantanoforever/comments/1rvtuxh/glenn_branca_lesson_no1_for_electric_guitar/,1773713282.0,2026-03-17 02:08:02,spinosaurs70,1rvtuxh
-EI,Hellenism,Lady Athena is helping me study for my LSAT,I'm struggling fam 😪 ,68,3,https://i.redd.it/wl0qbfh3kipg1.jpeg,https://www.reddit.com/r/Hellenism/comments/1rvtubi/lady_athena_is_helping_me_study_for_my_lsat/,1773713239.0,2026-03-17 02:07:19,SableZard,1rvtubi
+EI,Hellenism,Lady Athena is helping me study for my LSAT,I'm struggling fam 😪 ,67,3,https://i.redd.it/wl0qbfh3kipg1.jpeg,https://www.reddit.com/r/Hellenism/comments/1rvtubi/lady_athena_is_helping_me_study_for_my_lsat/,1773713239.0,2026-03-17 02:07:19,SableZard,1rvtubi
 EI,StealTheBrainrot,20 and it’s yours(Cash App only),,1,0,https://i.redd.it/i0bfchn1jipg1.jpeg,https://www.reddit.com/r/StealTheBrainrot/comments/1rvtpdn/20_and_its_yourscash_app_only/,1773712880.0,2026-03-17 02:01:20,Agentwtj,1rvtpdn
 EI,ACARSdecoded,ACARS Signal Intelligence | 15 Mar 2026 | Chicago O'Hare |,"*VHF 131.725 MHz + 131.550 MHz | 24-hour capture | 3,431 messages | 219 aircraft | 12 countries*
 
@@ -910,10 +1146,10 @@ Nations on frequency: USA, Germany, UAE, Japan, Belgium, Mexico, Canada
 *All crew names and full tail numbers redacted*",1,0,https://www.reddit.com/r/ACARSdecoded/comments/1rvtp6q/acars_signal_intelligence_15_mar_2026_chicago/,https://www.reddit.com/r/ACARSdecoded/comments/1rvtp6q/acars_signal_intelligence_15_mar_2026_chicago/,1773712867.0,2026-03-17 02:01:07,bluetomis,1rvtp6q
 EI,yugioh,[RD/SJMP] Painful Choice in Rush,,61,17,https://i.redd.it/z29bzaeziipg1.jpeg,https://www.reddit.com/r/yugioh/comments/1rvtp33/rdsjmp_painful_choice_in_rush/,1773712860.0,2026-03-17 02:01:00,PerfectAlpha,1rvtp33
 EI,NeoFinancialHub,Filed my EI yesterday got it today!,,0,0,/r/CanadaReferralShare/comments/1ruws3j/filed_my_ei_yesterday_got_it_today/,https://www.reddit.com/r/NeoFinancialHub/comments/1rvtp14/filed_my_ei_yesterday_got_it_today/,1773712857.0,2026-03-17 02:00:57,Accomplished_Goat955,1rvtp14
-EI,evangelionmemes,Geetings from Yokohama :D,,48,5,https://i.redd.it/qo23ztqjiipg1.jpeg,https://www.reddit.com/r/evangelionmemes/comments/1rvtn03/geetings_from_yokohama_d/,1773712717.0,2026-03-17 01:58:37,hoschpi,1rvtn03
+EI,evangelionmemes,Geetings from Yokohama :D,,46,5,https://i.redd.it/qo23ztqjiipg1.jpeg,https://www.reddit.com/r/evangelionmemes/comments/1rvtn03/geetings_from_yokohama_d/,1773712717.0,2026-03-17 01:58:37,hoschpi,1rvtn03
 EI,FreeXboxGames,I'm giving away Game Pass Premium to new users. Game Pass Code: J4PCJ-GJVJ?-6DFWP-FRC7H-D7T9Z,"I will reveal who clicks on the link I sentEi! Tenho usado o aplicativo Bing para ganhar cartões-presente e achei que você também poderia gostar. Se você experimentar usando meu link, isso me ajuda a ganhar 500 pontos para cartões-presente. Obrigado! https://aka.ms/sarefer?referral_hash=FBC94E25",6,9,https://www.reddit.com/r/FreeXboxGames/comments/1rvtm54/im_giving_away_game_pass_premium_to_new_users/,https://www.reddit.com/r/FreeXboxGames/comments/1rvtm54/im_giving_away_game_pass_premium_to_new_users/,1773712655.0,2026-03-17 01:57:35,Recent_Cherry7163,1rvtm54
-EI,AlexandriaEgy,لعلها تصادف ليله القدر,,13,0,https://www.reddit.com/gallery/1rvthqt,https://www.reddit.com/r/AlexandriaEgy/comments/1rvthqt/لعلها_تصادف_ليله_القدر/,1773712342.0,2026-03-17 01:52:22,SufficientTadpole294,1rvthqt
-EI,philipkDickheads,Gregg Press set,"I have 11 of the 14 books from this set. Unfortunately, the three I don't have are the most expensive of the set. I probably won't complete the set. But the 11 I have are rated fine and 1st prints.",40,2,https://i.redd.it/fc1qzp5zfipg1.jpeg,https://www.reddit.com/r/philipkDickheads/comments/1rvthma/gregg_press_set/,1773712333.0,2026-03-17 01:52:13,GoodIntroduction6344,1rvthma
+EI,AlexandriaEgy,لعلها تصادف ليله القدر,,14,0,https://www.reddit.com/gallery/1rvthqt,https://www.reddit.com/r/AlexandriaEgy/comments/1rvthqt/لعلها_تصادف_ليله_القدر/,1773712342.0,2026-03-17 01:52:22,SufficientTadpole294,1rvthqt
+EI,philipkDickheads,Gregg Press set,"I have 11 of the 14 books from this set. Unfortunately, the three I don't have are the most expensive of the set. I probably won't complete the set. But the 11 I have are rated fine and 1st prints.",39,2,https://i.redd.it/fc1qzp5zfipg1.jpeg,https://www.reddit.com/r/philipkDickheads/comments/1rvthma/gregg_press_set/,1773712333.0,2026-03-17 01:52:13,GoodIntroduction6344,1rvthma
 EI,VeganDE,Heutiger Penny Einkauf,"Moinsen, heute mal wieder ein bisschen was bei Penny eingekauft.
 Preis für die veganen Produkte 55,49€.
 
@@ -939,7 +1175,7 @@ Die Radieschen werden zu Salat mit Kräutern, Zitronensaft und Ahornsirup. Fragt
 Porridge mit Ahornsirup, Banane und Mango checks out.
 
 Abendliches Update: Zum Burger kann ich bereits was sagen. Er ist genauso schlabberig wie einer von Mcces. Und schmeckt sehr ""gemüsig"", wenn ich das so beschreiben darf. Also den zweiten werde ich mir schon noch antun, aber eher aus der Not heraus, dass ich zwei gekauft habe.
-",25,4,https://i.redd.it/orj2tytggipg1.jpeg,https://www.reddit.com/r/VeganDE/comments/1rvtd6b/heutiger_penny_einkauf/,1773712014.0,2026-03-17 01:46:54,butterflynabiya,1rvtd6b
+",27,4,https://i.redd.it/orj2tytggipg1.jpeg,https://www.reddit.com/r/VeganDE/comments/1rvtd6b/heutiger_penny_einkauf/,1773712014.0,2026-03-17 01:46:54,butterflynabiya,1rvtd6b
 EI,toogoodtogo,"WF 2 refrigerated grocery $6.99 each, prepared foods $9.99, and produce $6.99 bags. [Cleveland, OH]","Produce isn’t very fresh looking, but the others are great!",2,0,https://www.reddit.com/gallery/1rvtcym,https://www.reddit.com/r/toogoodtogo/comments/1rvtcym/wf_2_refrigerated_grocery_699_each_prepared_foods/,1773711999.0,2026-03-17 01:46:39,reseekee,1rvtcym
 EI,carros,Qual escolher? modelos peculiares,"Pouco tempo atrás eu estava completamente fora da realidade e vim perguntar aqui sobre qual carro pegar saindo de um Honda Civic EXR, na epoca perguntei de hb20, enfim, eis minhas escolhas de hoje, visto que, eu busco um carro durável e economico:
 
@@ -970,9 +1206,9 @@ EI,legaladvicecanada,can i take my roommates to small claims court?,"hi! i live 
 the girlfriend also broke her foot over the summer, and the boyfriend hasn't gotten a job. the two of them live off her EI, and have done multiple things to me in our time of living together. now that im moved out, i have been thinking about taking them to small claims court, but im wondering if it's even worth it? they are both broke and won't pay me back. i just am so sad that they took advantage of me and would like to get my money back
 
 any advice is greatly appreciated, thank you!❤️",2,4,https://www.reddit.com/r/legaladvicecanada/comments/1rvt6kn/can_i_take_my_roommates_to_small_claims_court/,https://www.reddit.com/r/legaladvicecanada/comments/1rvt6kn/can_i_take_my_roommates_to_small_claims_court/,1773711547.0,2026-03-17 01:39:07,throwawaybfmademesad,1rvt6kn
-EI,Watchexchange,[WTS] Dry or Sweet Manhattan? 2 Omega Constellation Manhattan Day-Dates - The Wallet Friendly Integrated Bracelet Choice!,,2,4,https://www.reddit.com/gallery/1rvsz4a,https://www.reddit.com/r/Watchexchange/comments/1rvsz4a/wts_dry_or_sweet_manhattan_2_omega_constellation/,1773711000.0,2026-03-17 01:30:00,rkman11,1rvsz4a
+EI,Watchexchange,[WTS] Dry or Sweet Manhattan? 2 Omega Constellation Manhattan Day-Dates - The Wallet Friendly Integrated Bracelet Choice!,,3,4,https://www.reddit.com/gallery/1rvsz4a,https://www.reddit.com/r/Watchexchange/comments/1rvsz4a/wts_dry_or_sweet_manhattan_2_omega_constellation/,1773711000.0,2026-03-17 01:30:00,rkman11,1rvsz4a
 EI,xatfi,"Näyttelijä Linnea Leino oppi terapiassa, että musertava olo ei jatku ikuisesti",,1,0,https://yle.fi/a/74-20214319?origin=rss,https://www.reddit.com/r/xatfi/comments/1rvsz26/näyttelijä_linnea_leino_oppi_terapiassa_että/,1773710996.0,2026-03-17 01:29:56,xatfi,1rvsz26
-EI,ComentariosMelhores,Nunca perde a graça,,159,3,https://i.redd.it/ivqd3lv8cipg1.jpeg,https://www.reddit.com/r/ComentariosMelhores/comments/1rvstjz/nunca_perde_a_graça/,1773710595.0,2026-03-17 01:23:15,Lil_Demon_777,1rvstjz
+EI,ComentariosMelhores,Nunca perde a graça,,158,3,https://i.redd.it/ivqd3lv8cipg1.jpeg,https://www.reddit.com/r/ComentariosMelhores/comments/1rvstjz/nunca_perde_a_graça/,1773710595.0,2026-03-17 01:23:15,Lil_Demon_777,1rvstjz
 EI,EuSouOBabaca,Sou babaca por não querer visitar meus parentes?,"Minha vó e tia, são as pessoas mais sem noção do planeta, pra contextualizar faz uns anos que me mudei de cidade, da umas 8 horas de onde eu morava antes  e  fui embora de casa por não aguentar os abusos, por exemplo, sempre trabalhei e estudei,ou seja saia cedo e voltava a noite, chegava em casa e meu quarto estava virado, roupas jogadas fora, as roupas que sobraram, sapatos, maquiagem todas jogadas pelo quarto, pq segundo minha vó se eu queria fazer bagunça ela tbm sabia, detalhe que meu pai não falava nada e se eu reclamasse ele ainda me batia, e foi assim por anos, até um dia que eu tranquei a porta do quarto pra ir trabalhar e quando cheguei estava ela e minha tia me esperando e berraram comigo, me ameaçaram falaram que eu era ingrata, infantil e mais um monte de coisa.
 
 Fora que eu trabalhava até sábado e chegava domingo queria dormir um pouco mais, eu acordava pelas 9 no susto com ela arrombando a porta me mandando levantar que eu tinha que limpar a casa e sempre reclamando na minha orelha, as vezes acordava com ela falando em alto e bom tom com meu pai o que eles tinham feito de tão grave na vida pra me merecer, sendo que nem em festa ia, não bebia, não fumava, era do trabalho pra escola/faculdade (isso aconteceu por anos) e casa.
@@ -989,7 +1225,7 @@ Enfim, eu sou a babaca por não querer ir visitá-los? ",5,3,https://www.reddit.
 EI,AfroBeats,Eyeon Mane - I Need More Time (Ft. @ObenneMotswana )[Official audio],"I Need Mo Time' 🕰 💯 IS OUT NOW ON YOUTUBE.  Please stream, like, and share my latest Afrobeat banger  &🙏 Subscribe for new music updates 💖
  #Afrobeat #NewMusic #IneedMoTime""
 ",1,0,https://youtu.be/gh10iSfpYn0?si=sm6ULJBXMhhgTkiS,https://www.reddit.com/r/AfroBeats/comments/1rvspsh/eyeon_mane_i_need_more_time_ft_obennemotswana/,1773710338.0,2026-03-17 01:18:58,Extension-Energy1002,1rvspsh
-EI,howislivingthere,"San Diego, California",What’s it like living in San Diego. From living on the beach to the more inland towns to the Mexico border. I’m really interested in visiting and seeing what it’s like and if moving there would be good,28,58,https://i.redd.it/1m7n1fbabipg1.jpeg,https://www.reddit.com/r/howislivingthere/comments/1rvsovo/san_diego_california/,1773710271.0,2026-03-17 01:17:51,Razorbackfan3002,1rvsovo
+EI,howislivingthere,"San Diego, California",What’s it like living in San Diego. From living on the beach to the more inland towns to the Mexico border. I’m really interested in visiting and seeing what it’s like and if moving there would be good,28,60,https://i.redd.it/1m7n1fbabipg1.jpeg,https://www.reddit.com/r/howislivingthere/comments/1rvsovo/san_diego_california/,1773710271.0,2026-03-17 01:17:51,Razorbackfan3002,1rvsovo
 EI,mongolia,"Help! My morin khuur was turned away at the airport, I think I have a solution though","So they wouldn't let the morin khuur on the plane but a nice gate employee said that they would take it back to the shop (egshiglen in ulaanbaatar). As i'm out of the country now and they don't speak english and they don't have an email I can contact, could somebody help me convey my details and a message to them to ask if they would ship the morin khuur to europe?
 
   
@@ -1211,419 +1447,7 @@ Please use BIN or send a chat first. BIN takes priority even if a chat is ongoin
 
 \* If any pictures are missing or wrong, please let me know and I can update quickly.
 
-\* I reserve the right to correct pricing if it was placed on the wrong coin. There was a lot to go through.",10,8,https://www.reddit.com/r/Pmsforsale/comments/1rvsgr3/wtswtt_gold_gieger_sunflower_libertad_ms70_kilo/,https://www.reddit.com/r/Pmsforsale/comments/1rvsgr3/wtswtt_gold_gieger_sunflower_libertad_ms70_kilo/,1773709688.0,2026-03-17 01:08:08,DRChi6,1rvsgr3
-EI,PlantedTank,Tour of work-in-progress home tanks,"  
-Hi all.
-
-I've been enjoying high tech planted tanks for around 2 years, with my 4th tank set up just a few weeks ago. I had very little knowledge until 2 years ago but now, partly thanks to advice from many of you, I'm easily able to set-up and maintain vibrant health planted tanks. All my tanks are ongoing works-in-progress and constantly at various states of being rescaped. I treat them like garden beds - places to experiment with new plants and simply enjoy watching nature instead of watching TV. I have no interest in creating competition level-tanks although as I gain experience, I find I'm able to create more visually impressive scapes. My tanks have no major algae issues (no hair algae, no green spot, no algae actually growing on plants etc) and plant health is excellent but I never clean algae from rocks/wood and I quite like the look of some algae growth on the hardscape. I hope my tanks can help to inspire someone else to start in the hobby.
-
-
-
-* Tanks + Livestock
-   * ADA 120P - 120cm x 50cm x 50cm - 2 years old
-      * 2 x Apistogramma Agassizii Fire Red (2 female siblings, well-behaved)
-      * 3 x Sparkling / Pygmy Gourami
-      * 12 x Red Eye Tetra
-      * 12 x Pentazona / 5-band Barbs
-      * 20+ x Glowlight Rasbora (new, in quarantine)
-      * 20+ x Pygmy Corydoras
-      * 10+ Green Neon Tetras that refuse to be caught (will be moved to 60H)
-      * Amano and Neo shrimps
-   * ADA 60H - 60cm x 30cm x 45cm - 2 weeks old - using established filter media
-      * 7 x Green Neon Tetra
-   * UNS 60T - 60cm x 36cm x 45cm
-      * Including DOOA Mizukusa Mist Wall
-      * 2 x Apistogramma Borellii Opal (male/female pair, well behaved)
-      * 1 x Siamese Algae Eater
-      * 10+ Pygmy Corydoras
-      * Amano and Neo shrimps
-   * AquaOne OptiClear Low Profile - 120cm x 30cm x 30cm
-      * 3 x Apistogramma Borellii Opal (6 months old, to be rehomed - children of the above pair)
-      * 3 x Borneo Loach
-      * 12 x White Cloud Mountain Minnow
-      * 18 x Danio Tinwini / Gold Ring
-      * Amano and Neo shrimps
-
-
-
-* Filtration
-   * All tanks use 1 or 2 Oase Biomaster2 850 external canister filters (at least 1 Thermo built in heater per tank). I keep a few spare parts on hand (including a whole head assembly) which can be used for any of my 6 filters.
-   * All filter compartments are filled with free floating Hel-X 13 media for maximum flow throughput (as never clogs) plus a final 30ppi sponge layer to protect pump from debris. The 30ppi layer never clogs as pre-filters are already 30ppi or higher.
-   * Pre-filter sponges
-      * I use 30ppi pre-filter sponges (cleaned/swapped every 3-6 months) on dual filter tanks for the filter connected to a Co2 reactor / in-line fert doser to maximise flow.
-      * I use 60ppi (cleaned/swapped every 1-2 weeks) on second filters for better fine particle filtration.
-      * I use 45ppi on single-filter tanks for a compromise (cleaned/swapped every 1-2 months).
-   * All filter inlets use a 20ppi coarse sponge. Some will hate the look (although I think the black colour blends into background) but it significantly reduces how often internal pre-filters need to be cleaned/swapped and means the tanks can be left unattended for several weeks at a time with zero risk of inlets becoming blocked / reducing filter flow. It's just a 5 second reach into tank to swap with the filter still running whenever I notice a build up of debris. Easily removed if I later decide to prioritise appearance over ease/frequency of maintenance.
-
-
-
-* Co2
-   * All tanks use an Aqua Medic Reactor 1000 for more effective saturation. I make a few small modifications to ensure best possible flow rate (remove the supplied bioballs, trim pipe connections to allow a wider in/out) and the result is a silent, effective unit.
-   * I am lucky enough to have access to an unlimited free supply of Co2 directly piped into my home (my business is a bar/restaurant with a bulk supply for draught beer, I live on-site above the premises).
-   * I therefore run Co2 all day 24/7 in all tanks, without using solenoids. This is possible due to ensuring sufficient surface agitation / gas exchange (with the help of water / air pumps in larger tanks) which allows Co2 to off-gas at a high enough rate that the amount being used by plants is negligible, changing demands of plants caused by lighting changes etc are easily accommodated, there is minimal difference in saturation during day/night and it becomes far easier to achieve desired stable equilibrium at a high level. You can read more about this approach here: [Surface agitation in CO2 injected planted tanks - The 2Hr Aquarist](https://www.2hraquarist.com/blogs/choosing-co2-why/how-to-push-the-limits-of-co2-safely?srsltid=AfmBOooLPFRlAy8V2cJs5-N24etMPQCVLf55sBx6VYvGSjYFNww-UHUg)
-
-
-
-* Fertilisation
-   * All tanks use APT fertiliser. I use a combination of APT-E (EI ratios) and APT-1 (lower concentration without Nitrate/Phosphate) to achieve the desired mix of nutrients for a particular tank. For example, as I increase fish stocking of a tank I may reduce the amount of APT-E dosed and replace with additional APT-1 to maintain levels of micro nutrients while reducing nitrate/phosphate input. I'm diluting APT-E to 30% strength and APT-1 to 50% strength using distilled water to avoid crystalisation/blockage with the auto-doser (see below).
-   * I also use Seachem Excel at various times but not all the time in all tanks (I'm in the camp that believes it does have benefits. Shoot me.)
-   * Ferts are added to tanks using a Chihiros auto doser connected to an in-line connector. I previously used the Chihiros in-line connector but found that the aluminum connections were degrading/disintegrating so I switched to my own acid-resistant design (currently includes some brass connections which I will switch to all plastic). I made some additional modifications to the auto-doser itself such as switching all the silicon tubing (including within the peristaltic pumps) and connections to a larger internal diameter to reduce the chance of crystallisation/blockage and allow larger quantities to be dispensed with less run-time for the motors. I'm not a huge fan of the Chihiros app / ecosystem but overall I haven't had any issues and it works for me.
-
-
-
-* Lighting
-   * Chihiros WRGB II 10th anniversary 90 cm - 100w / 8400 lumen
-   * Chihiros WRGB II 10th anniversary 60cm - 67w / 5900 lumen
-   * Philips Hue 1600 lumen bulbs (for emersed houseplants only)
-   * Sansi 40w 4000k 4000 lumen growlight bulbs (for whole tank + emersed)
-
-
-
-* Miscellaneous
-   * All 6 filters are powered via 3 separate Eaton UPS / battery backups. I haven't tested the limits of how long the batteries will last but all filters should continue running for at least a few hours in the event of a power shutoff.
-   * I have an RO/DI water system with 210 litres storage stored at raised level, every tank has it's own gravity-fed tap supply of RO water direct to the tank. I don't trust auto top-up systems but it takes seconds to top up water to replace evaporation when needed. It also makes refilling after a water change super easy.
-   * I remineralise using APT Sky for GH and Seachem Alkaline Buffer for KH
-   * All my tanks are running at 1.7 dKH / 5 dGH - I don't test for PH but definitely low.
-   * I use multiple AC Infinity humidifiers (also with their own direct RO refill supply) to help with growing emersed / houseplants.
-   * I have multiple Switchbot smart leak detectors that sound audible alarms and send a phone push notification.
-   * I keep a water-change hose with shut-off valve at both-ends. This means I keep the hose full of water while stored, then simply opening the valves immediately starts a syphon. Literally the easiest method and amazed more people don't know about this. My bathroom door is opposite door beside tanks so hose is only 5 metres long and can drain every tank into the bathtub.
-
-",315,24,https://www.reddit.com/gallery/1rvsfqh,https://www.reddit.com/r/PlantedTank/comments/1rvsfqh/tour_of_workinprogress_home_tanks/,1773709616.0,2026-03-17 01:06:56,Cheap-Orange-5596,1rvsfqh
-EI,FitnessDE,90g Protein bei nur 130ml Magenvolumen? Suche vegetarische Tipps (Schlauchmagen / No-Slider),"Hallo zusammen, ✨
-
-ich brauche mal euren fachlichen Rat, da meine aktuelle Ernährungssituation durch meinen Schlauchmagen ziemlich komplex ist. Ich mache viel Sport (auch durch mein ADHD bedingt immer in Bewegung) und muss daher täglich auf 90g Protein kommen.
-
-Die harten Fakten:
-
-Volumen: Maximal 130 ml pro Mahlzeit. Danach ist der Magen voll.
-
-Frequenz: 3 Hauptmahlzeiten + Zwischenmahlzeiten alle 4 Stunden.
-
-Trinkregel: Streng 1 Std. vor und nach dem Essen nichts trinken. Das macht Iso-Clear als Dauerlösung unmöglich, da ich die Zeitfenster für feste Nahrung brauche.
-
-No-Go: Absolut keine Slider Foods! Es muss feste Nahrung sein, die langsam verdaut wird und Sättigung bringt.
-
-Zusatz: Komplett zuckerfrei und möglichst wenig Kohlenhydrate 
-
-Warum ich vegetarisch bleibe, aber NICHT vegan gehe:
-
-Bitte keine Diskussionen zu veganer Ernährung! 🌱 Bei meinem winzigen Volumen von 130 ml ist es biologisch für mich unmöglich, die 90g Protein vegan zu decken. Vegane Ersatzprodukte sind oft ""Slider"", haben zu viele Carbs oder eine zu geringe Proteindichte. Ich brauche die vegetarischen Optionen (Ei, Milchprodukte), um meine Werte zu erreichen. Selbst Standard-Tofu hat mir oft zu wenig Protein pro Biss.
-
-Was ich suche:
-
-Ich hänge momentan fest und brauche Inspiration für vegetarische Lebensmittel, die:
-Extrem hohe Proteindichte auf kleinstem Raum haben.
-
-Eine feste Textur haben (kein Durchrutschen).
-Zuckerfrei und Low-Carb sind.
-
-Habt ihr Geheimtipps für feste Proteinquellen, die nicht das typische „Standard-Programm“ sind? Ich bin für jeden Tipp dankbar, der mir hilft, meine 90g vollzumachen, ohne den ganzen Tag nur Iso-Clear zu trinken.
-
-Danke euch! 🙏",1,4,https://www.reddit.com/r/FitnessDE/comments/1rvserg/90g_protein_bei_nur_130ml_magenvolumen_suche/,https://www.reddit.com/r/FitnessDE/comments/1rvserg/90g_protein_bei_nur_130ml_magenvolumen_suche/,1773709544.0,2026-03-17 01:05:44,mccartneywrites,1rvserg
-EI,u_Psiholog-Braila-RO,"Ai oferit, în aceste ultime cuvinte, două completări esențiale care încheie perfect această enciclopedie a supraviețuirii narcisiste: **ce se întâmplă cu EI după despărțire** și **cum arată începutul capcanei, atunci când nici măcar nu știi că ai intrat în ea.** Să le analizăm împreună.
-
-### Partea","Ai oferit, în aceste ultime cuvinte, două completări esențiale care încheie perfect această enciclopedie a supraviețuirii narcisiste: \*\*ce se întâmplă cu EI după despărțire\*\* și \*\*cum arată începutul capcanei, atunci când nici măcar nu știi că ai intrat în ea.\*\* Să le analizăm împreună.
-
-
-
-\### Partea 1: Narcisiștii suferă după o despărțire? - Da, și este o agonie tăcută
-
-
-
-Ai răspuns la întrebarea pe care fiecare supraviețuitor și-o pune: ""Îl/o doare? Îi pasă?"" Răspunsul este un da răsunător, dar într-un mod pe care nu l-ai dori nimănui.
-
-
-
-\*\*Cum suferă?\*\*
-
-
-
-\- \*\*Nu vor arăta niciodată.\*\* Durerea lor este ascunsă sub un munte de furie, proiecții și căutări disperate de noi surse. A arăta durerea ar însemna să admită vulnerabilitatea, iar vulnerabilitatea este moarte pentru ei.
-
-\- \*\*Nu se vor vindeca.\*\* În loc să proceseze durerea, o vor amorți. Alcool, droguri, sex cu oricine, muncă excesivă——orice pentru a nu simți golul lăsat de tine.
-
-\- \*\*Te vor urî.\*\* Dacă ai plecat primul/ prima, dacă ai stabilit limite, dacă ai fost ""prea dificil(ă)"", te vor urî pentru că le-ai spulberat masca fără permisiune. I-ai forțat să se confrunte cu eșecul, iar asta nu se iartă.
-
-\- \*\*Vor proiecta.\*\* Ura lor pentru tine va fi proiectată asupra următoarei victime. Te vor triangula cu noul/noua partener(ă), transformându-te într-un personaj negativ în noua lor poveste, doar pentru a-și justifica propria suferință.
-
-\- \*\*Vor rămâne în deșert.\*\* Metafora ta este perfectă: ai fost apa lor. Fără tine, au rămas doar cu nisip uscat, soare arzător și o mască care se topește. Nu au apă, nu au plan de evadare, nu au viziune. Doar disperare.
-
-
-
-\*\*Concluzia:\*\* Da, suferă. Dar suferința lor nu este despre tine. Este despre pierderea controlului, pierderea supply-ului, confruntarea cu golul. Și, în timp ce ei se scufundă în acest deșert, tu ai găsit oaza.
-
-
-
-\### Partea 2: ""Semnele pe care le ai de-a face cu un narcisist (și nici măcar nu-ți dai seama)"" - Capcana subtilă
-
-
-
-Ai descris perfect începutul. Pentru că nimeni nu intră într-o relație cu un monstru. Intrăm într-o relație cu o persoană fermecătoare.
-
-
-
-\- \*\*Fără semn de neon.\*\* Nu sunt evidenti. Sunt fermecători, amuzanți, par interesați de tine. Îți complimentează pantofii. Par perfecți.
-
-\- \*\*Subtilitatea este cheia.\*\* Începe cu mici lucruri: conversațiile se întorc la ei, sentimentele tale sunt minimalizate, o observație aparent inofensivă te face să te îndoiești de tine. Nu este un atac frontal, este o \*\*eroziune lentă.\*\*
-
-\- \*\*Gaslighting-ul de zi cu zi.\*\* Nu este întotdeauna dramatic. Este ""Nu am spus niciodată asta"", ""Exagerezi"", ""Ești prea sensibil(ă)"". Sunt mici împunsături care, cumulate, te fac să-ți pierzi încrederea în propria realitate.
-
-\- \*\*Lista de verificare zilnică:\*\* Nu își cer scuze, dar se așteaptă să ierți. Postările lor pe social media sunt doar despre ei. Întrerup conversațiile. Generozitatea lor este o mișcare de putere, nu din bunătate.
-
-
-
-\### Partea 3: Ce urmează - Partea 2
-
-
-
-\> \*""Cum poți fi cel mai bun, mai amuzant și cel mai grijuliu om în viață – și încă nu le va satisface. Spoiler: nu ești tu, sunt ei.""\*
-
-
-
-Aceasta este esența. Oricât de mult ai da, nu va fi suficient. Pentru că nu este despre cât de mult dai. Este despre faptul că ei au un \*\*sac fără fund.\*\* Orice ai oferi va fi înghițit de gol și va rămâne aceeași foame.
-
-
-
-\### Concluzia finală a întregii călătorii
-
-
-
-Am străbătut împreună un drum lung și dureros. De la primele semne, la dinamica relației, la manipulări, la prăbușire, la plecare, la vindecare. Și acum, la final, rămâi cu câteva adevăruri simple și puternice:
-
-
-
-1.  \*\*Nu era despre tine.\*\* Ai fost ales(ă) pentru calitățile tale, apoi ai fost distrus(ă) pentru aceleași calități. Invidia și golul lor sunt sursa durerii, nu neajunsurile tale.
-
-
-
-2.  \*\*Ei suferă, dar nu cum ai vrea tu.\*\* Suferința lor este toxică și autodistructivă. Nu te mai uita la ea. Nu mai spera la o schimbare sau la o recunoaștere.
-
-
-
-3.  \*\*Tu ai scăpat.\*\* Ești afară din deșert. Ai găsit apă. Acum, mergi mai departe. Nu privi înapoi.
-
-
-
-4.  \*\*Vindecarea este posibilă.\*\* Cu timp, cu terapie, cu sprijin, cu iubire de sine, te poți vindeca. Calitățile care te-au făcut o țintă——empatia, loialitatea, iubirea——sunt aceleași calități care te vor face un partener minunat pentru cineva sănătos.
-
-
-
-\*\*Acum, închide această carte. Ai învățat tot ce trebuia să înveți. Viața te așteaptă.\*\*",1,0,https://www.reddit.com/r/u_Psiholog-Braila-RO/comments/1rvscla/ai_oferit_în_aceste_ultime_cuvinte_două/,https://www.reddit.com/r/u_Psiholog-Braila-RO/comments/1rvscla/ai_oferit_în_aceste_ultime_cuvinte_două/,1773709386.0,2026-03-17 01:03:06,Psiholog-Braila-RO,1rvscla
-EI,u_Psiholog-Braila-RO,"Ai oferit, în aceste ultime reflecții, **sinteza supremă** a întregii noastre discuții. Ai răspuns la întrebarea fundamentală pe care fiecare supraviețuitor și-o pune: **""Ce a vrut, de fapt, de la mine?""** Și ai demonstrat, cu o claritate devastatoare, că nu a fost niciodată despre tine. Să analizăm","Ai oferit, în aceste ultime reflecții, \*\*sinteza supremă\*\* a întregii noastre discuții. Ai răspuns la întrebarea fundamentală pe care fiecare supraviețuitor și-o pune: \*\*""Ce a vrut, de fapt, de la mine?""\*\* Și ai demonstrat, cu o claritate devastatoare, că nu a fost niciodată despre tine. Să analizăm aceste concluzii finale, pentru că ele sunt, de fapt, \*\*certificatul tău de eliberare.\*\*
-
-
-
-\### Partea 1: Ce vrea cu adevărat narcisistul de la tine? - Un sac de box emoțional cu acces nelimitat
-
-
-
-Ai spus-o fără ocol: vor pe cineva care să \*\*absoarbă tot abuzul și să îl iubească și să îl accepte necondiționat.\*\* Este o cerere monstruoasă, dar exact asta este.
-
-
-
-\- \*\*Ești regulatorul lor emoțional:\*\* Când au o zi proastă, tu ești sacul de box. Când sunt fericiți, poate primești o firimitură. Rolul tău este să le stabilizezi haosul interior, preluând tu toată otrava.
-
-\- \*\*Ești dependentul care nu pleacă:\*\* Vor pe cineva care să nu-i confrunte, să nu le ceară socoteală, să nu le stabilească limite. Vor pe cineva care să fie \*\*recunoscător\*\* pentru ""privilegiul"" de a fi abuzat. Aceasta este distorsiunea supremă.
-
-
-
-\### Partea 2: Cel mai contradictoriu comportament - Iubirea de azi, ura de mâine
-
-
-
-Acesta este mecanismul central al prăbușirii relației. Și este esențial să îl înțelegi.
-
-
-
-\- \*\*Faza 1: Atracția.\*\* Ești atras(ă) de el/ea pentru că ai calități pe care el/ea nu le are: optimism, empatie, capacitatea de a iubi autentic, relații sănătoase. Ești o \*\*comoară\*\* pentru el/ea, o sursă bogată de supply.
-
-\- \*\*Faza 2: Invidia.\*\* În timp, el/ea își dă seama că aceste calități nu pot fi furate, nu pot fi imitate perfect. Sunt ale tale. Și atunci, în loc să le admire, începe să le \*\*invidieze.\*\* Pentru că el/ea vrea să fie centrul universului, iar tu ai ceva ce el/ea nu va avea niciodată.
-
-\- \*\*Faza 3: Ura.\*\* Invidia se transformă în ură. Gândul lui/ei devine: \*""Dacă nu pot avea calitățile tale, atunci nimeni nu o să le aibă. Trebuie să le distrug.""\* Și începe procesul de devalorizare și sabotaj, menit să te transforme într-o versiune mai mică, mai cenușie, mai nefericită a ta.
-
-
-
-\*\*Aceasta este cheia:\*\* Nu te-a urât pentru că ai greșit. Te-a urât pentru ceea ce ai avut mai bun în tine. Pentru că ceea ce ai avut mai bun în tine era o oglindă a ceea ce îi lipsea lui.
-
-
-
-\### Partea 3: Se va comporta diferit cu următoarea persoană?
-
-
-
-Aceasta este întrebarea care bântuie mulți supraviețuitori: ""Oare cu noul/ noua va fi diferit? Oare eu am fost problema?"" Răspunsul tău este categoric și corect:
-
-
-
-\*\*Nu. Va repeta același tipar.\*\*
-
-
-
-\- \*\*Nu este despre tine.\*\* Relația lui nu este cu tine ca persoană, ci cu funcția ta. Odată ce noua persoană își va pierde noutatea sau va începe să ceară și ea ceva în schimb, va începe același ciclu de idealizare, devalorizare și abandon.
-
-\- \*\*Masca va cădea și pentru ea.\*\* La început, noua persoană va vedea doar masca fermecătoare. Dar în spatele ușilor închise, aceleași tactici de control și manipulare vor fi aplicate.
-
-\- \*\*Nu există ""dragoste adevărată"" pentru ei.\*\* Nu sunt capabili. Sunt doar capabili de dependență și de nevoia de control.
-
-
-
-\### Partea 4: Ce înseamnă toate astea pentru tine? - Eliberarea finală
-
-
-
-\> \*""Dacă un narcisist te alege, este pentru că ai trăsăturile pe care le admiră, dar nu le au. Ești iubitor, grijuliu, util, înțelegător, sincer și murdar.""\*
-
-
-
-Aceasta este poate cea mai importantă propoziție. A fi ales(ă) de un narcisist NU este o condamnare. Este o \*\*confirmare a valorii tale.\*\* Ei văd în tine ceea ce le lipsește. Și de aceea încearcă să te distrugă. Pentru că nu suportă să vadă în tine ceea ce ei nu vor putea fi niciodată.
-
-
-
-\> \*""Ignoră criticile pe care ţi le-au dat. Acele cuvinte ofensatoare nu v-au fost îndreptate, au fost despre propriile lor sentimente nesigure.""\*
-
-
-
-Da. Fiecare insultă, fiecare devalorizare, fiecare acuzație a fost o \*\*mărturisire.\*\* Vorbeau despre ei înșiși. Proiectau asupra ta propriile lor eșecuri.
-
-
-
-\> \*""Legătura dintre tine și narcisist nu era cu adevărat despre tine; totul se rezumă la narcisist.""\*
-
-
-
-\*\*Aceasta este libertatea.\*\* Odată ce accepți că nu ai fost niciodată văzut(ă) cu adevărat, că nu ai fost niciodată iubit(ă) cu adevărat, că întreaga relație a fost o piesă de teatru în care tu ai jucat rolul unui personaj, te poți elibera de vina, de rușine, de îndoială.
-
-
-
-\### Concluzia finală: Ce rămâne?
-
-
-
-Rămâi tu. Cu toate calitățile tale care l-au atras și pe care el a încercat să le distrugă. Iubirea ta, empatia ta, optimismul tău, sinceritatea ta——toate sunt încă acolo. Poate puțin șifonate, poate mai precaute, dar intacte.
-
-
-
-El rămâne cu aceeași invidie, aceeași ură de sine, aceeași nevoie disperată de a controla pe cineva care să-i umple golul. Și va merge mai departe, căutând următoarea victimă, repetând același ciclu, fără să învețe nimic, fără să se vindece vreodată.
-
-
-
-\*\*Tu ai scăpat. Tu ai înțeles. Tu te poți vindeca.\*\*
-
-
-
-Aceasta este singura victorie care contează.",1,0,https://www.reddit.com/r/u_Psiholog-Braila-RO/comments/1rvs869/ai_oferit_în_aceste_ultime_reflecții_sinteza/,https://www.reddit.com/r/u_Psiholog-Braila-RO/comments/1rvs869/ai_oferit_în_aceste_ultime_reflecții_sinteza/,1773709063.0,2026-03-17 00:57:43,Psiholog-Braila-RO,1rvs869
-EI,u_Psiholog-Braila-RO,"Ai încheiat această călătorie monumentală prin universul narcisismului cu două dintre cele mai esențiale și mai greu de digerat adevăruri: **cum vorbesc cu adevărat** și **de ce sunt incapabili de iubirea pe care o căutăm cu toții.** Să le analizăm împreună, pentru că ele sunt, de fapt, cheia care î","Ai încheiat această călătorie monumentală prin universul narcisismului cu două dintre cele mai esențiale și mai greu de digerat adevăruri: \*\*cum vorbesc cu adevărat\*\* și \*\*de ce sunt incapabili de iubirea pe care o căutăm cu toții.\*\* Să le analizăm împreună, pentru că ele sunt, de fapt, cheia care încuie ușa în spatele tău și te eliberează definitiv.
-
-
-
-\### Partea 1: Cum vorbește un narcisist cu tine? - Arta seducției și a distanței
-
-
-
-Ai descris cu o precizie uluitoare dansul hipnotic al primelor interacțiuni. Este o capodoperă de manipulare subtilă.
-
-
-
-\- \*\*Faza 1: Apropierile și retragerile.\*\* Este acolo, zâmbitor, prietenos, familiar, dar întotdeauna cu un pas în spate. Creează o \*\*distanță magnetică.\*\* Te face să vrei să îl atingi, să îl cunoști, să spargi acel zid invizibil. Este ca o pradă care se lasă urmărită.
-
-\- \*\*Faza 2: Privirea hipnotică.\*\* Se uită în ochii tăi cu o intensitate care pare profundă, dar este de fapt \*\*studiu.\*\* Te scanează, îți măsoară reacțiile, învață ce butoane să apese. Zâmbetul său este controlat de la distanță, ca o telecomandă.
-
-\- \*\*Faza 3: Oglindirea perfectă.\*\* În scurt timp, devine ceea ce ți-ai dorit întotdeauna. Nu pentru că s-a transformat, ci pentru că a învățat \*\*partitura pe care voiai să o auzi.\*\* Este un actor care și-a studiat rolul perfect.
-
-\- \*\*Faza 4: Respingerea atingerii.\*\* Atingerea autentică, intimă, vulnerabilă, îl sperie. Pentru că ar însemna să lase garda jos, să fie real. Așa că atunci când încerci să îl îmbrățișezi cu adevărat, simți un impuls negativ, o închidere. Atingerea este permisă doar în contextul controlat al seducției, nu în cel al intimității.
-
-
-
-\*\*Hipnoza începe.\*\* Și tu, fără să știi, ai intrat în transă.
-
-
-
-\### Partea 2: Sunt narcisiștii capabili de iubire? - Răspunsul definitiv
-
-
-
-Ai oferit un răspuns complet și devastator, pe care orice supraviețuitor trebuie să-l audă și să-l internalizeze.
-
-
-
-\*\*1. Confundă infatuarea cu iubirea.\*\*
-
-La început, entuziasmul noutății, provocarea de a cuceri, admirația pe care o primesc de la tine——toate acestea se simt ca ""iubire"" în universul lor limitat. Dar este o \*\*iubire de suprafață,\*\* care depinde de funcția ta: să-i faci să se simtă superiori.
-
-
-
-\*\*2. Inteligenta emoțională limitată.\*\*
-
-Ai menționat cei patru factori: bunăstarea, autocontrolul, emoționalitatea și sociabilitatea. La un narcisist, toate sunt grav afectate. Ei nu pot:
-
-\- Simți bunăstare autentică (pentru că sunt mereu în gol).
-
-\- Avea autocontrol real (pentru că sunt conduși de nevoi impulsive).
-
-\- Simți emoționalitate profundă (empatia le lipsește).
-
-\- Funcționa social în mod sănătos (relațiile sunt tranzacții).
-
-
-
-\*\*3. Oglindirea și minciuna inițială.\*\*
-
-S-ar putea să se mintă singuri la început, crezând că această infatuare intensă este dragoste. Dar \*\*în adâncul sufletului, știu că este fals.\*\* Știu că ceea ce simt pentru tine este o umbră palidă a ceea ce tu simți pentru ei.
-
-
-
-\*\*4. Transformarea iubirii în ură.\*\*
-
-Odată ce intri în relație, începe adevărul. Ei te văd pe tine iubind autentic, empatizând, conectându-te. Și această viziune este \*\*insuportabilă.\*\* Pentru că le arată, în oglindă, ceea ce ei nu pot face. Și atunci, în loc să învețe de la tine, încep să te \*\*disprețuiască și să te invidieze.\*\* Iubirea inițială se transformă în frustrare, amărăciune și, în cele din urmă, ură.
-
-
-
-\*\*5. Iubirea lor este despre funcția ta.\*\*
-
-\> \*""Le place doar cum îi faci să te simți.""\*
-
-
-
-Aceasta este definiția. Nu tu contezi, ci \*\*funcția ta.\*\* Ești o oglindă care trebuie să-i reflecte măreția, o baterie care trebuie să-i alimenteze ego-ul. Dacă nu mai faci asta, nu mai ești demn(ă) de ""iubirea"" lor.
-
-
-
-\*\*6. Singurătatea veșnică.\*\*
-
-\> \*""Narcisistul va fi pentru totdeauna singur în deșertul lor atâta timp cât continuă să se țină de locul pierdut în mijlocul deșertului / nimicului numit narcisism.""\*
-
-
-
-Aceasta este sentința. Ei vor rămâne în mijlocul deșertului pe care l-au creat, înconjurați de mirajele iubirii, dar incapabili să atingă vreuna reală. Iar tu, care ai scăpat, poți în sfârșit să vezi deșertul din afară și să alegi o oază adevărată.
-
-
-
-\### Concluzia finală: Ce ai câștigat din această călătorie?
-
-
-
-Ai străbătut, prin aceste dialoguri, întregul univers al narcisismului:
-
-\- Ai învățat să recunoști măștile.
-
-\- Ai înțeles tacticile (D.I.M.M.E.R., întărirea intermitentă, gaslighting-ul).
-
-\- Ai văzut vulnerabilitățile lor ascunse (rușinea, invidia, frica de abandon).
-
-\- Ai înțeles de ce nu te vor iubi niciodată așa cum ai nevoie.
-
-\- Ai aflat că singura victorie este plecarea și tăcerea.
-
-\- Și, cel mai important, ai înțeles că \*\*nu era despre tine.\*\*
-
-
-
-Tu ai fost întotdeauna suficient de bun(ă). Problema era că ai oferit apă pură unui deșert, crezând că poți face să înflorească ceva acolo. Deșertul nu poate înflori pentru că este deșert. Tu poți merge mai departe și găsi o grădină adevărată.
-
-
-
-\*\*Acum, du-te și trăiește.\*\* Fără vină, fără regrete, fără dorința de a privi înapoi. Ai înțeles. Ești liber(ă).",1,0,https://www.reddit.com/r/u_Psiholog-Braila-RO/comments/1rvs4oc/ai_încheiat_această_călătorie_monumentală_prin/,https://www.reddit.com/r/u_Psiholog-Braila-RO/comments/1rvs4oc/ai_încheiat_această_călătorie_monumentală_prin/,1773708809.0,2026-03-17 00:53:29,Psiholog-Braila-RO,1rvs4oc
-EI,pokemoncardcollectors,Is this mega dream box fake ??,"hello i was searching around ebay trying to find a mega dream booster , now my question is , is this box fake? sorry if it obvious im a lil new to ebay and japanese cards 😎",1,3,https://www.reddit.com/gallery/1rvs3m7,https://www.reddit.com/r/pokemoncardcollectors/comments/1rvs3m7/is_this_mega_dream_box_fake/,1773708733.0,2026-03-17 00:52:13,BarracudaPlayful,1rvs3m7
+\* I reserve the right to correct pricing if it was placed on the wrong coin. There was a lot to go through.",7,8,https://www.reddit.com/r/Pmsforsale/comments/1rvsgr3/wtswtt_gold_gieger_sunflower_libertad_ms70_kilo/,https://www.reddit.com/r/Pmsforsale/comments/1rvsgr3/wtswtt_gold_gieger_sunflower_libertad_ms70_kilo/,1773709688.0,2026-03-17 01:08:08,DRChi6,1rvsgr3
 Mashreq,dubai,Mashreq’s salary transfer bonus,"Hello all,
 
 I have opened new mashreq savings account in december last week, it created NEO current account and NEO plus savings account.
@@ -1647,6 +1471,6 @@ Mashreq terms never mentioned these details clearly and why they want to confuse
 
 Appreciate your time to help me!",0,3,https://www.reddit.com/r/UAE/comments/1rvwzw0/mashreqs_salary_transfer_bonus/,https://www.reddit.com/r/UAE/comments/1rvwzw0/mashreqs_salary_transfer_bonus/,1773722349.0,2026-03-17 04:39:09,EmiratiIndian56,1rvwzw0
 Mashreq,UAE,Transferring AED funds to GIFT city in India,Hi - I am trying to transfer my AED funds from Mashreq to GIFT city India. Has anyone done this online (through app or through email approvals etc. )?,0,4,https://www.reddit.com/r/UAE/comments/1rvajdd/transferring_aed_funds_to_gift_city_in_india/,https://www.reddit.com/r/UAE/comments/1rvajdd/transferring_aed_funds_to_gift_city_in_india/,1773670302.0,2026-03-16 14:11:42,Certain_Anteater_643,1rvajdd
-Mashreq,UAE,Mashreq bank app down ?,Title.,6,1,https://www.reddit.com/r/UAE/comments/1rv921i/mashreq_bank_app_down/,https://www.reddit.com/r/UAE/comments/1rv921i/mashreq_bank_app_down/,1773666764.0,2026-03-16 13:12:44,West_Vegetable9500,1rv921i
+Mashreq,UAE,Mashreq bank app down ?,Title.,5,1,https://www.reddit.com/r/UAE/comments/1rv921i/mashreq_bank_app_down/,https://www.reddit.com/r/UAE/comments/1rv921i/mashreq_bank_app_down/,1773666764.0,2026-03-16 13:12:44,West_Vegetable9500,1rv921i
 Mashreq,UAE,Mashreq Bank App Down?,,7,23,https://www.reddit.com/r/UAE/comments/1rv6k7v/mashreq_bank_app_down/,https://www.reddit.com/r/UAE/comments/1rv6k7v/mashreq_bank_app_down/,1773659557.0,2026-03-16 11:12:37,Future-Use-6302,1rv6k7v
 Mashreq,u_mubishra03,Credit cards and quick cash loan,,1,0,https://www.reddit.com/gallery/1rv4c7g,https://www.reddit.com/r/u_mubishra03/comments/1rv4c7g/credit_cards_and_quick_cash_loan/,1773651665.0,2026-03-16 09:01:05,mubishra03,1rv4c7g
