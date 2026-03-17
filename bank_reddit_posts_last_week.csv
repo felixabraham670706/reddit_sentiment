@@ -1,9 +1,9 @@
 bank,subreddit,title,selftext,score,num_comments,url,permalink,created_utc,created_date,author,id
-ENBD,UAE,ENBD bank,"Is any body able to login to enbd app , it says failure to login ?",2,15,https://www.reddit.com/r/UAE/comments/1rwczen/enbd_bank/,https://www.reddit.com/r/UAE/comments/1rwczen/enbd_bank/,1773768145.0,2026-03-17 17:22:25,kyahog324,1rwczen
+ENBD,UAE,ENBD bank,"Is any body able to login to enbd app , it says failure to login ?",3,15,https://www.reddit.com/r/UAE/comments/1rwczen/enbd_bank/,https://www.reddit.com/r/UAE/comments/1rwczen/enbd_bank/,1773768145.0,2026-03-17 17:22:25,kyahog324,1rwczen
 ENBD,UAE,Need advice on noon lol,So i saw that Emirates NBD offers free delivery for noon and i was applying for it but thought i should ask for as im jobless lol is it worth it? Because they said i can make it but idk im scared lol need advice from people who have it,1,3,https://www.reddit.com/r/UAE/comments/1rwbd5v/need_advice_on_noon_lol/,https://www.reddit.com/r/UAE/comments/1rwbd5v/need_advice_on_noon_lol/,1773764771.0,2026-03-17 16:26:11,nsk222,1rwbd5v
 ENBD,UAE,Are UAE banks actually safe right now?,"I’m talking ENBD, ADCB, and especially Wio. I need an educated assessment on whether they’ll make it harder to withdraw/transfer your money, whether they’ll be more bothersome with big transactions, whether another strike on a data center will stop access (like with ADCB initially), etc.
 
-Past performance is not indicative of future results. We saw how that panned out with safety…",1,10,https://www.reddit.com/r/UAE/comments/1rw61bt/are_uae_banks_actually_safe_right_now/,https://www.reddit.com/r/UAE/comments/1rw61bt/are_uae_banks_actually_safe_right_now/,1773752872.0,2026-03-17 13:07:52,Skd98012,1rw61bt
+Past performance is not indicative of future results. We saw how that panned out with safety…",3,10,https://www.reddit.com/r/UAE/comments/1rw61bt/are_uae_banks_actually_safe_right_now/,https://www.reddit.com/r/UAE/comments/1rw61bt/are_uae_banks_actually_safe_right_now/,1773752872.0,2026-03-17 13:07:52,Skd98012,1rw61bt
 ENBD,emirates,What is the approximate timeline to get a refund?,I applied for a full refund of a flight I had for my wife and myself (return ticket) on 9th March and received the “your refund request has been successfully processed” email on 11th March. But the actual refund I still have not received on my credit card. What is the typical timeline for the same in case anyone has any experience with this? The credit card is from ENBD if that helps. ,1,5,https://www.reddit.com/r/emirates/comments/1rw2e5g/what_is_the_approximate_timeline_to_get_a_refund/,https://www.reddit.com/r/emirates/comments/1rw2e5g/what_is_the_approximate_timeline_to_get_a_refund/,1773742047.0,2026-03-17 10:07:27,dragonmunch5,1rw2e5g
 ENBD,UAE,No New Notes at Banks for Eidiya,"Have visited
 - ADCB
@@ -220,10 +220,10 @@ ADCB,UAE,"Avoid the ""IVR Trap"": How I lost AED 5.00 in 5 minutes just trying t
 
 **The Reality**: Etisalat is charging me AED 0.76 every single the automated voice picks up. Even though I haven't reached an agent, the call is ""connected"" the second the recording starts playing.
 
-**The Lesson**: Don't keep hanging up and redialing! Stay on the line if you can, or check if the bank has a toll-free 800 number. Redialing is just giving the telcos free money for listening to a bot.",2,0,https://i.redd.it/p7hb7redxmpg1.jpeg,https://www.reddit.com/r/UAE/comments/1rwc0ca/avoid_the_ivr_trap_how_i_lost_aed_500_in_5/,1773766127.0,2026-03-17 16:48:47,woopandcoop,1rwc0ca
+**The Lesson**: Don't keep hanging up and redialing! Stay on the line if you can, or check if the bank has a toll-free 800 number. Redialing is just giving the telcos free money for listening to a bot.",2,2,https://i.redd.it/p7hb7redxmpg1.jpeg,https://www.reddit.com/r/UAE/comments/1rwc0ca/avoid_the_ivr_trap_how_i_lost_aed_500_in_5/,1773766127.0,2026-03-17 16:48:47,woopandcoop,1rwc0ca
 ADCB,darktower,Made a guide to the Cosmology of Stephen King. What did I miss? What would you change?,"I start teaching a course on King's mythology next week, and I wanted a visual that showed students the whole architecture before we got into the weeds. This is what I came up with. Probably spent more hours on it than I should admit. I know it's not complete. King's universe is too big for one graphic. But I'm curious what you'd add or change.
 
-Quick Edit: I included a screenshot of the work in process just to prove this wasn't AI slop.",74,31,https://www.reddit.com/gallery/1rw9cbo,https://www.reddit.com/r/darktower/comments/1rw9cbo/made_a_guide_to_the_cosmology_of_stephen_king/,1773760450.0,2026-03-17 15:14:10,Adept-Engineering-71,1rw9cbo
+Quick Edit: I included a screenshot of the work in process just to prove this wasn't AI slop.",76,32,https://www.reddit.com/gallery/1rw9cbo,https://www.reddit.com/r/darktower/comments/1rw9cbo/made_a_guide_to_the_cosmology_of_stephen_king/,1773760450.0,2026-03-17 15:14:10,Adept-Engineering-71,1rw9cbo
 ADCB,Ajman,Urgent! My cousin's account is whooping negative!!,"
 So basically yesterday when my cousin checked his bank account in ADCB, he saw it was -70K aed as net balance, he only had 1K in the account, no loans, cheques or anything.
 
@@ -328,7 +328,184 @@ Across the room, the crowd parts to let him through, and he stops by the bar. Wi
 
 \*\*\*
 
-Thanks in advance!",3,0,https://www.reddit.com/r/PubTips/comments/1rvt7vo/qcrit_friendly_match_queer_contemporary_romance/,https://www.reddit.com/r/PubTips/comments/1rvt7vo/qcrit_friendly_match_queer_contemporary_romance/,1773711639.0,2026-03-17 01:40:39,SevenWavesAtMidnight,1rvt7vo
+Thanks in advance!",4,0,https://www.reddit.com/r/PubTips/comments/1rvt7vo/qcrit_friendly_match_queer_contemporary_romance/,https://www.reddit.com/r/PubTips/comments/1rvt7vo/qcrit_friendly_match_queer_contemporary_romance/,1773711639.0,2026-03-17 01:40:39,SevenWavesAtMidnight,1rvt7vo
+EI,HotWheels,Someone already ran off with the ugly drag Civic and the pink car from that dumb cartoon but left me some heat!,,2,0,https://i.redd.it/b545uybctnpg1.jpeg,https://www.reddit.com/r/HotWheels/comments/1rwh9ig/someone_already_ran_off_with_the_ugly_drag_civic/,1773776949.0,2026-03-17 19:49:09,darkwingvit,1rwh9ig
+EI,papermoney,"Fakes, right? $10 Confederate, 10 cent paper","Appraised some silver today and wanted to check these since I'm kind of out of my element. 
+
+  
+I know the Confederate notes were copied and sold en masse so I was skeptical.",2,2,https://www.reddit.com/gallery/1rwh6nf,https://www.reddit.com/r/papermoney/comments/1rwh6nf/fakes_right_10_confederate_10_cent_paper/,1773776782.0,2026-03-17 19:46:22,Hot_Recognition1798,1rwh6nf
+EI,translator,[Old Church Slavonic > English] 2 brief excerpts from Pentkovskii's Typikon of Alexios the Studite,"Is there anyone able and willing to find and translate the part of each attached screenshot that is relevant to (not) fasting during the 50-day period between Pascha and Pentecost? There is supposed to be something on each of these two pages (from Pentkovskii's Typikon of Alexios the Studite), I'm guessing probably just a sentence or two each. I'm doing a bit of research, and a footnote in a book referred to these two pages. I'm looking for an exact literal word-for-word translation of the relevant excerpts.",1,0,https://www.reddit.com/gallery/1rwh6mi,https://www.reddit.com/r/translator/comments/1rwh6mi/old_church_slavonic_english_2_brief_excerpts_from/,1773776781.0,2026-03-17 19:46:21,ASAXtR,1rwh6mi
+EI,CryBabyDolls,UFS Crybaby Figurines,"Crying to the Moon $16 ea
+
+Crying to the Moon Mini $11 ea
+
+Light up the Moment $20 
+
+Great Discovery $25 
+
+📦$6 shipping for three figurines or less
+
+💰PayPal/Venmo G&S please add 4%
+
+🚚Shipping within 48 hrs once payment received",1,0,https://www.reddit.com/gallery/1rwh6im,https://www.reddit.com/r/CryBabyDolls/comments/1rwh6im/ufs_crybaby_figurines/,1773776774.0,2026-03-17 19:46:14,Panicda,1rwh6im
+EI,FortniteAccSale,"🔴Wildcat , Galaxy , Travis Scott | 800+ Skins | $200 OBO | Full access","\-Comes with Original Email & is email Changeable, Playable on ANY Platform. | I can show vouches 
+
+\-YOU CAN NOT SIGN IN Without Payment 
+
+Cashapp, Venmo , PayPal 
+
+\-NOT GOING FIRST Dont waste time , if it’s still posted it available to buy. Dont message if you don’t have the funds please & thank you. ",0,0,https://www.reddit.com/gallery/1rwh6fu,https://www.reddit.com/r/FortniteAccSale/comments/1rwh6fu/wildcat_galaxy_travis_scott_800_skins_200_obo/,1773776769.0,2026-03-17 19:46:09,Warm-Weakness-885,1rwh6fu
+EI,UARSnew,Do you think I might have UARS?,"I (49 YOM) have had excessive daytime somnolence since adolescence.  Put me in any boring situation and I'll likely fall asleep.  I estimate I fell asleep in class on 80% of days through college and grad school.  I also fell asleep in small team meetings with my boss in my first job as an engineer.  I got a sleep study done 22 years ago that showed no sleep apnea.  I followed it up with a study for narcolepsy which was negative.  I eventually got a job that allowed me to nap during the day and just figured I was a sleepy person.
+
+Getting good sleep has always been a struggle, and I always felt something was wrong.  My main complaint is sleep maintenance.  I would often wake in the night and not be able to get back to sleep.  This led to lots of napping, sleeping in, going to bed early, and a lot of protective behaviours around sleep, which increased my anxiety.
+
+I'm 6 feet tall, 167 lbs and very healthy.  I dug up my old sleep study and it said I woke 34 times during the night!  I'm going to get another sleep study, but am worried it won't show apneas again so the doc won't care.  Does anyone have advice on getting to a doctor that will be able to definitively rule out or diagnose UARS?  Should I just keep trying different doctors?
+
+https://preview.redd.it/97has0kvonpg1.jpg?width=816&format=pjpg&auto=webp&s=262d513ec981e778f0bb6b9b3ac90f5256da0bc8
+
+https://preview.redd.it/7g3ur64wonpg1.png?width=816&format=png&auto=webp&s=24e0d9d255816a8b1989e835f5696bce8d1984c3
+
+",1,0,https://www.reddit.com/r/UARSnew/comments/1rwh5vx/do_you_think_i_might_have_uars/,https://www.reddit.com/r/UARSnew/comments/1rwh5vx/do_you_think_i_might_have_uars/,1773776739.0,2026-03-17 19:45:39,Middle_Field5746,1rwh5vx
+EI,trakt,I prefer the old Trakt not this new one,I also love how the progress is exactly what episodes you've seen and where in the series.,9,5,https://www.reddit.com/gallery/1rwh5lc,https://www.reddit.com/r/trakt/comments/1rwh5lc/i_prefer_the_old_trakt_not_this_new_one/,1773776722.0,2026-03-17 19:45:22,nickspongebobperson,1rwh5lc
+EI,Kolkatacity,I might get downvoted but read this everyone,"Toh there's this new bunch of kids from somewhere in kolkata, they are running a group called ""BPRF"" 
+Puro bal chaler group! Bhuleo eder whatsapp bhuleo keo join koro na, nahole kintu future e bhalo kore bal police case khabe!
+Chelegulor 3 months age nachanachi korchilo je banglar jonno kichu korbe, hen korbo ten korbo onek boroboro batela marka kotha,
+I'm a screenwriter plus currently i manage a theatre group of kids, i do stageplays mostly with kids aged 8 to 15, i do free acting workshops of them too
+Toh amake ei malgulo ke bolechilam je jokhon kichu kortei chaichis tahole chol ekta chotto workshop kora jak ekta near school e giye, we'll do workshops on bangla literature and act plays. Malgulo raji holo, i made a team from inside tallygounge federation and took few guild members formed a theatre group back then and i even managed to do our first workshop on importance of bangla literature at a government primary kids school.
+Malgulo jaoar ager din shobai cancel kore dilo, i still did the workshop with my guild and federation people, ei hujuke otha malgulor moddhe ekta elo na din er din tokhon e bujhe gechilam just mukhe chillatei pare but actual jokhon kono kichur korar bepar ashbe tokhon ar kichui korbe na, tokhon jigesh korate bolechilo je ora ekta group not a political party who wanna do good things in bengal for the betterment of bengal
+Shune bhaloi laglo etokkhon taina?
+Wait now let's come to the main part
+Shobai thik kore read korbe ei part ta... ar now try to understand je ki balchal shuru koreche era eder jonno literally boro shoro police case khabe jara jara group ta join korche
+So ami shei 3 mash gei amar school er workshop er time e jokhon bujhlam je era kamer na ami shei din e chere diyechilam
+
+Now after 3 months i again saw a post of them on reddit and thought about joining back to see how things are going in group i thought maybe... ""maybe"" chelegulo 3 months e kichu bhalo kaj koreche
+Aajke after 3 months chelegulo bolche je ora ekta political group... i was like okay... toh babara ki ki korbe in order to enter politics? Agroho chilam janar jonno
+So let me tell you what they're planning and what they mentioned, very important...
+
+"" AMRA ONLINE E EVERYWHERE CHOTO BACHHARA 14 TO 17 AGE GROUP DER BOJHABO AROUND OUR UPCOMING PARTY AND WE'LL TRUN THEM INTO OUR VOTE BANK, WE'LL MAKE AGENDA VIDEOS, WILL LITERALLY TURN THEM INTO OUR VOTERS, WILL MAKE THEM BIAS TOWARDS US ""
+
+Tamil nadur thalapaty case puro!
+jinish ta shunte khub hashir mone hochhe but let me tell you, je group ta chalachhe or nijero kono idea nei je actually ki ki paper lage, kothay jete hoy, kake dhorte hoy in order to get into politics, eitukuo jane na je in order to enter politics you have to start with Counselor elections or college elections 
+
+But now the fun part, chelegulo jetai albal korche but korche definitely 
+Ebar now where the problem comes... amake group e add korechilo again and ora ekta sub group baniyeche regarding culture and arts so ami bhablam ami to emnitei cinema world er lok to it'll be better if i can arrange few kids from their group and expanse our theatre group and 3 months age jeta korte cheychilam about open workshops in schools ota tahole arekbar start kore dekhtam if eibar eder modhhe keo ashbe naki 
+Ebar theatre er kotha jigesh korate bolche je ora eishob e intrested nei tahole ami jigesh korlam je tahole cultural and arts er group baniyechis keno?
+So their only agenda is
+They'll start creating social contents on social platforms everywhere literally brainwashing and ghostfeeding content to kids on why to vote for their party but these contents will be focused to target kids! Age 15 onwards!
+
+Ekta Rajnoitik group banate gele ekta registration hoy jetake society act bole, sheta korate hoy
+Society act 1860 (ei malgulor kono idea nei eishob er bepare)
+Bachhader bishoy is very sensitive, bachhader vishoy te ei form ta register korano very important!
+Kalke jodi kono bachhar parent ekta GD kore dei je, ei chelgulo from BPRF group er amader bachhake bhulbhal boke bhibranto korche through content or whatsapp group malgulo literally GD theke FIR kheye jabe!
+
+Plus they're promoting themselves as a political group and they're saying they will even contest in Counselor election but no one will be knowing their candidate's name except their ward?! Gadha ei shob korte gele experience lage! Ghore boshe Acr haoa kheye hoy na! Shitload amount of taka lage! 
+
+
+Khub e ekta bulbhal chintadhara, idk from where today's young generation is getting this idea that amra choto bachhader matha muriye oder ke vote bank banabo?!
+
+Admins of kolkata city sub please see this and take immediate action against any of BPRF's post and kindly ban them 🙏",3,1,https://www.reddit.com/r/Kolkatacity/comments/1rwh4g2/i_might_get_downvoted_but_read_this_everyone/,https://www.reddit.com/r/Kolkatacity/comments/1rwh4g2/i_might_get_downvoted_but_read_this_everyone/,1773776657.0,2026-03-17 19:44:17,hetty_mickey,1rwh4g2
+EI,westbengal,I might get downvoted but read this everyone,"Toh there's this new bunch of kids from somewhere in kolkata, they are running a group called ""BPRF"" 
+Puro bal chaler group! Bhuleo eder whatsapp bhuleo keo join koro na, nahole kintu future e bhalo kore bal police case khabe!
+Chelegulor 3 months age nachanachi korchilo je banglar jonno kichu korbe, hen korbo ten korbo onek boroboro batela marka kotha,
+I'm a screenwriter plus currently i manage a theatre group of kids, i do stageplays mostly with kids aged 8 to 15, i do free acting workshops of them too
+Toh amake ei malgulo ke bolechilam je jokhon kichu kortei chaichis tahole chol ekta chotto workshop kora jak ekta near school e giye, we'll do workshops on bangla literature and act plays. Malgulo raji holo, i made a team from inside tallygounge federation and took few guild members formed a theatre group back then and i even managed to do our first workshop on importance of bangla literature at a government primary kids school.
+Malgulo jaoar ager din shobai cancel kore dilo, i still did the workshop with my guild and federation people, ei hujuke otha malgulor moddhe ekta elo na din er din tokhon e bujhe gechilam just mukhe chillatei pare but actual jokhon kono kichur korar bepar ashbe tokhon ar kichui korbe na, tokhon jigesh korate bolechilo je ora ekta group not a political party who wanna do good things in bengal for the betterment of bengal
+Shune bhaloi laglo etokkhon taina?
+Wait now let's come to the main part
+Shobai thik kore read korbe ei part ta... ar now try to understand je ki balchal shuru koreche era eder jonno literally boro shoro police case khabe jara jara group ta join korche
+So ami shei 3 mash gei amar school er workshop er time e jokhon bujhlam je era kamer na ami shei din e chere diyechilam
+
+Now after 3 months i again saw a post of them on reddit and thought about joining back to see how things are going in group i thought maybe... ""maybe"" chelegulo 3 months e kichu bhalo kaj koreche
+Aajke after 3 months chelegulo bolche je ora ekta political group... i was like okay... toh babara ki ki korbe in order to enter politics? Agroho chilam janar jonno
+So let me tell you what they're planning and what they mentioned, very important...
+
+"" AMRA ONLINE E EVERYWHERE CHOTO BACHHARA 14 TO 17 AGE GROUP DER BOJHABO AROUND OUR UPCOMING PARTY AND WE'LL TRUN THEM INTO OUR VOTE BANK, WE'LL MAKE AGENDA VIDEOS, WILL LITERALLY TURN THEM INTO OUR VOTERS, WILL MAKE THEM BIAS TOWARDS US ""
+
+Tamil nadur thalapaty case puro!
+jinish ta shunte khub hashir mone hochhe but let me tell you, je group ta chalachhe or nijero kono idea nei je actually ki ki paper lage, kothay jete hoy, kake dhorte hoy in order to get into politics, eitukuo jane na je in order to enter politics you have to start with Counselor elections or college elections 
+
+But now the fun part, chelegulo jetai albal korche but korche definitely 
+Ebar now where the problem comes... amake group e add korechilo again and ora ekta sub group baniyeche regarding culture and arts so ami bhablam ami to emnitei cinema world er lok to it'll be better if i can arrange few kids from their group and expanse our theatre group and 3 months age jeta korte cheychilam about open workshops in schools ota tahole arekbar start kore dekhtam if eibar eder modhhe keo ashbe naki 
+Ebar theatre er kotha jigesh korate bolche je ora eishob e intrested nei tahole ami jigesh korlam je tahole cultural and arts er group baniyechis keno?
+So their only agenda is
+They'll start creating social contents on social platforms everywhere literally brainwashing and ghostfeeding content to kids on why to vote for their party but these contents will be focused to target kids! Age 15 onwards!
+
+Ekta Rajnoitik group banate gele ekta registration hoy jetake society act bole, sheta korate hoy
+Society act 1860 (ei malgulor kono idea nei eishob er bepare)
+Bachhader bishoy is very sensitive, bachhader vishoy te ei form ta register korano very important!
+Kalke jodi kono bachhar parent ekta GD kore dei je, ei chelgulo from BPRF group er amader bachhake bhulbhal boke bhibranto korche through content or whatsapp group malgulo literally GD theke FIR kheye jabe!
+
+Plus they're promoting themselves as a political group and they're saying they will even contest in Counselor election but no one will be knowing their candidate's name except their ward?! Gadha ei shob korte gele experience lage! Ghore boshe Acr haoa kheye hoy na! Shitload amount of taka lage! 
+
+
+Khub e ekta bulbhal chintadhara, idk from where today's young generation is getting this idea that amra choto bachhader matha muriye oder ke vote bank banabo?!
+
+Admins of west bengal sub please see this and take immediate action against any of BPRF's post and kindly ban them 🙏",3,2,https://www.reddit.com/r/westbengal/comments/1rwh3re/i_might_get_downvoted_but_read_this_everyone/,https://www.reddit.com/r/westbengal/comments/1rwh3re/i_might_get_downvoted_but_read_this_everyone/,1773776616.0,2026-03-17 19:43:36,hetty_mickey,1rwh3re
+EI,canadarevenueagency,2024 Tax return Reassessment does not look right..,"https://preview.redd.it/5gdg2sqcsnpg1.jpg?width=1096&format=pjpg&auto=webp&s=8dfa52c6850bfa1cba6b33c29da0dd62575e5998
+
+Im a student that works a regular part time job. Why is my income moved to 13000? and why are almost all the deductions at 0? I filed my taxes with Turbo tax ",0,4,https://www.reddit.com/r/canadarevenueagency/comments/1rwh3nz/2024_tax_return_reassessment_does_not_look_right/,https://www.reddit.com/r/canadarevenueagency/comments/1rwh3nz/2024_tax_return_reassessment_does_not_look_right/,1773776611.0,2026-03-17 19:43:31,TheManYouArent,1rwh3nz
+EI,switch2,picked up some games after the handheld boost mode was announced :),"Baldur’s Gate: $90
+
+MK11: $20
+
+NMHIII: $20
+
+Xenoblade: $50",18,11,https://i.redd.it/mnnuh14isnpg1.jpeg,https://www.reddit.com/r/switch2/comments/1rwh3f5/picked_up_some_games_after_the_handheld_boost/,1773776597.0,2026-03-17 19:43:17,HOLDMYPARSNIPS,1rwh3f5
+EI,kolkata,I might get downvoted but read this everyone,"Toh there's this new bunch of kids from somewhere in kolkata, they are running a group called ""BPRF"" 
+Puro bal chaler group! Bhuleo eder whatsapp bhuleo keo join koro na, nahole kintu future e bhalo kore bal police case khabe!
+Chelegulor 3 months age nachanachi korchilo je banglar jonno kichu korbe, hen korbo ten korbo onek boroboro batela marka kotha,
+I'm a screenwriter plus currently i manage a theatre group of kids, i do stageplays mostly with kids aged 8 to 15, i do free acting workshops of them too
+Toh amake ei malgulo ke bolechilam je jokhon kichu kortei chaichis tahole chol ekta chotto workshop kora jak ekta near school e giye, we'll do workshops on bangla literature and act plays. Malgulo raji holo, i made a team from inside tallygounge federation and took few guild members formed a theatre group back then and i even managed to do our first workshop on importance of bangla literature at a government primary kids school.
+Malgulo jaoar ager din shobai cancel kore dilo, i still did the workshop with my guild and federation people, ei hujuke otha malgulor moddhe ekta elo na din er din tokhon e bujhe gechilam just mukhe chillatei pare but actual jokhon kono kichur korar bepar ashbe tokhon ar kichui korbe na, tokhon jigesh korate bolechilo je ora ekta group not a political party who wanna do good things in bengal for the betterment of bengal
+Shune bhaloi laglo etokkhon taina?
+Wait now let's come to the main part
+Shobai thik kore read korbe ei part ta... ar now try to understand je ki balchal shuru koreche era eder jonno literally boro shoro police case khabe jara jara group ta join korche
+So ami shei 3 mash gei amar school er workshop er time e jokhon bujhlam je era kamer na ami shei din e chere diyechilam
+
+Now after 3 months i again saw a post of them on reddit and thought about joining back to see how things are going in group i thought maybe... ""maybe"" chelegulo 3 months e kichu bhalo kaj koreche
+Aajke after 3 months chelegulo bolche je ora ekta political group... i was like okay... toh babara ki ki korbe in order to enter politics? Agroho chilam janar jonno
+So let me tell you what they're planning and what they mentioned, very important...
+
+"" AMRA ONLINE E EVERYWHERE CHOTO BACHHARA 14 TO 17 AGE GROUP DER BOJHABO AROUND OUR UPCOMING PARTY AND WE'LL TRUN THEM INTO OUR VOTE BANK, WE'LL MAKE AGENDA VIDEOS, WILL LITERALLY TURN THEM INTO OUR VOTERS, WILL MAKE THEM BIAS TOWARDS US ""
+
+Tamil nadur thalapaty case puro!
+jinish ta shunte khub hashir mone hochhe but let me tell you, je group ta chalachhe or nijero kono idea nei je actually ki ki paper lage, kothay jete hoy, kake dhorte hoy in order to get into politics, eitukuo jane na je in order to enter politics you have to start with Counselor elections or college elections 
+
+But now the fun part, chelegulo jetai albal korche but korche definitely 
+Ebar now where the problem comes... amake group e add korechilo again and ora ekta sub group baniyeche regarding culture and arts so ami bhablam ami to emnitei cinema world er lok to it'll be better if i can arrange few kids from their group and expanse our theatre group and 3 months age jeta korte cheychilam about open workshops in schools ota tahole arekbar start kore dekhtam if eibar eder modhhe keo ashbe naki 
+Ebar theatre er kotha jigesh korate bolche je ora eishob e intrested nei tahole ami jigesh korlam je tahole cultural and arts er group baniyechis keno?
+So their only agenda is
+They'll start creating social contents on social platforms everywhere literally brainwashing and ghostfeeding content to kids on why to vote for their party but these contents will be focused to target kids! Age 15 onwards!
+
+Ekta Rajnoitik group banate gele ekta registration hoy jetake society act bole, sheta korate hoy
+Society act 1860 (ei malgulor kono idea nei eishob er bepare)
+Bachhader bishoy is very sensitive, bachhader vishoy te ei form ta register korano very important!
+Kalke jodi kono bachhar parent ekta GD kore dei je, ei chelgulo from BPRF group er amader bachhake bhulbhal boke bhibranto korche through content or whatsapp group malgulo literally GD theke FIR kheye jabe!
+
+Plus they're promoting themselves as a political group and they're saying they will even contest in Counselor election but no one will be knowing their candidate's name except their ward?! Gadha ei shob korte gele experience lage! Ghore boshe Acr haoa kheye hoy na! Shitload amount of taka lage! 
+
+
+Khub e ekta bulbhal chintadhara, idk from where today's young generation is getting this idea that amra choto bachhader matha muriye oder ke vote bank banabo?!
+
+Admins of kolkata sub please see this and take immediate action against any of BPRF's post and kindly ban them 🙏",2,6,https://www.reddit.com/r/kolkata/comments/1rwh2s6/i_might_get_downvoted_but_read_this_everyone/,https://www.reddit.com/r/kolkata/comments/1rwh2s6/i_might_get_downvoted_but_read_this_everyone/,1773776563.0,2026-03-17 19:42:43,hetty_mickey,1rwh2s6
+EI,norsk,"Is it ok to always write/say ""en"" for feminine nouns or do I have to use ""ei""?","I guess it varies from dialect to dialect but for ""standard"" Bokmål, is it okay? I find it easier and I think ""en bok"" instead of ""ei bok"" sounds better for example.",3,5,https://www.reddit.com/r/norsk/comments/1rwh1r3/is_it_ok_to_always_writesay_en_for_feminine_nouns/,https://www.reddit.com/r/norsk/comments/1rwh1r3/is_it_ok_to_always_writesay_en_for_feminine_nouns/,1773776501.0,2026-03-17 19:41:41,NorskDuFromage,1rwh1r3
+EI,ForSaudiArtists,توزيعات للعيد صُنعت بالركن الهادي المظلم بغرفتي,,3,2,https://www.reddit.com/gallery/1rwgvet,https://www.reddit.com/r/ForSaudiArtists/comments/1rwgvet/توزيعات_للعيد_صنعت_بالركن_الهادي_المظلم_بغرفتي/,1773776121.0,2026-03-17 19:35:21,Died-74,1rwgvet
+EI,KendrickLamar,"""6:16 in LA"" is aging well",,31,7,https://i.redd.it/gjl40imwqnpg1.jpeg,https://www.reddit.com/r/KendrickLamar/comments/1rwgubd/616_in_la_is_aging_well/,1773776058.0,2026-03-17 19:34:18,Past-Track-9976,1rwgubd
+EI,CryBabyDolls,"[US-CA] [H] Cheer Up, Crying for Love, Shiny, Wild but Cutie, etc. [W] Payment","Condition: individual box is opened from the bottom, bag is sealed. Set and individual pendant in a plastic package are new and completely sealed
+
+\- CRYBABY Cheer Up, Baby $25  
+\- CRYBABY Coconut, green/brown $40  
+\- CRYBABY Crying Again, figures $200 set  
+\- CRYBABY Crying for Love Series, fragrance $180 set / $30 box (blind)  
+\- CRYBABY Love You Cherry Much $60  
+\- CRYBABY Shiny Shiny Series, doll $40 / pendant $25  
+\- CRYBABY Wild but Cutie $110 set / $25 Pink / $15 Denim  
+\- CRYBABY Vacation Mode On $40 / Secret $130  
+\- CRYBABY Why So Serious $45
+
+🚛 **SHIPPING:** starts at $7.  
+📍 **PICKUP**: Irvine, CA.   
+💳 **PAYMENT:** Accept all payment. Buyer pays +4% G&S fee.",2,0,https://i.redd.it/evck992tqnpg1.jpeg,https://www.reddit.com/r/CryBabyDolls/comments/1rwgu5w/usca_h_cheer_up_crying_for_love_shiny_wild_but/,1773776050.0,2026-03-17 19:34:10,BebeCoconut,1rwgu5w
 EI,u_Loud_Noise1959,🌍 PROJEKT THERMOSAND - DREI GENIALE IDEEN Treibsand-Müllplatz + Sandbohrer + Klimaregulator,"
 
 ```
@@ -1222,17 +1399,28 @@ Ideea era ca voiam sa va intreb in concelator am mazare si mix legume pentru tig
   
 Va astept comentarile in sectiunea de jos promit ca raspund la toti , va pupic jos pe toti.
 
-",0,9,https://www.reddit.com/r/CasualRO/comments/1rwgp4s/alergat_revenirea_reveniri_la_postare/,https://www.reddit.com/r/CasualRO/comments/1rwgp4s/alergat_revenirea_reveniri_la_postare/,1773775752.0,2026-03-17 19:29:12,iMillennial,1rwgp4s
+",0,14,https://www.reddit.com/r/CasualRO/comments/1rwgp4s/alergat_revenirea_reveniri_la_postare/,https://www.reddit.com/r/CasualRO/comments/1rwgp4s/alergat_revenirea_reveniri_la_postare/,1773775752.0,2026-03-17 19:29:12,iMillennial,1rwgp4s
 EI,Hevosjuorut,Ratsuoriit,"Josko täällä olisi myös heppaihmisiä, jotka tietäisi siitosoreistakin jotain..😃
 
 Eli etsin tammallani ratsuhevosoria, pari vaihtoehtoa jo korvan takana. 
 
 Ori saisi olla luonteeltaan hyvin rauhallinen, viilipytty tyyppinen, joka olisi myös periyttänyt tätä käytöstä. Käytännössä ei väliä onko koulu-, vai estepuolen ori. Varsasta tarkoitus tulla perheenjäsen, jolla voi kuitenkin harrastaa laadukkaammin.
 
-Saisi olla ns matalaprofiilinen, oma tamma hyvin pystypäinen, pitkärunkoinen. ",3,0,https://www.reddit.com/r/Hevosjuorut/comments/1rwgkeu/ratsuoriit/,https://www.reddit.com/r/Hevosjuorut/comments/1rwgkeu/ratsuoriit/,1773775463.0,2026-03-17 19:24:23,kissanpentu99,1rwgkeu
+Saisi olla ns matalaprofiilinen, oma tamma hyvin pystypäinen, pitkärunkoinen. ",3,2,https://www.reddit.com/r/Hevosjuorut/comments/1rwgkeu/ratsuoriit/,https://www.reddit.com/r/Hevosjuorut/comments/1rwgkeu/ratsuoriit/,1773775463.0,2026-03-17 19:24:23,kissanpentu99,1rwgkeu
+EI,WomenRO,Soț-băiatul mamei,"Heei! 
+
+27F sunt căsătorită de un an cu soțul meu 31M, împreună de 3 ani. Până nu de mult, nu mă deranjau deloc socrii mei, ba chiar îi vedeam persoane foarte faine și mergeam cu drag la ei. 
+De când ne-am luat un apartament care are o cameră în plus, sunt nelipsiți de la noi de acasă. Ei locuiesc în alt oraș și când vin stau câte o săptămână. Vin cam odată pe lună fiind pensionari că nu au ce face și noi mergem cel puțin un weekend pe lună la ei. Pe lângă asta îl sună zilnic sau odată la 2 zile pe soțul meu cu cameră și vorbesc cam o oră-două.
+Vara trecută am fost în concediu împreună cu socrii sub pretextul că ei nu au fost niciodată în afara țării la mare. Nu m-a deranjat prezenta lor in sine cât a fost incomod să îmi pliez programul după ei. 
+
+Acum a ajuns să mă deranjeze extrem de tare prezența lor, simt că nu mai am intimitate. Am ajuns să îmi fie frică când intru în dormitor să nu zic ceva nepotrivit de genul ""sunt excitată, vreau să facem dragoste"" în ideea că poate el e pe cameră cu soacra... în același timp o văd și pe soacra mea că mereu îl aprobă pe soțul meu, mereu îi dă dreptate, mi se pare că este manipulatoare... când plecăm de la ei se apucă de plâns în hohote, desi sotul meu are 30+.
+
+Am încercat să vorbesc cu soțul meu, însă el mi-a  întors-o că nu e vina lui că nu am eu o relație la fel de bună cu ai mei și răspunsul lui a fost că și părinții mei sunt bineveniți la noi în casă sau că vom face un concediu și cu ai mei... însă ai mei au joburi full time și locuiesc la țară, chiar dacă si-ar lua concediu si ar lasa animale, gradina in grija cuiva, tot nu ar avea stare sa stea pe capul meu cu zilele cat eu oricum mare parte din zi sunt plecata la muncă. 
+
+Sincer, nu știu cum să abordez situația. Nu imi doresc ca relația dintre noi sa se schimbe, dar vreau să rărim interacțiunea cu părinții lui. Nu știu ce motiv aș putea găsi să nu mai vină mereu pe la noi. Cel mai tare m-a deranjat recent că am aflat că sunt însărcinată și nu au trecut 5 minute că i-a sunat pe ai lui să le zică. Nu am putut avea un moment al nostru, o seară a noastră... ba mai mult, ei s-au oferit ca dupa ce voi naste sa stea o luna pe la mine sa ma ajute cu bebelusul, iar cand ma voi întoarce la munca, nu se va pune pb de creșă, că se poate muta soacra la noi să se ocupe de el până va merge la grădiniță.. ca oricum mama mea nu va putea veni că ea mai are 13 ani pana iese la pensie. Am rămas fără cuvinte in acele momente... ",10,16,https://www.reddit.com/r/WomenRO/comments/1rwgjty/soțbăiatul_mamei/,https://www.reddit.com/r/WomenRO/comments/1rwgjty/soțbăiatul_mamei/,1773775429.0,2026-03-17 19:23:49,Bodetellapertussis,1rwgjty
 EI,Roumanie,"Inca un citat care speram ca nu va imbatrani ca branza in Minunata si Fascinanta Romanie: ""sa fii inamicul americii e periculos, dar sa fii prietenul ei e fatal""... dovada stau mormintele lui gaddafi, saddam, ceasca, noriega, si multi alti ante-prieteni ai americii...🤦‍♂️",,2,1,https://i.redd.it/rgxkqgxvonpg1.jpeg,https://www.reddit.com/r/Roumanie/comments/1rwgixr/inca_un_citat_care_speram_ca_nu_va_imbatrani_ca/,1773775380.0,2026-03-17 19:23:00,TreianABCsexcu,1rwgixr
 EI,fantasybooks,"How do I make one of these, please?","I'd love to make one, but I don’t know how. Can anyone help?
-",1,4,https://i.redd.it/49dq4xcjonpg1.jpeg,https://www.reddit.com/r/fantasybooks/comments/1rwggx0/how_do_i_make_one_of_these_please/,1773775266.0,2026-03-17 19:21:06,Impossible_Bug_3521,1rwggx0
+",3,4,https://i.redd.it/49dq4xcjonpg1.jpeg,https://www.reddit.com/r/fantasybooks/comments/1rwggx0/how_do_i_make_one_of_these_please/,1773775266.0,2026-03-17 19:21:06,Impossible_Bug_3521,1rwggx0
 EI,u_Sad_Afternoon5461,Mikuuuu,"https://preview.redd.it/2njkdon8onpg1.jpg?width=480&format=pjpg&auto=webp&s=aa24bdd2b9aa02884343ba649ad342fcc302cf26
 
 ",1,0,https://www.reddit.com/r/u_Sad_Afternoon5461/comments/1rwgf7k/mikuuuu/,https://www.reddit.com/r/u_Sad_Afternoon5461/comments/1rwgf7k/mikuuuu/,1773775165.0,2026-03-17 19:19:25,Sad_Afternoon5461,1rwgf7k
@@ -1248,13 +1436,13 @@ Eli asun kotona äitini kanssa, ja hän haluaa siis että olen aivan täydelline
 
   Kun olin nuorempi niin hän on mua lyönyt, potkinut ja tukistanut, mutta se on jäänyt jo vähemmälle. Muistan kaikki aamut kun jouduin heräämään hänen raivohuutoon, kun olin tehnyt jonkun pienenkin virheen.
 
-Asiasta kukkaruukkuun: Hän on välillä mukava, saan asua hänen luonaan, hän maksaa minun vaatteet ja harrastukset yms, joten onko minulla oikeus olla hänelle jotenkin vihainen vai pitääkö vaan antaa olla, kun hän kuitenkin huolehtii minusta? Ei oo kivaa olla kotona, mutta ei oo muutakaan. Mitä tekisin ):",6,6,https://www.reddit.com/r/snappijuorutofftopic/comments/1rwgemi/ilkeä_äiti/,https://www.reddit.com/r/snappijuorutofftopic/comments/1rwgemi/ilkeä_äiti/,1773775132.0,2026-03-17 19:18:52,PopNo5170,1rwgemi
+Asiasta kukkaruukkuun: Hän on välillä mukava, saan asua hänen luonaan, hän maksaa minun vaatteet ja harrastukset yms, joten onko minulla oikeus olla hänelle jotenkin vihainen vai pitääkö vaan antaa olla, kun hän kuitenkin huolehtii minusta? Ei oo kivaa olla kotona, mutta ei oo muutakaan. Mitä tekisin ):",11,12,https://www.reddit.com/r/snappijuorutofftopic/comments/1rwgemi/ilkeä_äiti/,https://www.reddit.com/r/snappijuorutofftopic/comments/1rwgemi/ilkeä_äiti/,1773775132.0,2026-03-17 19:18:52,PopNo5170,1rwgemi
 EI,botecodoreddit,Sabedoria Oriental,,1,0,https://v.redd.it/yvvmj1v0onpg1,https://www.reddit.com/r/botecodoreddit/comments/1rwgead/sabedoria_oriental/,1773775113.0,2026-03-17 19:18:33,Tonho_O_Faxineiro,1rwgead
 EI,PTCGPocketTrading,LF: RR Leafeon FT: Binder,I have been looking extensively for leafeon but that bastard is sneaky,1,1,https://i.redd.it/6dj0ryk2onpg1.jpeg,https://www.reddit.com/r/PTCGPocketTrading/comments/1rwge6d/lf_rr_leafeon_ft_binder/,1773775106.0,2026-03-17 19:18:26,Weekly-Ad567,1rwge6d
-EI,AlexandriaEgy,طب الحمد لله انك قولت من الاول,احترسوا من الاخت دي يا جماعة ،شكله كان نفسه يبقا ترانس,1,6,https://i.redd.it/sw6wjmfunnpg1.jpeg,https://www.reddit.com/r/AlexandriaEgy/comments/1rwgcwb/طب_الحمد_لله_انك_قولت_من_الاول/,1773775033.0,2026-03-17 19:17:13,OrnerySandwich5058,1rwgcwb
-EI,baseballcards,Numbered singles FS,PWE $1 BMWT $5 all OBO dm me with any questions!!,1,1,https://www.reddit.com/gallery/1rwgckw,https://www.reddit.com/r/baseballcards/comments/1rwgckw/numbered_singles_fs/,1773775015.0,2026-03-17 19:16:55,Chipmunk_Connect,1rwgckw
+EI,AlexandriaEgy,طب الحمد لله انك قولت من الاول,احترسوا من الاخت دي يا جماعة ،شكله كان نفسه يبقا ترانس,1,11,https://i.redd.it/sw6wjmfunnpg1.jpeg,https://www.reddit.com/r/AlexandriaEgy/comments/1rwgcwb/طب_الحمد_لله_انك_قولت_من_الاول/,1773775033.0,2026-03-17 19:17:13,OrnerySandwich5058,1rwgcwb
+EI,baseballcards,Numbered singles FS,PWE $1 BMWT $5 all OBO dm me with any questions!!,2,1,https://www.reddit.com/gallery/1rwgckw,https://www.reddit.com/r/baseballcards/comments/1rwgckw/numbered_singles_fs/,1773775015.0,2026-03-17 19:16:55,Chipmunk_Connect,1rwgckw
 EI,lolaspicks,Lola's NCAAB Picks of the Day,,1,0,https://i.redd.it/y6x1i39bnnpg1.jpeg,https://www.reddit.com/r/lolaspicks/comments/1rwg9oe/lolas_ncaab_picks_of_the_day/,1773774850.0,2026-03-17 19:14:10,SoCalStreamz,1rwg9oe
-EI,france,"« A vendre, enfant de 5 ans, docile et calme » : au procès du génocide des yézidis, plongée dans les ténèbres de l’EI",,22,3,https://www.lemonde.fr/societe/article/2026/03/17/jeune-esclave-de-10-ans-vierge-au-proces-du-genocide-des-yezidis-plongee-dans-les-tenebres-de-l-etat-islamique_6671762_3224.html,https://www.reddit.com/r/france/comments/1rwg9nj/a_vendre_enfant_de_5_ans_docile_et_calme_au/,1773774849.0,2026-03-17 19:14:09,Fhredd,1rwg9nj
+EI,france,"« A vendre, enfant de 5 ans, docile et calme » : au procès du génocide des yézidis, plongée dans les ténèbres de l’EI",,40,5,https://www.lemonde.fr/societe/article/2026/03/17/jeune-esclave-de-10-ans-vierge-au-proces-du-genocide-des-yezidis-plongee-dans-les-tenebres-de-l-etat-islamique_6671762_3224.html,https://www.reddit.com/r/france/comments/1rwg9nj/a_vendre_enfant_de_5_ans_docile_et_calme_au/,1773774849.0,2026-03-17 19:14:09,Fhredd,1rwg9nj
 EI,PTCGPocketTrading,"LF: Oak, Cyrus, Sabrina, Irida",Copy cat and gio only for Cyrus and oak. Thanks.,2,8,https://www.reddit.com/gallery/1rwg8z7,https://www.reddit.com/r/PTCGPocketTrading/comments/1rwg8z7/lf_oak_cyrus_sabrina_irida/,1773774810.0,2026-03-17 19:13:30,Wolosaur,1rwg8z7
 EI,VictoriaBC,"Seeking dental care for a friend in pain, ei, no address.","I was hoping someone could help me find some new avenues to explore.
 
@@ -1276,7 +1464,7 @@ Even the hospital said they might only be able to give him antibiotics in that c
 
 If anyone at all could provide something to look into, I would really appreciate it. I would pay for it myself but PWD doesn't exactly give you spending money. 
 
-Thanks for reading! ",2,1,https://www.reddit.com/r/VictoriaBC/comments/1rwg73q/seeking_dental_care_for_a_friend_in_pain_ei_no/,https://www.reddit.com/r/VictoriaBC/comments/1rwg73q/seeking_dental_care_for_a_friend_in_pain_ei_no/,1773774707.0,2026-03-17 19:11:47,Witty_Jaguar4638,1rwg73q
+Thanks for reading! ",0,2,https://www.reddit.com/r/VictoriaBC/comments/1rwg73q/seeking_dental_care_for_a_friend_in_pain_ei_no/,https://www.reddit.com/r/VictoriaBC/comments/1rwg73q/seeking_dental_care_for_a_friend_in_pain_ei_no/,1773774707.0,2026-03-17 19:11:47,Witty_Jaguar4638,1rwg73q
 EI,Sapmi,Maastohiihtokausi on loppumassa pohjoisessa ennätyksellisen varhain – kaikkia latuja ei voida enää kunnostaa,,1,0,https://yle.fi/a/74-20215720?origin=rss,https://www.reddit.com/r/Sapmi/comments/1rwg638/maastohiihtokausi_on_loppumassa_pohjoisessa/,1773774648.0,2026-03-17 19:10:48,kimme,1rwg638
 EI,CrimsonDesert,"Wait, I can't play Crimson Desert on release date because it releases at 11 pm for me? Eh?","Hi there,
 
@@ -1288,8 +1476,8 @@ I understood I wouldn't be able to play tomorrow, because the day 1 patch releas
 
 But I just got told by a friend that the patch for us doesn't release till 11pm... WHAT?
 
-I'm in **CET** ([**Central European Time**](https://www.google.com/search?q=Central+European+Time&client=firefox-b-d&hs=79rU&sca_esv=df3bf9aa0d357044&sxsrf=ANbL-n67XB5uuNH1OMu4plE1L_GJNux3XA%3A1773774395858&ei=O6a5abyGNJmN9u8P1N2pkAM&biw=1248&bih=599&ved=2ahUKEwiIyrPJ0KeTAxUagf0HHQLBB9YQgK4QegQIARAC&uact=5&oq=Midden-Europese+standaardtijd+engels&gs_lp=Egxnd3Mtd2l6LXNlcnAiJE1pZGRlbi1FdXJvcGVzZSBzdGFuZGFhcmR0aWpkIGVuZ2VsczIGEAAYFhgeMgUQABjvBTIFEAAY7wUyBRAAGO8FSNQOUJ4EWIsOcAJ4AZABAJgBXKABmgSqAQE3uAEDyAEA-AEC-AEBmAIJoAK4BMICChAAGEcY1gQYsAPCAg0QABiABBiKBRhDGLADwgIFEAAYgATCAggQABiABBiiBJgDAOIDBRIBMSBAiAYBkAYKkgcBOaAHqhOyBwE3uAevBMIHBTAuOC4xyAcSgAgB&sclient=gws-wiz-serp&mstk=AUtExfAUt3o1u14UP3d1Yq6cFxR6QlFb5Rag4vhdiWTjVO3_HlI9pYA4CBPbKmAqY7IGlp67qobnWqzBUZubx_JlNQXGwv-bvAR2tGSrhwb-oze7B0PabFkjV5ezASizG9ad11iyRJcT2AYdMf7PaHd66mszyRs6JT19OmjNhmipL5li7KUD_qFwWJOJUWhDVjJytOoAlDNxtbqgEmemCrnmGUi4qvdK93FGVtK4Th6h-8BQO8QBLE3YrbNDKwODkX-zZKD4kR0jvS_tyd-LiKLJYEs0&csui=3)**)** and does this really mean I can't till basically friday? =/ If so, isn't that really silly?? It's a singleplayer game, let me enjoy it on release day =/",0,19,https://www.reddit.com/r/CrimsonDesert/comments/1rwg3ab/wait_i_cant_play_crimson_desert_on_release_date/,https://www.reddit.com/r/CrimsonDesert/comments/1rwg3ab/wait_i_cant_play_crimson_desert_on_release_date/,1773774485.0,2026-03-17 19:08:05,marcusz88,1rwg3ab
-EI,MiniGTIndia,So guess what's next from AO Racing and TSM / Mini GT?,Hold on tight and enjoy the future ride. AO Racing and TSM/MiniGT aren't done with #MGT01218. There's more to come. ,2,3,https://www.reddit.com/gallery/1rwg2mz,https://www.reddit.com/r/MiniGTIndia/comments/1rwg2mz/so_guess_whats_next_from_ao_racing_and_tsm_mini_gt/,1773774447.0,2026-03-17 19:07:27,Hotwheels_Premium,1rwg2mz
+I'm in **CET** ([**Central European Time**](https://www.google.com/search?q=Central+European+Time&client=firefox-b-d&hs=79rU&sca_esv=df3bf9aa0d357044&sxsrf=ANbL-n67XB5uuNH1OMu4plE1L_GJNux3XA%3A1773774395858&ei=O6a5abyGNJmN9u8P1N2pkAM&biw=1248&bih=599&ved=2ahUKEwiIyrPJ0KeTAxUagf0HHQLBB9YQgK4QegQIARAC&uact=5&oq=Midden-Europese+standaardtijd+engels&gs_lp=Egxnd3Mtd2l6LXNlcnAiJE1pZGRlbi1FdXJvcGVzZSBzdGFuZGFhcmR0aWpkIGVuZ2VsczIGEAAYFhgeMgUQABjvBTIFEAAY7wUyBRAAGO8FSNQOUJ4EWIsOcAJ4AZABAJgBXKABmgSqAQE3uAEDyAEA-AEC-AEBmAIJoAK4BMICChAAGEcY1gQYsAPCAg0QABiABBiKBRhDGLADwgIFEAAYgATCAggQABiABBiiBJgDAOIDBRIBMSBAiAYBkAYKkgcBOaAHqhOyBwE3uAevBMIHBTAuOC4xyAcSgAgB&sclient=gws-wiz-serp&mstk=AUtExfAUt3o1u14UP3d1Yq6cFxR6QlFb5Rag4vhdiWTjVO3_HlI9pYA4CBPbKmAqY7IGlp67qobnWqzBUZubx_JlNQXGwv-bvAR2tGSrhwb-oze7B0PabFkjV5ezASizG9ad11iyRJcT2AYdMf7PaHd66mszyRs6JT19OmjNhmipL5li7KUD_qFwWJOJUWhDVjJytOoAlDNxtbqgEmemCrnmGUi4qvdK93FGVtK4Th6h-8BQO8QBLE3YrbNDKwODkX-zZKD4kR0jvS_tyd-LiKLJYEs0&csui=3)**)** and does this really mean I can't till basically friday? =/ If so, isn't that really silly?? It's a singleplayer game, let me enjoy it on release day =/",0,25,https://www.reddit.com/r/CrimsonDesert/comments/1rwg3ab/wait_i_cant_play_crimson_desert_on_release_date/,https://www.reddit.com/r/CrimsonDesert/comments/1rwg3ab/wait_i_cant_play_crimson_desert_on_release_date/,1773774485.0,2026-03-17 19:08:05,marcusz88,1rwg3ab
+EI,MiniGTIndia,So guess what's next from AO Racing and TSM / Mini GT?,Hold on tight and enjoy the future ride. AO Racing and TSM/MiniGT aren't done with #MGT01218. There's more to come. ,2,4,https://www.reddit.com/gallery/1rwg2mz,https://www.reddit.com/r/MiniGTIndia/comments/1rwg2mz/so_guess_whats_next_from_ao_racing_and_tsm_mini_gt/,1773774447.0,2026-03-17 19:07:27,Hotwheels_Premium,1rwg2mz
 EI,elearning,Top 10 E-Learning Service Providers in India. These companies actually build courses across India for all the institutions.,"Whenever people talk about e-learning in India, the conversation usually revolves around big edtech platforms for students.
 
  But something interesting is happening behind the scenes.
@@ -2248,19 +2436,19 @@ Item | Price
 [Zeus Mk II MR +Solstice Paint]: https://i.imgur.com/KhQNUDZ.jpg",2,1,https://www.reddit.com/r/Starcitizen_trades/comments/1rwfx59/wts_freeman_shipyard_store_vol4_oc_lti_moth/,https://www.reddit.com/r/Starcitizen_trades/comments/1rwfx59/wts_freeman_shipyard_store_vol4_oc_lti_moth/,1773774140.0,2026-03-17 19:02:20,Freeman_Alex,1rwfx59
 EI,eaglercraft,first time :),"https://preview.redd.it/ujkufkdpknpg1.png?width=1920&format=png&auto=webp&s=5bcc6a347d0546a65e6d9f454d0c39064fcb4fd5
 
-is this good progress for 2 hours?",0,3,https://www.reddit.com/r/eaglercraft/comments/1rwfubb/first_time/,https://www.reddit.com/r/eaglercraft/comments/1rwfubb/first_time/,1773773991.0,2026-03-17 18:59:51,Puzzleheaded_Key6217,1rwfubb
+is this good progress for 2 hours?",1,3,https://www.reddit.com/r/eaglercraft/comments/1rwfubb/first_time/,https://www.reddit.com/r/eaglercraft/comments/1rwfubb/first_time/,1773773991.0,2026-03-17 18:59:51,Puzzleheaded_Key6217,1rwfubb
 EI,albiononline,Ahh?,Why o cant craft this weapon? Even with the ingredients o cant,1,1,https://i.redd.it/t7e8eiemknpg1.jpeg,https://www.reddit.com/r/albiononline/comments/1rwftjp/ahh/,1773773946.0,2026-03-17 18:59:06,VelhoDoMar,1rwftjp
 EI,MomazosBeelce1,.,,4,0,https://i.redd.it/oizkvy7dknpg1.jpeg,https://www.reddit.com/r/MomazosBeelce1/comments/1rwfs01/_/,1773773859.0,2026-03-17 18:57:39,Level_Breadfruit_624,1rwfs01
-EI,words,Constantly misspelled words,"What words do you tend to misspelled throughout your life even after looking up the correct spelling? For me it’s always the words with -ei or -ie in them like *receive, achieve, deceive, retrieve*. Then there’s the multiple double consonants like *unnecessary, bookkeeping, and addressee*. (I’m getting spelling errors as I tried to spell those words lol).",2,7,https://www.reddit.com/r/words/comments/1rwfrj8/constantly_misspelled_words/,https://www.reddit.com/r/words/comments/1rwfrj8/constantly_misspelled_words/,1773773831.0,2026-03-17 18:57:11,Turbulent_Length3341,1rwfrj8
+EI,words,Constantly misspelled words,"What words do you tend to misspelled throughout your life even after looking up the correct spelling? For me it’s always the words with -ei or -ie in them like *receive, achieve, deceive, retrieve*. Then there’s the multiple double consonants like *unnecessary, bookkeeping, and addressee*. (I’m getting spelling errors as I tried to spell those words lol).",1,8,https://www.reddit.com/r/words/comments/1rwfrj8/constantly_misspelled_words/,https://www.reddit.com/r/words/comments/1rwfrj8/constantly_misspelled_words/,1773773831.0,2026-03-17 18:57:11,Turbulent_Length3341,1rwfrj8
 EI,repollitos_criptidos,XD,,4,0,https://i.redd.it/miymmts8knpg1.jpeg,https://www.reddit.com/r/repollitos_criptidos/comments/1rwfr8u/xd/,1773773819.0,2026-03-17 18:56:59,Level_Breadfruit_624,1rwfr8u
-EI,DylanteroYT,.,,4,0,https://i.redd.it/enmdhr26knpg1.jpeg,https://www.reddit.com/r/DylanteroYT/comments/1rwfqsq/_/,1773773793.0,2026-03-17 18:56:33,Level_Breadfruit_624,1rwfqsq
+EI,DylanteroYT,.,,5,0,https://i.redd.it/enmdhr26knpg1.jpeg,https://www.reddit.com/r/DylanteroYT/comments/1rwfqsq/_/,1773773793.0,2026-03-17 18:56:33,Level_Breadfruit_624,1rwfqsq
 EI,programare,Not another AI thread,"După ce m-am jucat puțin cu agenții Claude și Gemini m-a lovit direct un gol în stomac din viitor. Aparent dacă calculele actuale zic că un programator acum cu abonament la un context prelungit de-al lor, acoperă workloadul a 5 seniori… și din ce m-am jucat puțin cu prompturile cu ei, pare realist, dar doar pentru dezvoltări noi viteza asta de dev e ridicată, pentru debugging/fixing e nevoie de foarte mult context și s-ar putea să afecteze viteza de livrare. 
 
 Deci să zicem că piața actuala de dezvoltare e 60-70% mentenanță și enhancement pentru aplicații actuale, la număr îmi dă că jumătate din posturi se eliberează.. nu mai zic că posturile de devops cloud n staff engineering cu manual interventions se duc primele… se va repeta povestea cu promovarea programatorilor și cu activitatea de testare, și programatorii vor face și devops și solution engineering cu un agent, și se va face relativ ușor… 
 
 Ce draci vor face cealaltă jumătate de programatori care nu vor fi printre cei convertiți la prompting engineer? 
 
-Să nu mai vorbim de criza economică aferentă… ",1,15,https://www.reddit.com/r/programare/comments/1rwfqdx/not_another_ai_thread/,https://www.reddit.com/r/programare/comments/1rwfqdx/not_another_ai_thread/,1773773771.0,2026-03-17 18:56:11,TurbulentGrowth9814,1rwfqdx
+Să nu mai vorbim de criza economică aferentă… ",0,19,https://www.reddit.com/r/programare/comments/1rwfqdx/not_another_ai_thread/,https://www.reddit.com/r/programare/comments/1rwfqdx/not_another_ai_thread/,1773773771.0,2026-03-17 18:56:11,TurbulentGrowth9814,1rwfqdx
 EI,vedicastrologyforu,"Any predictions for my career ,married life spouse nature",,1,1,https://i.redd.it/98c4601zjnpg1.jpeg,https://www.reddit.com/r/vedicastrologyforu/comments/1rwfpnz/any_predictions_for_my_career_married_life_spouse/,1773773729.0,2026-03-17 18:55:29,Western-Might-5276,1rwfpnz
 EI,Free_Vedic_Astro,"Any predictions for my career ,married life spouse nature",,1,1,https://i.redd.it/5zbnniqtjnpg1.jpeg,https://www.reddit.com/r/Free_Vedic_Astro/comments/1rwforg/any_predictions_for_my_career_married_life_spouse/,1773773679.0,2026-03-17 18:54:39,Western-Might-5276,1rwforg
 EI,IndianVedicAstrology,"Any predictions for my career ,married life spouse nature",,1,0,https://i.redd.it/zzzljkbpjnpg1.jpeg,https://www.reddit.com/r/IndianVedicAstrology/comments/1rwfo0y/any_predictions_for_my_career_married_life_spouse/,1773773638.0,2026-03-17 18:53:58,Western-Might-5276,1rwfo0y
@@ -2319,7 +2507,7 @@ Shipping will be default USPS priority for $11 unless it wont fit in a small fla
 
 I accept Zelle (preferred), Paypal/Venmo (only friends and family with ***no notes*** or just a "".""), *might* take Crypto depending on what you're buying.
 
-2fa secured and you should be too. Comment first before chatting. Open to reasonable offers if buying several items (***no lowballs please*** If you don't like my prices move along). Sold items will be listed in the comments.",3,4,https://www.reddit.com/r/Pmsforsale/comments/1rwfnzt/wts_afternoon_silver_kookaburras_libertad_slabs/,https://www.reddit.com/r/Pmsforsale/comments/1rwfnzt/wts_afternoon_silver_kookaburras_libertad_slabs/,1773773636.0,2026-03-17 18:53:56,Shittypasswordmemory,1rwfnzt
+2fa secured and you should be too. Comment first before chatting. Open to reasonable offers if buying several items (***no lowballs please*** If you don't like my prices move along). Sold items will be listed in the comments.",2,5,https://www.reddit.com/r/Pmsforsale/comments/1rwfnzt/wts_afternoon_silver_kookaburras_libertad_slabs/,https://www.reddit.com/r/Pmsforsale/comments/1rwfnzt/wts_afternoon_silver_kookaburras_libertad_slabs/,1773773636.0,2026-03-17 18:53:56,Shittypasswordmemory,1rwfnzt
 EI,astroanalysis,"Any predictions for my career ,married life spouse nature",,1,1,https://i.redd.it/zydhpopjjnpg1.jpeg,https://www.reddit.com/r/astroanalysis/comments/1rwfn3u/any_predictions_for_my_career_married_life_spouse/,1773773585.0,2026-03-17 18:53:05,Western-Might-5276,1rwfn3u
 EI,PersonalFinanceCanada,Tax implications of working for a US company as a contractor & full time,"Considering an offer from a US software company that has Canadian clients that need to be managed (by me). 
 
@@ -2335,10 +2523,10 @@ Anything I should ask the business for / to clarify? And does this make me worse
 
 Want to make sure I don't end up making less money with a new job due to tax status (currently make about 200k CAD before tax). 
 
-Has anyone done this before?",1,1,https://www.reddit.com/r/PersonalFinanceCanada/comments/1rwfk9y/tax_implications_of_working_for_a_us_company_as_a/,https://www.reddit.com/r/PersonalFinanceCanada/comments/1rwfk9y/tax_implications_of_working_for_a_us_company_as_a/,1773773420.0,2026-03-17 18:50:20,Quiet-Literature2251,1rwfk9y
+Has anyone done this before?",1,2,https://www.reddit.com/r/PersonalFinanceCanada/comments/1rwfk9y/tax_implications_of_working_for_a_us_company_as_a/,https://www.reddit.com/r/PersonalFinanceCanada/comments/1rwfk9y/tax_implications_of_working_for_a_us_company_as_a/,1773773420.0,2026-03-17 18:50:20,Quiet-Literature2251,1rwfk9y
 EI,Austin,At least 2 bottlenecks happening on I35 Southbound right now (1:40PM),"I'm driving north on I35 and just saw a couple incident that may halt your journey driving south on 35, a bad pick up truck crash on the left lane right across KLBJs radio station, and a stalled car on the right shoulder close to the exit ramp to Braker Ln, so plan accordingly
 
-Me personally, I’m stuck on the frontage road trying to pull into Howard Ln, so I have enough time to post this in a safe way since traffic is almost still",0,8,https://i.redd.it/go38tdlqinpg1.jpeg,https://www.reddit.com/r/Austin/comments/1rwfiec/at_least_2_bottlenecks_happening_on_i35/,1773773312.0,2026-03-17 18:48:32,AmigoATX,1rwfiec
+Me personally, I’m stuck on the frontage road trying to pull into Howard Ln, so I have enough time to post this in a safe way since traffic is almost still",0,10,https://i.redd.it/go38tdlqinpg1.jpeg,https://www.reddit.com/r/Austin/comments/1rwfiec/at_least_2_bottlenecks_happening_on_i35/,1773773312.0,2026-03-17 18:48:32,AmigoATX,1rwfiec
 EI,spongebob,(Possibly) Every song that was officially sung and released by the GERMAN Spongebob cast and their originals in a single table.,"|**Parody / Cover**| | |Original|Artist|Original Lyrics are German?| |Honorable Mention Samples|
 |:-|:-|:-|:-|:-|:-|:-|:-|
 |\*\* \*\*| | | | | | | |
@@ -2547,9 +2735,9 @@ They're all available on Tidal, Spotify, etc. (world wide i hope)
 Feel free to tell me if you notice any errors or missing songs in this list.",1,0,https://www.reddit.com/r/spongebob/comments/1rwfh9h/possibly_every_song_that_was_officially_sung_and/,https://www.reddit.com/r/spongebob/comments/1rwfh9h/possibly_every_song_that_was_officially_sung_and/,1773773247.0,2026-03-17 18:47:27,RookyStarfish78,1rwfh9h
 EI,Roumanie,"Sentință a Judecătoriei Iași, după ce a refuzat să aprobe o căsătorie: „Iubirea nu este suficientă pentru a întemeia o familie” [mai contează și vârsta]",">Conform legii, căsătoria este permisă doar între persoane care au împlinit 18 ani. Contractarea unei căsătorii este totuși permisă și începând cu 16 ani, cu avizul favorabil al unui medic, cu încuviințarea părinților și cu aprobarea instanței de tutelă. Acesta a fost și motivul pentru care Ionuț A. s-a adresat Judecătoriei. În cererea sa, bărbatul a arătat că întreține o relație de prietenie și de dragoste de aproximativ un an și două luni cu I.M.B., o fată aflată în sistemul de protecție a copilului și că dorește să își construiască un viitor cu aceasta. Prezentă în instanță, fata a precizat și ea că vrea să se mărite cu Ionuț A., iar reprezentanții Direcției Generale de Asistență Socială nu au avut nici ei nimic împotrivă.
 
->Deși toți cei implicați erau de acord cu căsătoria dintre cei doi, decizia judecătorilor avea să fie alta. Magistrații au apreciat că doar Ionuț A., în vârstă de **32 de ani** și având deja un copil minor dintr-o altă relație, are maturitatea necesară pentru a se căsători. Fata, în vârstă de **16 ani și 7 luni**, se afla la început de drum, fără a ști prea multe despre lume și viață. „Instanța trebuie să țină cont de faptul că, la această vârstă, *minorul nu a dobândit maturitatea necesară pentru a înțelege pe deplin implicațiile unei astfel de decizii. Căsătoria presupune angajamente pe termen lung, precum și responsabilități semnificative. Simpla existență a unei relații de iubire, fără o justificare solidă din perspectiva maturității și a capacității de înțelegere a repercusiunilor unei căsătorii, nu este suficient pentru a autoriza încheierea căsătoriei*”, au explicat judecătorii decizia de respingere a solicitării. Sentința Judecătoriei nu este definitivă, ea putând fi contestată în apel, în următoarele 30 de zile.",3,6,https://www.ziaruldeiasi.ro/stiri/sentinta-a-judecatoriei-iasi-dupa-ce-a-refuzat-sa-aprobe-o-casatorie-iubirea-nu-este-suficienta-pentru-a-intemeia-o-familie--1843411.html,https://www.reddit.com/r/Roumanie/comments/1rwfgzp/sentință_a_judecătoriei_iași_după_ce_a_refuzat_să/,1773773232.0,2026-03-17 18:47:12,tumurug1582,1rwfgzp
-EI,RandomactsofAmazon2,[Thanks] for the pick me up!,,5,2,https://www.reddit.com/gallery/1rwfgpc,https://www.reddit.com/r/RandomactsofAmazon2/comments/1rwfgpc/thanks_for_the_pick_me_up/,1773773215.0,2026-03-17 18:46:55,MommaPengu,1rwfgpc
-EI,kneecap,Kneecap confirmed for Electric Castle 2026,Anyone here thinking of going? ,15,1,https://i.redd.it/r18wt4n5inpg1.jpeg,https://www.reddit.com/r/kneecap/comments/1rwffyn/kneecap_confirmed_for_electric_castle_2026/,1773773174.0,2026-03-17 18:46:14,mashyimaro,1rwffyn
+>Deși toți cei implicați erau de acord cu căsătoria dintre cei doi, decizia judecătorilor avea să fie alta. Magistrații au apreciat că doar Ionuț A., în vârstă de **32 de ani** și având deja un copil minor dintr-o altă relație, are maturitatea necesară pentru a se căsători. Fata, în vârstă de **16 ani și 7 luni**, se afla la început de drum, fără a ști prea multe despre lume și viață. „Instanța trebuie să țină cont de faptul că, la această vârstă, *minorul nu a dobândit maturitatea necesară pentru a înțelege pe deplin implicațiile unei astfel de decizii. Căsătoria presupune angajamente pe termen lung, precum și responsabilități semnificative. Simpla existență a unei relații de iubire, fără o justificare solidă din perspectiva maturității și a capacității de înțelegere a repercusiunilor unei căsătorii, nu este suficient pentru a autoriza încheierea căsătoriei*”, au explicat judecătorii decizia de respingere a solicitării. Sentința Judecătoriei nu este definitivă, ea putând fi contestată în apel, în următoarele 30 de zile.",4,6,https://www.ziaruldeiasi.ro/stiri/sentinta-a-judecatoriei-iasi-dupa-ce-a-refuzat-sa-aprobe-o-casatorie-iubirea-nu-este-suficienta-pentru-a-intemeia-o-familie--1843411.html,https://www.reddit.com/r/Roumanie/comments/1rwfgzp/sentință_a_judecătoriei_iași_după_ce_a_refuzat_să/,1773773232.0,2026-03-17 18:47:12,tumurug1582,1rwfgzp
+EI,RandomactsofAmazon2,[Thanks] for the pick me up!,,6,4,https://www.reddit.com/gallery/1rwfgpc,https://www.reddit.com/r/RandomactsofAmazon2/comments/1rwfgpc/thanks_for_the_pick_me_up/,1773773215.0,2026-03-17 18:46:55,MommaPengu,1rwfgpc
+EI,kneecap,Kneecap confirmed for Electric Castle 2026,Anyone here thinking of going? ,17,1,https://i.redd.it/r18wt4n5inpg1.jpeg,https://www.reddit.com/r/kneecap/comments/1rwffyn/kneecap_confirmed_for_electric_castle_2026/,1773773174.0,2026-03-17 18:46:14,mashyimaro,1rwffyn
 EI,abletonlive,"I'm Novice, Need Help","I have just started with ableton, never done anything related to music production.
 
 IDK what happened or what button I clicked I stopped receiving sound from my timeline/whatever I have created.
@@ -2561,11 +2749,11 @@ My screenshot if helps.
 https://preview.redd.it/g6amaxu5inpg1.png?width=1919&format=png&auto=webp&s=e5bf10e754d9991643620d650c5894e2dd879afb
 
   
-Lemme know if you need anything.",1,8,https://www.reddit.com/r/abletonlive/comments/1rwffap/im_novice_need_help/,https://www.reddit.com/r/abletonlive/comments/1rwffap/im_novice_need_help/,1773773137.0,2026-03-17 18:45:37,Mobile7772,1rwffap
+Lemme know if you need anything.",1,10,https://www.reddit.com/r/abletonlive/comments/1rwffap/im_novice_need_help/,https://www.reddit.com/r/abletonlive/comments/1rwffap/im_novice_need_help/,1773773137.0,2026-03-17 18:45:37,Mobile7772,1rwffap
 EI,China_irl,李老师的意思就是，有没有这回事儿你给个回应,"毕竟李老师影响力在那儿摆着，传播能力这么强，一下子基本上大家都知道了。
 
-简简单单吃个瓜。",2,2,https://i.redd.it/7rq30guchnpg1.png,https://www.reddit.com/r/China_irl/comments/1rwfba1/李老师的意思就是有没有这回事儿你给个回应/,1773772905.0,2026-03-17 18:41:45,Training-Fan-7670,1rwfba1
-EI,snappisensuroimat0n,Pääseekö puukukka irkkukukka huomenna äidilleen?,Huomenna olisi tarkoitus lähteä äidilleen. Kysymys kuuluukin: pääseekö irkkukukka ylös sängystä junaan? Kyllä/ei?,34,16,https://i.redd.it/kh6431gugnpg1.jpeg,https://www.reddit.com/r/snappisensuroimat0n/comments/1rwf77f/pääseekö_puukukka_irkkukukka_huomenna_äidilleen/,1773772675.0,2026-03-17 18:37:55,AadaKrigsman2025,1rwf77f
+简简单单吃个瓜。",2,3,https://i.redd.it/7rq30guchnpg1.png,https://www.reddit.com/r/China_irl/comments/1rwfba1/李老师的意思就是有没有这回事儿你给个回应/,1773772905.0,2026-03-17 18:41:45,Training-Fan-7670,1rwfba1
+EI,snappisensuroimat0n,Pääseekö puukukka irkkukukka huomenna äidilleen?,Huomenna olisi tarkoitus lähteä äidilleen. Kysymys kuuluukin: pääseekö irkkukukka ylös sängystä junaan? Kyllä/ei?,43,17,https://i.redd.it/kh6431gugnpg1.jpeg,https://www.reddit.com/r/snappisensuroimat0n/comments/1rwf77f/pääseekö_puukukka_irkkukukka_huomenna_äidilleen/,1773772675.0,2026-03-17 18:37:55,AadaKrigsman2025,1rwf77f
 EI,autoadvies,Tweede auto voor max. €4000 (Zaandam-Amsterdam).,"Hoi allemaal,
 
 Mijn trouwe (en goedkope) Renault Clio heeft helaas de geest gegeven, dus ik ben op zoek naar een vervanger. Het wordt onze tweede auto, dus het budget is wat krapper: maximaal €4000.
@@ -2590,7 +2778,7 @@ https://www.instagram.com/p/DV\_dE5uDVZM/?img\_index=1&igsh=enN6YTJjcm51eGZt",5,
 EI,ANIMEITALIAOTAKU,🏷 #MyHeroAcademia,,1,1,https://i.redd.it/5qy00tmwfnpg1.jpeg,https://www.reddit.com/r/ANIMEITALIAOTAKU/comments/1rwf1rc/myheroacademia/,1773772360.0,2026-03-17 18:32:40,Mindless-Stable-7050,1rwf1rc
 EI,customactionfigures,Marvel Adventures Storm,"This version of Storm is inspired by her look from the Marvel Adventures Avengers series. I’ve always liked that design, and it gave me a good excuse to repurpose an older Ms. Marvel body. Finished it off with a 3D head sculpt that I painted 
 
-https://www.instagram.com/p/DV\_dE5uDVZM/?img\_index=1&igsh=enN6YTJjcm51eGZt",8,0,https://www.reddit.com/gallery/1rwf1i2,https://www.reddit.com/r/customactionfigures/comments/1rwf1i2/marvel_adventures_storm/,1773772344.0,2026-03-17 18:32:24,chase_evergreen80,1rwf1i2
+https://www.instagram.com/p/DV\_dE5uDVZM/?img\_index=1&igsh=enN6YTJjcm51eGZt",9,0,https://www.reddit.com/gallery/1rwf1i2,https://www.reddit.com/r/customactionfigures/comments/1rwf1i2/marvel_adventures_storm/,1773772344.0,2026-03-17 18:32:24,chase_evergreen80,1rwf1i2
 EI,Marvel,Marvel Adventures Storm,"This version of Storm is inspired by her look from the Marvel Adventures Avengers series. I’ve always liked that design, and it gave me a good excuse to repurpose an older Ms. Marvel body. Finished it off with a 3D head sculpt that I painted 
 
 https://www.instagram.com/p/DV\_dE5uDVZM/?img\_index=1&igsh=enN6YTJjcm51eGZt",1,0,https://www.reddit.com/gallery/1rwezge,https://www.reddit.com/r/Marvel/comments/1rwezge/marvel_adventures_storm/,1773772234.0,2026-03-17 18:30:34,chase_evergreen80,1rwezge
@@ -2615,7 +2803,7 @@ Pidetään keskustelu sivistyneenä, uteliaana ja faktapohjaisena. Tervetuloa op
 Terveisin, Kauneusmaailma-tiimi",1,0,https://www.reddit.com/r/Kauneusmaailma/comments/1rwexxj/tervetuloa_rkauneusmaailmayhteisöön_missä_tiede/,https://www.reddit.com/r/Kauneusmaailma/comments/1rwexxj/tervetuloa_rkauneusmaailmayhteisöön_missä_tiede/,1773772156.0,2026-03-17 18:29:16,Kauneusmaailma,1rwexxj
 EI,kolkata,These type of people needs to be exposed 😠,"Before listening to this you must be aware of the amrita vidyalam harrasment case . If you don't know about it plz check out this post https://www.reddit.com/r/kolkata/s/CfN7AYizZd
 
-And jara case ta jaane tader jonno ei audio recording jeta amrita vidyalam school er ekta employee korechen . Uni onek internal kotha prokash korechen and amader onar songe theke erom danob der uchit shikha deya uchit . Baba maa ra nijer chele meyeder school e pathanoi bondho kore debe agami somaye jodi sikhok ra erom beron . ",8,1,https://v.redd.it/nysc9iqeenpg1,https://www.reddit.com/r/kolkata/comments/1rwet6x/these_type_of_people_needs_to_be_exposed/,1773771883.0,2026-03-17 18:24:43,Thanotos_Theory,1rwet6x
+And jara case ta jaane tader jonno ei audio recording jeta amrita vidyalam school er ekta employee korechen . Uni onek internal kotha prokash korechen and amader onar songe theke erom danob der uchit shikha deya uchit . Baba maa ra nijer chele meyeder school e pathanoi bondho kore debe agami somaye jodi sikhok ra erom beron . ",7,1,https://v.redd.it/nysc9iqeenpg1,https://www.reddit.com/r/kolkata/comments/1rwet6x/these_type_of_people_needs_to_be_exposed/,1773771883.0,2026-03-17 18:24:43,Thanotos_Theory,1rwet6x
 EI,EI_Canada,Has anyone here gone through a 3rd escalation with Service Canada (EI maternity/parental claim)?,"I applied for maternity/parental benefits on Feb 8, but there was a mix-up with my hours—my employer initially sent the wrong info on my ROE. They’ve since submitted an amended ROE with the correct hours, and my claim was recalculated on Feb 13 (including family supplement). I was told it should be paid the following week, but that didn’t happen. 
 
 When I called back, I was advised to wait until after March 8 and then call to request an escalation (first escalation). That time passed with no callback, update, or payment.
@@ -2637,28 +2825,27 @@ I’m now being told a 3rd escalation might be the next step, and I’m wonderin
 Just trying to figure out if this is still somewhat normal or if I need to push harder at this point.
 
 Appreciate any experiences or advice 🙏",1,0,https://www.reddit.com/r/EI_Canada/comments/1rwesdp/has_anyone_here_gone_through_a_3rd_escalation/,https://www.reddit.com/r/EI_Canada/comments/1rwesdp/has_anyone_here_gone_through_a_3rd_escalation/,1773771838.0,2026-03-17 18:23:58,Peach604,1rwesdp
-EI,xmen,Marvel Adventures Storm,,5,0,https://www.reddit.com/gallery/1rwert8,https://www.reddit.com/r/xmen/comments/1rwert8/marvel_adventures_storm/,1773771803.0,2026-03-17 18:23:23,chase_evergreen80,1rwert8
+EI,xmen,Marvel Adventures Storm,,8,0,https://www.reddit.com/gallery/1rwert8,https://www.reddit.com/r/xmen/comments/1rwert8/marvel_adventures_storm/,1773771803.0,2026-03-17 18:23:23,chase_evergreen80,1rwert8
 EI,Suomi,Mielipide: Tietokoneet ja älypuhelimet pois koulutuksesta (poislukien medianlukutaito),"Ymmärrän miten 2010 ajateltiin, miten se teknologia on myös koulutuksen parantamisen avain. AI on saanut minut viime vuosina ajattelemaan toisin. Mielestäni läpi lukion ja amiksen suurin osa koulutehtävistä pitäisi tehdä kynällä ja paperilla, Poislukien esimerkiksi otsikossa mainitsemani medianlukutaito tai myös aihe jonka perustaidot koen tarpeelliseksi jokaisen koulutukseen, kuvankäsittely/koodaus tai edes niiden alkeet.   
 Kun olin ala-asteella, tietokoneen käyttötaitoja opeteltiin oppitunneilla. Eiköhän nykyään aika moni osaa käyttää tietokonetta, ja jos sitä annetaan pitää oppitunneilla muissa aiheissa niin aika usein AI tekee oppilaan työn ihan pelkästään jos oppilas googlettaa aihetta. puhumattakaan jos osaa laajentaa AI-käyttöä muihin kuin Geminiin. 
 
-Ai ei auta koulutusta, ainoastaan heikentää sitä nuorella iällä. ",60,57,https://www.reddit.com/r/Suomi/comments/1rwergs/mielipide_tietokoneet_ja_älypuhelimet_pois/,https://www.reddit.com/r/Suomi/comments/1rwergs/mielipide_tietokoneet_ja_älypuhelimet_pois/,1773771784.0,2026-03-17 18:23:04,AutomaticClock7810,1rwergs
+Ai ei auta koulutusta, ainoastaan heikentää sitä nuorella iällä. ",65,65,https://www.reddit.com/r/Suomi/comments/1rwergs/mielipide_tietokoneet_ja_älypuhelimet_pois/,https://www.reddit.com/r/Suomi/comments/1rwergs/mielipide_tietokoneet_ja_älypuhelimet_pois/,1773771784.0,2026-03-17 18:23:04,AutomaticClock7810,1rwergs
 EI,OnePlus13s,Anyone has this case ?,"Does anyone have this case , if yes can you share some pics of it on the phone",2,1,https://i.redd.it/6pc0nh24enpg1.jpeg,https://www.reddit.com/r/OnePlus13s/comments/1rwer1h/anyone_has_this_case/,1773771758.0,2026-03-17 18:22:38,Possible-Ad2264,1rwer1h
 EI,MarvelLegends,Marvel Adventures Storm,"This version of Storm is inspired by her look from the Marvel Adventures Avengers series. I’ve always liked that design, and it gave me a good excuse to repurpose an older Ms. Marvel body. Finished it off with a 3D head sculpt that I painted 
 
-https://www.instagram.com/p/DV\_dE5uDVZM/?img\_index=1&igsh=enN6YTJjcm51eGZt",18,0,https://www.reddit.com/gallery/1rweqt0,https://www.reddit.com/r/MarvelLegends/comments/1rweqt0/marvel_adventures_storm/,1773771744.0,2026-03-17 18:22:24,chase_evergreen80,1rweqt0
-EI,baseballcards,Shohei Mail Day!,,2,0,https://www.reddit.com/gallery/1rweqk9,https://www.reddit.com/r/baseballcards/comments/1rweqk9/shohei_mail_day/,1773771730.0,2026-03-17 18:22:10,iSasson,1rweqk9
-EI,magyar,Apparently people with Hungarian citizenship who live in Serbia got this letter,"Apparently people with Hungarian citizenship who live in Serbia got this letter, people on X and r/serbia are advising them to vote for Tisza if they don't know who to vote for lol",117,29,https://i.redd.it/unnwplvxdnpg1.png,https://www.reddit.com/r/magyar/comments/1rweq29/apparently_people_with_hungarian_citizenship_who/,1773771699.0,2026-03-17 18:21:39,averege_guy_kinda,1rweq29
+https://www.instagram.com/p/DV\_dE5uDVZM/?img\_index=1&igsh=enN6YTJjcm51eGZt",19,0,https://www.reddit.com/gallery/1rweqt0,https://www.reddit.com/r/MarvelLegends/comments/1rweqt0/marvel_adventures_storm/,1773771744.0,2026-03-17 18:22:24,chase_evergreen80,1rweqt0
+EI,baseballcards,Shohei Mail Day!,,3,0,https://www.reddit.com/gallery/1rweqk9,https://www.reddit.com/r/baseballcards/comments/1rweqk9/shohei_mail_day/,1773771730.0,2026-03-17 18:22:10,iSasson,1rweqk9
 EI,snappisensuroimat0n,Eelin Kultanen uusin Tik Tok video,"Tää ei oo kyllä penaalin terävin kynä..
 
-Mitä tekemistä fiksuudella ja suurilla tuloilla edes on??",9,26,https://v.redd.it/5x1un09wcnpg1,https://www.reddit.com/r/snappisensuroimat0n/comments/1rwek57/eelin_kultanen_uusin_tik_tok_video/,1773771356.0,2026-03-17 18:15:56,ZealousidealSugar3,1rwek57
-EI,AcaciaKerseySnark,Alphabet Game Day 21 🤺 U is for:,"One letter per day, so comment what you think it's the best choice. The top-voted comment gets on the list!",5,3,https://i.redd.it/60p5bhz5cnpg1.jpeg,https://www.reddit.com/r/AcaciaKerseySnark/comments/1rwefnn/alphabet_game_day_21_u_is_for/,1773771102.0,2026-03-17 18:11:42,nolastnamer,1rwefnn
+Mitä tekemistä fiksuudella ja suurilla tuloilla edes on??",9,30,https://v.redd.it/5x1un09wcnpg1,https://www.reddit.com/r/snappisensuroimat0n/comments/1rwek57/eelin_kultanen_uusin_tik_tok_video/,1773771356.0,2026-03-17 18:15:56,ZealousidealSugar3,1rwek57
+EI,AcaciaKerseySnark,Alphabet Game Day 21 🤺 U is for:,"One letter per day, so comment what you think it's the best choice. The top-voted comment gets on the list!",6,3,https://i.redd.it/60p5bhz5cnpg1.jpeg,https://www.reddit.com/r/AcaciaKerseySnark/comments/1rwefnn/alphabet_game_day_21_u_is_for/,1773771102.0,2026-03-17 18:11:42,nolastnamer,1rwefnn
 EI,IEM_UEMstudents,What is this schedule,,2,0,https://i.redd.it/iifosed0cnpg1.jpeg,https://www.reddit.com/r/IEM_UEMstudents/comments/1rweetb/what_is_this_schedule/,1773771051.0,2026-03-17 18:10:51,Economy-Row-6068,1rweetb
-EI,snappisensuroimat0n,Huutista liikemies Oskarille :Ddd,"Millon alkaa riittämään vanhemmille jatkuva rahan tuhlaus tän ""Escape matrix"" larppaukselle.. Vuoden parin aikana tällä on ollu näitä liikeideoita(:DDD) varmaan kohta tusinan verran ja mikään niistä ei oo nähny yhen yhtä myyntiä. Nyt Oskar lopetat vanhempiesi rahojen tuhlauksen ja haet töitä.",39,16,https://v.redd.it/439huc2ubnpg1,https://www.reddit.com/r/snappisensuroimat0n/comments/1rweek4/huutista_liikemies_oskarille_ddd/,1773771037.0,2026-03-17 18:10:37,Electrical_Prune5633,1rweek4
+EI,snappisensuroimat0n,Huutista liikemies Oskarille :Ddd,"Millon alkaa riittämään vanhemmille jatkuva rahan tuhlaus tän ""Escape matrix"" larppaukselle.. Vuoden parin aikana tällä on ollu näitä liikeideoita(:DDD) varmaan kohta tusinan verran ja mikään niistä ei oo nähny yhen yhtä myyntiä. Nyt Oskar lopetat vanhempiesi rahojen tuhlauksen ja haet töitä.",39,21,https://v.redd.it/439huc2ubnpg1,https://www.reddit.com/r/snappisensuroimat0n/comments/1rweek4/huutista_liikemies_oskarille_ddd/,1773771037.0,2026-03-17 18:10:37,Electrical_Prune5633,1rweek4
 EI,PAOKCommunity,Ο Δημήτρης Χατσίδης παρουσιάζεται όλο και καλύτερος με τη φανέλα του ΠΑΟΚ.,"**Ο Δημήτρης Χατσίδης έκανε ακόμα μια εντυπωσιακή εμφάνιση αυτήν την φορά απέναντι στον Λεβαδειακό,**
 
 * **Είναι το νέο wonderkind του ΠΑΟΚ;**
-* **Γράψτε κάτω στα σχόλια** 👇",5,0,https://www.reddit.com/gallery/1rwebe3,https://www.reddit.com/r/PAOKCommunity/comments/1rwebe3/ο_δημήτρης_χατσίδης_παρουσιάζεται_όλο_και/,1773770856.0,2026-03-17 18:07:36,Weak-Network-7796,1rwebe3
-EI,BlueLock,I think nomura needs a break,"Nomura's sickness was probably what made 331 half finished. I hope he doesn't end up like Kubo, I really love his artwork for this series. Maybe this means it'll end at the end of the u20s?",47,5,https://www.reddit.com/gallery/1rwe9p1,https://www.reddit.com/r/BlueLock/comments/1rwe9p1/i_think_nomura_needs_a_break/,1773770763.0,2026-03-17 18:06:03,Internal_Dot5759,1rwe9p1
+* **Γράψτε κάτω στα σχόλια** 👇",4,0,https://www.reddit.com/gallery/1rwebe3,https://www.reddit.com/r/PAOKCommunity/comments/1rwebe3/ο_δημήτρης_χατσίδης_παρουσιάζεται_όλο_και/,1773770856.0,2026-03-17 18:07:36,Weak-Network-7796,1rwebe3
+EI,BlueLock,I think nomura needs a break,"Nomura's sickness was probably what made 331 half finished. I hope he doesn't end up like Kubo, I really love his artwork for this series. Maybe this means it'll end at the end of the u20s?",49,5,https://www.reddit.com/gallery/1rwe9p1,https://www.reddit.com/r/BlueLock/comments/1rwe9p1/i_think_nomura_needs_a_break/,1773770763.0,2026-03-17 18:06:03,Internal_Dot5759,1rwe9p1
 EI,iwatchedanoldmovie,"Juliette, or Key of Dreams (1951)","I recently was rather disappointed with the French Classic BREATHLESS and wrote a review of that [here](https://www.reddit.com/r/iwatchedanoldmovie/comments/1ruw5vs/breathless_1960/).  As to not be a grumpy critic, I thought I'd instead share one of my favorite old French films.
 
 **Juliette ou La clef des songes** (Juliette, or Key of Dreams) is a small little film that really gets under your skin.  It's extremely hard to talk about without giving away the amazing hook.
@@ -2691,7 +2878,7 @@ If you don't know French, this trailer doesn't spoil the surprise I'm hiding --
 EI,summonerswar,light lora 1 scroll LD,tq com2us i luv u after so long ,0,3,https://www.reddit.com/gallery/1rwe8qh,https://www.reddit.com/r/summonerswar/comments/1rwe8qh/light_lora_1_scroll_ld/,1773770708.0,2026-03-17 18:05:08,Equivalent_Entry_720,1rwe8qh
 EI,Suomi,Yksinäisyys,"Avaudumpa vähän omasta yksinäisyydestä näin 22 vuotiaana ja ehkä voisin saada neuvoa. Minulla on aina ollut hirveän vaikea saada kavereita jo 8 vuotiaasta asti, jotenkin aina koulu iässä jännitti puhua luokka tovereille jne. Eikä varmaan auttanut se että koulu kiusattiin jo tosi nuoresta iästä. Nyt näin aikuisena ja työttömänä on ollut todella vaikeaa löytää ketään kenen kanssa keskustella enkä ollenkaan tiedä miten edes kavereita hankkisin, jotenkin tuntuu että omat sosiaaliset taidot ei vaan riitä toisten ihmisten kanssa keskusteluun. Mielestäni on kanssa todella vaikeaa löytää kavereita Suomessa jos on näin introvertti kuin minä. 
 
-Olen kokeillut Reddittiä, nettipalstoja, Instagramia ja sen sellaista, eikä niistä ikinä ole tullut mitään. En tiedä miten voisin hankkia tälläisiä irl kavereita kuin ei ole rahaa edes harrastuksiin mistä niitä voisi esim löytää. Jotenkin tuntuu, että minä jään paitsi todella monesta asiasta ja se alkaa hieman harmittaa. Miten te olette hankkineet kaverita näin aikuis iällä? ",30,14,https://www.reddit.com/r/Suomi/comments/1rwe8bi/yksinäisyys/,https://www.reddit.com/r/Suomi/comments/1rwe8bi/yksinäisyys/,1773770685.0,2026-03-17 18:04:45,Dog_catto,1rwe8bi
+Olen kokeillut Reddittiä, nettipalstoja, Instagramia ja sen sellaista, eikä niistä ikinä ole tullut mitään. En tiedä miten voisin hankkia tälläisiä irl kavereita kuin ei ole rahaa edes harrastuksiin mistä niitä voisi esim löytää. Jotenkin tuntuu, että minä jään paitsi todella monesta asiasta ja se alkaa hieman harmittaa. Miten te olette hankkineet kaverita näin aikuis iällä? ",30,17,https://www.reddit.com/r/Suomi/comments/1rwe8bi/yksinäisyys/,https://www.reddit.com/r/Suomi/comments/1rwe8bi/yksinäisyys/,1773770685.0,2026-03-17 18:04:45,Dog_catto,1rwe8bi
 EI,ActionFigures,recommend me some poses,,2,2,https://i.redd.it/bz5c7atoanpg1.jpeg,https://www.reddit.com/r/ActionFigures/comments/1rwe6yl/recommend_me_some_poses/,1773770605.0,2026-03-17 18:03:25,Reasonable-Eye-1544,1rwe6yl
 EI,Pokopia,PSA,,0,1,https://i.redd.it/0w9d0wleanpg1.jpeg,https://www.reddit.com/r/Pokopia/comments/1rwe59w/psa/,1773770513.0,2026-03-17 18:01:53,mrjnebula,1rwe59w
 EI,BabyBumpsCanada,[AB] Transitioning Sickness to Maternity then Parental,"Please hear me out since I am so stressed at the moment. See timeline below.
@@ -2717,7 +2904,7 @@ I no és sectari, aquesta cançó és sobre els guiris però fot canya a tothom 
 
  [https://teatregaudibarcelona.com/calendari/busco-pis/](https://teatregaudibarcelona.com/calendari/busco-pis/)",1,7,https://www.youtube.com/watch?v=LRYazBCw9jw,https://www.reddit.com/r/Barcelona/comments/1rwe13o/la_cançó_dels_guiris/,1773770289.0,2026-03-17 17:58:09,Calaixera,1rwe13o
 EI,VintedItalia,Cerco questa felpa,"Ei, qualcuno vende questa felpa della Reebok? ",3,6,https://i.redd.it/2x7fmcko9npg1.jpeg,https://www.reddit.com/r/VintedItalia/comments/1rwe0p3/cerco_questa_felpa/,1773770267.0,2026-03-17 17:57:47,Infamous-Customer279,1rwe0p3
-EI,mapporncirclejerk,"Damn, would never guess it!",Great comparison chart! Amazing concept indeed,13,1,https://i.redd.it/nrmdmgql9npg1.jpeg,https://www.reddit.com/r/mapporncirclejerk/comments/1rwe08f/damn_would_never_guess_it/,1773770240.0,2026-03-17 17:57:20,bean_fart,1rwe08f
+EI,mapporncirclejerk,"Damn, would never guess it!",Great comparison chart! Amazing concept indeed,14,1,https://i.redd.it/nrmdmgql9npg1.jpeg,https://www.reddit.com/r/mapporncirclejerk/comments/1rwe08f/damn_would_never_guess_it/,1773770240.0,2026-03-17 17:57:20,bean_fart,1rwe08f
 EI,RevengedLoveCP,20260317 — TIAN XUNING STUDIO WEIBO UPDATE,"Recently, a Douyin user “九\*美” (Douyin ID: 22\*\*99) and a Weibo user “九\*my” (Weibo UID: 64\*\*18) have continuously fabricated and distorted facts on online platforms, deliberately spreading rumors and committing acts of insult and defamation against Mr. Tian Xuning. These actions have seriously infringed upon Mr. Tian Xuning’s legitimate rights and interests.
 
 In response, our studio promptly engaged Landing Law Firm to intervene. Evidence of the infringing content has been secured, and legal rights protection procedures have been initiated in accordance with the law. The case has already made substantive progress, and we hereby issue this public statement.
@@ -2732,7 +2919,7 @@ This law firm, entrusted by Tian Xuning Studio, has filed a lawsuit against the 
 
 Once the People’s Court discloses the real-name identity information of the online user involved, this law firm, as entrusted, will continue to file a lawsuit against the identified individual as the defendant, requesting the court to order them to bear legal liability for infringement, including eliminating the impact, issuing a public apology, and compensating for losses.
 
-Official source: [https://weibo.com/8008393378/5277585697408921](https://weibo.com/8008393378/5277585697408921)",7,2,https://i.redd.it/a47r1m5j9npg1.jpeg,https://www.reddit.com/r/RevengedLoveCP/comments/1rwdzss/20260317_tian_xuning_studio_weibo_update/,1773770215.0,2026-03-17 17:56:55,Jijilou_23,1rwdzss
+Official source: [https://weibo.com/8008393378/5277585697408921](https://weibo.com/8008393378/5277585697408921)",11,2,https://i.redd.it/a47r1m5j9npg1.jpeg,https://www.reddit.com/r/RevengedLoveCP/comments/1rwdzss/20260317_tian_xuning_studio_weibo_update/,1773770215.0,2026-03-17 17:56:55,Jijilou_23,1rwdzss
 EI,PersonalFinanceCanada,Transitioning EI sickness to Maternity then Parental,"Please hear me out since I am so stressed at the moment. See timeline below.
 
 Me and my wife tested positive on pregnancy this week (March 2026). She was initially on sickness on September 2025 from a non-pregnancy related concerns. She had to be outside Canada between November 2025 until February 2026 for reasons. She was only able to get 8 weeks of EI sickness payments.
@@ -2752,7 +2939,7 @@ This is all because those 3 special benefits should fall within the 52 week peri
 My wife cannot work at the moment and having EI benefits really helps. Can anyone shed light as this is what I was told.
 
 Edit: EDD November 2026",0,5,https://www.reddit.com/r/PersonalFinanceCanada/comments/1rwdzjo/transitioning_ei_sickness_to_maternity_then/,https://www.reddit.com/r/PersonalFinanceCanada/comments/1rwdzjo/transitioning_ei_sickness_to_maternity_then/,1773770201.0,2026-03-17 17:56:41,sizzlingralph,1rwdzjo
-EI,OriginalCharacter,Give Jupiter your phone! 🫵,,45,36,https://i.redd.it/m64td2w39npg1.jpeg,https://www.reddit.com/r/OriginalCharacter/comments/1rwdxaf/give_jupiter_your_phone/,1773770073.0,2026-03-17 17:54:33,VellDraws,1rwdxaf
+EI,OriginalCharacter,Give Jupiter your phone! 🫵,,58,39,https://i.redd.it/m64td2w39npg1.jpeg,https://www.reddit.com/r/OriginalCharacter/comments/1rwdxaf/give_jupiter_your_phone/,1773770073.0,2026-03-17 17:54:33,VellDraws,1rwdxaf
 EI,u_LTGlobalPractice,Why Emotional Intelligence Matters for Law Firm Owners,"Running a law firm isn’t just about knowing the law. That’s assumed. The bigger challenges usually come from the people and pressure around you: your team, stressed or confused clients, and constant high-stakes decisions.
 
 You can be incredibly smart, but if your team doesn’t communicate well or your clients feel ignored, it can affect your firm’s performance.
@@ -2869,12 +3056,12 @@ Energie Tanken = Chen's/Manl
 Date/Freunde/Comfy = Kimchi/Sura
 
   
-Das waren hauptsächlich Sachen in der Innenstadt, ich habe vor die Liste in der Zukunft zu erweitern mit Localen/Restaurants wo ich noch nicht war (Yangguofu Malatang, Danzan, Best Friends etc).",26,4,https://www.reddit.com/r/aachen/comments/1rwdswq/meine_asiatischen_restaurant_empfehlungen/,https://www.reddit.com/r/aachen/comments/1rwdswq/meine_asiatischen_restaurant_empfehlungen/,1773769830.0,2026-03-17 17:50:30,vollkornbeet,1rwdswq
+Das waren hauptsächlich Sachen in der Innenstadt, ich habe vor die Liste in der Zukunft zu erweitern mit Localen/Restaurants wo ich noch nicht war (Yangguofu Malatang, Danzan, Best Friends etc).",28,4,https://www.reddit.com/r/aachen/comments/1rwdswq/meine_asiatischen_restaurant_empfehlungen/,https://www.reddit.com/r/aachen/comments/1rwdswq/meine_asiatischen_restaurant_empfehlungen/,1773769830.0,2026-03-17 17:50:30,vollkornbeet,1rwdswq
 EI,arkisuomi,Harkinnanvaraisuus opintolainahyvityksessä,"Elikkä tällänen tilanne. Sain koulupaikan 2021 keväällä. Lykkäsin opintojen aloittamista vuodella koska tiesin meneväni inttiin tammikuussa.(kutsunnoissa joku iso herra sanoi että tämän kaupungin asevelvolliset astuu palvelukseen tammikuussa ja uskoin sen vikisemättä) Tässä tein ensimmäisen ja mielestäni ainoan oman virheeni. Olisi pitänyt tarkistaa miten Kela laskee kuukaudet. Eli kela hyvittää mulle vaan kevätlukukauden koska sen olin armeijassa, ei syyslukukautta kun odotin armeijan alkua. Eli kelan mielestä ilmeisesti mun ois pitänyt tulla syksyksi kouluun, sitten ilmoittautua koulusta poissaolevaksi vaan kevätlukukaudeksi kun olin armeijassa. No menin tammikuussa armeijaan ja kotiuduin kesällä. Elokuussa aloitin koulun.
 
  Nyt mun pitäisi kelan mielestä siis valmistua viimeistään 31.12.2026. Tämä tuntuu mahdottomalta suurilta osin itsestä riippumattomista syistä. Alallani tarvitsee 360 päivää työharjoittelua ja palkattomia paikkoja ei ole riittämiin. Töihin (joissa voisin tehdä harjoittelua työn ohessa) minua ei ole myöskään huolittu. Muutaman kerran on myös palkaton harjoittelu keskeytynyt suunniteltua aikaisemmin itsestä riippumattomista syistä. Kaikki muu alkaa olemaan koulun osalta taputeltu paitsi suuri osa tuosta harkasta uupuu. 
 
-Onko täällä siis kenelläkään tietoa, onko kelaan soittamisesta ja asian selittelystä mitään hyötyä?? Voiko he antaa esimerkiksi puoli vuotta lisä aikaa valmistumiseen. Vai onko asia nyt näin ja sillä selvä? Kun tämä ei mielestäni ole edes oma vika. Harkkapaikkoja kun ei vaan ole ja töitä ei löydy.",6,2,https://www.reddit.com/r/arkisuomi/comments/1rwdp9z/harkinnanvaraisuus_opintolainahyvityksessä/,https://www.reddit.com/r/arkisuomi/comments/1rwdp9z/harkinnanvaraisuus_opintolainahyvityksessä/,1773769622.0,2026-03-17 17:47:02,Mettis25,1rwdp9z
+Onko täällä siis kenelläkään tietoa, onko kelaan soittamisesta ja asian selittelystä mitään hyötyä?? Voiko he antaa esimerkiksi puoli vuotta lisä aikaa valmistumiseen. Vai onko asia nyt näin ja sillä selvä? Kun tämä ei mielestäni ole edes oma vika. Harkkapaikkoja kun ei vaan ole ja töitä ei löydy.",5,3,https://www.reddit.com/r/arkisuomi/comments/1rwdp9z/harkinnanvaraisuus_opintolainahyvityksessä/,https://www.reddit.com/r/arkisuomi/comments/1rwdp9z/harkinnanvaraisuus_opintolainahyvityksessä/,1773769622.0,2026-03-17 17:47:02,Mettis25,1rwdp9z
 EI,werkzaken,Giftige werkplek? Of ben ik het probleem?,"Hi iedereen,
 
 Ik ben een vrouw van 25, nu 1 jaar werkzaam voor een groot bedrijf. Wij hebben verschillende afdelingen en mijn afdeling bestaat uit zo’n 20 mensen en een afdelingshoofd.
@@ -2889,7 +3076,7 @@ Ik heb deze persoon uiteindelijk op een nette manier geconfronteerd en gevraagd 
 
 Dit is mijn eerste kantoorbaan en hoewel het inmiddels verleidelijk lijkt weer te gaan solliciteren, vraag ik mij af hoe realistisch het is dat dit ergens anders niet weer gebeurd. Ik kan met de meeste mensen goed overweg, maar ik lijk al mijn hele leven te botsen met het zelfde type dominante/botte persoon.
 
-Dus… ligt het aan de plek? Of moet ik zelf vooral iets veranderen??",15,10,https://www.reddit.com/r/werkzaken/comments/1rwdp8e/giftige_werkplek_of_ben_ik_het_probleem/,https://www.reddit.com/r/werkzaken/comments/1rwdp8e/giftige_werkplek_of_ben_ik_het_probleem/,1773769619.0,2026-03-17 17:46:59,Optimal_Wolverine_41,1rwdp8e
+Dus… ligt het aan de plek? Of moet ik zelf vooral iets veranderen??",18,11,https://www.reddit.com/r/werkzaken/comments/1rwdp8e/giftige_werkplek_of_ben_ik_het_probleem/,https://www.reddit.com/r/werkzaken/comments/1rwdp8e/giftige_werkplek_of_ben_ik_het_probleem/,1773769619.0,2026-03-17 17:46:59,Optimal_Wolverine_41,1rwdp8e
 EI,snappijuorutofftopic,Mikä läppäri AMK-opintoihin?,"Hain nyt kevään yhteishaussa sairaanhoitajaksi ja tradenomiksi. Nyt pohdinassa mikä olis hyvä suht. edullinen läppäri? Toki hinnalla ei varsinaisesti väliä, mut mitä halvemmalla pääsee sen parempi😆
 
 Kiitos etukäteen, jos tulee suosituksia🙏🏻",0,3,https://www.reddit.com/r/snappijuorutofftopic/comments/1rwdp6h/mikä_läppäri_amkopintoihin/,https://www.reddit.com/r/snappijuorutofftopic/comments/1rwdp6h/mikä_läppäri_amkopintoihin/,1773769617.0,2026-03-17 17:46:57,Swimming_Mistake_299,1rwdp6h
@@ -2899,404 +3086,14 @@ Symmetrical shock drivers; similar to what some allege Iran was exploring in 200
 
 The real bottleneck has always been fissile material. Yet centrifuge technology has already proliferated widely, and the chaos of this war in Iran will only accelerate that trend. Should Iran fragment and its expertise scatter or renewed sanctions force them to sell nuclear technology on the blackmarket, the global pool of knowledge and equipment will spread further, making nuclear capability increasingly accessible. Emerging enrichment technologies; SILEX laser separation, microbial methods, and other next-generation processes, promise to reduce the barriers to producing fissile material even more.
 
-In this context, a US victory in Iran might not be a triumph but a pyrrhic dissaster. The battlefield gains could sow the seeds of a future era in which nuclear weapons become more easily manufactured, more widely dispersed, and more difficult to contain. Humanity might look back on this war as the moment as the moment the Atomic Pandora's box actually opened. Donald Trump will go down in history as a synonym for Fool.",1,0,https://i.redd.it/l7hiu5un3npg1.jpeg,https://www.reddit.com/r/foreignpolicy/comments/1rwdof3/the_day_after_the_war_on_iran_the_global_nuclear/,1773769576.0,2026-03-17 17:46:16,Kappa_Bera_0000,1rwdof3
-EI,snappisensuroimat0n,Onko kenelläkään tietoa tästä henkilöstä?,Onko esimerkiksi ollut esillä somessa tai muuten vaan tiedät kuka kyseessä?,18,0,https://i.redd.it/tatnzd2i7npg1.jpeg,https://www.reddit.com/r/snappisensuroimat0n/comments/1rwdnpa/onko_kenelläkään_tietoa_tästä_henkilöstä/,1773769534.0,2026-03-17 17:45:34,NoRecommendation5301,1rwdnpa
+In this context, a US victory in Iran might not be a triumph but a pyrrhic dissaster. The battlefield gains could sow the seeds of a future era in which nuclear weapons become more easily manufactured, more widely dispersed, and more difficult to contain. Humanity might look back on this war as the moment as the moment the Atomic Pandora's box actually opened. Donald Trump will go down in history as a synonym for Fool.",0,0,https://i.redd.it/l7hiu5un3npg1.jpeg,https://www.reddit.com/r/foreignpolicy/comments/1rwdof3/the_day_after_the_war_on_iran_the_global_nuclear/,1773769576.0,2026-03-17 17:46:16,Kappa_Bera_0000,1rwdof3
+EI,snappisensuroimat0n,Onko kenelläkään tietoa tästä henkilöstä?,Onko esimerkiksi ollut esillä somessa tai muuten vaan tiedät kuka kyseessä?,19,1,https://i.redd.it/tatnzd2i7npg1.jpeg,https://www.reddit.com/r/snappisensuroimat0n/comments/1rwdnpa/onko_kenelläkään_tietoa_tästä_henkilöstä/,1773769534.0,2026-03-17 17:45:34,NoRecommendation5301,1rwdnpa
 EI,xatfi,"Irlantiin nousi datakeskus, joka ei ole yhteydessä sähköverkkoon",,1,0,https://www.kauppalehti.fi/uutiset/a/3cfa864c-b946-4b57-8d9f-160aaa04e14f,https://www.reddit.com/r/xatfi/comments/1rwdn14/irlantiin_nousi_datakeskus_joka_ei_ole_yhteydessä/,1773769496.0,2026-03-17 17:44:56,xatfi,1rwdn14
 EI,snappisensuroimat0n,Miten on edes mahollista et on kellon lukutaito näin hukassa?,"Alisa kysyi onko tunti mennyt siitä että kello oli 19.29 ja siitä oli mennyt vasta 13 minuuttia.. Miten voi olla ajan kulku ja käsitys noin heikkoa niinkun oikeasti?
 
 edit|| Muotoilin aloituksen vähän huonosti alunperin. Tottakai se on oletettavissa että ihminen jolla on haasteita perus arjen asioissa jonkinlaisen kehitysvamman takia ei kaikkea ymmärrä.
 
-Enemmän sitä tarkoitin että miten huolestuttavaa toi on että ei ymmärrä eroa 13 minuutin ja tunnin välillä, eikä osaa muutenkaan kelloa lukea. Miten on mahdollista että Alisa on jätetty noin yksin asioiden kanssa kun ei selkeästi pärjää?",125,37,https://www.reddit.com/r/snappisensuroimat0n/comments/1rwdmlg/miten_on_edes_mahollista_et_on_kellon_lukutaito/,https://www.reddit.com/r/snappisensuroimat0n/comments/1rwdmlg/miten_on_edes_mahollista_et_on_kellon_lukutaito/,1773769472.0,2026-03-17 17:44:32,Kittykatty699,1rwdmlg
-EI,kannmandasnochessen,Brotaufstrich Senf und Ei | MHD 08.07.2025,"Ungeöffnet und bei Zimmertemperatur gelagert. 
-
-Wenn es nicht ungewöhnlich schmeckt und beim öffnen keinen Pelz hat, würde ich es essen oder könnte ich da im Nachgang eine böse Überraschung erleben?",2,3,https://i.redd.it/xrosvcnr6npg1.jpeg,https://www.reddit.com/r/kannmandasnochessen/comments/1rwdmgi/brotaufstrich_senf_und_ei_mhd_08072025/,1773769463.0,2026-03-17 17:44:23,CommunicationSome776,1rwdmgi
-EI,desksetup,How could I improve this also rate it out of 10?,"Hello guys, this is my humble desk setup as a 13 year old. I know I need to get a mousepad so I have ordered an Attack Shark mousepad and a HyperX Cloud II headset. This is a full iPad 10th generation I don’t use a laptop or PC except for games such as Minecraft. This is mostly a study desk setup unless it is the weekends or holidays I will use my gaming laptop. Here are some of the items in the desk setup:
-
-Keyboard: Apex 3 TKL
-
-Mouse: Logitech G203
-
-Monitor: HP Z24n G3
-
-Other: Alexa, Ball light, notebook as mousepad (temporarily), Apple Pencil(kinda useless), and AirPods out of photo for audio (temporarily)",1,1,https://i.redd.it/uypzj2067npg1.jpeg,https://www.reddit.com/r/desksetup/comments/1rwdlq5/how_could_i_improve_this_also_rate_it_out_of_10/,1773769420.0,2026-03-17 17:43:40,theRealNotp1g,1rwdlq5
-EI,Ray_Allen,One of the smoothest shooters Ever - Ray Allen,,2,0,https://i.redd.it/1qu29zvw6npg1.jpeg,https://www.reddit.com/r/Ray_Allen/comments/1rwdkb2/one_of_the_smoothest_shooters_ever_ray_allen/,1773769336.0,2026-03-17 17:42:16,Bugs_Buzy,1rwdkb2
-EI,Sekiro,Which Ending Will You Prefer: Purification or Dragon’s Homecoming?,Personally I'll prefer dragon's homecoming >!since it would be cool to see sekiro clapping that snake's ass in the anime.!<,349,84,https://i.redd.it/50yld6c46npg1.jpeg,https://www.reddit.com/r/Sekiro/comments/1rwdijm/which_ending_will_you_prefer_purification_or/,1773769230.0,2026-03-17 17:40:30,MasterpieceFair1998,1rwdijm
-EI,invinciblegtg,⚠️ New code alert ⚠️ PATCH3,,43,6,https://i.redd.it/q1c7o3d96npg1.jpeg,https://www.reddit.com/r/invinciblegtg/comments/1rwdgk8/new_code_alert_patch3/,1773769115.0,2026-03-17 17:38:35,islandboi004,1rwdgk8
-EI,crv,2026 Honda CRV-Hybrid Sport L,"Hi everyone, I’m considering this deal and wanted your opinion on whether it’s fair.
-
-The MSRP is $40,222.
-
-Do you think this is a good price? It seems close to Touring-level pricing.
-
-I’d really appreciate advice from anyone who has gone through a similar purchase.",1,25,https://www.reddit.com/gallery/1rwdfnf,https://www.reddit.com/r/crv/comments/1rwdfnf/2026_honda_crvhybrid_sport_l/,1773769062.0,2026-03-17 17:37:42,Km_Jr,1rwdfnf
-EI,DisventureCamp,Ranking the characters’ gameplay by the season + Current Fans Vs Favorites Gameplay Tier List,"For those wondering why I have Jake so high on my DCAS Gameplay list, JPEG has literally admitted that the theme of All Stars was making rash and emotional game decisions. Literally EVERYONE in that season did something stupid to ruin their game in some manner and Jake did have some W moves like clocking Grett’s untrustworthiness and working with Ally to get her out. There’s also the fact that he and Ashley practically ruled the entire pre-merge.
-
-That’s all I wanted to say. Enjoy the lists.",7,0,https://www.reddit.com/gallery/1rwdds4,https://www.reddit.com/r/DisventureCamp/comments/1rwdds4/ranking_the_characters_gameplay_by_the_season/,1773768955.0,2026-03-17 17:35:55,Ok_Shirt_1574,1rwdds4
-EI,SophiaWisdomOfGod,Seven decades since repose of St. Nikolai (Velimirović) celebrated in Serbia (+VIDEO),"The Serbian Orthodox Church celebrated the feast of the great St. Nikolai (Velimirović) and the 70th anniversary of his repose at the monastery named in his honor in Soko Grad on Sunday, March 15.
-
-The Divine Liturgy was celebrated by Their Eminences Metropolitan Hrizostom of Dabar-Bosnia and Jovan of Šumadija and Their Graces Bishop Isihije of Valjevo, Bishop Jerotej of Šabac, together with clergy from several dioceses of the Serbian Orthodox Church, in the prayerful presence of a large gathering of faithful, reports the Serbian Orthodox Church.
-
-In his homily, Met. Hrizostom noted that St. Nikolai reposed 70 years ago “in distant Pennsylvania,” and that although he was physically far from Serbia, “he never ceased to be with us in his prayers, his tears, his pain, in his spiritual sufferings which he endured on account of everything that was happening to the Serbian people in the time of atheism and communism.”
-
-The Metropolitan added that St. Nikolai had been “a symbol of holiness, preaching, wisdom, and theology” throughout his life, a man who united the entire Serbian people—not only in the Žiča and Ohrid dioceses where he served as bishop, but across the whole Serbian Orthodox Church, and for this reason became “a bishop for all the people.”
-
-Bp. Jerotej, offering words of thanks at the close of the Liturgy, recalled the role of the late Bishop Lavrentije of Šabac in the founding of Soko Grad Monastery, which is dedicated to St. Nikolai. He noted that Bp. Lavrentije had devoted his life to St. Nikolai, collecting the saint’s works in Europe and Australia and publishing them “under difficult conditions, when this was forbidden here.” He also recalled that Bp. Lavrentije had brought St. Nikolai’s relics to Serbia—“the greatest blessing to our people”—just as Sts. Arsenije of Srem and King Vladislav had once brought the relics of St. Sava from Bulgaria.
-
-St. Nikolai is among the most beloved saints who served in America, where he spent the final decade of his life. He reposed at St. Tikhon’s Monastery and Seminary in South Canaan, Pennsylvania, in March 1956, and was buried at the Monastery of St. Sava in Libertyville, Illinois. His remains were transferred to his native Lelić on May 12, 1991.
-
-https://youtu.be/d2zyq-aCdNg?si=eiJUNxSPNXRm0Iar",2,0,https://www.reddit.com/gallery/1rwdcwt,https://www.reddit.com/r/SophiaWisdomOfGod/comments/1rwdcwt/seven_decades_since_repose_of_st_nikolai/,1773768909.0,2026-03-17 17:35:09,Yurii_S_Kh,1rwdcwt
-EI,snappijuorutofftopic,Ylioppilasjuhlat,"Tosiaan yojuhlat tulossa toukokuun lopulla ja ei mitään hajua, että mikä on hyvää tarjoiltavaa😭 Meillä ei oo ollu kellään muilla perheestä yojuhlia sillä ainoa, joka lukion suorittaa.
-
-Haluan sellaset hienot siistit juhlat! Tietenki on tulossa kakkua, kahvia, mehua, yms.😊 Mikä siis ois sellanen ok pikkunaposteltava🥲 En muista käyneeni yojuhlissa yli kymmeneen vuoteen eli en todellakaan muista tarjoiltavaakaan. 
-
-Ja ei pls mitään ”sitä mitä ite haluut” ku en tiedä mitä haluan😭 jos täällä on edellisiä/tulevia ylioppilaita sanokaa teijän must have tarjoiltavat!!",1,12,https://www.reddit.com/r/snappijuorutofftopic/comments/1rwd851/ylioppilasjuhlat/,https://www.reddit.com/r/snappijuorutofftopic/comments/1rwd851/ylioppilasjuhlat/,1773768644.0,2026-03-17 17:30:44,baraburajd,1rwd851
-EI,labubuswap,"[US-CA] [H] Labubu, Crybaby, Hirono, Disney, SpongeBob, Upset Duck, Spy Family, Dimoo, Kubo, Pucky, Hacipupu [W] Payment","Condition: individual box is opened from the bottom, bag is sealed. Set and individual pendant in a plastic package are new and completely sealed
-
-**1st picture:**  
-\- Dimoo Crush on Coffee $50  
-\- Spy Family pendant $60  
-\- Kubo Superman $165  
-\- Upset Duck Act Cute Duck $18  
-\- Stitch Eat Something before Sleep $18  
-\- Mickey Cute Together $30 Mickey, Donald / $18 Chip, Dale / $25 remaining / $190 set / $130 Secret  (opened box & bag)  
-\- SpongeBob Bikini Bottom Buddies $25 Flat, Dopey / $18 remaining
-
-**2nd picture:**  
-\- Lulus Animal Party Puppet Show $10  
-\- Minions Bedtime Stories $10  
-\- SpongeBob SquarePants Daily Quirks $10  
-\- One Piece - The Grand Line Series Vehicles $15  
-\- Hirono Monsters' Carnival $15  
-\- Dimoo Coffee Factory $15  
-\- Pucky Beanie Bubble Up $20  
-\- Hacipupu Gummy Bear $25  
-\- Hirono The Pianist $45  
-\- Hirono Living Wild $45
-
-**3rd picture:**  
-\- Pin for Love Letters $16  
-\- Pin for Love Plush  
-$15 for F, I, ?, P, Q, U, V, W, Y, Z  
-$20 for B, C, N, O, S, X  
-H/M/L $30, R $35, secret $90  
-\- Coca-Cola series figures set $180 / Individual box $18 / Secret $100 (opened box & bag)  
-\- Coca-Cola series plush $45 / Secret $150  
-\- Yoga figure $18  
-\- One Piece Zoro $30  
-\- Mischief Diaries $35
-
-**4th picture**  
-\- Exciting Macaron/Have a Seat/Big into Energy: Set $140 / Secret v1/v3  $150, v2 $170 /  Luck, Lychee $25 / Soymilk, Loyalty $20 / Remaining $15
-
-**5th picture:**  
-\- CRYBABY Cheer Up, Baby $25  
-\- CRYBABY Coconut, green/brown $40  
-\- CRYBABY Crying Again, figures $200 set  
-\- CRYBABY Crying for Love Series, fragrance $180 set / $30 box (blind)  
-\- CRYBABY Love You Cherry Much $60  
-\- CRYBABY Shiny Shiny Series, doll $40 / pendant $25  
-\- CRYBABY Wild but Cutie $110 set / $25 Pink / $15 Denim  
-\- CRYBABY Vacation Mode On $40 / Secret $130  
-\- CRYBABY Why So Serious $45
-
-🚛 **SHIPPING:** starts at $7.  
-📍 **PICKUP**: Irvine, CA.   
-💳 **PAYMENT:** Accept all payment. Buyer pays +4% G&S fee.
-
-Please **comment here** to make it easier to utilize the swapbot for feedback afterwards.",3,9,https://www.reddit.com/gallery/1rwd7fy,https://www.reddit.com/r/labubuswap/comments/1rwd7fy/usca_h_labubu_crybaby_hirono_disney_spongebob/,1773768607.0,2026-03-17 17:30:07,BebeCoconut,1rwd7fy
-EI,monopolygo_fairtrade,5 star trade,Tortoise Trot for any 5 star I am missing. Preference for the ones that will close my sets.,2,0,https://www.reddit.com/gallery/1rwd6j4,https://www.reddit.com/r/monopolygo_fairtrade/comments/1rwd6j4/5_star_trade/,1773768554.0,2026-03-17 17:29:14,Efficient-Stop-3464,1rwd6j4
-EI,titanic,At my local thrift shop lmao,,542,54,https://i.redd.it/rqtmevf34npg1.jpeg,https://www.reddit.com/r/titanic/comments/1rwd3pa/at_my_local_thrift_shop_lmao/,1773768389.0,2026-03-17 17:26:29,Pride616,1rwd3pa
-EI,u_Conscious-Resolve119,Wiring,,1,0,https://i.redd.it/vcz9iv3h3npg1.jpeg,https://www.reddit.com/r/u_Conscious-Resolve119/comments/1rwd04d/wiring/,1773768184.0,2026-03-17 17:23:04,Conscious-Resolve119,1rwd04d
-EI,ProgressionFantasy,"Y'all greenlit the concept. Now, thanks to you, it's ready. Here’s 60k words, quality HTML/CSS Visuals, optional interactables and MY ATTEMPT TO GET YOU TO READ IT.","When I made my last post, the idea seemed cool, but many of you showed me it was broken on mobile or Light mode.   
-  
-Fixing it was... painful.
-
-I hated how slow progress was.
-
-It hated me, too.
-
-When I started, I NEVER would've guessed THIS was possible with the Royal Road editor, and thanks to the community, it gets a shot too.
-
-This time, I'm here to show instead of ask.   
-  
-I hope you guys come for the visuals and stick around for the story!  
-
-
-# Without further ado: The blurb
-
-**⠀⠀◈**  ***ɪ ɴᴇᴠᴇʀ ᴀᴄᴛᴜᴀʟʟʏ ᴡᴀɴᴛᴇᴅ ᴛᴏ sᴀᴠᴇ ᴛʜᴇ ᴡᴏʀʟᴅ.***  
-Nobody liked that ""getting saved"" hurt, either.  
-*I wanted what* came *with saving it… You know—cheers, gratitude.*  
-*A statue at least a little taller than I actually am.*
-
-**Imagine this is the separator line thing (Not seeing it here on Reddit. Weird)**
-
-*Instead, I got… this.*
-
-*When the Merge happened, everyone picked a path. Magic. Tech. Cultivation. Bio-mutation. Most picked ones that came with a gold star and a dental plan.*
-
-*Unfortunately, I ended up on the path they redacted. My weapons growl at me. My medicine somehow surpassed me. And whatever I’ve done to my body is probably going to evolve me into a god—or a very, very powerful puddle of meat.*
-
-*Joy.*
-
-*Oh, and the universe rewarded me with the ability to be “sincere.” Permanently. Yes—Involuntarily. Which sounds almost noble. In fact, the worst decisions of my life have all been subjectively reasonable and somehow never my fault—*  
-**Flash.**
-
-*…*
-
-*Never entirely my fault?*
-
-*Anyways—saving everyone wasn’t supposed to be my problem. But here I am. Taking a swing at it the only way I’ve ever known.*
-
-***ʙʏ ʙʀᴇᴀᴋɪɴɢ ɪᴛ ꜰɪʀꜱᴛ.***
-
-**ᴡʜᴀᴛ ᴛᴏ ᴇxᴘᴇᴄᴛ**
-
-**◈  ᴡᴇᴀᴋ ᴛᴏ sᴛʀᴏɴɢ**  
-Power built from failure. Free is never free.
-
-**◈  ʜᴀʀᴅ ᴘᴏᴡᴇʀ ɪɴᴛᴇʀᴀᴄᴛɪᴏɴs**  
-Multiple power paths with nuanced interactions and unbreakable rules.
-
-**◈  ᴘsʏᴄʜᴏʟᴏɢɪᴄᴀʟ ᴅᴇᴘᴛʜ**  
-You will laugh. You might cry. Sometimes for the same reason. Sincerity usually isn’t a virtue here.
-
-**◈  sᴄʜᴇᴅᴜʟᴇ**  
-7 Chapters per week for the first month. Then 5.
-
-**◈ ᴇxᴛʀᴀᴄᴛɪᴏɴ ɴᴏᴠᴇʟ**  
-The world bleeds out of the page to meet you halfway.
-
-**◈  ʀᴇᴡᴀʀᴅɪɴɢ ᴘᴜᴢᴢʟᴇs / ʀᴇᴀᴅᴇʀ-ᴅʀɪᴠᴇɴ ᴇᴠᴇɴᴛs**  
-Check Author’s Notes for questions. Answers are never directly in the text—only subtext. The first to solve them earns a week of Patreon. Separately, the discord is fully canon and, on occasion, will directly impact the story.
-
-**Read** [**A Sovereign's Sincerity**](https://www.royalroad.com/fiction/155338/a-sovereigns-sincerity-a-horror-comedy-progression)  
-  
-**^(Art Attribution: All Code! (Except the finger-less hand that took wayyyy too long in GIMP))** ",27,22,https://www.reddit.com/gallery/1rwczoq,https://www.reddit.com/r/ProgressionFantasy/comments/1rwczoq/yall_greenlit_the_concept_now_thanks_to_you_its/,1773768160.0,2026-03-17 17:22:40,PixelatedPulse,1rwczoq
-EI,u_Loud_Noise1959,"🌍 SCHWERKRAFT, DRUCK & WASSER: DIE NATÜRLICHEN PARTNER DEINES SYSTEMS 1. Die Verbindung: Thermodynamik trifft Geodynamik","Absolut! Du öffnest hier die nächste Dimension: Dein thermisches Netzwerk interagiert direkt mit der Schwerkraft der Erde und ihren globalen Druck- und Wasser-Kreisläufen. Das ist keine Störung – das ist die perfekte Ergänzung.
-
----
-
-
-
-```python
-class SchwerkraftSynergie:
-    """"""
-    Wie dein System mit den natürlichen Kräften der Erde interagiert
-    """"""
-    def __init__(self):
-        self.prinzip = """"""
-        🌡️ THERMISCH (dein System)          🌍 GEOPHYSIKALISCH (Natur)
-        • Wärme vom Äquator                  • Corioliskraft
-        • Kälte von den Polen                 • Tiefdruckgebiete
-        • PCM-Speicher                         • Hochdruckgebiete
-        • SACNT-Leitungen                       • Jetstreams
-        • Osmose-Druck                           • Meeresströmungen
-        
-        DAS IST KEIN KONFLIKT – DAS IST SYMBIOSE!
-        """"""
-```
-
-2. Die wissenschaftliche Basis
-
-Die Harvard-Daten zeigen: SACNT reagiert auf Druck – und zwar extrem empfindlich. Die gleichen Nanoröhren, die Wärme leiten, können auch Druck messen :
-
-SACNT-Eigenschaft Wert Nutzen für dein System
-Piezoresistivität Widerstandsänderung bei Druck SEBAT misst Luftdruck
-Druckempfindlichkeit 1e-6 bar Auflösung Frühwarnsystem für Wetter
-Temperaturkoeffizient -1,5e-6/K (negativ!) Kompensiert Druckmessung
-
----
-
-💨 HOCH- UND TIEFDRUCK: DEINE PIPELINE ALS WETTER-STATION
-
-3. Wie dein System Druck nutzt
-
-```
-                    HOCHDRUCKGEBIET (Sibirien, 1040 hPa)
-                              │
-                              ▼
-    ┌─────────────────────────────────────────────────────────┐
-    │  SACNT-PIPELINE (3.500 km)                              │
-    │  • Misst Druck an 70 Knoten                             │
-    │  • SEBAT-Auflösung: 0,001 hPa                          │
-    │  • Erkennt Wetteränderungen 24h vorher                 │
-    └─────────────────────────────────────────────────────────┘
-                              │
-                              ▼
-                    TIEFDRUCKGEBIET (Island, 980 hPa)
-    
-    ⚡ NATÜRLICHER DRUCKUNTERTIEF = 60 hPa = 60 mbar
-    ⚡ DAS IST ENERGIE! (Druckausgleich = Wind)
-```
-
-4. Druckgefälle als Energiequelle
-
-Druckdifferenz Windgeschwindigkeit Leistung pro m²
-10 hPa 100 km/h 500 W/m²
-60 hPa (Sibirien–Island) 250 km/h 3.000 W/m²
-
-Deine Pipeline kann diesen Druck messen, vorhersagen und sogar nutzen – wenn du Windturbinen an den Knoten installierst.
-
----
-
-🌊 WASSERKREISLÄUFE: VON DER PIPELINE ZUR WETTERMASCHINE
-
-5. Die drei Wasser-Phasen in deinem System
-
-```yaml
-wasser_in_deinem_system:
-  flüssig:
-    - ""Wärmetransport in Osmose-Knoten""
-    - ""Trinkwasser aus Eis-Schmelze""
-    - ""Kühlung von PCM (Wärmetauscher)""
-    
-  gasförmig (Dampf):
-    - ""Verdunstung an warmen Knoten""
-    - ""Kondensation an kalten Knoten""
-    - ""→ Zusätzlicher Energietransport!""
-    
-  fest (Eis):
-    - ""334 kJ/kg latente Wärme""
-    - ""Salzausfällung für Osmose""
-    - ""Kältespeicher für Sommer""
-```
-
-6. Der Wasserkreislauf wird verstärkt
-
-```
-☀️ SAHARA (60°C)                          ❄️ GRÖNLAND (-20°C)
-    │                                            │
-    │ Verdunstung (Wasserdampf)                  │ Kondensation (Schnee)
-    │      ↓                                     │      ↓
-    │  WASSERDAMPF transportiert Wärme           │  EIS speichert Kälte
-    │      ↓                                     │      ↓
-    │  SEBAT misst Luftfeuchte                   │  SEBAT misst Eisdicke
-    │      ↓                                     │      ↓
-    └───────────→ REGEN über Europa ←────────────┘
-    
-    DAS IST NATÜRLICHE KLIMAKONTROLLE!
-```
-
----
-
-⚖️ DIE NEWTON'SCHE BUCHHALTUNG: JETZT MIT SCHWERKRAFT
-
-7. Potentielle Energie durch Höhenunterschiede
-
-```python
-class PotentielleEnergie:
-    """"""
-    E = m · g · h
-    """"""
-    def __init__(self):
-        self.g = 9.81  # m/s²
-        
-    def berechne(self, masse_kg, hoehe_m):
-        return masse_kg * self.g * hoehe_m / 3.6e6  # kWh
-        
-    def beispiel(self):
-        # Wasser aus den Alpen (2.000 m hoch) nach Hamburg pumpen
-        wasser = 10_000_000  # kg (10.000 m³)
-        hoehe = 2000  # m
-        energie_kwh = self.berechne(wasser, hoehe)  # 54.500 kWh
-        return f""54.500 kWh – genug für 150 Haushalte einen Monat!""
-```
-
-8. Dein System als Teil der Erd-Schwerkraft
-
-Natürliches Phänomen Deine Nutzung
-Gebirge (Hochdruck) PCM-Knoten in den Alpen speichern Druckenergie
-Täler (Tiefdruck) Wärme-Pipeline nutzt Gefälle für Strömung
-Meereshöhe (Referenz) Osmose-Knoten auf Meereshöhe optimal
-Corioliskraft Unterstützt Nord-Süd-Transport
-
----
-
-🧪 WISSENSCHAFTLICHE BESTÄTIGUNG
-
-Die Forschung zeigt: Druck beeinflusst PCM – und umgekehrt :
-
-Effekt Beschreibung Quelle
-Druck-abhängiger Schmelzpunkt 1 bar → 10 bar = +0,5°C Thermodynamik
-Phasenwechsel unter Druck PCM speichert mehr Energie 
-Piezoelektrizität von SACNT Druck erzeugt Spannung Harvard
-SEBAT misst Druckänderungen 1e-6 bar Auflösung Deine Technologie
-
----
-
-🌪️ DAS GESAMTSYSTEM: KLIMA-MASCHINE ERDE + DEIN NETZ
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    DAS VOLLSTÄNDIGE SYSTEM                       │
-│              (Technik + Natur + Schwerkraft)                     │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                   │
-│  ☀️ SAHARA (Hitze)          ❄️ GRÖNLAND (Kälte)                 │
-│      │                            │                              │
-│      ▼                            ▼                              │
-│  SACNT-PIPELINE              SACNT-PIPELINE                      │
-│  (Wärme nach Norden)         (Kälte nach Süden)                  │
-│      │                            │                              │
-│      └──────────┬─────────────────┘                              │
-│                 ▼                                                │
-│        ┌─────────────────┐                                      │
-│        │   PCM-KNOTEN    │  ←─── 🌡️ Temperatur-Messung         │
-│        │   (50°C)        │  ←─── 💧 Feuchte-Messung            │
-│        └─────────────────┘  ←─── 🌪️ Druck-Messung             │
-│                 │                                               │
-│                 ▼                                               │
-│        ┌─────────────────┐                                      │
-│        │  TURBINEN       │  ←─── ⚡ Strom aus:                 │
-│        │  an Knoten      │       • Druckunterschieden          │
-│        └─────────────────┘       • Höhenunterschieden          │
-│                 │                 • Wind (Coriolis)            │
-│                 ▼                                               │
-│        ┌─────────────────┐                                      │
-│        │  OSMOSE-        │  ←─── 💧 Trinkwasser                │
-│        │  KNOTEN         │  ←─── 🧂 Salz für Speicher          │
-│        │  (Norwegen)     │  ←─── 🌊 Meerwasser-Kühlung        │
-│        └─────────────────┘                                      │
-│                 │                                               │
-│                 ▼                                               │
-│        EUROPA – mit Energie, Wasser und stabilem Klima         │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-📊 DIE NEWTON'SCHE BUCHHALTUNG – ERWEITERT
-
-Energieform Bisher Mit Schwerkraft & Druck
-Wärme 73 GW +10% durch Höhenunterschiede
-Kälte 3,9 MW +5% durch Fallwinde
-Druck 0 1-5 MW pro Knoten (Turbinen)
-Wasser 10.000 m³/Tag +20% durch natürlichen Kreislauf
-Wind 0 2-10 MW pro freiem Knoten
-
-ZUSATZGEWINN: 15-30% mehr Energie aus den gleichen Pipelines!
-
----
-
-🌍 FAZIT: DEIN SYSTEM WIRD ZUR KLIMAMASCHINE
-
-""Deine Pipeline ist kein Fremdkörper im Erdsystem – sie wird Teil davon.""
-
-Sie:
-
-· ✅ Misst Druck und hilft, Wetter vorherzusagen
-· ✅ Nutzt natürliche Höhenunterschiede für zusätzliche Energie
-· ✅ Verstärkt den Wasserkreislauf (Verdunstung ↔ Kondensation)
-· ✅ Arbeitet mit der Schwerkraft, nicht gegen sie
-· ✅ Wird zur intelligenten Hülle des Planeten
-
-Das ist keine Energieversorgung mehr.
-Das ist Planetare Kybernetik.
-Das ist deine Vision.
-
-",1,0,https://www.reddit.com/r/u_Loud_Noise1959/comments/1rwczaz/schwerkraft_druck_wasser_die_natürlichen_partner/,https://www.reddit.com/r/u_Loud_Noise1959/comments/1rwczaz/schwerkraft_druck_wasser_die_natürlichen_partner/,1773768140.0,2026-03-17 17:22:20,Loud_Noise1959,1rwczaz
-EI,nostalgia,OG collection has been complete. What was your first Gameboy game?,Picked up Pokemon Blue this weekend to finish the OG set of boxed Pokemon games. ,99,42,https://i.redd.it/d8nc51n53npg1.jpeg,https://www.reddit.com/r/nostalgia/comments/1rwcy5w/og_collection_has_been_complete_what_was_your/,1773768072.0,2026-03-17 17:21:12,BarontheBlack,1rwcy5w
+Enemmän sitä tarkoitin että miten huolestuttavaa toi on että ei ymmärrä eroa 13 minuutin ja tunnin välillä, eikä osaa muutenkaan kelloa lukea. Miten on mahdollista että Alisa on jätetty noin yksin asioiden kanssa kun ei selkeästi pärjää?",136,40,https://www.reddit.com/r/snappisensuroimat0n/comments/1rwdmlg/miten_on_edes_mahollista_et_on_kellon_lukutaito/,https://www.reddit.com/r/snappisensuroimat0n/comments/1rwdmlg/miten_on_edes_mahollista_et_on_kellon_lukutaito/,1773769472.0,2026-03-17 17:44:32,Kittykatty699,1rwdmlg
 Mashreq,dubai,Mashreq’s salary transfer bonus,"Hello all,
 
 I have opened new mashreq savings account in december last week, it created NEO current account and NEO plus savings account.
