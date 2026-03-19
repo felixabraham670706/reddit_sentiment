@@ -1,45 +1,5 @@
 bank,subreddit,title,selftext,score,num_comments,url,permalink,created_utc,created_date,author,id
-ENBD,u_welcometoUAE,"PSA🚨: WhatsApp ""Call-Only"" Attacks and Banking Trojans in the UAE 🇦🇪 – How to not get your money wiped out from bank account.(Prevention + Emergency Steps)","Hey everyone, just wanted to put out a quick warning about some of the new cyber scams hitting us here in the UAE. Things are getting really sophisticated, and we are way past the point where you are safe just because you did not click a suspicious link.
-First off, there is a new WhatsApp Ghost Call exploit. Emirates NBD actually put out an urgent warning about this zero day vulnerability recently. Basically, hackers can exploit a flaw in the WhatsApp voice call feature to get into your photos and chats. The crazy part is you do not even have to answer the call. Just the attempt alone can compromise your phone. This is a true zero click attack. You can read the news report about the Emirates bank warning right here: https://gulfnews.com/uae/crime/emirates-nbd-issues-alert-over-whatsapp-zero-day-voice-call-attack-1.500405403
-
-Explaining how these Trojans abuse the accessibility settings on Android to literally read your screen. They can watch you type your password, grab your OTP, and automate a transfer while you are looking at another app. Here is the link to that technical breakdown: https://www.malwarebytes.com/blog/mobile/2026/03/google-cracks-down-on-android-apps-abusing-accessibility
-
-This is happening to real people right now. I recently posted about a guy in our community who lost 15k AED overnight from his debit account. It happens silently and fast. You can check out that previous post here: https://www.reddit.com/r/UAE/s/tRJF1INOFs
-
- we are so vulnerable right now with the current war situation and all the tension in the region, everyone is stressed out. When you are constantly checking the news and worrying, your brain is just exhausted. Scammers know this completely. They use this anxiety to send urgent fake alerts that trigger panic instead of logic. When we are tired, we take shortcuts like reusing passwords or ignoring updates. That exact moment of fatigue is when these exploits strike.
-How to actually stay safe
-Level Up Your Logins
-Forget using Habibi2024 or Password123. Pick a phrase only you know and swap in some symbols.
-Example: b@Trol Fl@$#ed Me ( Be creative with your own)
-It is super easy for you to remember but impossible for a bot to guess. Also, your bank password must be totally unique. Never use your social media passwords for your bank. If someone hacks your Instagram, you do not want them getting your life savings.
-Use a Dedicated Banking Phone
-If it is possible for you, get a completely separate cheap device just for your banking apps. Do not install any third party apps or social media on it. Keep that specific phone number totally private and do not share it with anyone or link it anywhere else.
-Separate Your Savings
-If you have a large amount of money, keep it in a separate savings account. If your bank allows it, opt out of online transactions for that specific account entirely. Do not use that card for online purchases at all. Only use it for physical ATM withdrawals or tapping at actual offline stores.
-Limit the Damage
-Open your everyday banking app right now and lower your daily transaction limits. If someone does get in through a call exploit, make sure they cannot drain your whole account at once.
-
-Silence Unknown Callers (DO IT RIGHT NOW)
-Go into your WhatsApp privacy settings and turn on Silence Unknown Callers. This simple step can block those malicious call scripts from ever ringing your phone.
-Use Biometrics
-
-Always use Face ID or your fingerprint for banking apps. A screen reading Trojan might steal a typed PIN, but it cannot steal your face.
-The USB Trap
-Never use those public charging ports at the airport or the mall. Scammers rig them to steal data while you charge. Always use your own plug and a regular wall socket.
-
-Slow Down
-If a message creates a sense of panic, it is probably a scam. Take a breath and wait five seconds before doing anything.
-Check Before Opening
-If someone sends you a weird file, upload it to https://www.virustotal.com to check it before you open it.
-Quick guide on what to do if you get hacked
-(maybe take a screenshot of this part just in case)
- * DO NOT REBOOT YOUR PHONE. Some malware is designed to lock your files the second your phone restarts.
- * GO DARK IMMEDIATELY. Turn on Flight Mode or pull out your SIM card right away to cut the hackers connection.
- * GRAB ANOTHER DEVICE. Use a different phone to record a video of what your hacked screen is doing so you have proof for the police and the bank.
- * CALL YOUR BANK. Use that other phone to call your banks fraud department and freeze everything.
- * REVOKE PERMISSIONS. If you can still tap your screen, go to settings and turn off accessibility permissions for any app you do not recognize.
-Stay safe out there guys. These scammers are pros, but if you make yourself a hard target, ",1,0,https://www.reddit.com/r/u_welcometoUAE/comments/1rxyfuk/psa_whatsapp_callonly_attacks_and_banking_trojans/,https://www.reddit.com/r/u_welcometoUAE/comments/1rxyfuk/psa_whatsapp_callonly_attacks_and_banking_trojans/,1773921495.0,2026-03-19 11:58:15,welcometoUAE,1rxyfuk
-ENBD,dubai,0% Interest on Apple Product via ENBD Credit Card,"Hello there, I want to purchase an Apple product with my Emirates NBD credit card. Currently, there is a 0% interest offer going on for Apple. I was wondering how to claim that. Should I just purchase with my credit card and then convert it into installments? But how do I ensure that the 0% interest is applied to my credit card and not charged with interest? What do I need to do?",3,5,https://www.reddit.com/r/dubai/comments/1rxxjym/0_interest_on_apple_product_via_enbd_credit_card/,https://www.reddit.com/r/dubai/comments/1rxxjym/0_interest_on_apple_product_via_enbd_credit_card/,1773918724.0,2026-03-19 11:12:04,sirHUNGRYBOX,1rxxjym
+ENBD,dubai,0% Interest on Apple Product via ENBD Credit Card,"Hello there, I want to purchase an Apple product with my Emirates NBD credit card. Currently, there is a 0% interest offer going on for Apple. I was wondering how to claim that. Should I just purchase with my credit card and then convert it into installments? But how do I ensure that the 0% interest is applied to my credit card and not charged with interest? What do I need to do?",2,6,https://www.reddit.com/r/dubai/comments/1rxxjym/0_interest_on_apple_product_via_enbd_credit_card/,https://www.reddit.com/r/dubai/comments/1rxxjym/0_interest_on_apple_product_via_enbd_credit_card/,1773918724.0,2026-03-19 11:12:04,sirHUNGRYBOX,1rxxjym
 ENBD,DubaiUX,"Emirates NBD just ran this AI-generated ad on LinkedIn. As designers, what do we think?","Spotted this Emirates NBD campaign promoting their 6% salary transfer offer.
 
 A few things jump out immediately — curious what this community sees:
@@ -49,7 +9,7 @@ The AI-generated humans hugging oversized ""6%"" pillows is... a choice. Does th
 Emirates NBD is one of the biggest banks in the region. This ran as a paid LinkedIn promotion, so this wasn't a quick social post — there was budget and sign-off behind it.
 
 Hot take or thoughtful breakdown — drop it below. What would you have done differently?",1,0,https://i.redd.it/fjnyf5pa7ypg1.jpeg,https://www.reddit.com/r/DubaiUX/comments/1rxt65n/emirates_nbd_just_ran_this_aigenerated_ad_on/,1773902641.0,2026-03-19 06:44:01,Born-James-Apex,1rxt65n
-ADIB,UAEcreditcards,ADIB Etihad Platinum Card,Does anyone have the ADIB Etihad Platinum card? Is it any good? And how can I make the best use of it?,2,2,https://www.reddit.com/r/UAEcreditcards/comments/1ry2tlu/adib_etihad_platinum_card/,https://www.reddit.com/r/UAEcreditcards/comments/1ry2tlu/adib_etihad_platinum_card/,1773932560.0,2026-03-19 15:02:40,No-Parsley7066,1ry2tlu
+ADIB,UAEcreditcards,ADIB Etihad Platinum Card,Does anyone have the ADIB Etihad Platinum card? Is it any good? And how can I make the best use of it?,3,3,https://www.reddit.com/r/UAEcreditcards/comments/1ry2tlu/adib_etihad_platinum_card/,https://www.reddit.com/r/UAEcreditcards/comments/1ry2tlu/adib_etihad_platinum_card/,1773932560.0,2026-03-19 15:02:40,No-Parsley7066,1ry2tlu
 ADIB,artificial,Generative AI improves a wireless vision system that sees through obstructions,"MIT researchers have spent more than a decade studying techniques that enable robots to find and manipulate hidden objects by ""seeing"" through obstacles. Their methods utilize surface-penetrating wireless signals that reflect off concealed items. Now, the researchers are leveraging generative artificial intelligence models to overcome a longstanding bottleneck that limited the precision of prior approaches.
 
 The result is a new method that produces more accurate shape reconstructions, which could improve a robot's ability to reliably grasp and manipulate objects that are blocked from view. This new technique builds a partial reconstruction of a hidden object from reflected wireless signals and fills in the missing parts of its shape using a specially trained generative AI model.
@@ -61,7 +21,7 @@ This overcomes one key challenge of many existing methods, which require a wirel
 These innovations could enable warehouse robots to verify packed items before shipping, eliminating waste from product returns. They could also allow smart home robots to understand someone's location in a room, improving the safety and efficiency of human-robot interaction.
 
 ""What we've done now is develop generative AI models that help us understand wireless reflections. This opens up a lot of interesting new applications, but technically it is also a qualitative leap in capabilities, from being able to fill in gaps we were not able to see before to being able to interpret reflections and reconstruct entire scenes,"" says Fadel Adib, associate professor in the Department of Electrical Engineering and Computer Science, director of the Signal Kinetics group in the MIT Media Lab, and senior author of two papers on these techniques. ""We are using AI to finally unlock wireless vision.""",2,0,https://techxplore.com/news/2026-03-generative-ai-wireless-vision-obstructions.html,https://www.reddit.com/r/artificial/comments/1ry2qv3/generative_ai_improves_a_wireless_vision_system/,1773932400.0,2026-03-19 15:00:00,Secure-Technology-78,1ry2qv3
-ADIB,YesstyleCodesSharing,TINA10 + BARBIE888 20% OFF 💞💞💞,,3,5,https://i.redd.it/9dlpru7l7zpg1.jpeg,https://www.reddit.com/r/YesstyleCodesSharing/comments/1rxweul/tina10_barbie888_20_off/,1773914846.0,2026-03-19 10:07:26,barbaraabera,1rxweul
+ADIB,YesstyleCodesSharing,TINA10 + BARBIE888 20% OFF 💞💞💞,,3,6,https://i.redd.it/9dlpru7l7zpg1.jpeg,https://www.reddit.com/r/YesstyleCodesSharing/comments/1rxweul/tina10_barbie888_20_off/,1773914846.0,2026-03-19 10:07:26,barbaraabera,1rxweul
 ADIB,jobsdubai,Abu Dhabi Islamic Bank is hiring a Application Assurance Specialist,"🏢 Company: [Abu Dhabi Islamic Bank](https://zerotaxjobs.com/companies/abu-dhabi-islamic-bank)  
 📍 Location: Dubai, United Arab Emirates  
 💸 Salary Guide: $60,000 USD - $100,000 USD Tax-Free!  
@@ -98,8 +58,633 @@ ADIB,techjobs,[Hiring] [Hybrid] [Dubai / UAE / Saudi Arabia] - 20 zero-tax tech 
 |[Associate Solutions Architect (UAE National) @ Dell Technologies](https://zerotaxjobs.com/jobs/associate-solutions-architect-uae-national-719llea7)|Dubai, United Arab Emirates|$60,000 USD - $80,000 USD Tax-Free|
 |[Alletra 4K Compute Specialist @ HP](https://zerotaxjobs.com/jobs/alletra-4k-compute-specialist-ehneiajy)|Dubai, United Arab Emirates|$80,000 USD - $120,000 USD Tax-Free|
 |[Specialist - Business Analysis @ Presight](https://zerotaxjobs.com/jobs/specialist-business-analysis-84x0ty76)|Abu Dhabi, United Arab Emirates|$50,000 USD - $80,000 USD Tax-Free|",1,0,https://www.reddit.com/r/techjobs/comments/1rxjb2u/hiring_hybrid_dubai_uae_saudi_arabia_20_zerotax/,https://www.reddit.com/r/techjobs/comments/1rxjb2u/hiring_hybrid_dubai_uae_saudi_arabia_20_zerotax/,1773874804.0,2026-03-18 23:00:04,samotsar,1rxjb2u
-EI,China_irl,红迪太典了，一模一样的文章讲伊朗没问题讲以色列立刻被标注提倡仇恨,,1,1,https://i.redd.it/3kmnv41js0qg1.jpeg,https://www.reddit.com/r/China_irl/comments/1ry3hob/红迪太典了一模一样的文章讲伊朗没问题讲以色列立刻被标注提倡仇恨/,1773934063.0,2026-03-19 15:27:43,OutcomeAcceptable540,1ry3hob
-EI,KaijusLatam,"If I die in this world Who will know something of me? I am lost, no one knows There's no trace of my yearning",https://youtu.be/QkmKJK17nEI?si=Dtwa6BUGqz0H8gfZ,3,0,https://v.redd.it/3620ubozr0qg1,https://www.reddit.com/r/KaijusLatam/comments/1ry3dmj/if_i_die_in_this_world_who_will_know_something_of/,1773933816.0,2026-03-19 15:23:36,ElderberryNovel9016,1ry3dmj
+EI,Eesti,"Tahan asutada OÜ-d, aga ei oma maad, kuhu seda registreerida. Kuidas olukorda lahendada?","Tegutsemise reaalne aadress varieerub ja muutub vastavalt minu liikumisele. Kuna teen tööd arvutist, ei ole mul fikseeritud asukohta. Üürikorterit ei taha aadressiks ilma omaniku nõusolekuta panna + **ma ei taha oma koduaadressi äriregistrisse**. Appi?
+
+FIEks ma maksulistel põhjustel ei hakka.",4,8,https://www.reddit.com/r/Eesti/comments/1ry5n55/tahan_asutada_oüd_aga_ei_oma_maad_kuhu_seda/,https://www.reddit.com/r/Eesti/comments/1ry5n55/tahan_asutada_oüd_aga_ei_oma_maad_kuhu_seda/,1773938828.0,2026-03-19 16:47:08,eurooplane,1ry5n55
+EI,bouldering,Sans Belay: A recent climbing-inspired character Illustration,"A recent character illustration I thought you guys might like to see. I've relatively recently gotten into bouldering and am enjoying it a lot, have only been inside so far, but hoping to do some ""sans belay"" rock stuff at some point. Let me know what you think! 
+
+If you want to see any of my other bits of work you can find it at dead\_man\_flying on instagram (although so far not much of it is climbing related. That might change haha) ",22,0,https://i.redd.it/d98uasxk51qg1.png,https://www.reddit.com/r/bouldering/comments/1ry5l6h/sans_belay_a_recent_climbinginspired_character/,1773938710.0,2026-03-19 16:45:10,farenheit1472,1ry5l6h
+EI,ThousandSons,Painting rubric marines,"Giving Thousand Sons a shot
+
+I’ve painted a bit many years ago and have recently decided to start painting again as an alternative to spending time in front of the computer. Decided on a Thousand Sons combat patrol and am starting on the rubric marines before working towards the more unique models.
+
+How am I doing? Any tips?",2,0,https://i.redd.it/93czk1ri61qg1.jpeg,https://www.reddit.com/r/ThousandSons/comments/1ry5l0e/painting_rubric_marines/,1773938699.0,2026-03-19 16:44:59,C4lib3rX,1ry5l0e
+EI,lightsalot,ghostie tattoo,finally got my ghostie and the lyrics she wrote me tattooed above my soul symbol 💞 i know she drew a few ghosties this tour so i love the idea of a bunch of us having the same tattoo like the soul symbol 👻,6,0,https://www.reddit.com/gallery/1ry5l02,https://www.reddit.com/r/lightsalot/comments/1ry5l02/ghostie_tattoo/,1773938699.0,2026-03-19 16:44:59,lesleypika,1ry5l02
+EI,PerfumesBR,Minha coleção da Granado/Phebo,"Basílico Roxo: no geral ele é bem fresco, herbal e verde. Gosto muito da nota de manjericão, e a fixação é melhor do que eu esperava, chegando a durar até umas 6 horas (com hidratante antes de aplicar). Muito bom.
+
+Fava Tonka: é um amadeirado meio doce, mas ao mesmo tempo tem um frescor bem encorpado. Fixação e projeção boas, acho que ele tem a melhor performance entre esses da foto. Eu gosto de usar em ocasiões mais formais.
+
+Chá Preto e Bergamota: esse é bem agradável, mas na minha experiência fixa e projeta muito pouco. Eu acabo usando ele mais em casa.
+
+Imperial: esse tem um tempo que eu não uso, então talvez eu precise testar de novo. Mas mesmo não sendo doce, eu acho ele meio enjoativo. É mais feminino. Fixa e projeta bem.
+
+Fantástico Circo: cheiro de conforto, pós-banho, lavanda e talco. Já tive 2 frascos antes desse da foto, gosto e uso muito, mas não dura tanto.
+
+Oud: pode ser considerado muito forte ou mais masculino, mas eu borrifo ele e só penso “que cheiro bom”. Amadeirado fresco e verde, mas acho melhor pra ser usado à noite ou no frio. Fixa e projeta bem, em roupa fica impregnado.
+
+Folha Imperial: um soco de verde. Ele é bem cítrico e meio amargo. Fixa e projeta dentro da média. Uso pouco porque o frasco já quase chegou ao fim e ele saiu de linha.
+
+Agora comprei o Carioca na promoção da Amazon e tô querendo pegar o Bossa depois. Acho que são os mais famosos da marca e ainda não tive. Mas não tô acompanhando muito os lançamentos recentes de Granado, pois onde eu moro não tem loja física e não tenho coragem de dar blind agora com o aumento dos preços kk",2,0,https://i.redd.it/mn6bkcys51qg1.jpeg,https://www.reddit.com/r/PerfumesBR/comments/1ry5hd1/minha_coleção_da_granadophebo/,1773938478.0,2026-03-19 16:41:18,Cooler-Cucumber,1ry5hd1
+EI,overemployed,Thinking out loud,"I see things like this where to live comfortably as a single adult in Tampa you need 94K+. Then I saw another post from a guy who had been working remote for 25 years who just got let go. He was asking for leads…
+
+This is a big part of why I choose to OE. Thank GOD I’m able to do this. 
+
+It’s brutal out there and you owe it to yourself to have a backup job and to be able to live the life you want to live. 
+
+You’ve all got this, let’s go. ",60,4,https://i.redd.it/861jij8t51qg1.jpeg,https://www.reddit.com/r/overemployed/comments/1ry5h3o/thinking_out_loud/,1773938461.0,2026-03-19 16:41:01,TheAnonSicario,1ry5h3o
+EI,AlexandriaEgy,لا حول ولا قوة الا بالله,,2,0,https://i.redd.it/hwek2smq51qg1.jpeg,https://www.reddit.com/r/AlexandriaEgy/comments/1ry5gq3/لا_حول_ولا_قوة_الا_بالله/,1773938437.0,2026-03-19 16:40:37,Hot-Garden-75,1ry5gq3
+EI,UrbanHell,This villain base,,8,1,https://i.redd.it/irrhgkbo51qg1.jpeg,https://www.reddit.com/r/UrbanHell/comments/1ry5gci/this_villain_base/,1773938416.0,2026-03-19 16:40:16,Accomplished-Sky-837,1ry5gci
+EI,Cheese,Port Salut,"Yes, it got slapped. 😉 Stress ball cheese. ",6,4,https://www.reddit.com/gallery/1ry5f5d,https://www.reddit.com/r/Cheese/comments/1ry5f5d/port_salut/,1773938342.0,2026-03-19 16:39:02,CheeseMongoNJ,1ry5f5d
+EI,fujifilm,"B'Bugia, Malta - Fujifilm-XT30iii, Fujinon XC 13-33 Kit Lens",SOOC JPEG,2,0,https://www.reddit.com/gallery/1ry59zu,https://www.reddit.com/r/fujifilm/comments/1ry59zu/bbugia_malta_fujifilmxt30iii_fujinon_xc_1333_kit/,1773938018.0,2026-03-19 16:33:38,kurtscic99,1ry59zu
+EI,Knightsofpenandpaper,Need some help,"Hey guys... Ive been playing for some hours and cant seem to get rid of this shuriken.. 
+Even in the Smelt section (blacksmith) it doesnt show up...",1,0,https://i.redd.it/oxt9mk1g41qg1.jpeg,https://www.reddit.com/r/Knightsofpenandpaper/comments/1ry59q7/need_some_help/,1773938002.0,2026-03-19 16:33:22,KrussssstZ,1ry59q7
+EI,Suomi,Olit oikeassa.,"Mökillä.
+
+Ongelma: 
+
+Keittiön lipasto johon hiiret paskovat talvisin niin paljon ettei kukaan kehtaa käyttää
+
+Syy löydetty: 
+
+Puuttuva selkälevy
+
+\-Mene tonkimaan 80-vuotiaasta vajasta josko saattaisi löytyä tuohon sopivaa palasta
+
+\-Etsiskelyn jälkeen, epätoivo jo kolkuttamassa ovella, yhtäkkiä katonrajasta pilkistää palanen puukuitulevyä
+
+\-”Voikohan toi olla sopiva?”
+
+\-Se on täydellinen, vaatii vain muutaman sentin leikkauksen
+
+\-Naputtele paikoilleen
+
+\-Ei pääse hiiret enää sisälle lipastoon
+
+\-profit
+
+Tarinan allegoria: 
+
+Pala joka oli vajassa on ollut siellä vuosikymmeniä, jo kuolleen isoisoisäni sinne todennäköisesti laittama. Tämä on siis lojunut siellä loputtomia vuosia. Se on nähnyt auringonnousun ja laskun tuhansia kertoja. Lapsia on syntynyt, rakkaudet kukoistaneet ja sitten murentuneet, valtakunnat romahtaneet. Ihmiset tunnetut ja tuntemattomat sen läheisyydessä pyörineet, mahdollisesti joku häneen katseen kääntänyt, kuitenkin sen pois kääntänyt huomaten sen olevan turha.
+
+Krääsä.
+
+Roska.
+
+Turha.
+
+Näin kuitenkaan ei ollut. Lukemattomien elämien, kuolemien ja kaiken sen välillä liikkuvan jälkeen, tänä päivänä 19. päivä maaliskuuta kyseistä vuotta tuo joskus maasta kasvanut, sittemin silpottu puupalanen löysi jälleen merkityksensä, ruokatavaroiden ja (biohajoavien) kertakäyttöastioiden uskollisena suojelijana.
+
+Miksi tästä kerron?
+
+Toveri.
+
+Olit oikeassa.
+
+Se palanen.
+
+Se pieni puunpalanen. Se kokoelma ruuveja. Se metallinpalanen jonka alkuperää et enää muista, mutta jolla voisi hyvinkin olla käyttöä.
+
+Toveri!
+
+Sillä on!
+
+Jonakin päivänä, kun sen olemassaolon jo unohtanut olet, rupeat projektiin jota et alunperin olisi oikeastaan jaksanut mutta nyt huutaa nimeäsi! Kolmetoista kirosanaa ja kolme tuntia myöhemmin olet varmasti valmistanut jotakin, mitä ei ollut olemassa, kun silmäsi avasit!
+
+Joten vielä kerran; olit oikeassa!
+
+Vaikka tyttöystäväsi kanssa jo riitelet siitä että miksi et jo heitä pois tuota palasta?
+
+”Mitä järkeä tässä on? Et sä edes tiiä mihin tää kuuluu!”
+
+Tiedät. Jossain siellä syvällä. Sinä tiedät.
+
+Naapurisi ihmettelevät miksi säilytät jotakin turhaketta. Perheesi jo sinua kummaksuu. Lapset eivät enää katso samalla tavalla.
+
+Maailma on muuttunut hieman… tummemaksi.
+
+Kunnes sinä yhtenä päivänä.
+
+Kaikki muuttuu. Maailmankaikkeuden alusta asti odottanut palanen. Oli sitten ihmisellä vapaa tahto tai tapahtukoon kaikki jo ennalta määrätyn kaavan mukaisesti, kun tuona kultaisena päivänä tulevaisuudessa voit ilta-auringon hyväilemänä istua mökin nojatuolilla, kuiskaa itsellesi;
+
+Olin oikeassa.",35,10,https://www.reddit.com/gallery/1ry59dt,https://www.reddit.com/r/Suomi/comments/1ry59dt/olit_oikeassa/,1773937981.0,2026-03-19 16:33:01,citizenK245,1ry59dt
+EI,snappisensuroimat0n,Tuija ei pysty jättämään edes Vendiä rauhaan.,Tämä nainen oikeasti pitää raahata hoitoon. Ei mitään moraalia videoissaan.,20,13,https://v.redd.it/c7j7jtr641qg1,https://www.reddit.com/r/snappisensuroimat0n/comments/1ry58co/tuija_ei_pysty_jättämään_edes_vendiä_rauhaan/,1773937916.0,2026-03-19 16:31:56,Cool_Marsupial_5584,1ry58co
+EI,CryptoMoon,Early access is now live for $TrumpClaude! 🥳🚀 (fair launch),"The narrative is fire mixing Trump and Claude ai 
+
+Think this can be a good runner for sure 
+
+I just thought more Trump Claude now 
+
+Website https://trumpclaude.vip/",2,0,https://i.redd.it/8ipp484641qg1.jpeg,https://www.reddit.com/r/CryptoMoon/comments/1ry588q/early_access_is_now_live_for_trumpclaude_fair/,1773937909.0,2026-03-19 16:31:49,AdeptWolverine5318,1ry588q
+EI,writingscaling,Sorry for adding this slop to the board,"Tried to make an interesting list and challenge myself with no repeats and covering different mediums. (With 1 exception) 
+
+Most of this was just stream of consciousness because I could answer any of these with like 10 or more different responses. ",2,2,https://i.redd.it/jpkamzi441qg1.png,https://www.reddit.com/r/writingscaling/comments/1ry580v/sorry_for_adding_this_slop_to_the_board/,1773937894.0,2026-03-19 16:31:34,BigOwl526,1ry580v
+EI,glutenfree,Are those safe to consume,"hello dear friends 
+
+I have a question about Snickers and Bounty miniatures 
+
+are they safe ? 
+
+they are made in the Netherlands and I heard they are safe ",0,0,https://www.reddit.com/gallery/1ry57iu,https://www.reddit.com/r/glutenfree/comments/1ry57iu/are_those_safe_to_consume/,1773937864.0,2026-03-19 16:31:04,_JO_ACE_,1ry57iu
+EI,AllCryptoBets,$TrumpClaude early access is live,"We are early do not fade it 
+
+Great narrative and idea 
+
+Solid project and 100% fair launch 
+
+Website https://trumpclaude.vip",2,0,https://i.redd.it/8282tl8r31qg1.jpeg,https://www.reddit.com/r/AllCryptoBets/comments/1ry55xu/trumpclaude_early_access_is_live/,1773937770.0,2026-03-19 16:29:30,AdeptWolverine5318,1ry55xu
+EI,FortniteAccSale,"🔴Wildcat , Galaxy , Travis Scott | 800+ Skins | $200 | Full access","\-Comes with Original Email & is email Changeable, Playable on ANY Platform. | I can show vouches 
+
+\-YOU CAN NOT SIGN IN Without Payment 
+
+Cashapp, Venmo , PayPal 
+
+\-NOT GOING FIRST Dont waste time , if it’s still posted it available to buy. Dont message if you don’t have the funds please & thank you. ",0,0,https://www.reddit.com/gallery/1ry51jf,https://www.reddit.com/r/FortniteAccSale/comments/1ry51jf/wildcat_galaxy_travis_scott_800_skins_200_full/,1773937503.0,2026-03-19 16:25:03,Warm-Weakness-885,1ry51jf
+EI,bapeheads,Legit,,1,3,https://www.reddit.com/gallery/1ry4zol,https://www.reddit.com/r/bapeheads/comments/1ry4zol/legit/,1773937396.0,2026-03-19 16:23:16,Clipzvznry,1ry4zol
+EI,carsireland,Only 12 years left until it’s €56 👍🏻,"Found these while cleaning out the car, sad that they are doing away with the discs now because there’s nothing to show for it",16,10,https://i.redd.it/vbfritmm21qg1.jpeg,https://www.reddit.com/r/carsireland/comments/1ry4zlg/only_12_years_left_until_its_56/,1773937391.0,2026-03-19 16:23:11,VantaCodex,1ry4zlg
+EI,peaceloveandhistory,"March 19, 1863 – US Civil War: The CSS Georgiana, said to have been the most powerful Confederate cruiser, is destroyed on her maiden voyage with a cargo of munitions, medicines, and merchandise then valued at over $1,000,000...",https://www.signalsaz.com/articles/this-day-in-history-march-19th-2021-the-ss-georgiana,2,0,https://www.reddit.com/gallery/1ry4z7j,https://www.reddit.com/r/peaceloveandhistory/comments/1ry4z7j/march_19_1863_us_civil_war_the_css_georgiana_said/,1773937367.0,2026-03-19 16:22:47,CrystalEise,1ry4z7j
+EI,techsupport,Problems with Google Chrome,"Hello friends, I'm having a problem with my Google Chrome. Regardless of the theme I apply, the search results screen goes black, in all profiles except guest and incognito mode. The same thing is happening on my mobile Chrome browser. I've already tried disabling the ""Auto Dark Mode for Web Contents"" flag, my phone, laptop, and Chrome browser have their light themes enabled, battery saver is disabled, and this only happens when I perform a search. When I enter a website, it becomes light again, but when I leave, I can hear it. Is anyone else experiencing this problem?
+
+https://preview.redd.it/8532u8ce21qg1.png?width=1917&format=png&auto=webp&s=d329d9c377f72f7a20922a3c826f3dc73c1dd864
+
+",1,2,https://www.reddit.com/r/techsupport/comments/1ry4yyp/problems_with_google_chrome/,https://www.reddit.com/r/techsupport/comments/1ry4yyp/problems_with_google_chrome/,1773937352.0,2026-03-19 16:22:32,Lyaaaaaaaa,1ry4yyp
+EI,pchelp,Problems with Google Chrome,"Hello friends, I'm having a problem with my Google Chrome. Regardless of the theme I apply, the search results screen goes black, in all profiles except guest and incognito mode. The same thing is happening on my mobile Chrome browser. I've already tried disabling the ""Auto Dark Mode for Web Contents"" flag, my phone, laptop, and Chrome browser have their light themes enabled, battery saver is disabled, and this only happens when I perform a search. When I enter a website, it becomes light again, but when I leave, I can hear it. Is anyone else experiencing this problem?
+
+https://preview.redd.it/cxwsn3p121qg1.png?width=1917&format=png&auto=webp&s=045ca82b55971e8e69f8237a5b251d6f87ef272c
+
+",1,1,https://www.reddit.com/r/pchelp/comments/1ry4wtj/problems_with_google_chrome/,https://www.reddit.com/r/pchelp/comments/1ry4wtj/problems_with_google_chrome/,1773937225.0,2026-03-19 16:20:25,Lyaaaaaaaa,1ry4wtj
+EI,Bazi_Astrology,求大师指点，最近很迷茫,,1,1,https://i.redd.it/s72v741y11qg1.jpeg,https://www.reddit.com/r/Bazi_Astrology/comments/1ry4vue/求大师指点最近很迷茫/,1773937162.0,2026-03-19 16:19:22,Initial-Coyote6229,1ry4vue
+EI,Panouri_Fotovoltaice,Cum sa alegi firma de montaj fara sa regreti dupa 6 luni,"Dupa ce am vorbit cu 7 instalatori si am primit oferte de la 18.000 la 32.000 lei pentru acelasi sistem, va pot spune ca diferenta e uriasa. Nu doar la bani, ci la calitate si service.
+
+Iata ce am invatat din procesul asta.
+
+## Pasul 1: Verifica daca firma exista cu adevarat
+
+Sună banal, dar multi cad la capcana ""firmei de o vara"".
+
+**Ce verific:**
+- **Registrul Comertului** - cat de veche e firma? Sub 2 ani e suspect
+- **Capitalul social** - 200 lei e semn rau
+- **Adresa sediului** - e depozit real sau apartament?
+
+Daca firma a fost infiintata acum 6 luni, n-ai cine stie ce garantie ca va fi aici peste 5 ani.
+
+## Pasul 2: Cere minim 3 oferte scrise
+
+Niciodata nu accepta oferta verbala. Vrei totul pe mail sau hartie.
+
+**Ce trebuie sa contina oferta:**
+- Brandul si modelul exact al echipamentelor
+- Puterea instalata in kWp
+- Durata estimata a lucrarii
+- Garantii separate (module, echipamente, manopera)
+- Tot ce e inclus si CE NU e inclus
+
+Daca instalatorul zice ""vedem pe parcurs"", **fugi**.
+
+## Pasul 3: Cauta recenzii din surse multiple
+
+Nu te baza doar pe site-ul lor sau Facebook.
+
+**Unde ma uit:**
+- **Google Maps** - recenzii verificate
+- **Grupuri de prosumatori** - intrebi daca a lucrat cu ei cineva
+- **Instagram/TikTok** - vezi proiecte reale, nu doar poze stock
+
+Caut recenzii **negative** si vad cum a reactionat firma. Asta spune multe.
+
+## Pasul 4: Intreaba despre service si intervenții
+
+Cel mai important pas. Sincer, aici m-am lamurit eu.
+
+**Intrebari esentiale:**
+- ""Cine vine daca se strica ceva?""
+- ""Cat de repede puteti ajunge in judetul meu?""
+- ""Aveti service propriu sau subcontractati?""
+- ""Cine plateste deplasarea?""
+
+Un instalator bun raspunde clar. Unul prost se incurca.
+
+## Pasul 5: Semne de alarma rosie
+
+Daca vezi asta, **nu semnati**:
+
+- **Presiune mare** - ""oferta expira azi"" e manipulare
+- **Avans peste 30%** - normal e 10-20% la comanda
+- **Fara contract** - trebuie sa fie totul scris
+- **Promisiuni irealiste** - ""recuperati in 2 ani"" e minciuna
+- **Refuza sa dea contacte de clienti** - ce ascund?
+
+## Pasul 6: Vorbeste cu un client existent
+
+Cereti 2-3 contacte de la oameni din zona voastra.
+
+**Intreabă:**
+- Au terminat la timp?
+- Au lasat curat dupa ei?
+- Au raspuns la telefoane dupa montaj?
+- Au aparut costuri ascunse?
+
+Daca refuza sa va dea contacte, aveti motiv sa va ingrijorati.
+
+## Ce am facut eu
+
+Am ales o firma cu **4 ani experienta**, service propriu in judet, si am platit cam 10% mai mult decat cea mai ieftina oferta.
+
+Nu regret deloc. Cand a fost o problema minora, au venit a doua zi.
+
+Cum ati ales instalatorul? Ce intrebari v-au ajutat sa va dati seama daca e de incredere?",1,0,https://www.reddit.com/r/Panouri_Fotovoltaice/comments/1ry4so6/cum_sa_alegi_firma_de_montaj_fara_sa_regreti_dupa/,https://www.reddit.com/r/Panouri_Fotovoltaice/comments/1ry4so6/cum_sa_alegi_firma_de_montaj_fara_sa_regreti_dupa/,1773936968.0,2026-03-19 16:16:08,IulianHI,1ry4so6
+EI,baseballcards,2000+ 1950s Baseball Cards Hidden In Schlitz Beer Case For Over 60 years! (Topps and Bowman),"Check out this incredible collection of over 2000 1952-1958 Topps and Bowman Baseball Cards purchased from the original owner! Highlights include a 1956 Topps complete set, near complete sets of 55 Topps and Bowman, 57 Topps and 58 Topps.  Included were 7 Mantles, 7 Aarons, and 2 Jackie Robinsons!   
+[www.throwbacksportscards.com](http://www.throwbacksportscards.com)
+
+[https://www.youtube.com/watch?v=OLKFhVPbUh0&t=2s](https://www.youtube.com/watch?v=OLKFhVPbUh0&t=2s)",24,8,https://i.redd.it/1k2gxth511qg1.jpeg,https://www.reddit.com/r/baseballcards/comments/1ry4sk9/2000_1950s_baseball_cards_hidden_in_schlitz_beer/,1773936961.0,2026-03-19 16:16:01,Lumpy-Future3274,1ry4sk9
+EI,COC,You can get the rewards and stay if you want #29G9YQ22Q Mandioxia,"Hi, we are still looking for more member for wars if you are interested you can join us 🙂 #29G9YQ22Q Mandioxia ",1,0,https://i.redd.it/ewp1xqzq01qg1.jpeg,https://www.reddit.com/r/COC/comments/1ry4pba/you_can_get_the_rewards_and_stay_if_you_want/,1773936758.0,2026-03-19 16:12:38,WeirdLab6237,1ry4pba
+EI,FortniteAccountss,"DM for prices, full access",,1,1,https://www.reddit.com/gallery/1ry4ovd,https://www.reddit.com/r/FortniteAccountss/comments/1ry4ovd/dm_for_prices_full_access/,1773936729.0,2026-03-19 16:12:09,vxzzr,1ry4ovd
+EI,RagnarokOnline,Ragnarok: Portable (Offline),"I apologize if the flair is wrong (this is my first of many posts here) but I’m super excited to showcase Ragnarok: Portable running natively on my Ayn Thor via Winlator completely offline! I saw a post showing someone get Ragnarok Offline running on their Steam deck (which I also have) and I took it up as a challenge to get it running on my Ayn Thor first and foremost. It took multiple hours of failed exes, code, laragon refusing to run properly, and a MASSIVE headache to boot lol. But I’m happy to say my effort has paid off! If you guys want a guide on how to get this up and running for yourself, let me know and I’ll make a guide :3 ",32,5,https://i.redd.it/kxpf5s7701qg1.jpeg,https://www.reddit.com/r/RagnarokOnline/comments/1ry4mme/ragnarok_portable_offline/,1773936588.0,2026-03-19 16:09:48,Flufferfluff,1ry4mme
+EI,MarvelRivalsEsports,"MRC Season 6 Hero & Player Statistics for Top 16 in Americas, EMEA, & Pacific",,4,3,https://www.reddit.com/gallery/1ry4i5i,https://www.reddit.com/r/MarvelRivalsEsports/comments/1ry4i5i/mrc_season_6_hero_player_statistics_for_top_16_in/,1773936297.0,2026-03-19 16:04:57,imWindyG,1ry4i5i
+EI,RoFirma,"DeLa1 Saptamana 2 - Contracte, contracte, contracte si integrari","[off topic - la final](https://preview.redd.it/2xcejrpkz0qg1.png?width=1637&format=png&auto=webp&s=7e167464e90916caad286eed65a8969801ed7962)
+
+Salutare!
+
+Revin cu update-ul pentru a2a saptamana pt noua firma.
+
+Saptamana asta nu am fost prea focusat pe ea pt ca, dupa cum se vede in poza atasata, accentul a fost pe celelalte giguri ca scade vanzarea si cresc costurile (nu doar taxe si inflatie, ci si scumpirea serviciilor si preturilor de la furnizori).
+
+**Saptamana 2**
+
+\- In primul rand am reusit sa obtin un furnizor destul de mare cu un contract ok si cu garantie generica (termen de plata, limita de credit, BO, discount de pana la 30% la unele produse, etc). Maine (vineri) o sa fie gata contractul si maine sau saptamana viitoare ma voi duce ca sa-l semnez.
+
+\- La site n-am facut inca nimic pt ca am asteptat sa vad cu care furnizor merg prima oara ca sa-mi fac o idee de cum aranjez site-ul. Urmeaza sa integrez aplicatii precum sameday, smartbill, google ads, ssl.  
+\- Am facut conturile de google (merchant center, ads, gsc, analytics) si serverul de email e functional  
+\- Am incheiat incheiat un contract foarte bun la preturi cu sameday dupa ce am facut un ping pong intre firmele de curierat si 3rd party (gen ecolet) ca sa vad care imi ofera cele mai bune preturi. **Luam oferta cea mai buna si o dadeam celorlalti pt o contraoferta + niste motivare cu faptul ca totul merge in jos acum si mai bine sa ai un client mai putin profitabil decat deloc:)).** De regula sameday, fancurier si gls sunt cele mai bune optiuni pt produse generice sau cu valoare ridicata (bijuterii si similare pe gls din ce stiu de la altii ca sa nu ramai in gaura)  
+\- Mai am de integrat Netopia pt platile cu cardul si astept de o saptamana. Ei sunt mai exigenti decat o banca si e mai ""complicat"" cu noul CI electronic.  
+\- Am fost si la ANAF zilele acestea pt a putea merge mai departe cu efactura, semnatura digitala etc. Am fost fizic pt ca semnatura digitala din ROeID n-a fost acceptata ceea ce e o cretinatate, dar asta e :))
+
+Am avut incasari de aprox 4500 cu tva ca am avut o ocazie rapida, dar startul la vanzare va fi de saptamana viitoare dupa ce adaug produsele pe site si pot automatiza majoritatea taskurilor din activitate.
+
+Tot saptamana viitoare, sper si cred, voi lansa primul SaaS si o sa fie inclus pe firma aceasta, deci va avea o rubrica speciala. Momentan se lucreaza pe partea de backend si putin pe branding, iar dupa o sa incep sa contactez potentialii clienti.
+
+**Ce pot spune pornind de la 0 pe firma asta (si fara sa fie in holding cu restul pt beneficii extra) e ca e mult mai greu acum sa obtii preturi bune din cauza situatiei economice fata de 2021-2023 si previziunile de vanzare mult mai mici; raportandu-ma la celelalte activitati.**
+
+**OFF TOPIC**
+
+Sunt curios cei care vand produse in special cum va merge perioada asta? Am scadere intre 25 si 46% fata de luna trecuta, chit ca asta e luna cand incepe sezonul si vanzarea ar fi trebuit sa fie cu vreo 30-80% mai mare fata de februarie.  
+Efectiv toate site-urile sunt pe minus la mine si vand si produse care sunt obligatorii dpdv legal deci zice multe despre directia in care merge economia:))",1,0,https://www.reddit.com/r/RoFirma/comments/1ry4hoo/dela1_saptamana_2_contracte_contracte_contracte/,https://www.reddit.com/r/RoFirma/comments/1ry4hoo/dela1_saptamana_2_contracte_contracte_contracte/,1773936267.0,2026-03-19 16:04:27,alaMaresiSfant,1ry4hoo
+EI,AynThor,RAGNAROK: PORTABLE,"After a sh\*t ton of hours, multiple failed exes, mariadb errors, and Laragon failures… I FINALLY have Ragnarok: Offline (im calling it Ragnarok Portable for fun) running on my Ayn Thor via Winlator. It is a bit laggy (and I need to map my joysticks to act as the mouse and buttons as the keyboard lol) but I’m in shock I was mad enough to get this up and running. Extremely excited to showcase this to you all! <3 If you want to get this up and running for yourself, let me know and I’ll make a guide! ",12,4,https://i.redd.it/r180zi26z0qg1.jpeg,https://www.reddit.com/r/AynThor/comments/1ry4hau/ragnarok_portable/,1773936241.0,2026-03-19 16:04:01,Flufferfluff,1ry4hau
+EI,snappijuorutofftopic,mitä mieltä olette absolutisteista?,"haluun tietää muiden mielipiteitä 😭 mitä te oikeesti aattelette niistä ihmisistä jotka ei juo? niinku ihan rehellisesti?
+
+mulla on sellanen fiilis että ne on aina joko tosi tylsiä tai sit niillä on joku piilo agenda. niinku ei oo olemassa sellasta ihmistä joka oikeesti vaan ""ei haluu juoda"" ilman et sillä on joku syy minkä se haluaa piilottaa. joko se on entinen alkoholisti tai sit se on manipuloija joka haluaa pysyä niinku tilanteen herrana. ei oo muita vaihtoehtoi. sit ne on niin YLPEITÄ siitä.
+
+mulla on esimerkiks tosi monta mielenkiintosta puolta persoonallisuudessani esimerkiks tosi hyvä ihmistuntemus ja nään tommoi manipulaatiot tosi helposti läpi mut en mä silti puhu niist koskaa",0,23,https://www.reddit.com/r/snappijuorutofftopic/comments/1ry4h5u/mitä_mieltä_olette_absolutisteista/,https://www.reddit.com/r/snappijuorutofftopic/comments/1ry4h5u/mitä_mieltä_olette_absolutisteista/,1773936231.0,2026-03-19 16:03:51,No-Reply5290,1ry4h5u
+EI,Jujutsufolk,WE LOST,I am scared to see how they will fit 7 chapters in 27 minutes. Makis was about 5 and it was like 28 min,179,58,https://i.redd.it/pilk8kghy0qg1.png,https://www.reddit.com/r/Jujutsufolk/comments/1ry4e5c/we_lost/,1773936053.0,2026-03-19 16:00:53,Amazing_Ice_8475,1ry4e5c
+EI,NOTHING,I don't see anything pro about it,,9,14,https://i.redd.it/w5glk971y0qg1.jpeg,https://www.reddit.com/r/NOTHING/comments/1ry4aq9/i_dont_see_anything_pro_about_it/,1773935846.0,2026-03-19 15:57:26,NiragiUsagii,1ry4aq9
+EI,Hoobuy,10kg Healing Haul｜Mood boosted instantly,"Used to buy things just because they were popular, but I’m trying to move away from that mindset.
+
+Lately I’ve been asking myself: Would I still wear this a year from now?
+
+Most of these pieces are pretty straightforward — nothing flashy, just decent construction and reasonable fit.
+
+Bought everything with resale value and longevity in mind.
+
+Still learning where the line is between “overpaying” and “buy once, cry once.”
+
+Open to feedback.
+
+1.Acne Studios Embroidered Heart Knit Polo+(Enfants Riches Déprimés) Graphic T-Shirt
+
+W2C:https://weidian.com/item.html?itemID=7710653527
+
+W2C:https://weidian.com/item.html?itemID=7713766610
+
+2.Maison Margiela Ribbed Zip Cardigan+Balenciaga 3-Stripe Track Pants
+
+W2C:https://weidian.com/item.html?itemID=7713772692
+
+W2C:https://weidian.com/item.html?itemID=7710824129
+
+3.Chrome Hearts Graphic Zip Hoodie+Distressed Paint Splatter Jeans
+
+W2C:https://weidian.com/item.html?itemID=7710832157
+
+W2C:https://weidian.com/item.html?itemID=7713744992
+
+4.EnfantsLogo Ringer T-Shirt+Hellstar Graphic Sweatpants
+
+W2C:https://weidian.com/item.html?itemID=7713754878
+
+W2C:https://weidian.com/item.html?itemID=7713752940
+
+5.ERD “The Dream That Don’t Go Away” T-Shirt+Distressed Wide-Leg Sweatpants
+
+W2C:https://weidian.com/item.html?itemID=7713825962
+
+W2C:https://weidian.com/item.html?itemID=7710845861
+
+6.Balenciaga Minimal Logo T-Shirt+Maison Margiela Numbers Graphic T-Shirt
+
+W2C:https://weidian.com/item.html?itemID=7710790625
+
+W2C:https://weidian.com/item.html?itemID=7713843792
+
+7.Acne Studios “Stockholm 1996” Long Sleeve Tee+Chain & Charm Denim Shorts
+
+W2C:https://weidian.com/item.html?itemID=7713794466
+
+W2C:https://weidian.com/item.html?itemID=7710804463
+
+8.Supreme Bandana Fur Hood Jacket+Supreme Bandana Pants
+
+W2C:https://weidian.com/item.html?itemID=7710753075
+
+W2C:https://weidian.com/item.html?itemID=7710753075
+
+9.Acne Studios Logo T-Shirt+Studded Straight-Leg Jeans
+
+W2C:https://weidian.com/item.html?itemID=7713831898
+
+W2C:https://weidian.com/item.html?itemID=7710798527
+
+10.Acne Studios Embossed Logo T-Shirt+Gallery Dept. “Dépt de la Galerie” T-Shirt
+
+W2C:https://weidian.com/item.html?itemID=7710849859
+
+W2C:https://weidian.com/item.html?itemID=7710737151
+
+11.Chrome Hearts Cross Logo T-Shirt+Tailored Wool-Blend Shorts / Pleated Shorts
+
+W2C:https://weidian.com/item.html?itemID=7710768735
+
+W2C:https://weidian.com/item.html?itemID=7713715354
+
+12.Chrome Hearts Floral Cross Hoodie+Chrome Hearts Cross Patch Denim Jeans
+
+W2C:https://weidian.com/item.html?itemID=7710735153
+
+W2C:https://weidian.com/item.html?itemID=7713768704
+
+13.Supreme Striped Rugby Shirt+Graffiti Print Sweatpants / Artist-Style Pants
+
+W2C:https://weidian.com/item.html?itemID=7710863643
+
+W2C:https://weidian.com/item.html?itemID=7713744958
+
+14.Off-White Small Hand Logo T-Shirt+Classic Denim Shorts
+
+W2C:https://weidian.com/item.html?itemID=7713760800
+
+W2C:https://weidian.com/item.html?itemID=7710766709
+
+15.Chrome Hearts Plaid Shirt with Sleeve Logo+Bootcut / Flared Denim Jeans
+
+W2C:https://weidian.com/item.html?itemID=7710749065
+
+W2C:https://weidian.com/item.html?itemID=7710735143
+
+16.Minimal Zip-Up Sweatshirt+Distressed Paint-Splatter Jeans with Belt Detail
+
+W2C:https://weidian.com/item.html?itemID=7710847847
+
+W2C:https://weidian.com/item.html?itemID=7710723467
+
+17.Rick Owens Style Full-Zip Hoodie+Vintage Wash Straight-Leg Jeans
+
+W2C:https://weidian.com/item.html?itemID=7713794438
+
+W2C:https://weidian.com/item.html?itemID=7710812417
+
+18.Stüssy Zip-Up Windbreaker / Jacket+Independent Logo Track Pants
+
+W2C:https://weidian.com/item.html?itemID=7710855799
+
+W2C:https://weidian.com/item.html?itemID=7710818221
+
+19.Scarface Graphic Leather Jacket+Classic Black Leather Biker Jacket
+
+W2C:https://weidian.com/item.html?itemID=7713806328
+
+W2C:https://weidian.com/item.html?itemID=7710776579",1,0,https://www.reddit.com/gallery/1ry49ut,https://www.reddit.com/r/Hoobuy/comments/1ry49ut/10kg_healing_haulmood_boosted_instantly/,1773935792.0,2026-03-19 15:56:32,Fantastic-Bar-641,1ry49ut
+EI,kolkata,Neku chondro  Modern Gen Z Boys and Dating/Lonliness :,"Onek din bade post korchi....Bhulei gachilam reddit account er kotha....jai hok....recently bes koek mas dhorei dekhte pachi kichu Neka Sosti r agomon ghoteche .....
+
+Kichu example dichi dekhun....
+
+\-a) dada bhai , didi bhai , ami oi mei ta k khub valobasi , kintu bolte pari na....Kintu oke khub valobasi , or jonyo din rat sob kori ...Kintu kichu mon er kotha bolte pari na....Ajke 3 bochor por o amai bolche there is nothing between us.....Ami devasted hoa gachi......Amar pechon fete gache 
+
+  
+\-b)  keu keu to likhche , Ex msg korche , tar sathe abar golpo o hoche fatiye....Abar pore bolche sei Ex naki Ek somoi cheating kore chole gachilo......abar keu jodi bole oke je tui kano Ex er sathe contact rekhechis , tahole bolbe  : ""oke ami bhulte parbo na re...or moton ar keu hobe na "".....
+
+  
+\-c) Kichu chele ache , jader jothesto bondhu bandhob ache , family environment o valo....kintu bhikari r moto ekhane ese Mei khujbe.....bhai sotti mane ato ta bhikiri dosa ki kore hoi re toder...mane sokal bela haga r somoi ki self respect tao flush kore dis naki?
+
+  
+Ei neka pona gulo Sotti e bere utheche khub.....jodi kauke valo lage direct Bolbi...honest intention nie....
+
+Ar yes , lonliness katanor aro onek upai ache...bhikiri r moto mei khoja bondho kor...
+
+.Love love love love........Pyar pyar pyar pyar.....sobar pechone Love er poka kirmir kirmir korche...
+
+  
+hoa gache onek gyan dilam....ebar ja",15,13,https://www.reddit.com/r/kolkata/comments/1ry49n6/neku_chondro_modern_gen_z_boys_and_datinglonliness/,https://www.reddit.com/r/kolkata/comments/1ry49n6/neku_chondro_modern_gen_z_boys_and_datinglonliness/,1773935779.0,2026-03-19 15:56:19,Conscious_Tooth_4714,1ry49n6
+EI,NothingTech,Straight up same specs,,17,23,https://i.redd.it/6hmibumtx0qg1.jpeg,https://www.reddit.com/r/NothingTech/comments/1ry49ku/straight_up_same_specs/,1773935774.0,2026-03-19 15:56:14,NiragiUsagii,1ry49ku
+EI,KafkaFPS,Какая неожиданность,,14,7,https://i.redd.it/sen6112ox0qg1.jpeg,https://www.reddit.com/r/KafkaFPS/comments/1ry48rl/какая_неожиданность/,1773935723.0,2026-03-19 15:55:23,fapal_ne_ustaval2,1ry48rl
+EI,MuvLuv,Muv Luv Re:Alternative WIP,Finally!,3,0,https://www.reddit.com/gallery/1ry47q3,https://www.reddit.com/r/MuvLuv/comments/1ry47q3/muv_luv_realternative_wip/,1773935657.0,2026-03-19 15:54:17,Personal-Echo-1081,1ry47q3
+EI,Suomi,Ihmiset ovat nykyään huonoja itsereflektoimaan,"Olin tässä muutama päivä sitten kaupassa ja kassalta lähti äiti lapsensa kanssa pois ennen minua. Lähtiessään lapsi alkoi painelemaan asiakastyytyväisyyttä kuvaavan laitteen hymiöitä.
+
+Tähän kassa sanoi ihan asiallisesti, että: ""Hei, lopeta"". Lapsi ei tietenkään lopettanut vaan jatkoi nappien painelua, johon myyjä jo sitten toisti tiukempaan sävyyn saman kahteen kertaan.
+
+Äidin vastaus oli, että hän oli antanut lapselleen luvan ja syytäkin antaa punainen hymiö, koska kassan käytös ei häntä miellyttänyt.
+
+Voin vaan kuvitella, että kuinka paljon nykypäivänä tuota tyytyväisyyttä seurataan ja ymmärrän myyjän reaktion. 
+
+Minusta tämän naisen toiminta oli taas tyypillistä kädet puuskassa puolustautumista, kun omaa hanuria pidemmälle asioita ei osata miettiä ja asiaa olisi voinut myyjälle pahoitella. Kassa nieli tappionsa vaikka olin hänen puolellaan.
+
+Tässä aikaisemmin törmäsin vähän vastaavaan tilanteeseen, kun keski-iän ylittänyt herrasmies erään urheiluseuran täydessä varustuksessa jätti autonsa perhepaikalle. Asiasta hänelle huomautin, johon hän päätään aukoen minulle vastasi. Kävelin sitten perheemme pienen kanssa parkkiksen toisesta päädystä kauppaan. Asia vaivasi minua sen verran, että googlailemalla seuran löysin hänen olevan valmentaja ja lähestyin häntä sitten sähköpostilla.
+
+Tässä kyllä sitten tapahtui sitä omien toimintatapojen tutkiskelua, mutta oman virheen myöntäminen tai anteeksipyyntö olisi helpompi tehdä tilanteessa, kuin myöhemmin.
+
+Myös työelämässä esiintyy erikoista omien kämmäilyjen peittelyä. Tietysti jos turaaminen siellä on jatkuvaa, niin kuka ei niin tekisi.
+
+Töihin sain ihan asiallisen työparin, mutta kun häneltä kysyy teitkö tämän ja tämän, niin vastaus on  yleensä, että: ""Olin just tekemässä"". 
+Asian pyynnöstä, kun on viikko kulunut, niin en jaksaisi selittelyä vaan ennemmin vastaukseksi unohduksen ja sen, että asia hoidetaan nyt.
+
+Tuntuu, että nykyään kukaan ei oikeastaan myönnä mitään ja ollaan täydessä defensissä heti.
+Kuvittelenko asiaa vai onko yhteiskunta aina pyörinyt näin?",28,18,https://www.reddit.com/r/Suomi/comments/1ry44aw/ihmiset_ovat_nykyään_huonoja_itsereflektoimaan/,https://www.reddit.com/r/Suomi/comments/1ry44aw/ihmiset_ovat_nykyään_huonoja_itsereflektoimaan/,1773935446.0,2026-03-19 15:50:46,Party-Towel-3818,1ry44aw
+EI,Quantisnow,The $308B Security Pivot: Reshaping Digital Safety for the Quantum Age,,1,0,https://quantisnow.com/i/the-308b-security-pivot-reshaping-digital-safety-for-the-quantum-age-6461089?utm_source=reddit,https://www.reddit.com/r/Quantisnow/comments/1ry41ym/the_308b_security_pivot_reshaping_digital_safety/,1773935298.0,2026-03-19 15:48:18,Quantisnow,1ry41ym
+EI,MealDealRates,Not my usual but felt like protein maxing today,,2,1,https://i.redd.it/5g66fvh6w0qg1.jpeg,https://www.reddit.com/r/MealDealRates/comments/1ry40yy/not_my_usual_but_felt_like_protein_maxing_today/,1773935234.0,2026-03-19 15:47:14,President-Ducc,1ry40yy
+EI,DemonSlayerScales,How different would the fight have gone if Doma had shown up instead of Akaza in Mugen train?,,10,13,https://www.reddit.com/gallery/1ry3xxm,https://www.reddit.com/r/DemonSlayerScales/comments/1ry3xxm/how_different_would_the_fight_have_gone_if_doma/,1773935045.0,2026-03-19 15:44:05,BattleRepulsive9394,1ry3xxm
+EI,GameHandsChess,How about a nice game of chess? twitch.tv/gamehandsdotnet,,1,0,https://i.redd.it/z4e3hbghv0qg1.png,https://www.reddit.com/r/GameHandsChess/comments/1ry3x72/how_about_a_nice_game_of_chess/,1773934999.0,2026-03-19 15:43:19,GameHands,1ry3x72
+EI,smtown,"[SUB] SIXC ""MOVE"" Team Reunites After 7 Years! So Happy I Could Cry | Kim Heechul's ChukaChukaChu EP.16","Heechul: ""Who is worst: One who complaints immediately ([\#Heechul](https://x.com/hashtag/Heechul?src=hashtag_click)) or one who listens and puts up with everything ([\#Leeteuk](https://x.com/hashtag/Leeteuk?src=hashtag_click))?!""
+
+\----------------
+
+[00:00](https://www.youtube.com/watch?v=EiJ1H9Vsv24) Opening  
+[00:22](https://www.youtube.com/watch?v=EiJ1H9Vsv24&t=22s) 🎵SIXC (6 crazy) - 움직여 (MOVE) (Prod. by ZICO)  
+[03:45](https://www.youtube.com/watch?v=EiJ1H9Vsv24&t=225s) HEECHUL's Entrance  
+[04:54](https://www.youtube.com/watch?v=EiJ1H9Vsv24&t=294s) Opening Talk  
+[12:00](https://www.youtube.com/watch?v=EiJ1H9Vsv24&t=720s) Catching Up  
+[16:00](https://www.youtube.com/watch?v=EiJ1H9Vsv24&t=960s) MOVE 2x Speed Dance  
+[18:53](https://www.youtube.com/watch?v=EiJ1H9Vsv24&t=1133s) Balance Game  
+[24:54](https://www.youtube.com/watch?v=EiJ1H9Vsv24&t=1494s) Opposite Words Impressions 🤣  
+[27:06](https://www.youtube.com/watch?v=EiJ1H9Vsv24&t=1626s) 🎵SIXC (6 crazy) - Me After You (Original by Paul Kim)  
+[**33:25**](https://www.youtube.com/watch?v=EiJ1H9Vsv24&t=2005s) **🎵SIXC (6 crazy) - Love Shot (Original by EXO)**",1,0,https://youtube.com/watch?v=EiJ1H9Vsv24&si=TV3zxM52RhiqgacK,https://www.reddit.com/r/smtown/comments/1ry3u0h/sub_sixc_move_team_reunites_after_7_years_so/,1773934798.0,2026-03-19 15:39:58,arcieghi,1ry3u0h
+EI,CoutureReps,"Casual Streetwear Mini Haul – Hoodies, Knitwear, Tees and Accessories","A Bathing Ape Zip-Up Hoodie
+Iconic shark style with bold design, standout streetwear piece.
+W2C: https://weidian.com/item.html?itemID=7518793155
+
+Stussy Navy Blue Hoodie
+Clean and simple, great everyday hoodie with relaxed fit.
+W2C: https://weidian.com/item.html?itemID=7530121198
+
+Corteiz Apricot Sweater
+Soft tone with unique streetwear appeal, easy standout piece.
+W2C: https://weidian.com/item.html?itemID=7583071723
+
+Ralph Lauren Navy Blue Hoodie
+Classic minimal design, versatile and comfortable.
+W2C: https://weidian.com/item.html?itemID=7565044951
+
+ERD Grey Hoodie
+Distressed aesthetic with edgy vibe, strong layering piece.
+W2C: https://weidian.com/item.html?itemID=7522408745
+
+Carhartt Black Jacket
+Durable workwear feel, clean and functional outerwear.
+W2C: https://weidian.com/item.html?itemID=7551466615
+
+Red Bull Racing Jersey
+Sporty racing aesthetic, bold graphics and lightweight feel.
+W2C: https://weidian.com/item.html?itemID=7711814770
+
+Burberry Plaid Shorts
+Classic check pattern, clean summer essential.
+W2C: https://weidian.com/item.html?itemID=7507141775
+
+Ralph Lauren Navy Blue Sweater
+Timeless knit with relaxed fit, easy to style.
+W2C: https://weidian.com/item.html?itemID=7551908017
+
+Saint Michael Grey Hoodie
+Vintage washed vibe with bold graphic appeal.
+W2C: https://weidian.com/item.html?itemID=7658983087
+
+Acne Studios Jeans
+Modern fit with clean denim quality, versatile option.
+W2C: https://weidian.com/item.html?itemID=7570808863
+
+Amiri Blue/White Sweater
+Premium look with clean color blocking, stylish piece.
+W2C: https://weidian.com/item.html?itemID=7553375692
+
+Carhartt Grey Sweatshirt
+Simple workwear aesthetic, durable and comfy.
+W2C: https://weidian.com/item.html?itemID=7551444851
+
+Supreme Blue T-shirt
+Bright tone with classic branding, casual staple.
+W2C: https://weidian.com/item.html?itemID=7700541169
+
+Hellstar White Long Sleeve
+Bold graphics with clean base, standout streetwear.
+W2C: https://weidian.com/item.html?itemID=7564685700
+
+FOG Fear of God Dark Grey Sweatshirt
+Minimal oversized fit, clean and versatile.
+W2C: https://weidian.com/item.html?itemID=7571437080
+
+A Bathing Ape Black T-shirt
+Simple tee with iconic branding, easy daily wear.
+W2C: https://weidian.com/item.html?itemID=7509523746
+
+Burberry Grey Zip-Up Hoodie
+Luxury casual piece with clean design and fit.
+W2C: https://weidian.com/item.html?itemID=7584667889
+
+Palm Angels Red T-shirt
+Bold color with streetwear edge, eye-catching piece.
+W2C: https://weidian.com/item.html?itemID=7507153896
+
+SYNA WORLD Black/Grey T-shirt Set
+Matching set with clean aesthetic, good value combo.
+W2C: https://weidian.com/item.html?itemID=7711860150
+
+Eric Emanuel Black Shorts
+Sporty mesh style, comfortable and trendy.
+W2C: https://weidian.com/item.html?itemID=7513285604
+
+Ralph Lauren Black Shirt
+Classic smart casual piece, versatile styling.
+W2C: https://weidian.com/item.html?itemID=7551181816
+
+Prada Item
+Minimal luxury design, clean and premium aesthetic.
+W2C: https://weidian.com/item.html?itemID=7511405064
+
+Air Jordan 5 “Tokyo”
+Iconic  with bold colorway, standout pair.
+W2C: https://weidian.com/item.html?itemID=7510022859",7,0,https://www.reddit.com/gallery/1ry3sm8,https://www.reddit.com/r/CoutureReps/comments/1ry3sm8/casual_streetwear_mini_haul_hoodies_knitwear_tees/,1773934713.0,2026-03-19 15:38:33,Practical-Basket2514,1ry3sm8
+EI,superjunior,"[SUB] SIXC ""MOVE"" Team Reunites After 7 Years! So Happy I Could Cry | Heechul's CHUKACHUKACHU EP.16","Heechul: Who is worst: One who complaints immediately ([\#Heechul](https://x.com/hashtag/Heechul?src=hashtag_click)) or one who listens and puts up with everything ([\#Leeteuk](https://x.com/hashtag/Leeteuk?src=hashtag_click))?!  
+  
+\----------------
+
+[00:00](https://www.youtube.com/watch?v=EiJ1H9Vsv24) Opening  
+[00:22](https://www.youtube.com/watch?v=EiJ1H9Vsv24&t=22s) 🎵SIXC (6 crazy) - 움직여 (MOVE) (Prod. by ZICO)  
+[03:45](https://www.youtube.com/watch?v=EiJ1H9Vsv24&t=225s) HEECHUL's Entrance  
+[04:54](https://www.youtube.com/watch?v=EiJ1H9Vsv24&t=294s) Opening Talk  
+[12:00](https://www.youtube.com/watch?v=EiJ1H9Vsv24&t=720s) Catching Up  
+[16:00](https://www.youtube.com/watch?v=EiJ1H9Vsv24&t=960s) MOVE 2x Speed Dance  
+[18:53](https://www.youtube.com/watch?v=EiJ1H9Vsv24&t=1133s) Balance Game  
+[24:54](https://www.youtube.com/watch?v=EiJ1H9Vsv24&t=1494s) Opposite Words Impressions 🤣  
+[27:06](https://www.youtube.com/watch?v=EiJ1H9Vsv24&t=1626s) 🎵SIXC (6 crazy) - Me After You (Original by Paul Kim)  
+[**33:25**](https://www.youtube.com/watch?v=EiJ1H9Vsv24&t=2005s) **🎵SIXC (6 crazy) - Love Shot (Original by EXO)**",7,0,https://youtube.com/watch?v=EiJ1H9Vsv24&si=_tCeyuWNOCzDCNnq,https://www.reddit.com/r/superjunior/comments/1ry3r88/sub_sixc_move_team_reunites_after_7_years_so/,1773934635.0,2026-03-19 15:37:15,arcieghi,1ry3r88
+EI,PokemonLeafGreen,Yay! Lucky Egg!,"Was ready for a longer time, but 3 chanseys were enough🥳 Might go for a second one🥚",17,3,https://i.redd.it/1cdnwjl1u0qg1.jpeg,https://www.reddit.com/r/PokemonLeafGreen/comments/1ry3pf9/yay_lucky_egg/,1773934526.0,2026-03-19 15:35:26,Darius26s,1ry3pf9
+EI,DnB,Releases for March 19,"Hello DnB lovers!
+
+There were a lot of releases today!
+
+**Enjoy**🔥
+
+**Submarine** — *Runna* [Spotify ](https://open.spotify.com/album/5Tl0Ra0yZMbW5SnK5X5VcQ?si=AceLgWH3TEGASM569vZZgw) [Bandcamp](https://submarine1985.bandcamp.com/album/runna-ep)
+
+**Etherwood & Javeon** — *Good 4 U* [Spotify](https://open.spotify.com/album/6gwOfz4KvL5DJj6Y4Pf557?si=sMiIELKqTwacdnKvZM5rUw)
+
+**Trex**  — *Steelo* [Spotify](https://open.spotify.com/album/2Ffhe9lJUZdn7UuVmso3Dy?si=uSLib_fXRCqMzczVOgXe1g) [Bandcamp](https://sofasoundbristol.bandcamp.com/track/steelo)
+
+**Kyrist** — *4MYPEEPS* [Spotify](https://open.spotify.com/album/1cSFUXDm5CB20GV7zzGa26?si=2iaRk1y0SXmXt39xgWeNSQ) [Bandcamp](https://kyrist.bandcamp.com/album/4mypeeps)
+
+**CLIQUES**. — *IS THIS LOVE? - CLIQUES. 2026 VIP* [Spotify](https://open.spotify.com/album/3nkGcW7fMBN3x5GD4lW7Py?si=Xh-1StvoQ4eyl45rfA9D3Q)
+
+**Disaszt** — *Change Your Mind* [Spotify](https://open.spotify.com/album/4xeRp1U4oERRoy0rPNfLsq?si=e0JjqrMfR0aZWOvnNl3Anw)
+
+**The Sauce** — *I Feel Great / ATP* [Spotify](https://open.spotify.com/album/4bOMGAdPpGtEiWfO1F7EgN?si=2Tk8efV9RvCXNMr5Evn7vA) [Bandcamp](https://thesaucerecordings.bandcamp.com/album/i-feel-great-atp)
+
+**Argo** — *Emergency* [Spotify](https://open.spotify.com/track/6tH2TMbqNhe8SFg1P1HTn2?si=d1c7e40482f04e57)",5,5,https://www.reddit.com/r/DnB/comments/1ry3oo5/releases_for_march_19/,https://www.reddit.com/r/DnB/comments/1ry3oo5/releases_for_march_19/,1773934480.0,2026-03-19 15:34:40,DnBSe,1ry3oo5
+EI,WesWatson,🚨🚨🚨🚨Wes Watson has been given bail. Disgrace of a justice system,,49,60,https://www.reddit.com/gallery/1ry3njm,https://www.reddit.com/r/WesWatson/comments/1ry3njm/wes_watson_has_been_given_bail_disgrace_of_a/,1773934411.0,2026-03-19 15:33:31,Individual_Tax_4565,1ry3njm
+EI,investing_discussion,"The grid is starting to learn an awkward lesson: the more solar you add, the more valuable time becomes","https://preview.redd.it/ctc33p9jt0qg1.png?width=321&format=png&auto=webp&s=2d29246471382289e3dc220ef8b7b3d54b2622d1
+
+One of the cleaner myths in energy is that adding more renewable generation automatically makes the system simpler.
+
+It usually does the opposite.
+
+The more a grid leans into solar, the less the real question becomes “how much electricity can you produce?” and the more it becomes “when exactly can you still use it?” Today’s Energy-Storage news piece on New South Wales gets right to that point. The state now needs 56 GWh of storage by 2030, which is 40% more than it was expected to need just six months ago. The reason is not some abstract policy revision. The underlying generation mix has shifted much harder toward solar, with planning assumptions moving from a roughly 50-50 solar/wind split to about 75% solar and 25% wind.
+
+That sounds technical, but the meaning is pretty simple: if more of your future power is concentrated in daylight hours, the grid has to buy itself more usable time.
+
+And that is where the economics start to change. The article says New South Wales currently has only 12.5 GWh of storage contracted or in delivery against that 56 GWh requirement. It also notes that the early battery fleet was mostly built around 2-hour systems, while much of what is needed now is 8 hours or longer, including a legislative target of 16 GWh at that longer duration. In other words, this is no longer mainly about catching easy price spreads in the afternoon. It is becoming a straight reliability problem.
+
+That is the part I find more interesting than the headline number itself.
+
+For a while, a lot of battery talk was still framed like a trading strategy. Charge low, discharge high, collect the arbitrage, move on. What this story suggests is that some markets are moving past that phase. Storage is being asked to do something less flashy and much more important: make a solar-heavy grid actually hold together after sunset, through weak wind periods, and across the ugly hours when demand does not care that generation is cleaner now.
+
+A setup like that tends to make the operating layer matter more. Once storage stops being a side asset and starts carrying system reliability, the value is no longer just in the battery itself. It sits in forecasting, dispatch logic, charging control, site visibility, and the ability to coordinate multiple moving parts without waiting to discover the problem after the fact. Companies built around that kind of orchestration, and NXXT is much closer to that bucket than to a one-dimensional generation story, usually read better in a market that is putting a higher price on timing and control.
+
+There is also a useful contrast in the background. Just last month, the NSW government said it had awarded contracts for six new long-duration battery projects, describing them as the largest rollout of big batteries in the state’s history. Those six projects add up to about 11.98 GWh of storage and are meant to be online by 2030. That sounds big until today’s update makes clear how much the requirement has already moved underneath it.
+
+That is why I think this is a much better story than another generic “storage demand is rising” headline.
+
+It is really a story about the grid discovering that solar scale and grid usability are not the same thing. You can build a lot of clean generation and still end up short on the thing that actually makes it dependable. Once that happens, time itself becomes an asset class. The market starts paying more for technologies and companies that can stretch, shift, defend, and manage that time well.
+
+That is the part worth watching here. Not just that New South Wales needs more batteries, but that one of the world’s more advanced renewable markets is showing exactly where the pressure lands next. First you add clean power. Then you realize the harder job is making it behave.",2,0,https://www.reddit.com/r/investing_discussion/comments/1ry3mca/the_grid_is_starting_to_learn_an_awkward_lesson/,https://www.reddit.com/r/investing_discussion/comments/1ry3mca/the_grid_is_starting_to_learn_an_awkward_lesson/,1773934339.0,2026-03-19 15:32:19,StarvingBunny2547,1ry3mca
+EI,Bagabondo,哪里来的网评贱畜，我一刀把你婊子妈削成人棍再往你婊子妈的大黑臭屄里塞两颗轰天雷让你妈螺旋升天，你的同事马上就知道你是死妈贱种了,,4,2,https://www.reddit.com/gallery/1ry3jp7,https://www.reddit.com/r/Bagabondo/comments/1ry3jp7/哪里来的网评贱畜我一刀把你婊子妈削成人棍再往你婊子妈的大黑臭屄里塞两颗轰天雷让你妈螺旋升天你的同事马/,1773934184.0,2026-03-19 15:29:44,Far_Network_855,1ry3jp7
+EI,China_irl,红迪太典了，一模一样的文章讲伊朗没问题讲以色列立刻被标注提倡仇恨,,16,9,https://i.redd.it/3kmnv41js0qg1.jpeg,https://www.reddit.com/r/China_irl/comments/1ry3hob/红迪太典了一模一样的文章讲伊朗没问题讲以色列立刻被标注提倡仇恨/,1773934063.0,2026-03-19 15:27:43,OutcomeAcceptable540,1ry3hob
+EI,KaijusLatam,"If I die in this world Who will know something of me? I am lost, no one knows There's no trace of my yearning",https://youtu.be/QkmKJK17nEI?si=Dtwa6BUGqz0H8gfZ,11,0,https://v.redd.it/3620ubozr0qg1,https://www.reddit.com/r/KaijusLatam/comments/1ry3dmj/if_i_die_in_this_world_who_will_know_something_of/,1773933816.0,2026-03-19 15:23:36,ElderberryNovel9016,1ry3dmj
 EI,thefollowing,Wettanbieter ohne Limit - 19.03.2026 - Anbieter-Test im Überblick,"Ich bin nun schon seit einigen Jahren regelmäßig in der Welt der Online-Wettanbieter unterwegs und habe über die Zeit etliche Seiten durchgetestet. Als Profi würde ich mich nicht bezeichnen, aber ich habe einfach Bock auf die Action und schaue mir super gerne an, was der Markt gerade hergibt – **besonders interessieren mich Anbieter ohne nervige Einsatzlimits**.
 
 ## Die besten Wettanbieter ohne Limit – Meine Top 5 (Zusammenfassung)
@@ -308,21 +893,18 @@ Mich würde mal euer Feedback interessieren:
 3. Hat euch schon mal ein Anbieter nach einer Gewinnsträhne limitiert?
 4. Nutzt ihr mehrere Plattformen gleichzeitig oder bleibt ihr bei einer?
 5. Welche Wettanbieter ohne Einschränkungen lohnen sich eurer Meinung nach wirklich?
-6. Habt ihr schon mal erlebt, dass Limits nach Gewinnen plötzlich geändert wurden?",0,1,https://www.reddit.com/r/thefollowing/comments/1ry3cbv/wettanbieter_ohne_limit_19032026_anbietertest_im/,https://www.reddit.com/r/thefollowing/comments/1ry3cbv/wettanbieter_ohne_limit_19032026_anbietertest_im/,1773933739.0,2026-03-19 15:22:19,RightWingSwag,1ry3cbv
-EI,PSAPowerPacks,We did ok today boys.,,4,0,https://i.redd.it/ewqhbysor0qg1.jpeg,https://www.reddit.com/r/PSAPowerPacks/comments/1ry3bvx/we_did_ok_today_boys/,1773933711.0,2026-03-19 15:21:51,Themoonagecouple,1ry3bvx
-EI,canadarevenueagency,Retroactive EI,"I've been a media industry freelancer alternating between salaried jobs and self-employed jobs for the last 10 years. I have never ever taken EI because the process is impossible to navigate for someone with 20 employers a year with additional income, but have realized that some people are able to play this system correctly and just coast by on hundreds or thousands a week while I've spent every month where I didn't work being careful with money and living on savings.
-
-I've realized I probably lost in the 6 figures over the last decade. Any way to get back what I duly paid for, or is that money gone?",0,1,https://www.reddit.com/r/canadarevenueagency/comments/1ry3b82/retroactive_ei/,https://www.reddit.com/r/canadarevenueagency/comments/1ry3b82/retroactive_ei/,1773933667.0,2026-03-19 15:21:07,Diantr3,1ry3b82
+6. Habt ihr schon mal erlebt, dass Limits nach Gewinnen plötzlich geändert wurden?",1,1,https://www.reddit.com/r/thefollowing/comments/1ry3cbv/wettanbieter_ohne_limit_19032026_anbietertest_im/,https://www.reddit.com/r/thefollowing/comments/1ry3cbv/wettanbieter_ohne_limit_19032026_anbietertest_im/,1773933739.0,2026-03-19 15:22:19,RightWingSwag,1ry3cbv
+EI,PSAPowerPacks,We did ok today boys.,,7,1,https://i.redd.it/ewqhbysor0qg1.jpeg,https://www.reddit.com/r/PSAPowerPacks/comments/1ry3bvx/we_did_ok_today_boys/,1773933711.0,2026-03-19 15:21:51,Themoonagecouple,1ry3bvx
 EI,AfroBeats,Eyeon Mane - I Need More Time (Ft. @ObenneMotswana )[Official audio],,1,0,https://youtu.be/gh10iSfpYn0?si=-dg7OMo17ZF56N_r,https://www.reddit.com/r/AfroBeats/comments/1ry39x9/eyeon_mane_i_need_more_time_ft_obennemotswana/,1773933587.0,2026-03-19 15:19:47,Extension-Energy1002,1ry39x9
 EI,BoutiquePolice,Well I finally saw it firsthand,"One of Alexa’s “custom” pieces (that I actually do own and love) is being sold by a WhatNot seller (who I also love) for what I assume will be a considerably lower ($5 start) price. I’ve bought a lot from BAR because I do genuinely like a lot of their jewelry and really love the magnetic closures, but this just made it so apparent how much they “overprice” their jewelry. 
 
-Do I think this necklace is worth more than $5? Yes, I do. Do I think I should’ve spent $42 on it now? No. ",1,0,https://www.reddit.com/gallery/1ry38n3,https://www.reddit.com/r/BoutiquePolice/comments/1ry38n3/well_i_finally_saw_it_firsthand/,1773933503.0,2026-03-19 15:18:23,leggohmymeggoh,1ry38n3
+Do I think this necklace is worth more than $5? Yes, I do. Do I think I should’ve spent $42 on it now? No. ",1,5,https://www.reddit.com/gallery/1ry38n3,https://www.reddit.com/r/BoutiquePolice/comments/1ry38n3/well_i_finally_saw_it_firsthand/,1773933503.0,2026-03-19 15:18:23,leggohmymeggoh,1ry38n3
 EI,HotWheels,MAIL CALL 😍,"A piece that has been in my wish list for ages! 
 
 I finally managed to find one in the UK and had to pull the trigger! 
 
-The RLC Porsche 993 GT2 Gulf Livery. Absolutely over the moon! ",3,0,https://i.redd.it/adwrb3vxq0qg1.jpeg,https://www.reddit.com/r/HotWheels/comments/1ry37za/mail_call/,1773933461.0,2026-03-19 15:17:41,LukeNerfwalker,1ry37za
-EI,TCGCardShopSim,Nice pokemon cards,"saw that modded stuff isnt deleted in rules so figure i post. this took me hours upon hours as the chances to get a black label are 1.2%, feeling a bit accomplished atm",0,1,https://www.reddit.com/gallery/1ry37hq,https://www.reddit.com/r/TCGCardShopSim/comments/1ry37hq/nice_pokemon_cards/,1773933430.0,2026-03-19 15:17:10,FudgeVast5308,1ry37hq
+The RLC Porsche 993 GT2 Gulf Livery. Absolutely over the moon! ",2,0,https://i.redd.it/adwrb3vxq0qg1.jpeg,https://www.reddit.com/r/HotWheels/comments/1ry37za/mail_call/,1773933461.0,2026-03-19 15:17:41,LukeNerfwalker,1ry37za
+EI,TCGCardShopSim,Nice pokemon cards,"saw that modded stuff isnt deleted in rules so figure i post. this took me hours upon hours as the chances to get a black label are 1.2%, feeling a bit accomplished atm",6,2,https://www.reddit.com/gallery/1ry37hq,https://www.reddit.com/r/TCGCardShopSim/comments/1ry37hq/nice_pokemon_cards/,1773933430.0,2026-03-19 15:17:10,FudgeVast5308,1ry37hq
 EI,pokemongo,finally a smoochum🥳,,1,1,https://i.redd.it/u8xhqkpcq0qg1.jpeg,https://www.reddit.com/r/pokemongo/comments/1ry34rb/finally_a_smoochum/,1773933265.0,2026-03-19 15:14:25,prod_suga,1ry34rb
 EI,Neet_india,Any opinion on this guy,"I think i should stop yt also even in break.   Yaar mein padhne ke baad break mein yt kholu toh yeh \[ARYAVEER MUTHAL\] paagal merko promotion karta dikh jata hai
 
@@ -333,12 +915,17 @@ Bhai aiims mein yeh sundar colourful pink color wale notes se kuch nhi hota
 This guy ragebaits me",0,4,https://i.redd.it/idauzo9tp0qg1.jpeg,https://www.reddit.com/r/Neet_india/comments/1ry34qp/any_opinion_on_this_guy/,1773933264.0,2026-03-19 15:14:24,Ok-Study6968,1ry34qp
 EI,juridice,Anularea contractului inainte de angajare,"Am trecut printr-un proces de angajare la o companie romaneasca ce are o companie mama (multinationala) in spate. In Septembrie 2025 am fost acceptat pe un post, dar am fost anuntat ca a fost desfiintat inainte de a incepe procesul birocratic, insa mi-au spus ca ma cauta ei cand se redeschide postul. 
 
-Acum 3 saptamani m-au sunat, am avut o discutie si mi-au dat oferta de munca pentru ca deja stiau tot ce era de stiut despre mine. Am semnat si contractul (cu compania romaneasca) cu data de incepere undeva in Aprilie. Am si inaintat cererea de demisie la compania mea actuala si practic am intrat in preaviz, iar astazi am fost sunat sa mi se zica ca a decis compania mama ca nu se mai fac angajari in Romania si ca eu nu voi mai putea fi angajat, in ciuda contractului semnat. Din fericire am reusit sa anulez cererea de demisie la jobul actual, dar as vrea sa incep o actiune legala impotriva companiei care nu si-a respectat obligatiile pentru care a semnat contract si as vrea sa stiu daca a mai patit cineva ceva de genul si daca se poate recupera un prejudiciu/obtine daune morale pentru asa ceva. ",3,3,https://www.reddit.com/r/juridice/comments/1ry30f2/anularea_contractului_inainte_de_angajare/,https://www.reddit.com/r/juridice/comments/1ry30f2/anularea_contractului_inainte_de_angajare/,1773932992.0,2026-03-19 15:09:52,Different_Essay4731,1ry30f2
+Acum 3 saptamani m-au sunat, am avut o discutie si mi-au dat oferta de munca pentru ca deja stiau tot ce era de stiut despre mine. Am semnat si contractul (cu compania romaneasca) cu data de incepere undeva in Aprilie. Am si inaintat cererea de demisie la compania mea actuala si practic am intrat in preaviz, iar astazi am fost sunat sa mi se zica ca a decis compania mama ca nu se mai fac angajari in Romania si ca eu nu voi mai putea fi angajat, in ciuda contractului semnat. Din fericire am reusit sa anulez cererea de demisie la jobul actual, dar as vrea sa incep o actiune legala impotriva companiei care nu si-a respectat obligatiile pentru care a semnat contract si as vrea sa stiu daca a mai patit cineva ceva de genul si daca se poate recupera un prejudiciu/obtine daune morale pentru asa ceva. ",8,9,https://www.reddit.com/r/juridice/comments/1ry30f2/anularea_contractului_inainte_de_angajare/,https://www.reddit.com/r/juridice/comments/1ry30f2/anularea_contractului_inainte_de_angajare/,1773932992.0,2026-03-19 15:09:52,Different_Essay4731,1ry30f2
+EI,Kochen,Meine Rühreier schmecken langweilig. Wie kann ich dem etwas Pepp verpassen?,"Ich esse liebend gerne Rühreier zum Frühstück, aber so langsam wird es etwas fad. Ich würze es meistens ganz normal mit Salz und nach dem braten gebe ich gerne etwas Schnittlauch oder Petersilie dazu. Ich hab auch schon Gewürzmischungen extra für Ei ausprobiert. Es gibt natürlich etliche Variationen, die auch mehr Aufwand und Zutaten brauchen
+
+Aber ich suche nur nach einer kleinigkeit, die dem ganzen etwas Pepp verleiht, was vielleicht nicht direkt mit Ei in Verbindung gebracht wird aber trotzdem erstaunlich gut passt.
+
+Habt ihr da Idee?",4,45,https://www.reddit.com/r/Kochen/comments/1ry2zoj/meine_rühreier_schmecken_langweilig_wie_kann_ich/,https://www.reddit.com/r/Kochen/comments/1ry2zoj/meine_rühreier_schmecken_langweilig_wie_kann_ich/,1773932944.0,2026-03-19 15:09:04,MateIstLeben,1ry2zoj
 EI,u_willkenny112233,My Nic Setup,,1,0,https://i.redd.it/nhf0qs3ep0qg1.jpeg,https://www.reddit.com/r/u_willkenny112233/comments/1ry2zng/my_nic_setup/,1773932942.0,2026-03-19 15:09:02,willkenny112233,1ry2zng
 EI,TeenPakistani,What will u say to those who says _,"""HAm EiD nhi MaNty HAm mAture hogaye HaI "" 
 Eid na manany se koi mature nhi hota 
 Actually me Kisi bhi. Cheez ko na krny se u won't be mature 
-Ppl have changed the word mature completely ",1,7,https://www.reddit.com/r/TeenPakistani/comments/1ry2yjh/what_will_u_say_to_those_who_says/,https://www.reddit.com/r/TeenPakistani/comments/1ry2yjh/what_will_u_say_to_those_who_says/,1773932869.0,2026-03-19 15:07:49,Nice_Cartoonist4824,1ry2yjh
+Ppl have changed the word mature completely ",3,7,https://www.reddit.com/r/TeenPakistani/comments/1ry2yjh/what_will_u_say_to_those_who_says/,https://www.reddit.com/r/TeenPakistani/comments/1ry2yjh/what_will_u_say_to_those_who_says/,1773932869.0,2026-03-19 15:07:49,Nice_Cartoonist4824,1ry2yjh
 EI,snappijuorutofftopic,Onko teidän mielestä oikeutettua pahoittaa mieli poikaystävän takia,"Elikkäs, mä ja mun poikaystävä ollaan seurusteltu pian vuosi ja asutaan noin 2h ajomatkan päässä toisista. Nähdään kuitenkin aikalailla viikottain, eli aika usein. Meillä klikkaa hyvin ja mulla on muuten rakastettu olo, mutta musta tuntuu, että mun poikaystävää ei kiinnosta mun kuulumiset tms. oikeestaan ollenkaan.
 
 Esimerkiksi alotin uudessa työpaikassa viime syksynä ja hän ei kysyny multa kertaakaan miten siellä menee ja kuinka homma on lähteny sujumaan. Annoin asian kuitenkin olla, mutta se toistu taas, kun alotin uudessa työpaikassa nyt tämän kuun alussa. Hän ei kertaakaan oo kysynyt mitään mun töistä tms. vaikka itse kysyn lähes päivittäin häneltä hänen töistä.
@@ -347,7 +934,7 @@ Sitten toinen juttu, eli kävin tänään lääkärissä ja hän ei myöskään 
 
 Sitten kolmas juttu, mulle tapahtu viime viikolla pieni tapaturma kun olin hänen kanssaan ja hän kysyi multa oikeesti ehkä kerran, että sattuko. Pyysin häneltä kun päästiin sisälle kotiin, että voisiko hän tuoda mulle puhdistusainetta ja jotain kylmää ja hän vaan ignoorasi mut kun sanoin, että soitan äitilleni tämän tapahtuneen takia. Ainoo asia mitä mun poikaystävä sitten tokaisi asiaan oli, että hänen ukkinsa olisi varmaan kuollut jos sille olisi käynyt noin. 
 
-Ylireagoinko teidän mielestä, jos mulla on paha mieli hänen käytöksestä? Musta tuntuu, että hän vaan olettaa että mulla on kaikki hyvin. Joskus oon tuonut asiaa esille ja hän vaan käyttää tekosyynä sitä, että on väsynyt, on just tullut töistä, on niin raskasta käydä töissä ja salilla samaan aikaan tms.",2,2,https://www.reddit.com/r/snappijuorutofftopic/comments/1ry2x6h/onko_teidän_mielestä_oikeutettua_pahoittaa_mieli/,https://www.reddit.com/r/snappijuorutofftopic/comments/1ry2x6h/onko_teidän_mielestä_oikeutettua_pahoittaa_mieli/,1773932783.0,2026-03-19 15:06:23,puukaatu,1ry2x6h
+Ylireagoinko teidän mielestä, jos mulla on paha mieli hänen käytöksestä? Musta tuntuu, että hän vaan olettaa että mulla on kaikki hyvin. Joskus oon tuonut asiaa esille ja hän vaan käyttää tekosyynä sitä, että on väsynyt, on just tullut töistä, on niin raskasta käydä töissä ja salilla samaan aikaan tms.",13,11,https://www.reddit.com/r/snappijuorutofftopic/comments/1ry2x6h/onko_teidän_mielestä_oikeutettua_pahoittaa_mieli/,https://www.reddit.com/r/snappijuorutofftopic/comments/1ry2x6h/onko_teidän_mielestä_oikeutettua_pahoittaa_mieli/,1773932783.0,2026-03-19 15:06:23,puukaatu,1ry2x6h
 EI,firstblurpderpwelcome,"Hi, my name is *truck drives by* but everyone just calls me dad.","*Note* please don't call me dad.
 
 But yes! Hello it's my first time on reddit! A little-lot about me: 
@@ -407,22 +994,22 @@ Anything else I'll either edit this big jumbo post or add on later!
 Sincerely, 
 
 Dad.",1,0,https://www.reddit.com/r/firstblurpderpwelcome/comments/1ry2woy/hi_my_name_is_truck_drives_by_but_everyone_just/,https://www.reddit.com/r/firstblurpderpwelcome/comments/1ry2woy/hi_my_name_is_truck_drives_by_but_everyone_just/,1773932753.0,2026-03-19 15:05:53,TimmyTurnersDad6,1ry2woy
-EI,stealabrainrot,Yo guys W F or L I lowk panic traded it away because of garama nerf coming,,1,5,https://i.redd.it/zf6oafdto0qg1.jpeg,https://www.reddit.com/r/stealabrainrot/comments/1ry2wji/yo_guys_w_f_or_l_i_lowk_panic_traded_it_away/,1773932745.0,2026-03-19 15:05:45,Icy_Show_4107,1ry2wji
+EI,stealabrainrot,Yo guys W F or L I lowk panic traded it away because of garama nerf coming,,1,8,https://i.redd.it/zf6oafdto0qg1.jpeg,https://www.reddit.com/r/stealabrainrot/comments/1ry2wji/yo_guys_w_f_or_l_i_lowk_panic_traded_it_away/,1773932745.0,2026-03-19 15:05:45,Icy_Show_4107,1ry2wji
 EI,Quantisnow,"The Patent Cliff is Coming, Driving Smart Money Towards Precision Oncology",,1,0,https://quantisnow.com/i/the-patent-cliff-is-coming-driving-smart-money-towards-precision-oncology-6461045?utm_source=reddit,https://www.reddit.com/r/Quantisnow/comments/1ry2tzz/the_patent_cliff_is_coming_driving_smart_money/,1773932584.0,2026-03-19 15:03:04,Quantisnow,1ry2tzz
 EI,Quantisnow,The $30B Catalyst Reshaping America's Mineral Supply,,1,0,https://quantisnow.com/i/the-30b-catalyst-reshaping-america's-mineral-supply-6461047?utm_source=reddit,https://www.reddit.com/r/Quantisnow/comments/1ry2tzl/the_30b_catalyst_reshaping_americas_mineral_supply/,1773932584.0,2026-03-19 15:03:04,Quantisnow,1ry2tzl
-EI,ragdolls,Mochi and Frosty,My sweet and funny 6 month olds! They are inseparable and they love the kids!!! Does anyone know how I can get larger cat tree platforms?! They are growing fast!!!,27,3,https://www.reddit.com/gallery/1ry2sg9,https://www.reddit.com/r/ragdolls/comments/1ry2sg9/mochi_and_frosty/,1773932488.0,2026-03-19 15:01:28,ragdollove,1ry2sg9
-EI,ElSalvador,Una serie animada sobre un gallo que pelea contra demonios es número 1 en El Salvador,El autor compartió la noticia en X. ,10,2,https://i.redd.it/092uqos1o0qg1.jpeg,https://www.reddit.com/r/ElSalvador/comments/1ry2sg6/una_serie_animada_sobre_un_gallo_que_pelea_contra/,1773932488.0,2026-03-19 15:01:28,sam-sung-sv,1ry2sg6
+EI,ragdolls,Mochi and Frosty,My sweet and funny 6 month olds! They are inseparable and they love the kids!!! Does anyone know how I can get larger cat tree platforms?! They are growing fast!!!,52,3,https://www.reddit.com/gallery/1ry2sg9,https://www.reddit.com/r/ragdolls/comments/1ry2sg9/mochi_and_frosty/,1773932488.0,2026-03-19 15:01:28,ragdollove,1ry2sg9
+EI,ElSalvador,Una serie animada sobre un gallo que pelea contra demonios es número 1 en El Salvador,El autor compartió la noticia en X. ,26,9,https://i.redd.it/092uqos1o0qg1.jpeg,https://www.reddit.com/r/ElSalvador/comments/1ry2sg6/una_serie_animada_sobre_un_gallo_que_pelea_contra/,1773932488.0,2026-03-19 15:01:28,sam-sung-sv,1ry2sg6
 EI,pesmobile,"Bro celebrate each goal, back passing and pause last minute in a quick match...desperate cnt ruining quick match exp treating it like in div mode",,0,11,https://www.reddit.com/gallery/1ry2r0r,https://www.reddit.com/r/pesmobile/comments/1ry2r0r/bro_celebrate_each_goal_back_passing_and_pause/,1773932408.0,2026-03-19 15:00:08,Muaz_fifa23,1ry2r0r
-EI,KaoruHanaWaRintoSaku,Are we shipping these two?,Possible ship with Toki Sensei and Tsukada Sensei or nah?,21,11,https://i.redd.it/kh9su0uom0qg1.jpeg,https://www.reddit.com/r/KaoruHanaWaRintoSaku/comments/1ry2kxf/are_we_shipping_these_two/,1773932030.0,2026-03-19 14:53:50,xiqz,1ry2kxf
+EI,KaoruHanaWaRintoSaku,Are we shipping these two?,Possible ship with Toki Sensei and Tsukada Sensei or nah?,31,19,https://i.redd.it/kh9su0uom0qg1.jpeg,https://www.reddit.com/r/KaoruHanaWaRintoSaku/comments/1ry2kxf/are_we_shipping_these_two/,1773932030.0,2026-03-19 14:53:50,xiqz,1ry2kxf
 EI,arkisuomi,Heittäkää ajatuksia keskustassa vs vähän kauempana (muutamia kilometrejä) asumisesta,"Asun todella hyvällä sijainnilla kaikkien julkisten kulkuvälineiden äärellä 1km ydinkeskustaan ja kauppa 100m päässä ja ravintoloita. Haluaisin kuitenkin päivittää asuntoani, että saisin saunan ja parvekkeen sekä vähän lisää tilaa. Ongelmana on, että saunallisia järkevän kokoisia ja hintaisia asuntoja ei oikein ole yksin asuvalle tällä sijainnilla. Jos jotain löytyy, niin usein niissä on isompia remontteja tulossa. 
 
 Joudun tästä asunnosta joka tapauksessa muuttamaan, joten mietin nyt että otanko jonkun siistin asunnon ilman saunaa suurinpiirtein samalta sijainnilta vai menisinkö vähän kauemmaksi keskustasta 3-5km, jolloin saisin sellaisen asunnon jonka haluan. Olen kulkenut tähän asti lähinnä kävellen ja pyörällä ja pidän siitä kun ei tarvitse aikatauluja kyttäillä ja tulee halvemmaksikin kun ei tarvitse julkisia käyttää ja etenkin yöaikaan julkisissa tuntuu olevan aika hämärää porukkaa. Kyllähän tuollaisen 3-5km matkan pyörällä suhauttaa nopeasti hyvällä kelillä, mutta kylmillä pakkaskeleillä ja sadekeleillä tilanne onkin toinen. Tästä pystyn kävelemään sateenvarjon kanssa keskustaan, mutta 3km päästäkin se on jo aika ikävä matka kävellä sateessa. Julkistenkäyttö ei tällaisessa tilanteessa päivällä ole ongelma, mutta käyn paljon keikoilla ja baareissa, joten pitäisi sitten öisinkin kulkea julkisilla tällaisilla keleillä.
 
 Vaikka käyn usein viikonloppuisin jossain, niin arkena vietän paljon aikaa kuitenkin kotona, joten keskustan läheisyys ei sen suhteen ole kovin välttämätöntä. Sen sijaan työpaikka on lähes keskustassa ja sen lähellä haluaisin asua myös. 
 
-Mitä ajatuksia teillä on asian suhteen minun tilanteessani ja oman asumisenne suhteen? ",0,10,https://www.reddit.com/r/arkisuomi/comments/1ry2ked/heittäkää_ajatuksia_keskustassa_vs_vähän/,https://www.reddit.com/r/arkisuomi/comments/1ry2ked/heittäkää_ajatuksia_keskustassa_vs_vähän/,1773931995.0,2026-03-19 14:53:15,ZzZ_Lullaby_ZzZ,1ry2ked
+Mitä ajatuksia teillä on asian suhteen minun tilanteessani ja oman asumisenne suhteen? ",0,21,https://www.reddit.com/r/arkisuomi/comments/1ry2ked/heittäkää_ajatuksia_keskustassa_vs_vähän/,https://www.reddit.com/r/arkisuomi/comments/1ry2ked/heittäkää_ajatuksia_keskustassa_vs_vähän/,1773931995.0,2026-03-19 14:53:15,ZzZ_Lullaby_ZzZ,1ry2ked
 EI,fit,I’m 17 and I need a coach,,1,1,https://i.redd.it/v5on5y7am0qg1.jpeg,https://www.reddit.com/r/fit/comments/1ry2itg/im_17_and_i_need_a_coach/,1773931894.0,2026-03-19 14:51:34,rizxt,1ry2itg
-EI,CareerAdvice101,Looking for IC Design roles. Targeting internships and apprenticeships. Do I have a chance?,,1,0,https://i.redd.it/8jsw65xol0qg1.jpeg,https://www.reddit.com/r/CareerAdvice101/comments/1ry2g96/looking_for_ic_design_roles_targeting_internships/,1773931732.0,2026-03-19 14:48:52,HubOwner,1ry2g96
+EI,CareerAdvice101,Looking for IC Design roles. Targeting internships and apprenticeships. Do I have a chance?,,1,1,https://i.redd.it/8jsw65xol0qg1.jpeg,https://www.reddit.com/r/CareerAdvice101/comments/1ry2g96/looking_for_ic_design_roles_targeting_internships/,1773931732.0,2026-03-19 14:48:52,HubOwner,1ry2g96
 EI,Hevosjuorut,Korvahuppu,"Mistä löytää X-Full kokoisia korvahuppuja? Mulla on tollanen lv jolla on ""juoksian korvat"" jolla ei pysy perus full kokoiset huput päässä.
 
 Plussaa olisi jos on äänieristetyt.",1,0,https://www.reddit.com/r/Hevosjuorut/comments/1ry2dqp/korvahuppu/,https://www.reddit.com/r/Hevosjuorut/comments/1ry2dqp/korvahuppu/,1773931573.0,2026-03-19 14:46:13,Lazy-Condition-5805,1ry2dqp
@@ -430,7 +1017,7 @@ EI,lohnabrechnung,31J | 39h | Fahrdienstleiter | Stkl. 3,"Bruttobetrag liegt ins
 
 Wichtig ist außerdem, das ich ein halbes Monatsgehalt über das Jahr anspare, um es als Weihnachtsgeld ausgezahlt zu bekommen,  außerdem habe ich 12 Tage zusätzlichen Jahresurlaub (insgesamt 40 Tage). Für diese 12 Tage verzichte ich auf ca. 5,6 Prozent Bruttogehalt. 
 
-",5,3,https://i.redd.it/pavy6zvzk0qg1.jpeg,https://www.reddit.com/r/lohnabrechnung/comments/1ry2c0e/31j_39h_fahrdienstleiter_stkl_3/,1773931461.0,2026-03-19 14:44:21,La3chl3r,1ry2c0e
+",5,9,https://i.redd.it/pavy6zvzk0qg1.jpeg,https://www.reddit.com/r/lohnabrechnung/comments/1ry2c0e/31j_39h_fahrdienstleiter_stkl_3/,1773931461.0,2026-03-19 14:44:21,La3chl3r,1ry2c0e
 EI,ChatGPT,"Observed repeated utterance rewriting / misrecall-like drift in ChatGPT, including Temporary Chat with memory off","This is an observation-based post, not an anti-AI post.
 
 I have been repeatedly observing a pattern where ChatGPT shifts my original wording into something stronger, broader, or more definite than what I actually said, and then continues the conversation on top of that altered premise.
@@ -478,7 +1065,7 @@ EI,u_Embarrassed-Bee-5467,【花粉症 治る 食生活】花粉症は慢性炎�
 EI,u_Odd-Branch-8184,We are not very far from getting a Bihari CM.,Khale khale Axom khn khale ei notini sobe,1,1,https://i.redd.it/kkqajkxs00qg1.jpeg,https://www.reddit.com/r/u_Odd-Branch-8184/comments/1ry21xy/we_are_not_very_far_from_getting_a_bihari_cm/,1773930823.0,2026-03-19 14:33:43,Odd-Branch-8184,1ry21xy
 EI,bleach,I translated some mid-cards from Bleach.,"I made two versions, one with the characters' names in Japanese (closer to the original), and another with their names in our Western fonts. Maybe I'll post the other versions here. I have a few more to translate, but some of them are definitely usable as wallpapers, since I upscaled them to 4K after translating. I just hope Reddit doesn't downgrade the image quality.
 
-4K Picture Links: [WANDENREICH](https://imgur.com/gallery/bleach-tybw-mid-cards-eps-15-24-UUhnzqE) \- [SCHUTZSTAFFEL](https://imgur.com/gallery/bleach-thousand-year-bloor-war-schutzstaffel-Y38qoEI)",61,12,https://www.reddit.com/gallery/1ry1xe7,https://www.reddit.com/r/bleach/comments/1ry1xe7/i_translated_some_midcards_from_bleach/,1773930547.0,2026-03-19 14:29:07,Kariel_l,1ry1xe7
+4K Picture Links: [WANDENREICH](https://imgur.com/gallery/bleach-tybw-mid-cards-eps-15-24-UUhnzqE) \- [SCHUTZSTAFFEL](https://imgur.com/gallery/bleach-thousand-year-bloor-war-schutzstaffel-Y38qoEI)",110,15,https://www.reddit.com/gallery/1ry1xe7,https://www.reddit.com/r/bleach/comments/1ry1xe7/i_translated_some_midcards_from_bleach/,1773930547.0,2026-03-19 14:29:07,Kariel_l,1ry1xe7
 EI,starvingartists,"[For Hire] Hi! I’m a designer and illustrator specializing in backgrounds, covers, character design, comic pages, and illustrations. I offer daily updates and flexible revisions. Prices range from ¢50–¢100, depending on complexity.",,1,0,https://www.reddit.com/gallery/1ry1wmi,https://www.reddit.com/r/starvingartists/comments/1ry1wmi/for_hire_hi_im_a_designer_and_illustrator/,1773930499.0,2026-03-19 14:28:19,Key_Ad3032,1ry1wmi
 EI,InterDimensionalRP,"[""All I wish....its to move freely..""]","
 [*From the depths of the space, a certain....machine part appeared in the radar...*]
@@ -488,18 +1075,18 @@ EI,InterDimensionalRP,"[""All I wish....its to move freely..""]","
 [*Blazing through the sky like a meteor, it landed right in the northeast of Pangea, underneath the corner islands...*]
 
 [*How did it pass through multiple defenses and landed simply in a small land? Nobody knows, although it would be wise to investigate*]",4,5,https://www.reddit.com/gallery/1ry1tma,https://www.reddit.com/r/InterDimensionalRP/comments/1ry1tma/all_i_wishits_to_move_freely/,1773930311.0,2026-03-19 14:25:11,Markarov_65,1ry1tma
-EI,houston,Space city home network question,Just got space city home network so I can watch the stros from west Texas. Was watching the rodeo last night and noticed this annoying side bar. Anyone know if it’s possible to get rid of it?,1,1,https://i.redd.it/f68mljc5h0qg1.jpeg,https://www.reddit.com/r/houston/comments/1ry1rbe/space_city_home_network_question/,1773930166.0,2026-03-19 14:22:46,datboy1656,1ry1rbe
-EI,japan_insoul,Eis que a 10/10,,13,6,https://i.redd.it/t0n72zo3h0qg1.jpeg,https://www.reddit.com/r/japan_insoul/comments/1ry1r3b/eis_que_a_1010/,1773930151.0,2026-03-19 14:22:31,Agitated-Egg7521,1ry1r3b
+EI,houston,Space city home network question,Just got space city home network so I can watch the stros from west Texas. Was watching the rodeo last night and noticed this annoying side bar. Anyone know if it’s possible to get rid of it?,0,1,https://i.redd.it/f68mljc5h0qg1.jpeg,https://www.reddit.com/r/houston/comments/1ry1rbe/space_city_home_network_question/,1773930166.0,2026-03-19 14:22:46,datboy1656,1ry1rbe
+EI,japan_insoul,Eis que a 10/10,,29,7,https://i.redd.it/t0n72zo3h0qg1.jpeg,https://www.reddit.com/r/japan_insoul/comments/1ry1r3b/eis_que_a_1010/,1773930151.0,2026-03-19 14:22:31,Agitated-Egg7521,1ry1r3b
 EI,Ratschlag,"Hartnäckige Mandelentzündung (bereits in Behandlung bei HNO), Tipps erwünscht","Hi an alle,
 ich bin jetzt in der fünften Woche krank. Es fing an mit einer beidseitigen Mandelentzündung, Rachenentzündung und Kehlkopfentzündung gleichzeitig (wusste auch nicht dass das möglich ist), anfangs mit einem heftigen Reizhusten, der nur durch Codein nachts gestillt werden konnte. Hatte starke Schmerzen und fast 3 Wochen lang keine Stimme mehr. Zuerst bekam ich Penicillin V 1 Mega, das hat aber total versagt, weshalb ich für 10 Tage Amoxiclav bekam. Da gings mir kontinuierlich besser und am Ende der Kur hatte ich keinerlei Schmerzen mehr. Allerdings kamen die nach 3 Tagen schleichend zurück und zuerst hab ich es als hartnäckigen Schleim abgetan, bis es zum Ohr ausstrahlte und ich wieder beim HNO war. Beide Mandeln waren wieder belegt und rechts eine Seitenstrangagina. Ich bekam daraufhin Clindasol 300, was ich 4x täglich einnehmen sollte für 7 Tage. Heute war ich wieder da (die 7 Tage waren vorbei), weil der Heilungsprozess anders war als bei Amoxiclav, der Schmerz wanderte, dann taten plötzlich die Lymphknoten auf der anderen Seite kurzweilig weh. Die Seitenstrangagina war allerdings nach 3 Tagen weg. Man sagte mir heute, dass die Mandeln beide immer noch mini Reste Belag aufweisen und habe auf meine Bitte Clindasol noch mal für 3 Tage verlängert bekommen (dann wäre ich bei 10 Tagen). 
 Ich hatte nie Probleme mit dem Hals oder den Mandeln, natürlich hab ich in meinen 35 Jahren mal ne Mandelentzündung gehabt, oder eine Rachenentzündung, aber vielleicht mal alle 7 Jahre. Ich bin da normalerweise nicht anfällig für. Hat jemand vielleicht was ähnliches erlebt, oder hat noch Tipps für mich? Ich bin jetzt in der fünften Woche krank, schone mich, lutsche Halstabletten, Eis, wechsle wöchentlich die Zahnbürste, inhalieren, Schmerzmittel, etc. Wirklich das volle Programm. Ich bin verzweifelt und hab echt Angst, dass es nach den nächsten 3 Tagen clindasol wieder von vorn anfängt, wenn nach 7 Tagen immer noch Restentzündung da ist. Mein Hals fühlt sich auch nicht komplett verheilt bzw schmerzfrei an. Nach amoxiclav fühlte es sich komplett schmerzfrei an, aber die beiden Antibiotika unterscheiden sich auch komplett, clindasol dringt eigentlich viel tiefer ein, etc. 
-Wie gesagt, ich bin bereits in ärztlicher Behandlung und suche einfach einen Austausch von Erfahrungen, oder Tipps. Danke fürs durchlesen und Zeit nehmen! ",0,27,https://www.reddit.com/r/Ratschlag/comments/1ry1mr3/hartnäckige_mandelentzündung_bereits_in/,https://www.reddit.com/r/Ratschlag/comments/1ry1mr3/hartnäckige_mandelentzündung_bereits_in/,1773929870.0,2026-03-19 14:17:50,Draculila333,1ry1mr3
+Wie gesagt, ich bin bereits in ärztlicher Behandlung und suche einfach einen Austausch von Erfahrungen, oder Tipps. Danke fürs durchlesen und Zeit nehmen! ",0,28,https://www.reddit.com/r/Ratschlag/comments/1ry1mr3/hartnäckige_mandelentzündung_bereits_in/,https://www.reddit.com/r/Ratschlag/comments/1ry1mr3/hartnäckige_mandelentzündung_bereits_in/,1773929870.0,2026-03-19 14:17:50,Draculila333,1ry1mr3
 EI,Suomi,"Leipurit, mitä jauhoja käytätte?","Puolisen vuotta leiponeena ja pienen hifistelijäluonteen omaavana oon testaillut muutamia erilaisia jauhoja. En vielä ihan täysin hahmota eri jauhojen vaikutusta leivän makuun, koostumukseen tai taikinan käsiteltävyyteen, mutta eroja niillä kyllä on. Siitäpä otsikon kysymys: mitä jauhoja te käytätte? Mitä leivotte niillä? Onko teillä erikseen pulla- ja leipäjauhot vai meneekö kaikki perus puolikarkealla? Mikä toimii ja mikä ei?
 
   
-Kuvalla ensisijaisesti huomio, mutta sanottakoon että se on tähän asti nätein hapanjuurileipäni, jossa käytin seosta *Myllärin Vehnäjauho 2.0* ja *Manitoba Cream -*jauhoja.",17,8,https://i.redd.it/mps7aovic0qg1.png,https://www.reddit.com/r/Suomi/comments/1ry1mot/leipurit_mitä_jauhoja_käytätte/,1773929866.0,2026-03-19 14:17:46,Misacorp,1ry1mot
-EI,90sHipHop,Mobb Deep- “Survival of the Fittest (Remix Extended Version)”,My personal favorite version of “Survival of the Fittest”🔥🔥🔥,5,1,https://v.redd.it/hzupjno6f0qg1,https://www.reddit.com/r/90sHipHop/comments/1ry1it7/mobb_deep_survival_of_the_fittest_remix_extended/,1773929617.0,2026-03-19 14:13:37,TheUncannyDsummerz,1ry1it7
-EI,KanagawaWave,粉區不picture能行嗎？,轉自推特,27,15,https://i.redd.it/gbjx6gjbf0qg1.jpeg,https://www.reddit.com/r/KanagawaWave/comments/1ry1htm/粉區不picture能行嗎/,1773929552.0,2026-03-19 14:12:32,New-Prior1978,1ry1htm
+Kuvalla ensisijaisesti huomio, mutta sanottakoon että se on tähän asti nätein hapanjuurileipäni, jossa käytin seosta *Myllärin Vehnäjauho 2.0* ja *Manitoba Cream -*jauhoja.",20,10,https://i.redd.it/mps7aovic0qg1.png,https://www.reddit.com/r/Suomi/comments/1ry1mot/leipurit_mitä_jauhoja_käytätte/,1773929866.0,2026-03-19 14:17:46,Misacorp,1ry1mot
+EI,90sHipHop,Mobb Deep- “Survival of the Fittest (Remix Extended Version)”,My personal favorite version of “Survival of the Fittest”🔥🔥🔥,4,1,https://v.redd.it/hzupjno6f0qg1,https://www.reddit.com/r/90sHipHop/comments/1ry1it7/mobb_deep_survival_of_the_fittest_remix_extended/,1773929617.0,2026-03-19 14:13:37,TheUncannyDsummerz,1ry1it7
+EI,KanagawaWave,粉區不picture能行嗎？,轉自推特,45,17,https://i.redd.it/gbjx6gjbf0qg1.jpeg,https://www.reddit.com/r/KanagawaWave/comments/1ry1htm/粉區不picture能行嗎/,1773929552.0,2026-03-19 14:12:32,New-Prior1978,1ry1htm
 EI,GameHandsChess,PLAY #CHESS LIVE📡ON TWITCH OR YOUTUBE♟️PLAY BY TYPING MOVES IN CHAT♟️EXAMPLE MOVE: E2 E4♟️TRY IT NOW twitch.tv/gamehandsdotnet OR youtube.com/@GameHandsDotNet,,1,0,https://i.redd.it/61hktt3we0qg1.png,https://www.reddit.com/r/GameHandsChess/comments/1ry1ft5/play_chess_liveon_twitch_or_youtubeplay_by_typing/,1773929419.0,2026-03-19 14:10:19,GameHands,1ry1ft5
 EI,TheBusinessMix,"The Judge Who Ends Asylum Protection for 5-Year-Old Boy Detained By ICE -- Has Been Accused of Using ""AI"" to Read Court Cases and Was Also Previously Asst. Chief Counsel for ICE","\---
 
@@ -531,449 +1118,6 @@ SOURCE: [https://abusivediscretion.com/immigration-judge-john-p-burns-uses-ai-to
 
   
 ",1,0,https://www.reddit.com/r/TheBusinessMix/comments/1ry1dvx/the_judge_who_ends_asylum_protection_for_5yearold/,https://www.reddit.com/r/TheBusinessMix/comments/1ry1dvx/the_judge_who_ends_asylum_protection_for_5yearold/,1773929294.0,2026-03-19 14:08:14,Next-Particular1476,1ry1dvx
-EI,1to1reps,Streetwear Rotation Review — Quick 5★ Outfit Breakdown,"I rotated these pieces through a few casual outfits to see how they perform in everyday wear. The lineup mixes hoodies, tees, denim and relaxed sportswear pieces that work well for comfortable streetwear fits.
-
-━━━━━━━━━━━━━━━━━━
-
-Denim Tears Zip Hoodie  
-★★★★★  
-Bold streetwear hoodie with strong visual identity.  
-Comfortable oversized fit that pairs well with relaxed denim.
-
-━━━━━━━━━━━━━━━━━━
-
-Denim Tears T-Shirt  
-★★★★★  
-Graphic tee that stands out in simple outfits.  
-Easy to style with jeans or shorts.
-
-━━━━━━━━━━━━━━━━━━
-
-Tech Fleece Shorts  
-★★★★★  
-Lightweight shorts perfect for casual wear.  
-Comfortable sporty piece that works well with tees.
-
-━━━━━━━━━━━━━━━━━━
-
-Supreme T-Shirt  
-★★★★★  
-Classic streetwear tee with recognizable style.  
-Works well in simple everyday outfits.
-
-━━━━━━━━━━━━━━━━━━
-
-Hell Star T-Shirt  
-★★★★★  
-Bold graphic tee with strong streetwear character.  
-Pairs nicely with relaxed denim or sweatpants.
-
-━━━━━━━━━━━━━━━━━━
-
-Margiela x Salomon Sports Jacket  
-★★★★★  
-Sport-inspired jacket that adds a technical look.  
-Great for layered outfits.
-
-━━━━━━━━━━━━━━━━━━
-
-Carhartt Fleece Pullover  
-★★★★★  
-Warm fleece layer with workwear influence.  
-Comfortable and practical everyday piece.
-
-━━━━━━━━━━━━━━━━━━
-
-Essentials Polo Shirt  
-★★★★★  
-Minimal polo that balances casual outfits.  
-Clean design works with trousers or denim.
-
-━━━━━━━━━━━━━━━━━━
-
-Ralph Lauren Sweatpants  
-★★★★★  
-Comfortable sweatpants perfect for relaxed outfits.  
-Simple styling that works with hoodies and tees.
-
-━━━━━━━━━━━━━━━━━━
-
-Acne Studios Long Sleeve T-Shirt  
-★★★★★  
-Minimal long sleeve tee with clean silhouette.  
-Good layering piece under jackets or hoodies.
-
-━━━━━━━━━━━━━━━━━━
-
-Margiela T-Shirt  
-★★★★★  
-Simple designer tee with modern look.  
-Works well with denim or sweatpants.
-
-━━━━━━━━━━━━━━━━━━
-
-Chrome Hearts Jeans  
-★★★★★  
-Statement denim that adds strong streetwear energy.  
-Pairs well with oversized tops.
-
-━━━━━━━━━━━━━━━━━━
-
-Casa T-Shirt  
-★★★★★  
-Graphic tee that adds color to outfits.  
-Works well with simple bottoms.
-
-━━━━━━━━━━━━━━━━━━
-
-Gallery Dept T-Shirt  
-★★★★★  
-Streetwear tee with distressed aesthetic.  
-Adds character to casual outfits.
-
-━━━━━━━━━━━━━━━━━━
-
-ERD Long Sleeve T-Shirt  
-★★★★★  
-Edgy long sleeve tee that fits modern streetwear styling.  
-Pairs nicely with relaxed jeans.
-
-━━━━━━━━━━━━━━━━━━
-
-Essentials Set  
-★★★★★  
-Matching set that works perfectly for relaxed fits.  
-Comfortable and minimal everyday outfit.
-
-━━━━━━━━━━━━━━━━━━
-
-Chrome Hearts Belt  
-★★★★★  
-Statement accessory that elevates simple denim outfits.  
-Adds a strong streetwear detail.
-
-━━━━━━━━━━━━━━━━━━
-
-Mind Slippers  
-★★★★★  
-Comfortable casual footwear for everyday wear.  
-Works well with shorts or sweatpants.
-
-━━━━━━━━━━━━━━━━━━
-
-Overall the collection creates a **comfortable streetwear wardrobe focused on hoodies, graphic tees and relaxed bottoms**, making everyday outfits easy to put together.",18,2,https://www.reddit.com/gallery/1ry1dsv,https://www.reddit.com/r/1to1reps/comments/1ry1dsv/streetwear_rotation_review_quick_5_outfit/,1773929289.0,2026-03-19 14:08:09,Far-Orchid9791,1ry1dsv
-EI,Miffy,Legit Miffy Plush?,"Hihi! I’ve been seeing this Miffy plush (I am in love) on EBay but I’ve been wondering if it’s legit or actually/looks true to image? When I look it up on Google, I don’t see other photos with people showing it, I only find these same photos. I don’t want to be scammed 😭
-
-Thank you!!",9,0,https://www.reddit.com/gallery/1ry1b3n,https://www.reddit.com/r/Miffy/comments/1ry1b3n/legit_miffy_plush/,1773929111.0,2026-03-19 14:05:11,Avaura,1ry1b3n
-EI,CastRecordings,Two Strangers (Carry A Cake Across New York) [Original Broadway Cast Recording] (2026) 16bit Flac + 24bit Flac + MP3,Alternative link [https://mega.nz/folder/8fEiFCID#8UrudPmNgoNMZ1hCHovBFg](https://mega.nz/folder/8fEiFCID#8UrudPmNgoNMZ1hCHovBFg),5,1,https://drive.google.com/drive/folders/1e7kCfwHuUdwAg63F75qIQ1W3exQHz1yz?usp=sharing,https://www.reddit.com/r/CastRecordings/comments/1ry196u/two_strangers_carry_a_cake_across_new_york/,1773928990.0,2026-03-19 14:03:10,dukiejosh54,1ry196u
-EI,Quantisnow,Critical Resource Race: The Multi-Billion Dollar Move Toward Secure Supply Chains,,1,0,https://quantisnow.com/i/critical-resource-race-the-multibillion-dollar-move-toward-secure-supply-chains-6461003?utm_source=reddit,https://www.reddit.com/r/Quantisnow/comments/1ry1946/critical_resource_race_the_multibillion_dollar/,1773928986.0,2026-03-19 14:03:06,Quantisnow,1ry1946
-EI,lotrlcg,Unused Collection - No Idea How to Price,I’ve had this collection since the game came out with the intent of playing with my gaming group. We never played. All the player deck cards are sleeved and the other cards are organized by scenarios. I’ve looked off and on at eBay for sold prices but the variability of collections makes it difficult. What would be a reasonable price range to ask for this?,4,7,https://i.redd.it/otd818r3d0qg1.jpeg,https://www.reddit.com/r/lotrlcg/comments/1ry1654/unused_collection_no_idea_how_to_price/,1773928808.0,2026-03-19 14:00:08,Famous-Ad8443,1ry1654
-EI,swatch,Don't buy the Fifty Fathoms IT WILL BREAK,"Stage right, the springbar tore through the lugs when I put my hand down to sit on the floor. Literally just my hand bending broke it.
-
-As an engineer, this is next level bullshit. Who TF approved the chain of failure? Every watch brand from here to bumfuck New Mexico knows the springbar needs to be the sacrificial part that needs to break first to protect the case. This has nothing to with the geometry of the design or thickness of the lugs or whatever, everything fails under a high enough load, so you NEED to choose a thing to give way FIRST.
-
-And the Bioceramic BS!!! The ceramic are just particles that resist scratching, the plastic is a binder that resists shattering, but neither adds strength to each other, it just makes it worse as they cannot be CHEMICALLY bonded, they can only be MECHANICALLY bonded!
-
-Legit it's my retardation for buying two of these in the first place, gonna ask for a refund on the broken one and the none broken one. I've spent over 6 figures on Swatch group watches WTF
-
-For $600+ AUD, I was willing to accept that it was a lot of money for a watch that wasn't gonna last forever (movement) but now that it kills itself like this??? I wouldn't pay $50.",11,38,https://i.redd.it/75vnvi0tb0qg1.jpeg,https://www.reddit.com/r/swatch/comments/1ry1573/dont_buy_the_fifty_fathoms_it_will_break/,1773928748.0,2026-03-19 13:59:08,fulldonkeymode,1ry1573
-EI,HaloInfinity,"🔴LIVE ROCKET LEAGUE THEN HALO INFINITE AND MAYBE ARC RAIDERS w/ UNC XENO!!🔴XenoShogunMarch 19, 2026 at 09:46AM",,1,0,https://www.youtube.com/embed/KQS0XN0Piag,https://www.reddit.com/r/HaloInfinity/comments/1ry12y2/live_rocket_league_then_halo_infinite_and_maybe/,1773928589.0,2026-03-19 13:56:29,GameProfessional,1ry12y2
-EI,lookismcomic,He’s trying,,17,4,https://www.reddit.com/gallery/1ry1130,https://www.reddit.com/r/lookismcomic/comments/1ry1130/hes_trying/,1773928465.0,2026-03-19 13:54:25,ZhouLiagu,1ry1130
-EI,steamachievements,First 7 Games Done,"https://preview.redd.it/w8xw3idib0qg1.png?width=1505&format=png&auto=webp&s=929b1b430aad5e4571d7b4a1f7b485a7a483e37f
-
-Started a new account just for 100% completing games in late November and this is how it's been going  
-I DO have one more game, but that's a short free game I got to test something out so I'm not counting that.",4,0,https://www.reddit.com/r/steamachievements/comments/1ry10ya/first_7_games_done/,https://www.reddit.com/r/steamachievements/comments/1ry10ya/first_7_games_done/,1773928457.0,2026-03-19 13:54:17,Public-Ad-1715,1ry10ya
-EI,OniichanOshimai,Found this in a Taito station today,,103,9,https://i.redd.it/u8zefwvub0qg1.jpeg,https://www.reddit.com/r/OniichanOshimai/comments/1ry0zxi/found_this_in_a_taito_station_today/,1773928389.0,2026-03-19 13:53:09,cave_guard,1ry0zxi
-EI,programare,"Programatori profesionisti, cat cod mai scrieti de mana?","Salutare, eu stiu cat de cat sa programez, dar nu atat de bine incat sa fac asta profesional sa zic. Nu am lucrat niciodata cu alti programatori, si nici nu am prea avut treaba cu ei pe la firmele la care am fost, deci nu prea am prieteni programatori. 
-
-  
-Tocmai din cauza ca nu am prieteni programatori, chiar sunt curios: cat cod se mai scrie ""de mana"" ca sa zic? 50/50? mai mult, mai putin? 
-
-",6,43,https://www.reddit.com/r/programare/comments/1ry0ybu/programatori_profesionisti_cat_cod_mai_scrieti_de/,https://www.reddit.com/r/programare/comments/1ry0ybu/programatori_profesionisti_cat_cod_mai_scrieti_de/,1773928283.0,2026-03-19 13:51:23,Spyrith,1ry0ybu
-EI,snappijuorutofftopic,kokemuksia huijauksista,"ostin tänään keikkaliput yksityiseltä myyjältä facebookissa. vaikutti ihan luotettavalta kun kauppoja tehtiin, mutta kun siirsin rahat myyjän tilille kappas kummaa sieltä tuli estot ja lippuja ei näy😴
-
-tein tästä rikosilmoituksen tottakai, mutta kyselisin saako näistä yleensä korvauksia miten? 400€ hänelle siis siirsin
-
-(anteeksi jos epäselvä teksti!)",7,15,https://www.reddit.com/r/snappijuorutofftopic/comments/1ry0y3l/kokemuksia_huijauksista/,https://www.reddit.com/r/snappijuorutofftopic/comments/1ry0y3l/kokemuksia_huijauksista/,1773928266.0,2026-03-19 13:51:06,Rare_Business2361,1ry0y3l
-EI,snappisensuroimat0n,Nimi hukassa,"Kuka oli tää muistaakseni blondi lyhyttukkanen muija, jolla oli ihan sekoja videoita siitä miten sen äiti ei ookkaan sen äiti ja jotain tällasta 🤔",5,5,https://www.reddit.com/r/snappisensuroimat0n/comments/1ry0wfc/nimi_hukassa/,https://www.reddit.com/r/snappisensuroimat0n/comments/1ry0wfc/nimi_hukassa/,1773928157.0,2026-03-19 13:49:17,Hermitli,1ry0wfc
-EI,jisakupc,レガシーアップデート初めて使うけどけど楽でいいね。ただ、ネットつなげないと使えないのはいろいろ問題があるなぁ…,"https://preview.redd.it/w6ss31x670qg1.jpg?width=1920&format=pjpg&auto=webp&s=915ddb1eee5091cf98b4a9a61f0e780a198c31aa
-
-",5,0,https://www.reddit.com/r/jisakupc/comments/1ry0qko/レガシーアップデート初めて使うけどけど楽でいいねただネットつなげないと使えないのはいろいろ問題がある/,https://www.reddit.com/r/jisakupc/comments/1ry0qko/レガシーアップデート初めて使うけどけど楽でいいねただネットつなげないと使えないのはいろいろ問題がある/,1773927743.0,2026-03-19 13:42:23,ygksmi,1ry0qko
-EI,Eesti,Kas teie arust on 26-aastasel mõtet töötada Eestis või peaks välismaale kolima?,"Ootan avatud diskussiooni. Asi selles, et ei näe, kuidas Eestis oleks võimalik enda elu käima saada, kui töötasu jääb vahemikku 2000-3200 eurot brutos või isegi sellest vähem. Kõlab suht perspektiivitult, arvestades, et maksud lähevad maha ja kodulaenu sellise palga juures pole isegi mõtet võtta.",0,55,https://www.reddit.com/r/Eesti/comments/1ry0n12/kas_teie_arust_on_26aastasel_mõtet_töötada_eestis/,https://www.reddit.com/r/Eesti/comments/1ry0n12/kas_teie_arust_on_26aastasel_mõtet_töötada_eestis/,1773927494.0,2026-03-19 13:38:14,Familiar_Lake_4865,1ry0n12
-EI,Silksong,"Team Cherry, this is getting ridiculous.","I just datamined the planned DLC map for the game and holy shit there are so many new areas it’s impossible to keep up with 
-
-Like what does team cherry think we are
-
-the quality has also noticeably dropped by a lot
-
-what are we doing",68,19,https://www.reddit.com/gallery/1ry0knp,https://www.reddit.com/r/Silksong/comments/1ry0knp/team_cherry_this_is_getting_ridiculous/,1773927326.0,2026-03-19 13:35:26,Weird-Letterhead7400,1ry0knp
-EI,Grapplerbaki,Tf is he wearing?,"""today's Newspaper"" lookin ahh",42,10,https://i.redd.it/haf4hxdh80qg1.jpeg,https://www.reddit.com/r/Grapplerbaki/comments/1ry0jmp/tf_is_he_wearing/,1773927253.0,2026-03-19 13:34:13,jessfang555,1ry0jmp
-EI,AnunciosArrombadosBr,Tudo bem?,"Primeiro vamos tc, depois a gente fala de negócios.
-
-
-
-Tava limpando as conversas do whats e achei essa pérola, ainda bem que não tava precisando com urgência.",26,13,https://i.redd.it/t6wpkugq70qg1.jpeg,https://www.reddit.com/r/AnunciosArrombadosBr/comments/1ry0h4v/tudo_bem/,1773927074.0,2026-03-19 13:31:14,KephasCrysant,1ry0h4v
-EI,pourover,"Transparent description of infused Colombian coffee from El Vergel, roasted by PLOT","Infusion is an often misunderstood term which has become highly controversial in coffee circles recently. Often used interchangeably with the term “co-ferment”, it’s important to understand the difference between the two. With a co-ferment, products like fruits are added to the fermenting coffee, bringing with them their own sugars, yeasts and microbes to feed the fermentation. This won’t make the coffee taste like the fruit which is added, just increase the potential for fermentation flavours. Infusion however, directly transfers flavour to coffee using natural or synthetic flavourings. The lack of transparency around production methods, and the adoption of opaque and misleading terms for marketing purposes creates confusion about what constitutes ""naturally"" produced flavour profiles, with some criticising any additions, including yeasts.
-
-This project aims to demonstrate where we believe infusion can positively impact the industry, by adding value to lower grade coffee. As the process doesn't require cherry to be floated or sorted, growers benefit by selling their entire harvest rather than just premium selections.
-
-The process starts with ripe cherries from the Huila region, selected by Forest Coffee's team. This innovative lot combines tropical and berry profiles through a two-part process: one batch undergoes 48-hour fermentation with dehydrated mango to infuse tropical sweetness, **while another batch ferments with diluted raspberry oil for the same duration to add bright, fruity notes.**
-
-After fermentation, the coffees are combined and dried under controlled conditions, allowing their flavours to integrate harmoniously. This multi-day drying process ensures even moisture reduction, while preserving the delicate aromatics developed during fermentation. The result is a complex cup featuring notes of ripe mango, raspberry jam, red fruit acidity, floral undertones, and a lingering tropical sweetness.
-
-——-
-
-So this is what stays on the grinder. This is the same producer where the “cherry co-ferment” from my original post came from btw.",26,27,https://i.redd.it/8wk3vcrv70qg1.jpeg,https://www.reddit.com/r/pourover/comments/1ry0gtj/transparent_description_of_infused_colombian/,1773927051.0,2026-03-19 13:30:51,mygreeness,1ry0gtj
-EI,Suomi,Mieleenpainuvat treffit,"Kertokaa teidän oudoimmat, erikoiset ja ei ehkä niin normaalit treffi kokemukset tai vaikka jos on viety jonnekin paikkaan mihin ei normaalisti ikinä edes ajattelisi vievän toista treffeille? Ja jälkimainingeista, johtiko treffit toisille treffeille vai pelkästään ""mitä vittua just tapahtu"" tunnelmaan 
-
-Inspiraatio tuli kun kuulin miten joku nainen oli viety treffeille ja treffi kumppani olikin naisen tietämättä osallistunut hot Wings syöntikilpailuun, joka kävi ilmi vasta kun hän meni lavalle ",17,29,https://www.reddit.com/r/Suomi/comments/1ry0gqu/mieleenpainuvat_treffit/,https://www.reddit.com/r/Suomi/comments/1ry0gqu/mieleenpainuvat_treffit/,1773927046.0,2026-03-19 13:30:46,RemoteJealous5082,1ry0gqu
-EI,SmartGlasses,"Why we chose full-stack in-house development for our AI Glasses (PCB, Drivers, App)","  
-**Content**: Hi Reddit, there are too many generic white-label AI glasses on the market. Our team (former smartphone engineers) decided to take the hard path: Full-stack R&D. By designing our own PCBs and low-level drivers, we integrated a **6-axis hardware gyroscope** into a 35g frame (AG03) for real EIS stabilization. We're not just assembling parts; we're optimizing the silicon-to-software pipeline. AMA about our hardware architecture or SDK customization!  
-**Tags**: #SmartGlasses #AIGlasses #TechHardware #Startup",0,0,https://www.reddit.com/r/SmartGlasses/comments/1ry0ejq/why_we_chose_fullstack_inhouse_development_for/,https://www.reddit.com/r/SmartGlasses/comments/1ry0ejq/why_we_chose_fullstack_inhouse_development_for/,1773926894.0,2026-03-19 13:28:14,Pleasant-Revenue3181,1ry0ejq
-EI,SouthJersey,Thanks Obama,,277,129,https://i.redd.it/whmg5o6e70qg1.jpeg,https://www.reddit.com/r/SouthJersey/comments/1ry0efo/thanks_obama/,1773926886.0,2026-03-19 13:28:06,Secret_Cow_5053,1ry0efo
-EI,kinetoterapie,Sa nu plecati cu Agentia Iuvare in Germania la lucru,"Promisiuni false, marketing agresiv, joburi de rahat, salarii mediocre si obligatia de a lucra un an pentru ei, sau chiar mai mult. Iti trimit actele la recunoastere si afli cand vor ei ce se intampla cu recunoasterea, apoi mai sunt echivarile necesare pentru kinetoterapie s.a.m.d. 
-
-Dezamagiri si minciuni peste minciuni, evitati pe cat posibil!",3,0,https://www.reddit.com/r/kinetoterapie/comments/1ry0dwo/sa_nu_plecati_cu_agentia_iuvare_in_germania_la/,https://www.reddit.com/r/kinetoterapie/comments/1ry0dwo/sa_nu_plecati_cu_agentia_iuvare_in_germania_la/,1773926846.0,2026-03-19 13:27:26,Fabulous-Stranger-19,1ry0dwo
-EI,DeathBattleMatchups,Community Ranking Day 106: Raiden Ei (Genshin Impact),,4,94,https://i.redd.it/5lnhwamy60qg1.png,https://www.reddit.com/r/DeathBattleMatchups/comments/1ry0cm4/community_ranking_day_106_raiden_ei_genshin_impact/,1773926749.0,2026-03-19 13:25:49,DistinctPop8426,1ry0cm4
-EI,indianbeautyhauls,First time order from Kindlife,"I am a bit of a self aware skincare addict and got more skincare than I got surface area tbh. Was wondering if i should order from Kindlife because of all the mixed reviews on their service. So did a COD. Normally I never bother. Had to pay 69 extra but I was worried over nothing. Everything arrived from Bluedart on time. Even though I have a prive platinum on nykaa.... The prices here are so much better. Really excited to try these. 
-
-Btw I also got Medicube exosome shot 2000 from Myntra last month wondering which is better..VT or Medicube ",20,21,https://i.redd.it/bmuqwaxt60qg1.jpeg,https://www.reddit.com/r/indianbeautyhauls/comments/1ry0c6q/first_time_order_from_kindlife/,1773926717.0,2026-03-19 13:25:17,GuardSuspicious9818,1ry0c6q
-EI,PakPhotographers,Some of my favorite clicks,"Initial 4 images on Canon remainder on iPhone
-
-Images from 2021-2025",27,5,https://www.reddit.com/gallery/1ry0b8p,https://www.reddit.com/r/PakPhotographers/comments/1ry0b8p/some_of_my_favorite_clicks/,1773926646.0,2026-03-19 13:24:06,Yusufied_,1ry0b8p
-EI,vibecoding,2-Week Vibecode = Zero Downloads,"I put a lot of hard work into developing a book-tracking app, but not getting any organic downloads was really disappointing. I thought I’d developed a feature-rich app in terms of both interface and functionality, but I don’t know what the problem is...
-
-I’d really love for those with a keen eye to take a look. I look forward to your valuable feedback. I’ve also set up a 48-hour offer for $14.99 -> Free Lifetime. Thanks!
-
-[https://apps.apple.com/app/book-tracker-bookfy/id6760042667](https://apps.apple.com/app/book-tracker-bookfy/id6760042667)",0,21,https://i.redd.it/z0mseakg60qg1.png,https://www.reddit.com/r/vibecoding/comments/1ry0acl/2week_vibecode_zero_downloads/,1773926581.0,2026-03-19 13:23:01,bugrevealingbme,1ry0acl
-EI,discobiscuits,Not Biscuits but..,"Feels more appropriate to post here than r/jambands. [G-nome Late night Chill set 2016](https://vimeo.com/189957560?turnstile=0.3GfC-0vw0GzZnsoE_GTd5ak6fSxP3CzLwPqZ1RIraywiVv5_dtR5VIdUnkm8lDdtyWAgDuQN5DYKaRzU-iND8shfrhWyFcgwBKMluMCyfyxSccUsG9oj5IavJj7NLGh1LfJLvGoJJIeWSTsT2SAuM8nkhd7_ibnCx0LDj72LdJLewUr8TVd-0ljE8LbnY65dDWYnbeU-4GDgoSQZSLWrCbi2kY1ye3X3vSSnOT1KOJeLTxZGJyHkBGm5mlwIK4Q7z4MYM90M0IFSv4ZBJdKqKybz9U7J-5rnlEt9uWDpxKzypOPnmKLjZnScDbuZBI750HHEy0SeCs_ZIBYMH55J8v619LkPPYz1aS6wXbOAFU-xJQvdcFETwP-ChqfzO2e72no4a3mWp6-dphq_itslw8zqHt-B1n_cKk1pVU4Pf2lz_4GwZyT21vmGSwMplU_FzrpglZIheC6dk0ZBTzj963xzp_dA4mmUlfPB8BQWJcIZSgLJhWBW_wtvZWSreXvVS1upCJCvtXccasWwPGCAYrHjFI8S7UhcT6ZinDzB8Sn4skslXZDGq-xQWUvqrdWybU_PcukPEezdoZGZWskJbvhxNlvhoYkekkuOOvEsfSGJBTqDPj87_BqRSJtjXsZ6VTyrspvJmStIzoZ_ngjG-5Asg5pH2SIUuTbui-_iT5_fj0-zZAD9sLd5JaPMfUoWfXgT6aGitPeOXauisEiL6RDK98HjjuLyVWFLupjmCL6Lm-visAY-BjJ10upFKDBAObjg3__ROBabWyuzFpp9SdrJqjFrLKPiPziKMdfUiMoEvoePYMtdZa0O89w_exXeh7a1tDqkwh_MIrpc22_V0wZFSM1UzYPsdfjO_dna6BdVFFttJCA2Epd_XFt1V_6rntn3b1ueGDGKLdhBkCQBo6p94Zwji6DS9-ce-x2_dt1jnVNOC9tfeULB_k-ga0tJwZSD2gOPQmO8gvwx7cY0aw.BmPV4bTAkWyLjsqP4O6TyQ.0cacf95e1918e92713b2ff5ba2935cd4f5d0f3c9cfc94d96fdc4286bab8d1322).. so much fun.
-
-I love going back to this recording at least once a year. During this set, my boy ground-scored a very large ziploc bag of dank weed on the dance floor.. like 2oz or more lol. Good times.
-
-Any other G-nome recordings floating around, other than what's on YouTube or SoundCloud?
-
-",9,4,https://www.reddit.com/r/discobiscuits/comments/1ry093k/not_biscuits_but/,https://www.reddit.com/r/discobiscuits/comments/1ry093k/not_biscuits_but/,1773926497.0,2026-03-19 13:21:37,ArseLightning,1ry093k
-EI,u_Live_Category4018,Mood Off? Yeh 5 Movies Hasa Dengi 😂,,1,0,https://youtu.be/B7pCkES5IK8?si=FYzv6iTIIbTtKLZS,https://www.reddit.com/r/u_Live_Category4018/comments/1ry07vw/mood_off_yeh_5_movies_hasa_dengi/,1773926406.0,2026-03-19 13:20:06,Live_Category4018,1ry07vw
-EI,PakistanAutoHub,Suzuki Sprinter 110,,24,11,https://i.redd.it/pm75ehmx50qg1.jpeg,https://www.reddit.com/r/PakistanAutoHub/comments/1ry07s5/suzuki_sprinter_110/,1773926399.0,2026-03-19 13:19:59,Rough-Rush-1436,1ry07s5
-EI,AbsoluteUniverse,What are some ideas for absolute versions of atrocitus and larfleeze?,These are two characters I’d love to see in absolute lanterns and was wondering how yall would characterize them in absolute!,8,5,https://i.redd.it/rowasp5v50qg1.jpeg,https://www.reddit.com/r/AbsoluteUniverse/comments/1ry07ec/what_are_some_ideas_for_absolute_versions_of/,1773926372.0,2026-03-19 13:19:32,ApartmentOwn1907,1ry07ec
-EI,Tartu,Tuvasta asukoht! Vihje: ei asju Tähtveres või Karlovas.,,14,6,https://i.redd.it/dkcsm23e50qg1.jpeg,https://www.reddit.com/r/Tartu/comments/1ry05jt/tuvasta_asukoht_vihje_ei_asju_tähtveres_või/,1773926237.0,2026-03-19 13:17:17,Emajogi,1ry05jt
-EI,MotosArg,FD110,,4,3,https://i.redd.it/b82w5lqc50qg1.jpeg,https://www.reddit.com/r/MotosArg/comments/1ry054c/fd110/,1773926204.0,2026-03-19 13:16:44,Rough-Rush-1436,1ry054c
-EI,CharacterAI,"So basically I realized there was no character limit to your message on C.ai, so I decided to spam a really long message and this is what I got:",,17,5,https://i.redd.it/35yg76hq40qg1.png,https://www.reddit.com/r/CharacterAI/comments/1ry03a1/so_basically_i_realized_there_was_no_character/,1773926072.0,2026-03-19 13:14:32,Somos2011,1ry03a1
-EI,DeathBattleMatchups,Good vs Evil Matchups #3 + Their results,,53,25,https://www.reddit.com/gallery/1ry00sj,https://www.reddit.com/r/DeathBattleMatchups/comments/1ry00sj/good_vs_evil_matchups_3_their_results/,1773925888.0,2026-03-19 13:11:28,DynamiteMango6348,1ry00sj
-EI,commutersph,https://m.facebook.com/story.php?story_fbid=pfbid02xxobSBbtw8oVrCS8rPTfrJpaGCs3yFyzLoqCES8kb247dJYE37ef3cAkHykSbJHdl&id=100064992870078&mibextid=wwXIfr,Ang kawawa den mga Drivers nyan sa mahal gas wala na ren silang kikitain! ,1,0,https://i.redd.it/03bp3fat30qg1.jpeg,https://www.reddit.com/r/commutersph/comments/1rxzy3m/httpsmfacebookcomstoryphpstory/,1773925691.0,2026-03-19 13:08:11,Mysterious-Welder188,1rxzy3m
-EI,DreamlightValley,Aladdin and Jasmine's Tower Placement,"I've had their tower in the Oasis of EI since I unlocked them, but I'm kind of wanting all the Valley residents in the Valley. Where does everyone have them placed? Seems weird to put them in Sunlit Plateau with Mulan, Scar, and Simba's Gang. 
-
-PS, I am STILL FINDING Chersire Paw Prints in Aladdin's Realm!!!",5,17,https://www.reddit.com/r/DreamlightValley/comments/1rxzxci/aladdin_and_jasmines_tower_placement/,https://www.reddit.com/r/DreamlightValley/comments/1rxzxci/aladdin_and_jasmines_tower_placement/,1773925635.0,2026-03-19 13:07:15,Logical-Cherry9395,1rxzxci
-EI,gotlegends,Could someone translate this for me?,So I asked this mercenary who I was in a nightmare survival with for their build and unfortunately I can’t read it😭,0,9,https://i.redd.it/06tbtt7n30qg1.jpeg,https://www.reddit.com/r/gotlegends/comments/1rxzx7v/could_someone_translate_this_for_me/,1773925625.0,2026-03-19 13:07:05,Sasha_Mk,1rxzx7v
-EI,iOSAppsMarketing,[$79.99 -> Free Lifetime] Book Tracker: Bookfy,"I built a simple and clean book tracking app called **Bookfy** to help track reading progress, organize books, and stay consistent.
-
-I just made the **lifetime version free for the next 24 hours** (no subscription, no catch).
-
-Features:  
-• Track your reading progress  
-• Organize books into lists  
-• Minimal, distraction-free design  
-• Stats to keep you motivated
-
-I’d love your feedback as well — trying to improve it with real user input.
-
-Grab it here before the free period ends:  
-[https://apps.apple.com/app/book-tracker-bookfy/id6760042667](https://apps.apple.com/app/book-tracker-bookfy/id6760042667)
-
-Thanks 🙏",0,1,https://i.redd.it/80twl1nk30qg1.png,https://www.reddit.com/r/iOSAppsMarketing/comments/1rxzx06/7999_free_lifetime_book_tracker_bookfy/,1773925609.0,2026-03-19 13:06:49,bugrevealingbme,1rxzx06
-EI,iosapps,[$79.99 -> Free Lifetime] Book Tracker: Bookfy,"I built a simple and clean book tracking app called **Bookfy** to help track reading progress, organize books, and stay consistent.
-
-I just made the **lifetime version free for the next 24 hours** (no subscription, no catch).
-
-Features:  
-• Track your reading progress  
-• Organize books into lists  
-• Minimal, distraction-free design  
-• Stats to keep you motivated
-
-I’d love your feedback as well — trying to improve it with real user input.
-
-Grab it here before the free period ends:  
-[https://apps.apple.com/app/book-tracker-bookfy/id6760042667](https://apps.apple.com/app/book-tracker-bookfy/id6760042667)
-
-Thanks 🙏",16,24,https://i.redd.it/1b8e0e8a30qg1.png,https://www.reddit.com/r/iosapps/comments/1rxzwsr/7999_free_lifetime_book_tracker_bookfy/,1773925595.0,2026-03-19 13:06:35,bugrevealingbme,1rxzwsr
-EI,kpopcollections,🥰,,11,1,https://i.redd.it/8jz5s6g730qg1.jpeg,https://www.reddit.com/r/kpopcollections/comments/1rxzvgq/_/,1773925491.0,2026-03-19 13:04:51,Professional-Yak-366,1rxzvgq
-EI,PokemonRed,Grinding fighting the elite four and the champion just to get enough money to buy Porygon 😅,Seriously what were the devs thinking back then making him so expensive?!? ,17,5,https://www.reddit.com/gallery/1rxzs85,https://www.reddit.com/r/PokemonRed/comments/1rxzs85/grinding_fighting_the_elite_four_and_the_champion/,1773925267.0,2026-03-19 13:01:07,Justgc27,1rxzs85
-EI,basketballcards,Topps Finest + Panini Mosaic,"2025-26 Topps Finest is still too expensive so I bought a 2024-25 and a blaster from Panini.
-
-These are my hits! 
-
-Got a /10 auto however not the best player to pull.
-
-Overall feels like an alright box.
-
-What platform/app everyone use to check values? So hard to find!",0,0,https://i.redd.it/063b4h2920qg1.jpeg,https://www.reddit.com/r/basketballcards/comments/1rxzqo1/topps_finest_panini_mosaic/,1773925158.0,2026-03-19 12:59:18,franklinzy,1rxzqo1
-EI,Mogong,"김용민 ""존경하는 국민 여러분, 오늘, 검찰청이 폐지됩니다.""","원래 음악을 들으려고 했는데, 음악이 따로 없습니다.
-
-감동의 음악이예요.
-
-.
-
-# 김용민 의원, 본회의장을 뒤흔든 공소청법 제정안 제안 설명, ""78년 오욕의 역사, 오늘 검찰 폐지합니다""
-
-[https://youtu.be/hbNPm-td-zs?si=EiV9hkml7Nwmv5tS](https://youtu.be/hbNPm-td-zs?si=EiV9hkml7Nwmv5tS)
-
-.
-
-김용민 의원(22대 국회 법사위 간사)
-
-  
-.
-
-
-
-\[공소청법 제안설명(2026.03.19)\]
-
-.
-
-  
-
-
-존경하는 국민 여러분, 오늘, 검찰청이 폐지됩니다.
-
-지난 78년간, 단 한 번도 제대로 국민을 위해 빛났던 적 없던 검찰. 오욕의 역사로만 기록된 부패검찰, 정치검찰을 오늘 폐지합니다.
-
-  
-.
-
-
-
-검찰은 집중된 권한을 함부로 남용해 부패했고, 권력의 시녀를 자처해 왔습니다. 급기야 힘을 키워 막강한 정치세력이 되었고 마침내 내란 세력의 든든한 뒷배 역할을 하며 국민을 배신했습니다. 이 검찰을 이제는 역사의 뒤안길로 보내겠습니다. 그리고 인권을 옹호하고 억울한 국민을 보호하는 ‘공소청’을 국민에게 돌려드리겠습니다.
-
-  
-.
-
-
-
-사람 사는 세상을 만들겠습니다.
-
-사람이 억울한 일을 당하면 국가가 공정하게 해결해 줄 것이라는 믿음이 있는 그런 세상을 만들겠습니다.
-
-.
-
-  
-
-
-더 나아가 무자비한 국가권력에 의해 억울한 일을 당하지 않는 세상을 만들겠습니다.
-
-
-
-.
-
-오늘 국회는 모두가 사람답게 사는 세상을 만드는 최소한의 개혁을 단행합니다.
-
-검찰개혁, 사법개혁은 주권자의 일관되고 준엄한 명령과 이를 수용한 이재명 대통령의 결단이 있었기에 가능했습니다. 내란을 극복하고 탄생한 국민주권정부의 시대적 과제를 우린 국민주권 국회도 충실하게 수행해야 합니다.
-
-
-
-검찰은 수사권과 기소권을 독점한 채 무소불위의 칼날을 차별적으로 휘둘러왔습니다. 국민의 인권을 보호하기 위해 위임받은 권한으로 집요하고 잔인하게 인간의 존엄성을 짓밟아 왔습니다.
-
-  
-.
-
-
-
-***지난 20년간(04년\~23년) 검찰 수사 도중 스스로 생을 마감한 이들이 무려 163명에 달합니다.***
-
-***​***
-
-***이뿐만이 아닙니다. 서울시 공무원 간첩 조작사건, 김학의 성 접대 사건, 쿠팡 퇴직금 미지급 사건, 형제복지원 사건, 순천 청산가리 막걸리 사건, 강기훈 유서대필 조작사건 등에서 보듯, 검찰은 봐주기수사, 강압과 회유·압박을 통한 조작 수사 및 기소로 일반 국민의 삶을 송두리째 무너트렸습니다.***
-
-***​***
-
-***한편, 정치검찰은 단 하나의 사건만으로도 국가의 운명을 바꿀 수 있었습니다. 검찰은 대장동 사건과 쌍방울 사건 등을 조작 수사하여, 당시 제1야당 대표이자 유력한 대선 후보를 없애려 시도했습니다.***
-
-***​***
-
-***만약 그들이 성공했다면, 지금의 국민주권정부는 탄생하지 못했을 것이고 우리는 코스피 6,000시대는커녕 혼란과 탄압만 가득한 세상, 내란범들과 검찰이 지배하는 독재국가에서 고통받고 있었을 것입니다.***
-
-  
-.
-
-
-
-이렇듯 검찰은 단 한 사건만으로 우리 국민의 삶에 엄청난 피해를 끼칠 수 있는 권한을 남용해 왔습니다.
-
-
-
-지난 12.3 내란의 밤, 영하 속 아스팔트 위에서 응원봉을 들며 민주주의와 검찰정권에 맞선 ‘빛의 혁명’ 시민의 위대한 저항 덕분에 우리는 내란의 위기를 극복하고, 지금 이 자리에서 검찰개혁의 과업을 달성할 수 있게 되었습니다.
-
-
-
-“검찰이 바로 서야 나라가 바로 선다” 고 말씀하신 김대중 대통령으로부터 시작된 검찰개혁은 노무현 대통령님과 민주당이 이어받은 민주진보진영의 오랜 숙원이었습니다.
-
-
-
-그러나 검찰정권의 폭주와 12.3 내란의 비극을 거치며, 검찰개혁은 내란종식을 갈망하는 온 국민의 시대적 개혁과제가 되었습니다.
-
-
-
-권력이 집중된 조직은 결국 부패하기 마련입니다.
-
-행정 조직은 상호 견제와 협력을 바탕으로 국민의 이익에 부합하는 목적성에 맞게 운영되어야 합니다.
-
-
-
-이번 법안 통과를 통해 그 어떤 권력도 국민 위에 군림할 수 없다는 준엄한 헌법 정신을 다시금 증명해 낼 것입니다.
-
-
-
-국민 여러분, 그리고 존경하는 선배, 동료 의원 여러분!
-
-오늘 검찰은 폐지되나 검찰개혁은 끝난 것은 아닙니다.
-
-
-
-수사와 기소의 완전한 분리, 견제와 균형의 안정적 작동, 국민의 검사로 거듭날 공소청의 새로운 조직 문화 안착 등을 통해 비로소 완성될 것입니다. 국민이 명령한 시대적 과제를 완수하기 위해 끝까지 함께 해주십시오.
-
-
-
-[출처: 김용민의원 페북](https://www.facebook.com/share/p/18QTKe6kDR/)",8,3,https://www.reddit.com/r/Mogong/comments/1rxzpr4/김용민_존경하는_국민_여러분_오늘_검찰청이_폐지됩니다/,https://www.reddit.com/r/Mogong/comments/1rxzpr4/김용민_존경하는_국민_여러분_오늘_검찰청이_폐지됩니다/,1773925089.0,2026-03-19 12:58:09,Real-Requirement-677,1rxzpr4
-EI,skylanders,actually getting close to a complete collection (except chases),i don't even know how I managed this 😭😭😭 but I'm so happy,21,22,https://www.reddit.com/gallery/1rxzppo,https://www.reddit.com/r/skylanders/comments/1rxzppo/actually_getting_close_to_a_complete_collection/,1773925086.0,2026-03-19 12:58:06,Pixielaxen,1rxzppo
-EI,askCroatians,Moja kolekcija,Da vidim vaše police (ako ih imate i voljni ste podjeliti naravno) ❤️,50,64,https://i.redd.it/bf2qhieu10qg1.jpeg,https://www.reddit.com/r/askCroatians/comments/1rxzovc/moja_kolekcija/,1773925021.0,2026-03-19 12:57:01,zelena44,1rxzovc
-EI,SonicTheHedgehog,Boom Sonic! But... super? (@Nugget_Pudding),Source:https://twitter.com/Nugget_Pudding/status/2034561019897397499,175,11,https://i.redd.it/ttd38h0u10qg1.jpeg,https://www.reddit.com/r/SonicTheHedgehog/comments/1rxzoti/boom_sonic_but_super_nugget_pudding/,1773925018.0,2026-03-19 12:56:58,ForceAffectionate389,1rxzoti
-EI,enem,Eis minha nota do Enem quando era treineiro no ano passado,"Com esta nota dá para entrar em uma Uniesquina desconhecida ou uma faculdade privada, no geral deu 573,26 na prova em geral, na redação fui muito bem mas o resto é VASCO.",1,1,https://i.redd.it/pm7m9ob510qg1.jpeg,https://www.reddit.com/r/enem/comments/1rxzlud/eis_minha_nota_do_enem_quando_era_treineiro_no/,1773924786.0,2026-03-19 12:53:06,DazzlingLow6952,1rxzlud
-EI,CBSE,NCERT CHANGED🥀🥀,Finally kuch to acha kiya,2,11,https://i.redd.it/1czau4sv00qg1.jpeg,https://www.reddit.com/r/CBSE/comments/1rxzkps/ncert_changed/,1773924698.0,2026-03-19 12:51:38,Main-Radio-1292,1rxzkps
-EI,exjw,The foolishness I wake up to…,"The foolishness I wake up to… I really don’t even know what to say, where to start, or how to say it.
-
-I really thought this was my friend he told me to be safe on my Journey when I first left the organization a year ago but now this! And this right here says everything. The moment you step outside of what they’ve been taught to accept, you’re no longer seen as a person, you’re labeled. Dismissed. I didn’t betray God. I didn’t lose my way. I found it. I found a real relationship. I found my voice. I found peace that doesn’t come from control or fear. And somehow that’s offensive? It’s crazy how choosing God for yourself makes people uncomfortable.
-
-How your freedom feels like a threat to people who are still bound.
-
-Call it what you want.
-
-I’m happier than words can ever explain.
-
-I’m walking in truth.
-
-And I’m not shrinking, silencing, or stepping back for anyone.
-
-On this side?
-
-This is the best life I’ve ever lived.",19,8,https://i.redd.it/j1j3zkqv00qg1.jpeg,https://www.reddit.com/r/exjw/comments/1rxzkov/the_foolishness_i_wake_up_to/,1773924696.0,2026-03-19 12:51:36,AmbiiKey,1rxzkov
-EI,MeepoBoards,Should I try and solder it?,,1,11,https://i.redd.it/1klxbjoh00qg1.jpeg,https://www.reddit.com/r/MeepoBoards/comments/1rxzizc/should_i_try_and_solder_it/,1773924567.0,2026-03-19 12:49:27,Wild_Dot_2238,1rxzizc
-EI,GrayZoneWarfare,Shoulder patches 👀👀reminds me old PS2 Syphon Filter Omega Strain.,"Looks cool and thanks for adding it one. And I hope in future patches we got more based on achievement like kills, mission achievements and such. Example like kill 1000 combatants gets elite patch, title and unlocked weapons available at trader  
-  
-Example in old Syphon Filter there are 4 ratings you can earn as combat specialist. Intermediate (300 kills), Advanced (600 Kills), Expert (900 kills) and Elite (1300 kills). Each ratings gave you new weapons like HK33, FAMAS, FN FAL and C8 Rifle (Looks like G3A3 with a scope on it) . So in Gray Zone Warfare, it will be weapons unlocks in Trader and a new patches too.  
-  
-and we can expand it... example like achieving the longest sniper kills (Total Distance)   
-Intermediate (800m total distance kills) unlocks M24 Sniper, Advanced (1,350m total distance kills) unlocks SVD, Elite (2000m total distance kills) unlocks Accuracy International L115A3 and Elite (3500m total distance kills) unlocks Mc Millan TAC-50 including patches too.
-
-or complete faction mission or gather all intel, Stealth kills or complete the sample mission to earn more patches like Field efficiency Expert patch, Stealth Operatives Expert patch and many more  
-  
-Also Animal patches just like Metal Gear Solid ranking system like Bear, Raven, Eagle, Tiger and such.
-
-I take Tiger ranking for example and use Malaysian GGK Special force course as example. To earn the Tiger emblem patch you need to complete GGK course like (long-distance running with heavy loads ... requirement is 11 km run with 17 kg load or more) total it all. And maybe add like 100 stealth kills or suppressed weapon kill 100 to earn the Tiger Patch. No just the patch you be award but also earn an Green Beret, [**Fairbairn-Sykes fighting knife**](https://www.google.com/search?q=Fairbairn-Sykes+fighting+knife&client=opera-gx&sca_esv=f818ef0c6d37c692&biw=912&bih=955&sxsrf=ANbL-n7xmkVoqTEMxKNp77hkttLCI-rToQ%3A1773927728368&ei=MP27afmOFuOHjuMP_IeokAY&ved=2ahUKEwjC7Y_ii6yTAxWoxzgGHdMfNMwQgK4QegQIARAE&uact=5&oq=ggk+commando+knife&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmdnayBjb21tYW5kbyBrbmlmZTIFECEYoAEyBRAhGKABMgUQIRigATIFECEYoAEyBRAhGJ8FSIQLUM8EWPgIcAB4ApABAJgBqAGgAZ0EqgEDNC4xuAEDyAEA-AEBmAIGoAK4BMICBBAAGEfCAgcQIRigARgKmAMAiAYBkAYCkgcDMy4zoAfCFrIHAzIuM7gHtwTCBwUwLjUuMcgHDoAIAA&sclient=gws-wiz-serp&mstk=AUtExfAGFvvdiWKcqvPXEroYi6EPP4pEzkGcV2arrLFPzLHu70dmu53umX7JHE-x497rZnm03z3-5vxTl8L9Q67cKnMFYWpJXlkXg9SkOg-vZBWe1Wg931og6ePE73TLSp32hs2CkKm6NSGwLkbzongVXt_uCwkpLQ-1rkOioEs3zBmw9zHEYOK1l_vEFE2c5_fSG3mbbhkaBUBr5sLWMAmrMdMnOsgEWrfgmZvdYXv9r6PKF-7XRqvllotYe_WZSQ3YDyQdhONEe5YS8UkofQ-2gC0dIhFkag1JboU3rbrt6iH5r7oPwOKMylj1OuZMZ9rfRDmRnLqOILBnxzjH8iXqCYYPTsT8QFRw8f72IHZsouHvHRt3Id2INkbV6VVvfgg1qgNTDmNKm79Gqt_FV0OAmk6M1YpAUHKiXZoNgvF6JawWjohY9aoviGWD7Xpd0zUS&csui=3) **and tiger camo pattern** 
-
-Just a fun suggestion",41,8,https://www.reddit.com/gallery/1rxzg8r,https://www.reddit.com/r/GrayZoneWarfare/comments/1rxzg8r/shoulder_patches_reminds_me_old_ps2_syphon_filter/,1773924357.0,2026-03-19 12:45:57,Zeores94,1rxzg8r
-EI,Hevosjuorut,Jansspaa,"Viime aikoina ollut  enemmän esillä somessa (erityisesti ht.netissä), harmi että saa paskaa niskaan, vaikuttaa somen perusteella symppis tyypiltä, noita tuuletinsivu juttuja en jaksa yhtään ja harmittaa että heppaaome hävisi. 
-
-Bongasin tän ig kautta ja meikäläinen ullana heti että mikähän keissi tää on 👀 jollain ilmeisesti enemmänkin hampaankolossa nyt asioita. ",9,8,https://i.redd.it/67zuw74szzpg1.jpeg,https://www.reddit.com/r/Hevosjuorut/comments/1rxzfvu/jansspaa/,1773924326.0,2026-03-19 12:45:26,Vast_Requirement9083,1rxzfvu
 Mashreq,menajobs,[Hiring] Senior Personal Banking Advisor.CIBG-CB-Head of Corporate Banking.Corporate & Investment Banking Group at Mashreq Bank — UAE,"**Mashreq Bank** — UAE, 🇦🇪
 
 **Work Model:** On-site  
