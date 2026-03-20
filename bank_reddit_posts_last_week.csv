@@ -1,5 +1,5 @@
 bank,subreddit,title,selftext,score,num_comments,url,permalink,created_utc,created_date,author,id
-ENBD,UAEcreditcards,ENBD Marriott,Do you get the 100k points on activation if you avail the first year free offer?,2,7,https://www.reddit.com/r/UAEcreditcards/comments/1ryurgv/enbd_marriott/,https://www.reddit.com/r/UAEcreditcards/comments/1ryurgv/enbd_marriott/,1774009279.0,2026-03-20 12:21:19,Skd98012,1ryurgv
+ENBD,UAEcreditcards,ENBD Marriott,Do you get the 100k points on activation if you avail the first year free offer?,2,8,https://www.reddit.com/r/UAEcreditcards/comments/1ryurgv/enbd_marriott/,https://www.reddit.com/r/UAEcreditcards/comments/1ryurgv/enbd_marriott/,1774009279.0,2026-03-20 12:21:19,Skd98012,1ryurgv
 ENBD,UAEcreditcards,Best CC for daily usage,"Hey everyone, been looking to replace my credit cards and wanted to get some opinions from people who actually use theirs day to day.
 
 What I currently have: Noon ENBD, Emirates Islamic Skywards Infinite (cancelling before October, only got it since there was no annual fee the first year), and Emirates Islamic RTA which I have literally never used because I barely drive enough to hit the 1k AED monthly spend minimum, where most of my spending would have to come from fuel payments (750 AED).
@@ -373,7 +373,203 @@ This overcomes one key challenge of many existing methods, which require a wirel
 
 These innovations could enable warehouse robots to verify packed items before shipping, eliminating waste from product returns. They could also allow smart home robots to understand someone's location in a room, improving the safety and efficiency of human-robot interaction.
 
-""What we've done now is develop generative AI models that help us understand wireless reflections. This opens up a lot of interesting new applications, but technically it is also a qualitative leap in capabilities, from being able to fill in gaps we were not able to see before to being able to interpret reflections and reconstruct entire scenes,"" says Fadel Adib, associate professor in the Department of Electrical Engineering and Computer Science, director of the Signal Kinetics group in the MIT Media Lab, and senior author of two papers on these techniques. ""We are using AI to finally unlock wireless vision.""",4,0,https://techxplore.com/news/2026-03-generative-ai-wireless-vision-obstructions.html,https://www.reddit.com/r/artificial/comments/1ry2qv3/generative_ai_improves_a_wireless_vision_system/,1773932400.0,2026-03-19 15:00:00,Secure-Technology-78,1ry2qv3
+""What we've done now is develop generative AI models that help us understand wireless reflections. This opens up a lot of interesting new applications, but technically it is also a qualitative leap in capabilities, from being able to fill in gaps we were not able to see before to being able to interpret reflections and reconstruct entire scenes,"" says Fadel Adib, associate professor in the Department of Electrical Engineering and Computer Science, director of the Signal Kinetics group in the MIT Media Lab, and senior author of two papers on these techniques. ""We are using AI to finally unlock wireless vision.""",5,0,https://techxplore.com/news/2026-03-generative-ai-wireless-vision-obstructions.html,https://www.reddit.com/r/artificial/comments/1ry2qv3/generative_ai_improves_a_wireless_vision_system/,1773932400.0,2026-03-19 15:00:00,Secure-Technology-78,1ry2qv3
+EI,duolingo,Spoken words being marked as wrong.,"When it gives me words cards to speak, I say it exactly how I am hearing it, and it counts it as wrong. It doesn't do this with anything but the word cards. I am getting very frustrated with the word cards because of it.   
+I can never get a perfect score because it does not understand me.  
+I even talked to my friend who speaks natively German, and they told me I am saying the words right, but duolingo still says I am pronouncing it wrong.  
+This includes simple words such as Ei \[egg\] Er \[he\] Sie \[She\] and so on.
+
+Is anyone else having this issue?",1,0,https://www.reddit.com/r/duolingo/comments/1ryw7ea/spoken_words_being_marked_as_wrong/,https://www.reddit.com/r/duolingo/comments/1ryw7ea/spoken_words_being_marked_as_wrong/,1774013192.0,2026-03-20 13:26:32,ReinhardtXWinston,1ryw7ea
+EI,perversiuniculimba,"E bine de știut : expresia ”doi de i” este corectă, la fel ca toate expresiile având structura ”numeral + de + literă/cifră/simbol”","Academia Română explică :
+
+> **”Construcţia cu de poate apărea şi la numeralele mai mici de douăzeci când acestea însoţesc substantive „metalingvistice”, denumiri ale unor unităţi ale limbii (literă a alfabetului, cifră, cuvânt etc.): doi (de) i / trei (de) cinci etc.**”
+
+(Gramatica limbii române I, Cuvântul, Ed. Academiei Române, 2005, p.297, Academia Română, Institutul de Lingvistică ”Iorgu Iordan – Al. Rosetti”)
+
+Această regulă este consfințită de DOOM 2021 (Dicționar ortografic, ortoepic și morfologic al limbii române, Academia Română) și se regăsește în toate marile dicționare, de-a lungul timpului : Scriban1939 (Dicționarul limbii românești), DLRLC1955-57 (Dicționarul limbii romîne literare contemporane, Academia Romînă), DEX '98 (Dicționarul explicativ al limbii române, Academia Română), DEX '09 (Dicționarul explicativ al limbii române, Academia Română)
+
+Regula se aplică atunci când se enumerează litere, cifre, simboluri *substantivate*:
+
+Exemple:
+
+”textul conține multe semne de exclamare și întrebare: zece de ? și 15 de !”
+
+”are un password cu 3 de #”
+
+”în semestrul ăsta a luat 4 de 7”
+
+”aici sunt opt de + și 5 de –”
+
+”am numărat multe liere răzlețe: 6 de b, 9 de j, 12 de a” 
+
+Iată și un răspuns al lui George Pruteanu pe aceeași temă:
+
+> Am fost întrebat de ce spun eu “doi de 3″ sau “doi de s”, fiindcă n-ar fi corect, că doar nu spunem doi de cai sau doi de boi. Rostul limbii e să ne ajute a ne înţelege reciproc. Corectitudinea care nu aduce claritate nu face doi bani. Dacă mai există cărţi care recomandă să spunem: “În sesiunea asta am luat doi trei”, cărţile cu pricina greşesc în acest punct şi nu vă sfătuiesc să le ascultaţi. Chestiunea a fost tratată şi de Al. Graur într-un articol publicat într-un număr al ziarului Adevărul din 1937 şi republicat în culegerea Puţină gramatică, volumul 2. Iată punctul meu de vedere şi “pe ce mă bazez”, cum ar zice un personaj de-al lui Marin Preda. Propoziţii de genul “Studentul a luat 2 cinci şi 3 opt”, cred că veţi fi de acord că sunt eminamente neclare, başca faptul că nici nu pot fi scrise cu cifre (2 lângă 5 s-ar citi 25). Cifrele şi literele luate în sine sunt prea puţin substanţiale ca să le putem simţi ca pe nişte entităţi care primesc normal numeralul: doi cai, două supersonice etc. Păi, pot eu să spun că dolarul se exprimă acum în lei prin 2-7 şi 2-0? Parc-ar fi rezultatul unui meci! E nevoie de un element ajutător, care este prepoziţia de, venind în fond din expresia “de-alde”. Dar cum “a luat 2 de-alde 3″ ar fi prea mult, e suficient “a luat doi de 3″. Rostim 2-3, 2-5 atunci cînd, de pildă, dictăm o listă cu zecimale şi facem economie de efort, ca să nu repetăm de zeci de ori 2 virgulă 3 etc. La fel e situaţia în privinţa literelor, luate în sine, ca simboluri ale sunetelor. E corect să spunem că Vasile Aaron se scrie “cu 2 de a”, Costache Facca, “cu 2 de c”, copii “cu 2 de i”, pentru a evita aspectul tulbure, de formulă matematică, al exprimării 2a, 2c, 2i. Spunem 2a, 2c în situaţii precum următoarele: cînd e vorba de un număr de casă (“eu stau la 11, el la 11a”), cînd e vorba de denumirea unui paragraf (“mai jos, la 3a, este dată rezolvarea problemei”) sau, în fine, în limbajul matematic (“2a+3i=x”). În schimb, cînd literele sau cifrele denumesc NU simboluri abstracte ale sunetelor, ci obiecte, desene sau fenomene din afara vorbirii, ele pot fi tratate ca nişte substantive, ca în următoarele exemple: “viorile au de-o parte şi de alta a corzilor două F-uri”, “el are două M-uri de conducere”, “pe rochia ei erau desenate nişte S-uri”, “aici am să pun două T-uri ca să-mi susţină partea asta” şamd. La fel se întîmplă, ziceam, cu unele cifre, de ex.: “a făcut pe gheaţă vreo 10 opturi” (şi NU “zece de 8”).",1,0,https://www.reddit.com/r/perversiuniculimba/comments/1ryw793/e_bine_de_știut_expresia_doi_de_i_este_corectă_la/,https://www.reddit.com/r/perversiuniculimba/comments/1ryw793/e_bine_de_știut_expresia_doi_de_i_este_corectă_la/,1774013182.0,2026-03-20 13:26:22,ArteMyssy,1ryw793
+EI,programare,A fost cineva la internship la RebelDot?,"Salut dragi crabi,
+
+Mi-am bagat recent CV-ul la un internship la RebelDot pe AI si am primit un interviu. E primul interviu la care am fost chemat vreodata si nu stiu la ce sa ma astept. Pe site scrie ca o sa fie un culture fit discussion (orice ar insemna asta), un test grila si o proba tehnica. Tot pe site scrie sa nu ne ducem nimic cu noi deci banuiesc ca proba tehnica se va da pe foaie/pc-urile lor. Sincer chiar nu stiu la ce sa ma astept si as fi foarte recunoscator daca vreunul dintre voi care a fost la internship la ei m-ar putea ajuta cu niste raspunsuri.
+
+Thank you all!",1,0,https://www.reddit.com/r/programare/comments/1ryw6oy/a_fost_cineva_la_internship_la_rebeldot/,https://www.reddit.com/r/programare/comments/1ryw6oy/a_fost_cineva_la_internship_la_rebeldot/,1774013143.0,2026-03-20 13:25:43,Tough-Training441,1ryw6oy
+EI,AbandonedPorn,Abandoned Platform @ the Triangular *Earlestown Railway Station* in the Borough of St Helens — Merseyside — England ...,"... a 'triangular railway station' in this context being one that straddles a 'triangular' railway junction.
+
+⚫
+
+Image by the goodly EI Pollock & from
+
+Wikimedia Commons
+
+https://commons.wikimedia.org/wiki/File:Disused\_platform,\_Earlestown\_railway\_station\_(geograph\_3818760).jpg
+
+⚫
+
+See also
+
+Facebook — Phil Goulding — Disused Stations
+
+https://www.facebook.com/groups/1730959503584733/posts/3487848324562500/
+
+&
+
+Facebook — Robin Harrison — Lancashire History Group
+
+https://www.facebook.com/groups/lancashirehistory/posts/739564352342056/
+
+⚫
+
+See also this Reddit post:
+
+https://www.reddit.com/r/trains/s/F5QBKrrCbp
+
+⚫",3,0,https://i.redd.it/ftwrh9pkb7qg1.jpeg,https://www.reddit.com/r/AbandonedPorn/comments/1ryw589/abandoned_platform_the_triangular_earlestown/,1774013041.0,2026-03-20 13:24:01,Frangifer,1ryw589
+EI,AllThingsSiouxFalls,"Things To Do In Sioux Falls March 19, 2026","​[Softball 4 Person Scramble](https://www.facebook.com/events/1431180888565740/?acontext=%7B%22event_action_history%22%3A%5b%7B%22mechanism%22%3A%22discovery_custom_tab%22%2C%22surface%22%3A%22bookmark%22%7D%5d%2C%22ref_notif_type%22%3Anull%7D) | Golf Addiction | 8:00am-1:00pm
+
+​[Fish Fest](https://www.scheels.com/p/SF-EVENTS-TOMHYUNH-FISH26?utm_medium=social&utm_source=local_sf&utm_campaign=sf_fish26_tom_huyhn_tickets&utm_content=020226&fbclid=IwY2xjawQhs_pleHRuA2FlbQIxMABicmlkETF2d0taOUlaZEFONXF5Ymhoc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHnROcJ_SS-Myqw5TEIFqmjmJQ6lraJ_L5c8Ex-FMxZZDOxNhVZM_ScGL61ay_aem_aPBR8BvFeBN2GCaxFKWBwQ) | Scheels | 9:00am-6:00pm
+
+​[Youth Wrestling Tournament](https://www.facebook.com/events/1247667697306345/?acontext=%7B%22event_action_history%22%3A%5b%7B%22mechanism%22%3A%22discovery_custom_tab%22%2C%22surface%22%3A%22bookmark%22%7D%5d%2C%22ref_notif_type%22%3Anull%7D) | Sioux Falls Arena | 10:00am-1:00pm
+
+​[Sioux Empire Craft Show](https://www.facebook.com/events/1597319428345077/?acontext=%7B%22event_action_history%22%3A%5b%7B%22mechanism%22%3A%22discovery_custom_tab%22%2C%22surface%22%3A%22bookmark%22%7D%5d%2C%22ref_notif_type%22%3Anull%7D) | Sioux Falls Expo Building | 12:00pm-5:00pm
+
+​[Sam Hayes Live](https://www.facebook.com/events/930069266272021/?acontext=%7B%22event_action_history%22%3A%5b%7B%22mechanism%22%3A%22discovery_custom_tab%22%2C%22surface%22%3A%22bookmark%22%7D%5d%2C%22ref_notif_type%22%3Anull%7D) | Red Rock Bar and Grill | 2:00pm-6:00pm
+
+​[World Storytelling Day](https://recreation.siouxfalls.gov/webtrac/web/iteminfo.html?module=AR&fmid=89540003&InterfaceParameter=WebTrac&fbclid=IwY2xjawQiXEhleHRuA2FlbQIxMABicmlkETFmWk1vZFRXNE1Obm1iZDlGc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHuqLt7Ps7YArkr5IMLww2t9I__uB4aTIFSiz6zInTohZHgWnyZg4el8n3bJz_aem_mKmMZuczvTkmFsKNPwtrDg) | Arrowhead House | 3:30pm-6:30pm
+
+​[Caricatures Class for Beginners](https://sfsdcomed.myrec.com/info/activities/program_details.aspx?ProgramID=29896&fbclid=IwY2xjawQiP8tleHRuA2FlbQIxMABicmlkETFmWk1vZFRXNE1Obm1iZDlGc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHmrJN6dLKR64DARL4NHai30B5EwW9MAyzpYCbUz478bnXJC-acDzpeP4yb6v_aem_psj7H-jh_1Nb29uDErpxTA#0_144851) | Community Education | 5:30pm-7:00pm
+
+​[Hypnotist Show](https://www.eventbrite.com/e/under-the-influence-of-fun-tickets-1981681371327?aff=oddtdtcreator&fbclid=IwY2xjawQhsyRleHRuA2FlbQIxMABicmlkETF2d0taOUlaZEFONXF5Ymhoc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoGAAaKjEijuar70XNff8TPAbaQjEDytmYKyNBkuMKJXoi8Z0CC9Ox9rg2l5_aem_xPP6xzuSR6LA_SFjCyWBqg) | The Social | 6:30pm-9:00pm
+
+​[Whiskey Truth and Flannel Live](https://www.facebook.com/events/1261198045872976/?acontext=%7B%22event_action_history%22%3A%5b%7B%22mechanism%22%3A%22discovery_custom_tab%22%2C%22surface%22%3A%22bookmark%22%7D%5d%2C%22ref_notif_type%22%3Anull%7D) | BBs Pub | 7:00pm-10:00pm
+
+​[Elizabeth Hunstad Live](https://www.facebook.com/events/941473454921907/?acontext=%7B%22event_action_history%22%3A%5b%7B%22surface%22%3A%22home%22%7D%2C%7B%22mechanism%22%3A%22discovery_custom_tab%22%2C%22surface%22%3A%22bookmark%22%7D%5d%2C%22ref_notif_type%22%3Anull%7D) | Gibs Bar and Grill | 7:00pm-10:00pm
+
+​[Jerry Seinfeld Live](https://www.washingtonpavilion.org/event/jerry-seinfeld/) | Washington Pavilion | 7:00pm-9:00pm
+
+​[Stampede Non Profit Night](https://www.gofevo.com/event/TheCommunityOutreachMar20?fbclid=IwY2xjawQhs2FleHRuA2FlbQIxMABicmlkETF2d0taOUlaZEFONXF5Ymhoc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkwdJkYJ11EuvOQNQRuPOf6mm2KjEJar3uGpUFxwsAwPaU5ogL38akmykpnT_aem_-OU1S1NXDqZt20wdPvsD5g) | Denny Sanford Premier Center | 7:05pm-10:05pm
+
+​[USD Chamber Singers Tour Concert](https://www.facebook.com/events/826146703811803/?acontext=%7B%22event_action_history%22%3A%5b%7B%22mechanism%22%3A%22discovery_custom_tab%22%2C%22surface%22%3A%22bookmark%22%7D%5d%2C%22ref_notif_type%22%3Anull%7D) | Washington Pavilion | 7:30pm-9:30pm
+
+​[Pride and Prejudice](https://www.goodnighttheatre.com/pride-prejudice?fbclid=IwY2xjawQiVc1leHRuA2FlbQIxMABicmlkETFmWk1vZFRXNE1Obm1iZDlGc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHg5MR0OO7-e8YnuG6xEPmCoJiHt4-8K9FM6EP_5msDAStkdfk9hBMW3cvVhR_aem_XPMeCJvNeU46FMFD5RQTJg) | Belbas Theater | 7:30pm-10:00pm
+
+​[Proof by David Auburn](https://mightycorson.com/boxoffice?fbclid=IwY2xjawQiQCtleHRuA2FlbQIxMABicmlkETFmWk1vZFRXNE1Obm1iZDlGc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHrarMpiYylp7eWOaHvA4oDEkKLddc9v6lIyXoFfOxHWn1iEisSO-SgEB2DLO_aem_dASFteXZc8GcL-eXPYgEiQ#/productions-view) | The Corson Playhouse | 7:30pm-10:00pm
+
+​[Sugardaddy Live](https://www.facebook.com/events/4457484587909550/?acontext=%7B%22event_action_history%22%3A%5b%7B%22mechanism%22%3A%22discovery_custom_tab%22%2C%22surface%22%3A%22bookmark%22%7D%5d%2C%22ref_notif_type%22%3Anull%7D) | The Thirsty Duck | 8:30pm-11:00pm
+
+Every Tuesday, I send out a full list of events to do in Sioux Falls. Subscribe and join the crew: [allthingssiouxfalls.com](http://allthingssiouxfalls.com)  
+",1,0,https://www.reddit.com/r/AllThingsSiouxFalls/comments/1ryw4tx/things_to_do_in_sioux_falls_march_19_2026/,https://www.reddit.com/r/AllThingsSiouxFalls/comments/1ryw4tx/things_to_do_in_sioux_falls_march_19_2026/,1774013011.0,2026-03-20 13:23:31,Right-Researcher-669,1ryw4tx
+EI,roFrugal,Interogatoriu Salt bank la deschidere cont,"I-am deschis maica-mii cont pe Salt bank pentru plata impozitelor si pentru a ii trimite bani din cand in cand daca are nevoie.
+
+Initial au sunat-o, a ratat apelul si i-au inchis instant cererea de deschidere cont. Ii fac din nou cerere de cont nou si cred ca in momentul ala au marcat-o in sistem ca frauda or something.
+
+Sun la ei, le explic situatia, imi zic sa refac contul in cateva ori. Ii refac contul si o pun sa stea langa telefon sa preia apelul din prima.  
+Suna Salt si incepe un interogatoriu de ala securist cu:  
+\- cine v-a facut contul  
+\- la ce o sa folositi contul?  
+\- cine o sa il foloseasca?  
+\- unde incasati pensia  
+\- cum se numeste telefonul pe care aveti instalata aplicatia?  
+\- sigur nu e cont deschis pentru fiul dumneavoastra?  
+\- el v-a invitat?
+
+Toate aceste intrebari adresate cu un ton agresiv si deloc demn de customer service. Parerea mea e ca te pisi pe ea de aplicatie daca au atitudinea asta. E problema lor ca au fost fraude si si-au deschis oamenii conturi pentru toata familia pentru nu stiu ce bonus, dar nu ar trebui sa plece de la acuzatii direct cu clientii noi.
+
+Mai ramanea sa o invite la detectorul de minciuni la sediu.",4,5,https://www.reddit.com/r/roFrugal/comments/1ryw4ec/interogatoriu_salt_bank_la_deschidere_cont/,https://www.reddit.com/r/roFrugal/comments/1ryw4ec/interogatoriu_salt_bank_la_deschidere_cont/,1774012980.0,2026-03-20 13:23:00,NakedWithin,1ryw4ec
+EI,cluj,Inutilitatea Poliției Locale: sancționarea parcărilor ilegale,"Am văzut în ultima vreme mai multe postări care arată cât de ineficientă și la extrem chiar inutilă e această instituție. Așa că vin și eu cu un exemplu.
+
+Problema constă în parcările neregulamentare care se întâmplă pe strada Plaiuri din Bună Ziua, în special în zona intersecției cu A. Presecan și Brăduțului. Pentru cei care nu cunosc, o străduța mică, dar cu trafic mare, ce face legătura între Andrei Mureșanu/Bună Ziua și Calea Turzii, lângă sensul giratoriu cu Observatorului. Acolo există o sală de sport care atrage foarte mulți clienți ce vin cu mașina proprie și pentru care blocarea trotuarelor sau îngreunarea circulației mașinilor pe acea stradă sunt doar niște detalii de care nu le pasă față de ""nevoia"" lor de a merge cu mașina și a o lăsa unde au ei chef. În timpul săptămânii nu există seară când timp de cel puțin 2-3 ore (de pe la 5 la 8) să nu fie acolo cel puțin 10 mașini care după cum ziceam blochează trotuare sau prin parcarea lor îngustează drumul de nu se mai poate circula în dublu sens.
+
+Am văzut pe mycluj că au fost mai multe persoane care au făcut sesizări pe temă, de multe ori am sunat și eu direct poliția locală, dare rezultatul în teren e zero. Bănuiala mea era că și atunci când vin pe acolo, polițiștii locali doar pun (cel mult) avertismente. Ei bine, când am cerut mai multe detalii, nu mică mi-a fost surpriza să aflu că de la începutul acestui an poliția locală a întocmit acolo nici mai mult nici mai puțin deeeeee.........(suspans)......... "" 4 procese-verbale de constatare și sancționare contravențională, în valoare totală de 700 lei"".
+
+Asta în condițiile în care ei spun că au primit 12 sesizări în acest interval (sincer nu cred că au fost doar atâtea). Plus, e o problemă de care ei sunt conștienți: au fost situații când operatorul de la telefon a reacționat de genul ""da, știm că e zonă cu probleme, o să trimitem colegii"", deci ar putea merge mult mai des pe acolo ca să se asigure că nu sunt probleme.
+
+Domnilor Boc și Tarcea: ăsta vă e orașul de 5 stele? 
+
+Sper să preia și presa subiectul, dar ar fi bine nu doar la modul unui simplu citat din postare, ci să pună și ei presiune pe administrația locală, pentru că ce am semnalat eu aici e doar un singur exemplu din mult mai multe situații de același fel în care poliția locală se face că își îndelinește responsabilitățile,",5,0,https://www.reddit.com/r/cluj/comments/1ryvyro/inutilitatea_poliției_locale_sancționarea/,https://www.reddit.com/r/cluj/comments/1ryvyro/inutilitatea_poliției_locale_sancționarea/,1774012566.0,2026-03-20 13:16:06,Radiant-Educator-401,1ryvyro
+EI,Suomi,Opintotukisysteemi on jäänyt menneisyyteen nykyisen työllisyystilanteen vuoksi.,"Opiskelija saa opintotukea naurettavat reilu 500e/kk kun taas monet työttömänä vanhemmilla asuvat saavat paljon enemmän tukea työmarkkinatuen avulla tekemättä mitään.
+
+Ennen on argumentoitu opintolainasta ja opintolainan hyvityksestä että se on integroitu opintotukisysteemiin ja että todellisuudessa opintotuki on korkeampi hyvityksen ansiosta... Noh.. Se opintolainan hyvitys vaatii ajallaan valmistumisen ja ajallaan valmistuminen vaatii harjoittelupaikan jota ei tunnu nykyisellä työllistilanteella isolla osalla löytyvän..
+
+Puhumattakaan tulevan kesän tuista opiskelijalla, mikäli ei löydä mitään töitä kesäksi joka valitettavasti on myös todellisuutta todella isolla osalla.
+
+Miksi valtio ei kannusta ihmisiä opiskelemaan? Miksi on rahallisesti järkevämpi ratkaisu olla tekemättä mitään ja elellä korkeammilla tuilla kuin opiskella täysipäiväisesti? 
+
+Itse jään vuokran jälkeen tuista tappiolle noin 30e/kk ja loput syön säästöistä/lainasta ja ahdistaa tulevan kesän työllisyystilanne todella paljon.
+
+Olisi kiinnostavaa kuulla muidenkin ihmisten kuin opiskelijoiden mielipiteitä näistä asioista ja herättää järkevää keskustelua asiaan liittyen..",36,13,https://www.reddit.com/r/Suomi/comments/1ryvsxe/opintotukisysteemi_on_jäänyt_menneisyyteen/,https://www.reddit.com/r/Suomi/comments/1ryvsxe/opintotukisysteemi_on_jäänyt_menneisyyteen/,1774012144.0,2026-03-20 13:09:04,Markkuboi,1ryvsxe
+EI,PersonalFinanceCanada,How to hire an employee in Ontario,"Hello! I was hoping someone could give me detailed and easy to follow instructions on how to hire an employee in Toronto, Ontario. I currently rent a small space in a pet shop basement and am looking to hire a bather to assist me in my grooming shop. I want to get it all done properly as I realized they would not be classified as a independent contractor. When I look online I see that I need to sign up for WSIB, create a payroll account, calculate and deduct CPP, EI. To be honest it's all very extremely overwhelming. Can I sign up for all these before I have the employee? Or do I wait til I have the employee? Do I have to set up direct deposit or can I pay them by cheque to simplify my life? My business is a dog/cat grooming shop. I currently have business insurance, HST account that I remit quarterly and a business number. I file my own taxes every month, is there any details I need which would be additional? What is the easiest possible way to do all this? And employment contract, is there any standard layout? Do I need a lawyer? Please help! Any and all reputable links/cra pages that would be useful. Programs that can help and maybe a for dummies step by step? Step one- CRA account, step 2 WSIB, step 3 hire and sign employment contract? ",0,3,https://www.reddit.com/r/PersonalFinanceCanada/comments/1ryvrfu/how_to_hire_an_employee_in_ontario/,https://www.reddit.com/r/PersonalFinanceCanada/comments/1ryvrfu/how_to_hire_an_employee_in_ontario/,1774012032.0,2026-03-20 13:07:12,StoogieWoogie,1ryvrfu
+EI,banidinaplicatiiRO,Ultima șansă pentru bonusul de 300 lei de la ING,"Dacă ai între 18 și 23 de ani, mai sunt doar câteva zile pentru oferta celor de la ING.
+
+**Ce trebuie să faci ca să primești 300 lei:**
+
+1. **Deschizi contul online:** completezi [formularul de AICI](https://ing.ro/lp/mgm-recomandare?code=irinag85174b)
+2. **Activezi oferta:** Intri în aplicație la Produse -> ING Bazar și dai accept la reguli.
+3. **Faci o plată** (oricât de mică, chiar și 1 leu) în lunile martie, aprilie și mai.
+   * Primești 100 de lei pentru prima plată din martie.
+   * Încă 100 de lei pentru aprilie.
+   * Ultimii 100 de lei pentru mai.
+4. **Banii** intră în cont în maxim 5 zile de când ai făcut plata.
+
+**Extra:**
+
+Poți să îți inviți și prietenii care au tot între 18 și 23 de ani. Primești 150 de lei pentru fiecare om care își face cont prin link-ul tău, iar ei primesc și ei bonusul de 300 de lei de mai sus.
+
+**De ce merita:**
+
+* **Zero costuri:** Până la 24 de ani nu ai niciun comision, fără nicio condiție
+* **Card virtual:** Nu ai nevoie de card fizic
+* Poți să închizi contul oricând direct din aplicație, gratuit
+
+Aveți timp până pe 31 Martie.
+
+Vă ajut cu plăcere dacă aveți întrebări.",1,0,https://www.reddit.com/r/banidinaplicatiiRO/comments/1ryvpnq/ultima_șansă_pentru_bonusul_de_300_lei_de_la_ing/,https://www.reddit.com/r/banidinaplicatiiRO/comments/1ryvpnq/ultima_șansă_pentru_bonusul_de_300_lei_de_la_ing/,1774011899.0,2026-03-20 13:04:59,AggravatingReward683,1ryvpnq
+EI,programare,WFH ca metoda de a combate pretul petrolului,"Mergeti la patron si ziceti ca vreti WFH ca altfel castiga teroristii (oricare ar fi ei)
+
+  
+[https://archive.ph/20260320110006/https://www.bloomberg.com/news/articles/2026-03-20/combat-oil-shock-with-demand-hacks-like-work-from-home-iea-says](https://archive.ph/20260320110006/https://www.bloomberg.com/news/articles/2026-03-20/combat-oil-shock-with-demand-hacks-like-work-from-home-iea-says)",35,7,https://i.redd.it/hnlgk1ti77qg1.png,https://www.reddit.com/r/programare/comments/1ryvook/wfh_ca_metoda_de_a_combate_pretul_petrolului/,1774011830.0,2026-03-20 13:03:50,PositionFormal6969,1ryvook
+EI,DeathBattleMatchups,Community Ranking Day 106: Raiden Ei Results,,7,0,https://i.redd.it/4a08va8s77qg1.png,https://www.reddit.com/r/DeathBattleMatchups/comments/1ryvo3l/community_ranking_day_106_raiden_ei_results/,1774011787.0,2026-03-20 13:03:07,DistinctPop8426,1ryvo3l
+EI,roReferral,Ultima șansă pentru bonusul de 300 lei de la ING,"Dacă ai între 18 și 23 de ani, mai sunt doar câteva zile pentru oferta celor de la ING.
+
+**Ce trebuie să faci ca să primești 300 lei:**
+
+1. **Deschizi contul online:** completezi [formularul de AICI](https://ing.ro/lp/mgm-recomandare?code=irinag85174b)
+2. **Activezi oferta:** Intri în aplicație la Produse -> ING Bazar și dai accept la reguli.
+3. **Faci o plată** (oricât de mică, chiar și 1 leu) în lunile martie, aprilie și mai.
+   * Primești 100 de lei pentru prima plată din martie.
+   * Încă 100 de lei pentru aprilie.
+   * Ultimii 100 de lei pentru mai.
+4. **Banii** intră în cont în maxim 5 zile de când ai făcut plata.
+
+**Extra:**
+
+Poți să îți inviți și prietenii care au tot între 18 și 23 de ani. Primești 150 de lei pentru fiecare om care își face cont prin link-ul tău, iar ei primesc și ei bonusul de 300 de lei de mai sus.
+
+**De ce merita:**
+
+* **Zero costuri:** Până la 24 de ani nu ai niciun comision, fără nicio condiție
+* **Card virtual:** Nu ai nevoie de card fizic
+* Poți să închizi contul oricând direct din aplicație, gratuit
+
+Aveți timp până pe 31 Martie.
+
+Vă ajut cu plăcere dacă aveți întrebări.",1,4,https://www.reddit.com/r/roReferral/comments/1ryvn7p/ultima_șansă_pentru_bonusul_de_300_lei_de_la_ing/,https://www.reddit.com/r/roReferral/comments/1ryvn7p/ultima_șansă_pentru_bonusul_de_300_lei_de_la_ing/,1774011726.0,2026-03-20 13:02:06,AggravatingReward683,1ryvn7p
 EI,videopelit,"Heksa-strategia iOS:lle ulkona (top 10 rpg, heh)","Moro,
 
 julkaisin iOS:lle juuri heksapohjaisen strategianaksuttelun dark fantasy -teemalla. Inspiraationa oli epämääräinen muisto klassikosta ""Fantasy General"", mutta jätin tietoisesti selvittämättä miten se peli oikeasti toimii jotta tämä homma tuli ihan omasta tajunnanvirrasta.
@@ -388,8 +584,7 @@ Parhaiten peli varmasti skulaa iPadilla, mutta toimii kyllä testatusti myös iP
 
 Linkki kiinnostuneille: [https://apps.apple.com/fi/app/battle-fate/id6759557441?l=fi](https://apps.apple.com/fi/app/battle-fate/id6759557441?l=fi)
 
-PS. Android on vielä jumissa Googlen testausvaatimuslimbossa",1,1,https://v.redd.it/3tsvkpv957qg1,https://www.reddit.com/r/videopelit/comments/1ryvlc2/heksastrategia_ioslle_ulkona_top_10_rpg_heh/,1774011605.0,2026-03-20 13:00:05,h_c_andersen,1ryvlc2
-EI,JJKPhantomParade,Gacha tickets,"hi, from the current toji event, I have eight tickets for the Ei Gacha and I know how to get the ninth. but how do I get ten? do we only get 9? this is my first event I'm playing all the way through. I've bought five from the exchange and from the cumulative awards I've gotten three, about to get the fourth. ",1,0,https://www.reddit.com/r/JJKPhantomParade/comments/1ryvavz/gacha_tickets/,https://www.reddit.com/r/JJKPhantomParade/comments/1ryvavz/gacha_tickets/,1774010813.0,2026-03-20 12:46:53,Loose_Lie_5399,1ryvavz
+PS. Android on vielä jumissa Googlen testausvaatimuslimbossa",2,1,https://v.redd.it/3tsvkpv957qg1,https://www.reddit.com/r/videopelit/comments/1ryvlc2/heksastrategia_ioslle_ulkona_top_10_rpg_heh/,1774011605.0,2026-03-20 13:00:05,h_c_andersen,1ryvlc2
 EI,projectzomboid,A video of me clearing the secret military base,[https://www.youtube.com/watch?v=2cLuEiTq494&t=16s](https://www.youtube.com/watch?v=2cLuEiTq494&t=16s),0,0,https://www.reddit.com/r/projectzomboid/comments/1ryv1lo/a_video_of_me_clearing_the_secret_military_base/,https://www.reddit.com/r/projectzomboid/comments/1ryv1lo/a_video_of_me_clearing_the_secret_military_base/,1774010091.0,2026-03-20 12:34:51,Bilaros45,1ryv1lo
 EI,videopelit,Steam ja kevätale,"Löytyykö alesta mitään mielenkiintoista vai pyöriikö samat vanhat nimikkeet jo kehää? Tähän voi postata suosituksia, tai vaikkapa varoituksia, jos sellaisia sattuu jostain syystä olemaan. 
 
@@ -405,7 +600,7 @@ Noita - 7,59€
 Persona 5 Royal - 16,19€  
 Tunic - 14,49€
 
-Hadeksesta, Hollow knightista ja Slay the spiresta voi sitten edetä jatko-osiin jos sattuvat imaisemaan mukaansa. Tunicia lähemmäs Zeldaa ei (laillisesti) PC:llä pääse. ",7,2,https://store.steampowered.com/?l=finnish,https://www.reddit.com/r/videopelit/comments/1ryv0aa/steam_ja_kevätale/,1774009984.0,2026-03-20 12:33:04,jkuutonen,1ryv0aa
+Hadeksesta, Hollow knightista ja Slay the spiresta voi sitten edetä jatko-osiin jos sattuvat imaisemaan mukaansa. Tunicia lähemmäs Zeldaa ei (laillisesti) PC:llä pääse. ",11,4,https://store.steampowered.com/?l=finnish,https://www.reddit.com/r/videopelit/comments/1ryv0aa/steam_ja_kevätale/,1774009984.0,2026-03-20 12:33:04,jkuutonen,1ryv0aa
 EI,ateismo_br,A revolução científica matou a escolástica,"Durante a Idade Média, a metodologia predominante no meio acadêmico era o aristotelismo. Diversos textos dessa época revelam uma apropriação instrumental da física aristotélica na busca por essencialismos na natureza, como claramente demonstrado pelos pensadores escolásticos. Este breve ensaio propõe-se a analisar criticamente as Cinco Vias de Tomás de Aquino, fundamentando-se não apenas na Revolução Copernicana, mas também nos avanços da ciência e da lógica modernas.
 
 Antes de proceder à análise, devemos estabelecer um compromisso ontológico claro. Seguindo a perspectiva quineana, adotaremos o princípio de que apenas entidades comprovadamente úteis para as melhores teorias científicas disponíveis merecem ser consideradas como existentes.
@@ -586,7 +781,7 @@ EI,CasualRO,Vodafone are draci pe el sau doar mi se pare?,"In ultima vreme (a se
 
 Oare am doar eu problema asta sau vi se intampla si voua? Exista vreun motiv anume (exceptand cand au fost furtuni sau alte conditii meteorologice proaste) sau pur si simplu a scazut f mult calitatea retelei Vodafone?
 
-Eu sunt de aproape 20 de ani la ei, numarul actual il am de peste 15 ani. Ma gandesc serios sa trec la alta retea daca problema persista, dar habar nu am care e mai ok dpdv acoperire si lipsa de măgării.",3,10,https://www.reddit.com/r/CasualRO/comments/1ryuqoj/vodafone_are_draci_pe_el_sau_doar_mi_se_pare/,https://www.reddit.com/r/CasualRO/comments/1ryuqoj/vodafone_are_draci_pe_el_sau_doar_mi_se_pare/,1774009218.0,2026-03-20 12:20:18,Top-Track5213,1ryuqoj
+Eu sunt de aproape 20 de ani la ei, numarul actual il am de peste 15 ani. Ma gandesc serios sa trec la alta retea daca problema persista, dar habar nu am care e mai ok dpdv acoperire si lipsa de măgării.",4,12,https://www.reddit.com/r/CasualRO/comments/1ryuqoj/vodafone_are_draci_pe_el_sau_doar_mi_se_pare/,https://www.reddit.com/r/CasualRO/comments/1ryuqoj/vodafone_are_draci_pe_el_sau_doar_mi_se_pare/,1774009218.0,2026-03-20 12:20:18,Top-Track5213,1ryuqoj
 EI,OpenIndividualism,What are some common objections to OI/EI and how would you respond to them?,"Hi, I am currently interested in the philosophy of Open/Empty individualism, and I was wondering what are some arguments that people use to counter OI/EI and what arguments would you use in response?",1,2,https://www.reddit.com/r/OpenIndividualism/comments/1ryuq3b/what_are_some_common_objections_to_oiei_and_how/,https://www.reddit.com/r/OpenIndividualism/comments/1ryuq3b/what_are_some_common_objections_to_oiei_and_how/,1774009173.0,2026-03-20 12:19:33,Flat-Ad9829,1ryuq3b
 EI,Suomi,Kodinkoneiden huonous (legomiekka pysäytti pyykkikoneen toiminnan),"Meidän edellinen pesukone kesti 15v ja oli merkiltään Miele. Se oli teräsrunkoinen painava kone, tehty Saksassa ja pesi pyykit todella puhtaaksi ja pienelläkin linkousnopeudellaan sai pyykeistä kuivia ja päälle vielä pöyhintä. Se oli mahtava kone, ei silloin tajuttu kuinka hieno kone se olikaan. Ja tehokaskin oli, jos taskuun jäi jotain niin se jäi joko nukkasihtiin tai jos oli ihan pieni niin meni murskaksi ja viemäriin ts. kone ei paljon välittänyt-
 
@@ -598,7 +793,7 @@ Siitä Boschin hankinnasta on nyt 14kk ja toissapäivänä kone teki tenät, se 
 
 Ei mene takuuseen ei, koneen pumppuun oli mennyt 2cm mittainen parin millin paksuinen legomiekka. Se pumppu on siellä syvällä koneen sisällä ja ei olisi tullut mieleenikään sieltä etsiä. Nyt sitten maksetaan huoltokäynnistä kun muutenkin vittumaisen ja paskan pyykkikoneen nukkasihdistä pääsee läpi asioita jotka pysäyttää koneen toiminnan.
 
-Harmittaa oma tyhmyys kun luovuttiin siitä Mielestä ja vaihdettiin muoviseen Boschiin.",7,12,https://www.reddit.com/r/Suomi/comments/1ryuq09/kodinkoneiden_huonous_legomiekka_pysäytti/,https://www.reddit.com/r/Suomi/comments/1ryuq09/kodinkoneiden_huonous_legomiekka_pysäytti/,1774009166.0,2026-03-20 12:19:26,Automatic_Junket_236,1ryuq09
+Harmittaa oma tyhmyys kun luovuttiin siitä Mielestä ja vaihdettiin muoviseen Boschiin.",13,18,https://www.reddit.com/r/Suomi/comments/1ryuq09/kodinkoneiden_huonous_legomiekka_pysäytti/,https://www.reddit.com/r/Suomi/comments/1ryuq09/kodinkoneiden_huonous_legomiekka_pysäytti/,1774009166.0,2026-03-20 12:19:26,Automatic_Junket_236,1ryuq09
 EI,Suomi,Kevätruno.,"Saapui Suvi neitokainen, 
 käyskenteli kevähäinen.
 Lumen loskan laskijaksi,
@@ -626,13 +821,14 @@ vellin vaskelle varisti:
 Hallin haaran happamista, 
 piskin perseen pyöryköistä.
 Uroskoiran ulosesta, 
-nartun nahan nuljaskoista.
+nartun nahkan nuljaskoista.
 
 
-Röökin rassin ruumenista,
-tumpeista tupakkirullan.
+
 Nöösin nuuskan nyytiskästä,
 huulimällin hiukkasista.
+Röökin rassin ruumenista,
+tumpeista tupakkirullan!
 
 
 Tulitteista tuhansista,
@@ -653,7 +849,7 @@ Uusintana ulinoiset,
 kerrattuna kirovirret!
 
 
-",4,3,https://www.reddit.com/r/Suomi/comments/1ryufln/kevätruno/,https://www.reddit.com/r/Suomi/comments/1ryufln/kevätruno/,1774008319.0,2026-03-20 12:05:19,Available-Sun6124,1ryufln
+",4,4,https://www.reddit.com/r/Suomi/comments/1ryufln/kevätruno/,https://www.reddit.com/r/Suomi/comments/1ryufln/kevätruno/,1774008319.0,2026-03-20 12:05:19,Available-Sun6124,1ryufln
 EI,layoff,"Layoffs impacting today, 2026-03-20","
 -> Meta Platforms Inc, laying off 52 Employees today, based on the WARN notification filed with State of CA. Details: [Link](https://www.layofftracker.us/layoff-tracker/meta-platforms-sunnyvale-ca-mar-2026-layoffs/FSWhhw)
 
@@ -701,17 +897,17 @@ Edit: lisäyksenä tietoa koiran tilasta/oireista yleisesti jos joku osaisi vink
 Röntgenkuvia ei ole voitu ottaa koska koiralla uusi sydändiagnoosi jonka takia nukutusta ei ainakaan vielä suositella. Joten siis varmaa diagnoosia nivelrikolle ei ole 😪
 
 Kyseessä on siis juuri 12 vuotta täyttänyt pieni pystykorva. Oireet alkoivat noin kuukausi sitten sillä että alkoi ontumaan kovasti etutassuaan eikä varannut sille painoa lainkaan. Oli myös liukastunut ulkona joten varmaa tietoa ei ole johtuiko tämä revähdyksestä yms. 
-Eläinlääkäri määräsi tällöin 2 viikon Metacam-kuurin ja oireet helpottivatki pikkuhiljaa. Kuitenkin nyt taas saman tassun ontuminen palasi ja eläinlääkäri tosiaan uskoo kyseessä olevan nivelrikkoa ja ehdotti näitä lääkityksiä",0,9,https://www.reddit.com/r/Suomi/comments/1ryuckg/koirat_ja_librelagabapentin/,https://www.reddit.com/r/Suomi/comments/1ryuckg/koirat_ja_librelagabapentin/,1774008075.0,2026-03-20 12:01:15,noredottie,1ryuckg
+Eläinlääkäri määräsi tällöin 2 viikon Metacam-kuurin ja oireet helpottivatki pikkuhiljaa. Kuitenkin nyt taas saman tassun ontuminen palasi ja eläinlääkäri tosiaan uskoo kyseessä olevan nivelrikkoa ja ehdotti näitä lääkityksiä",0,11,https://www.reddit.com/r/Suomi/comments/1ryuckg/koirat_ja_librelagabapentin/,https://www.reddit.com/r/Suomi/comments/1ryuckg/koirat_ja_librelagabapentin/,1774008075.0,2026-03-20 12:01:15,noredottie,1ryuckg
 EI,Suomi,Kaivataan työnhakuvinkkejä❗️,"Etsin töitä, mitä tahansa töitä. Haussa rahapalkka, mutta erityisesti etsin ansioluetteloon jotain täyttöä. Tarvitsisin näitä tulevaan työlomareissuun tämän vuoden lopulla. Työnhaku tulee myös ajankohtaiseksi, koska saan kirjoitettua kohta viimeisen aineen lukiossa. Eli olen aika nuori ja mulla ei ole mitään työkokemusta. 
 
 Tiedän nykyisen taloudellisen tilanteen olevan todella haastava, joten tarvitsisin jotain todella hyviä vinkkejä työnhakuun. En saanut tai ole tähän mennessä kesätöitä, tai edes haastattelukutsua, vaikka olen yrittänyt. Tuntuu vaikealta haasteelta saada kesätöitä 18-vuotiaana, kun ei ole enää kesäseteleitä. Kaverinikaan eivät ole kesätöitä saaneet ilman suhteita, tai ilman suhteilla saatua työkokemusta. Toisaalta minun ei tarvitse saada kesätöitä, koska minulta loppuu koulut jo nyt ja jatkan välivuodella. 
 
-Yhteenvetona, kertokaa jotain vinkkejä pk-seudulla asuvalle kouluttamattomalle suomen kieleä osaavalle 18-vuotiaalle työnhakuvinkkejä.",3,24,https://www.reddit.com/r/Suomi/comments/1ryu7o4/kaivataan_työnhakuvinkkejä/,https://www.reddit.com/r/Suomi/comments/1ryu7o4/kaivataan_työnhakuvinkkejä/,1774007671.0,2026-03-20 11:54:31,MountainGrand2330,1ryu7o4
-EI,Suomi,Kotivakuutus,Suositteluja ottaisin vastaan että mistä kannattaa ottaa kotivakuutus 29 neliön yksiöön. Käyn toki myös itse katselemassa mut täältä voisi saada vinkkejä ja neuvoja mitä ei tule mieleen. ,0,8,https://www.reddit.com/r/Suomi/comments/1ryu6i5/kotivakuutus/,https://www.reddit.com/r/Suomi/comments/1ryu6i5/kotivakuutus/,1774007571.0,2026-03-20 11:52:51,Tietsi78,1ryu6i5
-EI,snappisensuroimat0n,Emin ms,Onks emi saanu asunnon?? Sen ms oli kuva jostai paperist jos oli ”ykköskodit” ja muuttotodistus🤔🤔Hyvä siis jos on ku ei oo kuulunu hetkee mitää,13,4,https://www.reddit.com/r/snappisensuroimat0n/comments/1rytw9t/emin_ms/,https://www.reddit.com/r/snappisensuroimat0n/comments/1rytw9t/emin_ms/,1774006711.0,2026-03-20 11:38:31,Mysterious_Sock7036,1rytw9t
+Yhteenvetona, kertokaa jotain vinkkejä pk-seudulla asuvalle kouluttamattomalle suomen kieleä osaavalle 18-vuotiaalle työnhakuvinkkejä.",3,25,https://www.reddit.com/r/Suomi/comments/1ryu7o4/kaivataan_työnhakuvinkkejä/,https://www.reddit.com/r/Suomi/comments/1ryu7o4/kaivataan_työnhakuvinkkejä/,1774007671.0,2026-03-20 11:54:31,MountainGrand2330,1ryu7o4
+EI,Suomi,Kotivakuutus,Suositteluja ottaisin vastaan että mistä kannattaa ottaa kotivakuutus 29 neliön yksiöön. Käyn toki myös itse katselemassa mut täältä voisi saada vinkkejä ja neuvoja mitä ei tule mieleen. ,0,10,https://www.reddit.com/r/Suomi/comments/1ryu6i5/kotivakuutus/,https://www.reddit.com/r/Suomi/comments/1ryu6i5/kotivakuutus/,1774007571.0,2026-03-20 11:52:51,Tietsi78,1ryu6i5
+EI,snappisensuroimat0n,Emin ms,Onks emi saanu asunnon?? Sen ms oli kuva jostai paperist jos oli ”ykköskodit” ja muuttotodistus🤔🤔Hyvä siis jos on ku ei oo kuulunu hetkee mitää,17,4,https://www.reddit.com/r/snappisensuroimat0n/comments/1rytw9t/emin_ms/,https://www.reddit.com/r/snappisensuroimat0n/comments/1rytw9t/emin_ms/,1774006711.0,2026-03-20 11:38:31,Mysterious_Sock7036,1rytw9t
 EI,juridice,"Divort, copil, mutat din oras","O cunostiinta de a mea vrea sa divorteze. Au copil. In vara e posibil sa isi piarda jobul (se termina proiectul pe care a fost repartizata si firma nu are pe ce proiect sa o mute) si nu s-ar mai descurca singura cu copilul. Singura solutie ar fi sa se mute inapoi la mama ei care sta la 7 ore distanta. Ea spune ca actualul ei sot o ameninta ca daca va divorta si va pleca cu copilul, o va da in judecata ca nu are voie sa plece cu copilul asa departe. Asa ca ea din cauza asta nu mai divorteaza.
 
-Chiar va putea sa faca asta?",9,29,https://www.reddit.com/r/juridice/comments/1ryts6n/divort_copil_mutat_din_oras/,https://www.reddit.com/r/juridice/comments/1ryts6n/divort_copil_mutat_din_oras/,1774006360.0,2026-03-20 11:32:40,Mediocre-Rent-8553,1ryts6n
+Chiar va putea sa faca asta?",10,38,https://www.reddit.com/r/juridice/comments/1ryts6n/divort_copil_mutat_din_oras/,https://www.reddit.com/r/juridice/comments/1ryts6n/divort_copil_mutat_din_oras/,1774006360.0,2026-03-20 11:32:40,Mediocre-Rent-8553,1ryts6n
 EI,IBRX,Huge Breaking News From PSS: Anktiva May Prevent Cancer in People with Lynch Symdrome,"PSS posted this on X last night at 3:00 AM: ""Just received amazingly exciting analysis of the first 20 subjects without cancer but with Lynch Syndrome ( now fully enrolled with 138 randomized to either Anktiva plus our Adeno CANCER VACCINE  versus placebo). This first set of biological immune data from NCI ( Dr Jeff Schlom) and his team is so exciting and confirms the immune stimulating effect of Anktiva re ALC. Also it shows that as we age the baseline ALC is low but Anktiva changes that level..really exciting especially in light of the JAMA paper that shows 1 in 5 Americans suffer from lymphopenia and that with a low ALC this results in a significant lower lifespan. More to come! The cancer vaccine trials are underway!""
 
 [(2) Dr. Pat Soon-Shiong on X: ""Just received amazingly exciting analysis of the first 20 subjects without cancer but with Lynch Syndrome ( now fully enrolled with 138 randomized to either Anktiva plus our Adeno CANCER VACCINE versus placebo). This first set of biological immune data from NCI ( Dr Jeff Schlom)"" / X](https://x.com/DrPatrick/status/2034892413802545271)
@@ -724,7 +920,7 @@ EI,IBRX,Huge Breaking News From PSS: Anktiva May Prevent Cancer in People with L
 * **Endometrial (Uterine) Cancer:** Second most common, with a 40%–60% lifetime risk for women.
 * **Other Associated Cancers:** Increased risks for ovarian (up to 24%), urinary tract (up to 7%), small intestine (up to 6%), stomach, pancreatic, and skin cancers.
 * **Prevalence:** Roughly 1 in 279 people has Lynch syndrome, yet an estimated 95% are unaware of their status.
-* **Management:** Regular, intensive screening (colonoscopies every 1–2 years, starting in the 20s) is recommended. ",36,13,https://www.reddit.com/r/IBRX/comments/1rytn8l/huge_breaking_news_from_pss_anktiva_may_prevent/,https://www.reddit.com/r/IBRX/comments/1rytn8l/huge_breaking_news_from_pss_anktiva_may_prevent/,1774005929.0,2026-03-20 11:25:29,Dizzy_Efficiency_947,1rytn8l
+* **Management:** Regular, intensive screening (colonoscopies every 1–2 years, starting in the 20s) is recommended. ",43,14,https://www.reddit.com/r/IBRX/comments/1rytn8l/huge_breaking_news_from_pss_anktiva_may_prevent/,https://www.reddit.com/r/IBRX/comments/1rytn8l/huge_breaking_news_from_pss_anktiva_may_prevent/,1774005929.0,2026-03-20 11:25:29,Dizzy_Efficiency_947,1rytn8l
 EI,u_math-monkey,Verlangsamung der Erdrotation durch Schmelze der polaren Eiskappen,"Falls die polaren Eiskappen schmelzen verteilt sich das Schmelzwasser über die ganze Erde.  Dadurch vergrössert sich das Massenträgheitsmoment für die Eigenrotation der Erde.  Der Drehimpuls bleibt jedoch erhalten, was bedeutet, dass die Erdrotation sich verlangsamt.  
 Aus dem Drehimpulserhaltungssatz kann man die Verlangsamung abschätzen.  
 Die Menge Eis an den Polen ist mit einer Unsicherheit belastet.  Der grösste Fehler, der im Video gemacht wurde, ist jedoch wahrscheinlich die Annahme, dass die Masse der Erde homogen verteilt sei.  Der Erdkern hat eine wesentlich höhere Dichte als die Erdkruste so, dass das berechnete Massenträgheitsmoment wohl um einiges zu gross ist.",1,0,https://youtube.com/watch?v=v16rFJJ2e4w&si=J3_VM6cELOvU0FyF,https://www.reddit.com/r/u_math-monkey/comments/1rytlkg/verlangsamung_der_erdrotation_durch_schmelze_der/,1774005778.0,2026-03-20 11:22:58,math-monkey,1rytlkg
@@ -732,7 +928,7 @@ EI,WomenRO,Ce sa ii scriu dupa o perioada de no-contact?,"Buna fetelor. Scriu po
 Am avut o relatie scurta, dar care pentru mine a insemnat mult. Din pacate, s-a terminat dintr-o comunicare proasta si o raceala care s-a instalat treptat, desi nu s-a intamplat nimic grav (nu a fost vorba de inselat, minciuni sau chestii grave).   
 Suntem la no contact de o luna, dar in tot timpul asta, in loc sa treaca, sentimentele mele parca se accentueaza. Adevarul e ca o iubesc enorm. Pentru mine, ea este fata perfecta, are tot ce mi-as putea dori vreodata de la o femeie si o iubesc sincer. De fapt, ii iubesc pana si defectele, pentru ca ele o fac sa fie ea, iar in ochii mei asta o face perfecta.  
 Simt ca as putea sa fac orice pentru ea, oricat de greu ar fi. Vreau sa ii dau un semn, un mesaj, orice... chiar daca exista riscul ca ea sa nu mai vrea nimic si probabil sa imi dea seen. Nu stiu ce e in sufletul ei acum, dar nu pot sa traiesc cu gandul ca nu am luptat pentru ea pana la capat.  
-Cum ar trebui sa abordez situatia ca sa nu par disperat, ci doar un barbat care tine la ea si vrea sa faca lucrurile corect de data asta? Ce fel de mesaj v-ar atinge sufletul dupa o luna de tacere?",4,34,https://www.reddit.com/r/WomenRO/comments/1rytiqp/ce_sa_ii_scriu_dupa_o_perioada_de_nocontact/,https://www.reddit.com/r/WomenRO/comments/1rytiqp/ce_sa_ii_scriu_dupa_o_perioada_de_nocontact/,1774005522.0,2026-03-20 11:18:42,DragonfruitWild5655,1rytiqp
+Cum ar trebui sa abordez situatia ca sa nu par disperat, ci doar un barbat care tine la ea si vrea sa faca lucrurile corect de data asta? Ce fel de mesaj v-ar atinge sufletul dupa o luna de tacere?",3,39,https://www.reddit.com/r/WomenRO/comments/1rytiqp/ce_sa_ii_scriu_dupa_o_perioada_de_nocontact/,https://www.reddit.com/r/WomenRO/comments/1rytiqp/ce_sa_ii_scriu_dupa_o_perioada_de_nocontact/,1774005522.0,2026-03-20 11:18:42,DragonfruitWild5655,1rytiqp
 EI,TheBusinessMix,"Trump, Takaichi Unveil $40 Billion US Nuclear Power Project","President **Donald Trump** and **Japanese Prime Minister Sanae Takaichi** announced a nuclear power project in the southern US, the latest initiative stemming from an investment fund the countries established as part of a trade pact.
 
 [https://www.msn.com/en-us/money/other/trump-takaichi-unveil-40-billion-us-nuclear-power-project/ar-AA1YZqBm?ocid=msedgntp&pc=HCTS&cvid=69bd0847681b4ab5ab1ad9506a2280ab&ei=28](https://www.msn.com/en-us/money/other/trump-takaichi-unveil-40-billion-us-nuclear-power-project/ar-AA1YZqBm?ocid=msedgntp&pc=HCTS&cvid=69bd0847681b4ab5ab1ad9506a2280ab&ei=28)
@@ -1468,7 +1664,7 @@ HEROES UNITES
 
 
 
-UNLEASHED YOUR RIVALS!",4,0,https://i.redd.it/s9jyk0qxk6qg1.png,https://www.reddit.com/r/makeafighter/comments/1ryt69l/anibattlerz_fighterz_all_starz_roster_completed/,1774004409.0,2026-03-20 11:00:09,M3talK_H3ronaru,1ryt69l
+UNLEASHED YOUR RIVALS!",3,0,https://i.redd.it/s9jyk0qxk6qg1.png,https://www.reddit.com/r/makeafighter/comments/1ryt69l/anibattlerz_fighterz_all_starz_roster_completed/,1774004409.0,2026-03-20 11:00:09,M3talK_H3ronaru,1ryt69l
 EI,BuenosAires,How cool is this? 😎,"https://www.google.com/search?q=song+sweet+home+buenos+aires&client=ms-android-motorola-rvo3&hs=i9sU&sca\_esv=ea5941a1fd0faf3f&sxsrf=ANbL-n6eHQYokioWbrtTqiZdrN1PRvVJlQ%3A1774003535090&ei=TyW9adeaBfK95OUPlc3t8AU&biw=412&bih=773&oq=song+sweet+home+buenos+aires&gs\_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIhxzb25nIHN3ZWV0IGhvbWUgYnVlbm9zIGFpcmVzMgUQIRigATIFECEYoAEyBRAhGKABMgUQIRigATIFECEYnwUyBRAhGJ8FMgUQABjvBTIFEAAY7wVIs3FQnBFYr2xwAngBkAEAmAGTAaABsBeqAQQ4LjIwuAEDyAEA-AEBmAIeoALuHKgCHsICBxAjGCcY6gLCAg0QIxjwBRgnGMkCGOoCwgIKECMY8AUYJxjqAsICChAjGIAEGCcYigXCAgcQIxjwBRgnwgIQEC4YgAQY0QMYQxjHARiKBcICChAAGIAEGEMYigXCAgUQLhiABMICCxAuGIAEGNEDGMcBwgIKEC4YgAQYQxiKBcICBRAAGIAEwgIGEAAYFhgewgIIEAAYFhgKGB7CAgsQABiABBiGAxiKBcICBxAhGKABGAqYA1vxBa\_rhFlCzKOjkgcEMy4yN6AHyY4CsgcEMS4yN7gH2RvCBwsyLTIuMTAuMTYuMsgHrgWACAA&sclient=mobile-gws-wiz-serp#fpstate=ive&vld=cid:c28eb28d,vid:sr8r3Cdj28A,st:0",0,0,https://www.reddit.com/r/BuenosAires/comments/1ryt18f/how_cool_is_this/,https://www.reddit.com/r/BuenosAires/comments/1ryt18f/how_cool_is_this/,1774003934.0,2026-03-20 10:52:14,Found_Object765,1ryt18f
 EI,Worcester,Live original electronic music at Spin the Black Circle tomorroe,"Hi Worcester!
 
@@ -1476,7 +1672,7 @@ Tomorrow I'm hosting an evening of original electronic music at Spin the Black C
 
 Mickey's played Worcester a few times now since Worcester Music Festival last year and it's been a belter evening every time. Come on down and support weird live music at our coolest independent venue🖤
 
-Doors are at 7pm, [ticket link here](https://www.ticketsource.co.uk/jack-phillips/t-aavpvxn?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAb21jcAQqBaZleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAacIPVWt3vzCEniJ5k_U6U7G8EfKjlLkq0SZ6G95jhEqCqoPS-P2OJEvy3iOBg_aem_t_EiBYkebAqZQmzjwc5X7w)!",6,1,https://i.redd.it/tj9o3vb8k6qg1.png,https://www.reddit.com/r/Worcester/comments/1ryt0at/live_original_electronic_music_at_spin_the_black/,1774003845.0,2026-03-20 10:50:45,Lesliethelizard,1ryt0at
+Doors are at 7pm, [ticket link here](https://www.ticketsource.co.uk/jack-phillips/t-aavpvxn?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAb21jcAQqBaZleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAacIPVWt3vzCEniJ5k_U6U7G8EfKjlLkq0SZ6G95jhEqCqoPS-P2OJEvy3iOBg_aem_t_EiBYkebAqZQmzjwc5X7w)!",5,1,https://i.redd.it/tj9o3vb8k6qg1.png,https://www.reddit.com/r/Worcester/comments/1ryt0at/live_original_electronic_music_at_spin_the_black/,1774003845.0,2026-03-20 10:50:45,Lesliethelizard,1ryt0at
 EI,GarajAutoMoto,Inel etansare 101x1.25 Mxenduro - cine a folosit?,"Un amic are un dirt bike mai vechi pe care il repare si a nevoie de niste inele de etansare. Mi-a zis ca nu mai gaseste dimensiunea la magazinul din cartier si m-a intrebat daca ma uit si eu pe net. Am cautat prin mai multe locuri si am dat peste inelul rectangular de la Mxenduro care pare sa aiba dimensiunile pe care le cautam. E prima data cand aud de brandul asta dar pretul e ok asa ca i-am zis sa incerce.
 
 E inel rectangular cu dimensiuni de 101x1.25 mm pentru aplicatii tehnice. Se foloseste la etansare in sisteme mecanice unde ai nevoie de ceva precis. Materialul e rezistent si distribuie presiunea uniform pe suprafata. Mxenduro face piese pentru off-road deci ar trebui sa stie ce fac. Tolerantele sunt stricte deci se potriveste bine in locas.
@@ -1549,7 +1745,7 @@ I’m just sayin’ . . .
   
   
 [**Duffy mocks Newsom’s ‘bridges to nowhere’ as California wildlife crossing overruns by $21M**](https://www.msn.com/en-us/news/us/duffy-mocks-newsom-s-bridges-to-nowhere-as-california-wildlife-crossing-overruns-by-21m/ar-AA1Z0EPh?ocid=msedgntp&pc=HCTS&cvid=69bd0ca544f342c380d820482c5ef6f4&ei=40)",0,0,https://www.reddit.com/r/economy/comments/1rysgdy/if_you_found_an_extra_114_million_between_the/,https://www.reddit.com/r/economy/comments/1rysgdy/if_you_found_an_extra_114_million_between_the/,1774001879.0,2026-03-20 10:17:59,baltimore-aureole,1rysgdy
-EI,Genshin_Romance,Zhongli and Ei (by perperzhang),,90,1,https://i.redd.it/vd2tkq6rd6qg1.jpeg,https://www.reddit.com/r/Genshin_Romance/comments/1rysebw/zhongli_and_ei_by_perperzhang/,1774001669.0,2026-03-20 10:14:29,upicknose033,1rysebw
+EI,Genshin_Romance,Zhongli and Ei (by perperzhang),,105,2,https://i.redd.it/vd2tkq6rd6qg1.jpeg,https://www.reddit.com/r/Genshin_Romance/comments/1rysebw/zhongli_and_ei_by_perperzhang/,1774001669.0,2026-03-20 10:14:29,upicknose033,1rysebw
 EI,Scotland,What to expect from teaching in Scotland?,"Hi,
 
 I’m going into my History PGDE this August, and I’ve been researching more into teaching, i’m aware of the basic issues that have been affecting teachers in the current years but the EIS have provided some more clarity. 
@@ -1559,10 +1755,10 @@ My main concern at the moment is the fact that one day, I would like to have kid
 Another thing that I’m really curious about, the change in non class contact time, especially for secondary teachers and how many classes you typically have? I know teaching is a really really demanding job, and often requires a lot of effort to maintain a sustainable and healthy work-life balance, but how is the increase to 90 minutes going to make a difference? My end goal of teaching, once established, is to try and enter at 8am leave at 4:30pm, I don’t know if this is naive or not? I understand occasional late nights and I know for my PGDE, probation year, and the first good few years of teaching it will be late nights and hard work but I was just wondering if teachers have felt a change the longer they work, or if the system is improving? 
 
 Another thing is behaviour? What’s it like? I know this is school and student dependant but I was wondering if schools are genuinely supportive in this aspect.",0,1,https://www.reddit.com/r/Scotland/comments/1ryscmj/what_to_expect_from_teaching_in_scotland/,https://www.reddit.com/r/Scotland/comments/1ryscmj/what_to_expect_from_teaching_in_scotland/,1774001496.0,2026-03-20 10:11:36,Unlikely_Length8600,1ryscmj
-EI,snappisensuroimat0n,Lassi esittää tiikerin ja humalainen C on vaivaantuneen oloinen,"Tätä pätkää ei täällä tainnut ollakaan, mut oli ihan huvittava joten pääsette tekin nauttimaan showsta😀Kuvattu ti-ke välisenä yönä. ",74,17,https://v.redd.it/387bqh2za6qg1,https://www.reddit.com/r/snappisensuroimat0n/comments/1rys81u/lassi_esittää_tiikerin_ja_humalainen_c_on/,1774001039.0,2026-03-20 10:03:59,sevenblueseven,1rys81u
+EI,snappisensuroimat0n,Lassi esittää tiikerin ja humalainen C on vaivaantuneen oloinen,"Tätä pätkää ei täällä tainnut ollakaan, mut oli ihan huvittava joten pääsette tekin nauttimaan showsta😀Kuvattu ti-ke välisenä yönä. ",80,17,https://v.redd.it/387bqh2za6qg1,https://www.reddit.com/r/snappisensuroimat0n/comments/1rys81u/lassi_esittää_tiikerin_ja_humalainen_c_on/,1774001039.0,2026-03-20 10:03:59,sevenblueseven,1rys81u
 EI,snappijuorutofftopic,Kofeiinipussit,"Moikka! Mulla on haaste poikaystävän kanssa, että hän lopettaa tupakoinnin ja minä niksapussit kokonaan. Mulla ei kuitenkaan oo tarpeeks tahtoa sitä lopettaa, mutta en myöskään haluisi enää ostaa uutta kiekkoa, kun niistä tulee huono olo. On jääny tavaks että jotaki on kokoajan huulessa nii haluaisin kokeilla jotain erilaista.
 Onko kellään kokemusta kofeiinipusseista, auttaako lopettamiseen, onko suositella jotakin tiettyä ja päällimmäinen kysymys on että mistä niitä saa?",3,16,https://www.reddit.com/r/snappijuorutofftopic/comments/1rys6t5/kofeiinipussit/,https://www.reddit.com/r/snappijuorutofftopic/comments/1rys6t5/kofeiinipussit/,1774000913.0,2026-03-20 10:01:53,No_Mango4555,1rys6t5
-EI,RoGenZ,Pubele not-so-smart,"Am pornit de curand o cruciada impotriva pubelelor smart. In ciuda faptului ca da arata bine, moderne etc., arata mai curate si, evident, sunt noi, ca de obicei sunt puse de dragul de a fi puse. Problema mea nu este aceasta exclusiv, neaparat, ci mai degraba sistematizarea treburilor facute pe genunchi. In prima poza sunt 4 puse in fata spatiului verde care oricum e extrem de mic, in loc sa fie puse in locul pubelelor mari in forma de clopot. La inceput erau ambele tipuri una in apropierea celeilalte. Ghicti ce? Pubelele vechi au fost scoase recent si au ramas astea smart puse ca un c\*r. Astazi la metrou la jiului (poza 3) am asistat pe viu la instalarea unora si am zis ca poate aflu de ce se procedeaza in felul asta (adica instalarea lor pe unde pot, de regula pe trotuar luand spatiu pietonal de parca un oras cu 1.7 milioane de masini nu e suficient) si am intrebat mai exact de ce nu dezinstaleaza pubelele clopot vechi si le pun pe cele noi in loc. Raspunsurile? Unul tot zicea nu stiu pana cand l-am intrebat daca stie ceva de proiectul acesta si zice da ca trebuie sa le punem, iar altul poate putin mai cu capul pe umeri mi-a zis ca ar fi fost logic sa fie mai intai eliminate pubelele vechi, dar romprest nu a dat raspuns, iar ca ei trebuiau sa le instaleze conform hotararii de proiect. Ca sa inchei, da, nu este o problema deloc grava in Bucu, dar reprezinta un exemplu din felul in care se fac lucrurile aici, si lucrurile facute șui se strang pana cand sentimentul general al unui bucurestean e de indignare cand vine vorba de Bucuresti in comparatie cu alte capitale europene. Ar trebui da fim vigilenti ca cetateni, mai ales inainte de a fi infaptuite proiecte. S-ar putea sa fiu nebun din cauza acestei postari, dar sincer consider ca multe proiecte se fac asemenea acestor pubele inteligente: le cumparam (adesea pe naspa, conform unor articole), suntem nevoiti sa le instalam pe unde se poate ca sa motivam achizitia si dupa ne miram ca nu sunt folosite sau apreciate. ",6,0,https://www.reddit.com/gallery/1rys1wx,https://www.reddit.com/r/RoGenZ/comments/1rys1wx/pubele_notsosmart/,1774000445.0,2026-03-20 09:54:05,OreoGustavo,1rys1wx
+EI,RoGenZ,Pubele not-so-smart,"Am pornit de curand o cruciada impotriva pubelelor smart. In ciuda faptului ca da arata bine, moderne etc., arata mai curate si, evident, sunt noi, ca de obicei sunt puse de dragul de a fi puse. Problema mea nu este aceasta exclusiv, neaparat, ci mai degraba sistematizarea treburilor facute pe genunchi. In prima poza sunt 4 puse in fata spatiului verde care oricum e extrem de mic, in loc sa fie puse in locul pubelelor mari in forma de clopot. La inceput erau ambele tipuri una in apropierea celeilalte. Ghicti ce? Pubelele vechi au fost scoase recent si au ramas astea smart puse ca un c\*r. Astazi la metrou la jiului (poza 3) am asistat pe viu la instalarea unora si am zis ca poate aflu de ce se procedeaza in felul asta (adica instalarea lor pe unde pot, de regula pe trotuar luand spatiu pietonal de parca un oras cu 1.7 milioane de masini nu e suficient) si am intrebat mai exact de ce nu dezinstaleaza pubelele clopot vechi si le pun pe cele noi in loc. Raspunsurile? Unul tot zicea nu stiu pana cand l-am intrebat daca stie ceva de proiectul acesta si zice da ca trebuie sa le punem, iar altul poate putin mai cu capul pe umeri mi-a zis ca ar fi fost logic sa fie mai intai eliminate pubelele vechi, dar romprest nu a dat raspuns, iar ca ei trebuiau sa le instaleze conform hotararii de proiect. Ca sa inchei, da, nu este o problema deloc grava in Bucu, dar reprezinta un exemplu din felul in care se fac lucrurile aici, si lucrurile facute șui se strang pana cand sentimentul general al unui bucurestean e de indignare cand vine vorba de Bucuresti in comparatie cu alte capitale europene. Ar trebui da fim vigilenti ca cetateni, mai ales inainte de a fi infaptuite proiecte. S-ar putea sa fiu nebun din cauza acestei postari, dar sincer consider ca multe proiecte se fac asemenea acestor pubele inteligente: le cumparam (adesea pe naspa, conform unor articole), suntem nevoiti sa le instalam pe unde se poate ca sa motivam achizitia si dupa ne miram ca nu sunt folosite sau apreciate. ",8,0,https://www.reddit.com/gallery/1rys1wx,https://www.reddit.com/r/RoGenZ/comments/1rys1wx/pubele_notsosmart/,1774000445.0,2026-03-20 09:54:05,OreoGustavo,1rys1wx
 EI,arkisuomi,"Sain aikuisiällä autismidiagnoosin, kiitos Redditin","<serious>, jos et viitsi kommentoida neutraalisti tai asiallisesti niin jatka matkaa kiitos.
 
 [Kirjoitin tänne vuosi sitten (kuvittelin, että siitä on mennyt jo enemmän aikaa), etten pysty elämään itseni kanssa.](https://www.reddit.com/r/arkisuomi/comments/1ijrtob/en_pysty_el%C3%A4m%C3%A4%C3%A4n_itseni_kanssa/)
@@ -1579,7 +1775,7 @@ Diagnoosin saaminen vaati kolme yritystä kolmessa eri paikassa, autismia ei ymm
 
 Saan kohta toivottavasti ADHD-lääkkeet ja pääsen autismin osalta toimintaterapiaan. Ja vaikka en saisikaan enkä pääsisikään, niin osaan jo itsekin perusteet tämän epätyypillisen elämän hallintaan ja nautin kevätauringosta aivan täysillä. :)
 
-Ihanaa kevättä Redditin hyvälle puolelle, pitäkää huoli itsestänne mutta myös toisistanne!",125,40,https://www.reddit.com/r/arkisuomi/comments/1ryrx7r/sain_aikuisiällä_autismidiagnoosin_kiitos_redditin/,https://www.reddit.com/r/arkisuomi/comments/1ryrx7r/sain_aikuisiällä_autismidiagnoosin_kiitos_redditin/,1773999965.0,2026-03-20 09:46:05,Initial-Boat5918,1ryrx7r
+Ihanaa kevättä Redditin hyvälle puolelle, pitäkää huoli itsestänne mutta myös toisistanne!",132,40,https://www.reddit.com/r/arkisuomi/comments/1ryrx7r/sain_aikuisiällä_autismidiagnoosin_kiitos_redditin/,https://www.reddit.com/r/arkisuomi/comments/1ryrx7r/sain_aikuisiällä_autismidiagnoosin_kiitos_redditin/,1773999965.0,2026-03-20 09:46:05,Initial-Boat5918,1ryrx7r
 EI,Naistejutud,hormonaalspiraali kogemused (mirena),"tere! nonii, järgneb väike ränt ja siis tahan teada, kuidas teistel naiskadel kogemustega.
 
 mulle pandi hormonaalspiraal 7 aastat tagasi, 2 aastat tagasi panin kohe järgmise. öeldi, et mingeid kõrvaltoimeid pole peale kõhuvalude ja määrimise.
@@ -1594,10 +1790,10 @@ kui spiraali välja lasin võtta, küsisin veel güno käest üle, et mis sümpt
   
 ja muidugi... mirena crash tuli. olen mega väsinud, pea käib ringi, väga depressed on olla ja kõik ajab megalt ketta. pmst nagu 24/7 PMS.  lugesin, et see võib pikalt aega võtta kuniks keha ennast ära balanseerib. mulle ei mahu pähe, miks arstid nendest kõrvatoimetest ei räägi poole sõnaga ka mitte.
 
-kuidas on teil olnud kogemused hormonaalspiraaliga ja kõrvaltoimetega? ",9,11,https://www.reddit.com/r/Naistejutud/comments/1ryrq90/hormonaalspiraali_kogemused_mirena/,https://www.reddit.com/r/Naistejutud/comments/1ryrq90/hormonaalspiraali_kogemused_mirena/,1773999225.0,2026-03-20 09:33:45,Happy-Entertainer665,1ryrq90
+kuidas on teil olnud kogemused hormonaalspiraaliga ja kõrvaltoimetega? ",10,11,https://www.reddit.com/r/Naistejutud/comments/1ryrq90/hormonaalspiraali_kogemused_mirena/,https://www.reddit.com/r/Naistejutud/comments/1ryrq90/hormonaalspiraali_kogemused_mirena/,1773999225.0,2026-03-20 09:33:45,Happy-Entertainer665,1ryrq90
 EI,Intti,Pakkoauk,"Pakkoauk napsahti. Onko mitään mahdollisuutta päästä enää pois? Ei kiinnosta yhtään ja vituttaa ihan saatanasti. Ei minkäänlaista motivaatiota ja selvästi sen henkilökunnalle ilmaisin, niin en ymmärrä miks jouduin. Muutenkaan en oikeen kestä tyhmiä ihmisiä ja pinna palaa helposti. 
 
-Kelle pitäs mennä puhumaan, vai onko ees mahdollista...? ",0,8,https://www.reddit.com/r/Intti/comments/1ryrpuw/pakkoauk/,https://www.reddit.com/r/Intti/comments/1ryrpuw/pakkoauk/,1773999182.0,2026-03-20 09:33:02,Exciting-Present-559,1ryrpuw
+Kelle pitäs mennä puhumaan, vai onko ees mahdollista...? ",4,8,https://www.reddit.com/r/Intti/comments/1ryrpuw/pakkoauk/,https://www.reddit.com/r/Intti/comments/1ryrpuw/pakkoauk/,1773999182.0,2026-03-20 09:33:02,Exciting-Present-559,1ryrpuw
 EI,snappijuorutofftopic,​AMK-valintakoe: mistä löytää esimerkkejä valmistautumista varten,"​Hei kaikille!
 
 ​Yritän päästä tänä vuonna ammattikorkeakouluun. Suomi ei ole äidinkieleni, vaikka puhun sitä jo melko hyvin.
@@ -1606,7 +1802,7 @@ EI,snappijuorutofftopic,​AMK-valintakoe: mistä löytää esimerkkejä valmist
 
 ​Sivuilla sanotaan, ettei kokeeseen tarvitse valmistautua ja että siinä testataan yleistietoa. Olen kuitenkin käynyt lukion kotimaassani, joten jotkut matematiikan ja fysiikan termit suomeksi ovat minulle hämmentäviä. Mietin, pitäisikö minun ostaa lukion oppikirjoja? Olisi kuitenkin mahdotonta opiskella 3–4 kirjaa per oppiaine vain kahdessa kuukaudessa.
 
-​Olen aika hämmentynyt, joten kaikki neuvot olisivat tarpeen",2,12,https://www.reddit.com/r/snappijuorutofftopic/comments/1ryrn0d/amkvalintakoe_mistä_löytää_esimerkkejä/,https://www.reddit.com/r/snappijuorutofftopic/comments/1ryrn0d/amkvalintakoe_mistä_löytää_esimerkkejä/,1773998875.0,2026-03-20 09:27:55,Then_Mention1594,1ryrn0d
+​Olen aika hämmentynyt, joten kaikki neuvot olisivat tarpeen",4,12,https://www.reddit.com/r/snappijuorutofftopic/comments/1ryrn0d/amkvalintakoe_mistä_löytää_esimerkkejä/,https://www.reddit.com/r/snappijuorutofftopic/comments/1ryrn0d/amkvalintakoe_mistä_löytää_esimerkkejä/,1773998875.0,2026-03-20 09:27:55,Then_Mention1594,1ryrn0d
 EI,Suomi,​AMK-valintakoe: mistä löytää esimerkkejä valmistautumista varten,"​Hei kaikille!
 
 ​Yritän päästä tänä vuonna ammattikorkeakouluun. Suomi ei ole äidinkieleni, vaikka puhun sitä jo melko hyvin.
@@ -1615,7 +1811,7 @@ EI,Suomi,​AMK-valintakoe: mistä löytää esimerkkejä valmistautumista varte
 
 ​Sivuilla sanotaan, ettei kokeeseen tarvitse valmistautua ja että siinä testataan yleistietoa. Olen kuitenkin käynyt lukion kotimaassani, joten jotkut matematiikan ja fysiikan termit suomeksi ovat minulle hämmentäviä. Mietin, pitäisikö minun ostaa lukion oppikirjoja? Olisi kuitenkin mahdotonta opiskella 3–4 kirjaa per oppiaine vain kahdessa kuukaudessa.
 
-​Olen aika hämmentynyt, joten kaikki neuvot olisivat tarpeen",1,9,https://www.reddit.com/r/Suomi/comments/1ryrm9c/amkvalintakoe_mistä_löytää_esimerkkejä/,https://www.reddit.com/r/Suomi/comments/1ryrm9c/amkvalintakoe_mistä_löytää_esimerkkejä/,1773998788.0,2026-03-20 09:26:28,Then_Mention1594,1ryrm9c
+​Olen aika hämmentynyt, joten kaikki neuvot olisivat tarpeen",0,9,https://www.reddit.com/r/Suomi/comments/1ryrm9c/amkvalintakoe_mistä_löytää_esimerkkejä/,https://www.reddit.com/r/Suomi/comments/1ryrm9c/amkvalintakoe_mistä_löytää_esimerkkejä/,1773998788.0,2026-03-20 09:26:28,Then_Mention1594,1ryrm9c
 EI,arkisuomi,Naapuri valittaa sähköpyörätuolin äänestä,"Asun kerrostalossa ja liikun sähköpyörätuolilla. Alakerran naapuri on alkanut valittaa siitä, että renkaista kuuluu ääni kun ajan sisällä (sellainen ääni mitä nyt tulee kun rengas liikkuu lattialla/betonilla).
 
 Ongelma on se, että en oikein voi asialle mitään. En voi lopettaa liikkumista omassa kodissani, ja mattojen laittaminen ei oikein toimi, koska ne menee vaan rullalle ja vaikeuttaa ajamista.
@@ -1628,7 +1824,7 @@ EDIT: Naapuri tuli siis ihan kasvotusten sanomaan, että ääni kuuluu hänen as
 
 Edit 2: Naapuri on siis somalilainen eli ei ole tällä kertaa suomalainen valittaja. Itse olen aasialainen.
 
-For context 🙂",204,123,https://www.reddit.com/r/arkisuomi/comments/1ryrksa/naapuri_valittaa_sähköpyörätuolin_äänestä/,https://www.reddit.com/r/arkisuomi/comments/1ryrksa/naapuri_valittaa_sähköpyörätuolin_äänestä/,1773998622.0,2026-03-20 09:23:42,diykim,1ryrksa
+For context 🙂",211,125,https://www.reddit.com/r/arkisuomi/comments/1ryrksa/naapuri_valittaa_sähköpyörätuolin_äänestä/,https://www.reddit.com/r/arkisuomi/comments/1ryrksa/naapuri_valittaa_sähköpyörätuolin_äänestä/,1773998622.0,2026-03-20 09:23:42,diykim,1ryrksa
 EI,arkisuomi,Miksi deittisovelluksissa aina vaan ghostataan?,"Sanokaahan ihmiset, että mikä siinä on niin vaikeeta olla edes sen verran kohtelias, että sanoisi ""sori lakkas kiinnostus, heippa"" tai ""tapasinkin kiinnostavamman, moro"" tai että edes poistaisi vaan yhteyden. Menis ehkä kaks sekuntia. 
 
 Mutta ei! Kun pitää vaan jättää roikkumaan ja siten kuluttaa toisen energiaa ja hermoja.
@@ -1641,7 +1837,7 @@ Jonkin verran maailmaa nähneenä ja myös siellä deittisovelluksia käyttänee
 
 Mielelläni kuulisin jonkun frequent ghostaajan mietteitä, että mikä se ajatusprosessi siinä taustalla on. Onko kyse vain pelkuruudesta vai jostakin sairaasta ajatuksesta että ehkä vielä pidän tämän tyypin varalla? Vai onko ihmiset nykyään vain niin itsekeskeisiä paskoja että puolituntemattoman tyypin fiilikset ei kiinnosta ollenkaan?
 
-Sori hieman ladattu kirjoitus, mutta ihan aidosti haluaisin yrittää ymmärtää tätä kulttuuria.",30,82,https://www.reddit.com/r/arkisuomi/comments/1ryrfvi/miksi_deittisovelluksissa_aina_vaan_ghostataan/,https://www.reddit.com/r/arkisuomi/comments/1ryrfvi/miksi_deittisovelluksissa_aina_vaan_ghostataan/,1773998117.0,2026-03-20 09:15:17,Kyrstinen,1ryrfvi
+Sori hieman ladattu kirjoitus, mutta ihan aidosti haluaisin yrittää ymmärtää tätä kulttuuria.",34,84,https://www.reddit.com/r/arkisuomi/comments/1ryrfvi/miksi_deittisovelluksissa_aina_vaan_ghostataan/,https://www.reddit.com/r/arkisuomi/comments/1ryrfvi/miksi_deittisovelluksissa_aina_vaan_ghostataan/,1773998117.0,2026-03-20 09:15:17,Kyrstinen,1ryrfvi
 EI,Suomi,Lukijan mielipide | Opetusministeri Adlercreutz: Kukaan ei ole esittänyt uskonnonopetuksen lopettamista,"Mielipidekirjoitukset eivät käsittääkseni mene maksumuurin taakse. Poimin tähän mielestäni olennaisimmat kappaleet tekstistä.
 
 >Ensinnäkin: kukaan ei ole esittänyt uskonnonopetuksen lopettamista. Ei työryhmä eikä ministeriö. Sen sijaan on ehdotettu, että nykyiset yli toistakymmentä uskonto- ja katsomusainetta korvattaisiin yhdellä yhteisellä aineella. Tätä pidän perusteltuna, kuten suuri osa opettajistakin. Siksi asiaa selvitetään.
@@ -1650,7 +1846,7 @@ EI,Suomi,Lukijan mielipide | Opetusministeri Adlercreutz: Kukaan ei ole esittän
 
 >Samalla lapsia jaetaan yhä useammin uskonnon perusteella eri ryhmiin, jopa eri rinnakkaisluokille. Tämä on ristiriidassa peruskoulun keskeisen yhdenvertaisuusperiaatteen kanssa.
 
->Tarvitsemme enemmän yhteisiä tilanteita, joissa voimme keskustella arvoista ja vakaumuksista sekä rakentaa keskinäistä ymmärrystä ja uskontolukutaitoa.",81,120,https://www.hs.fi/mielipide/art-2000011891204.html,https://www.reddit.com/r/Suomi/comments/1ryrfa2/lukijan_mielipide_opetusministeri_adlercreutz/,1773998055.0,2026-03-20 09:14:15,M_880,1ryrfa2
+>Tarvitsemme enemmän yhteisiä tilanteita, joissa voimme keskustella arvoista ja vakaumuksista sekä rakentaa keskinäistä ymmärrystä ja uskontolukutaitoa.",86,126,https://www.hs.fi/mielipide/art-2000011891204.html,https://www.reddit.com/r/Suomi/comments/1ryrfa2/lukijan_mielipide_opetusministeri_adlercreutz/,1773998055.0,2026-03-20 09:14:15,M_880,1ryrfa2
 EI,arkisuomi,Yhteishaku ja alan pohdinta,"Heips,
 
 lukion jälkeen en oo oikein osannu päättää mitä tekisin, eikä tekisi mieli opiskella ihan mitään turhaa ”saizzea”, jota ei halua tehdä opiskelun jälkeen tai josta jää suoraan työttömäksi.
@@ -1674,8 +1870,8 @@ Sitten myös rahoitus/sijoitus asiat kiinnostaisi, mutta onko tradenomi liian yl
 
 Kauppikseen en pääse, koska paperit ei yllä sinne asti, enkä DI-insinööriksikään papereilla. Harmin paikka! Tässäkin on taas se mahdollisuus, että ilmeisesti tradenomina AMK:sta voisi päästä opiskelemaan kauppikseen, jos arvosanat on tarpeeksi hyvät ja myös AMK insinööristä vissiin voi vaihtaa DI-opintoihin yliopistoon, ellen nyt ihan väärässä ole?
 
-Olisi kiva päästä opiskelemaan, mutta pelottaa vain, että ensikertalaisuus menee ja ala/opinnot onkin paskaa ja sitten ei pääsekkään enään kouluun sisään, kun pisterajat on ihan kaameat ei-ensikertalaisilla. ",0,30,https://www.reddit.com/r/Suomi/comments/1ryr9zi/yhteishaku_ja_alan_pohdinta/,https://www.reddit.com/r/Suomi/comments/1ryr9zi/yhteishaku_ja_alan_pohdinta/,1773997485.0,2026-03-20 09:04:45,aBoyFromTheFuture,1ryr9zi
-EI,PokemonTCGNL,Even mijn ei kwijt ☹️,"Sorry ik wil even mijn ei kwijt. Dit was de eerste keer dat ik bij een release naar de winkel ging, omdat ik heel graag de First Partner Illustration Collection wil hebben. Online zijn ze helaas voor +/- 50 euro (en zelfs dan zijn ze uitverkocht). Ik ging naar Smyths Toys in Rotterdam. Op Google Maps stond dat ze open zouden gaan om 09:00. Ik wilde geen aso zijn en er te vroeg te campen, dus dacht ik om stipt 09:00 aan te komen. Niet wetende dat de winkel kennelijk allang open was.. nogmaals dit is de eerste keer dat ik er ""zo vroeg"" bij ben. Want wil gewoon graag de 9 kaarten hebben voor mijn binder. Ik zag buiten geen rij, dus dacht: ""Oh misschien ben ik wel heel vroeg"". Nou.. eenmaal binnen zag ik allemaal mensen met hun hele families alles opkopen van Pokemon. Nagevraagd aan de medewerkers, zeiden ze dat er ongelooflijk veel mensen al om 07:00 voor de deur stonden.. en ik maar denken dat ik een aso ben als ik er stipt om 09:00 sta. Ik ging niet eens voor de ander release (ascended heroes premium poster collection). Ik weet dat dit een rant bericht is, maar ik baal gewoon heel erg. Weet iemand toevallig of deze release nog aangevuld gaat worden? 😔",36,72,https://www.reddit.com/r/PokemonTCGNL/comments/1ryr60j/even_mijn_ei_kwijt/,https://www.reddit.com/r/PokemonTCGNL/comments/1ryr60j/even_mijn_ei_kwijt/,1773997068.0,2026-03-20 08:57:48,Zerkinator,1ryr60j
+Olisi kiva päästä opiskelemaan, mutta pelottaa vain, että ensikertalaisuus menee ja ala/opinnot onkin paskaa ja sitten ei pääsekkään enään kouluun sisään, kun pisterajat on ihan kaameat ei-ensikertalaisilla. ",0,31,https://www.reddit.com/r/Suomi/comments/1ryr9zi/yhteishaku_ja_alan_pohdinta/,https://www.reddit.com/r/Suomi/comments/1ryr9zi/yhteishaku_ja_alan_pohdinta/,1773997485.0,2026-03-20 09:04:45,aBoyFromTheFuture,1ryr9zi
+EI,PokemonTCGNL,Even mijn ei kwijt ☹️,"Sorry ik wil even mijn ei kwijt. Dit was de eerste keer dat ik bij een release naar de winkel ging, omdat ik heel graag de First Partner Illustration Collection wil hebben. Online zijn ze helaas voor +/- 50 euro (en zelfs dan zijn ze uitverkocht). Ik ging naar Smyths Toys in Rotterdam. Op Google Maps stond dat ze open zouden gaan om 09:00. Ik wilde geen aso zijn en er te vroeg te campen, dus dacht ik om stipt 09:00 aan te komen. Niet wetende dat de winkel kennelijk allang open was.. nogmaals dit is de eerste keer dat ik er ""zo vroeg"" bij ben. Want wil gewoon graag de 9 kaarten hebben voor mijn binder. Ik zag buiten geen rij, dus dacht: ""Oh misschien ben ik wel heel vroeg"". Nou.. eenmaal binnen zag ik allemaal mensen met hun hele families alles opkopen van Pokemon. Nagevraagd aan de medewerkers, zeiden ze dat er ongelooflijk veel mensen al om 07:00 voor de deur stonden.. en ik maar denken dat ik een aso ben als ik er stipt om 09:00 sta. Ik ging niet eens voor de ander release (ascended heroes premium poster collection). Ik weet dat dit een rant bericht is, maar ik baal gewoon heel erg. Weet iemand toevallig of deze release nog aangevuld gaat worden? 😔",38,79,https://www.reddit.com/r/PokemonTCGNL/comments/1ryr60j/even_mijn_ei_kwijt/,https://www.reddit.com/r/PokemonTCGNL/comments/1ryr60j/even_mijn_ei_kwijt/,1773997068.0,2026-03-20 08:57:48,Zerkinator,1ryr60j
 EI,Roumanie,"Firmele mari iau deciziile pe care și românii au fost nevoiți să le ia. Să închidă și să plece cat văd cu ochii de aici. închideri, concedieri și plecări.","Afacerile și economia romaneasca mor în liniște. Nimeni nu se mai panichează, nimeni nu se mai revolta. 
 
 Economia României a primit un cocktail toxic: taxe crescute de 3 ori în 3 ani și la nivel de vestul Europei însă cu un stat la nivel Africa, energie la cel mai mare preț din Europa și haos legislativ continuu.
@@ -1724,28 +1920,28 @@ Va las mai jos daca mai aveți chef de citit....Cifrele astea de mai jos ar treb
 – Trico Ploiești – ~390 oameni.
 – Lactalis – ~100 oameni.
 – Taparo – ~379 oameni. Astia merita falimentul. 
-– Miercurea Ciuc – Odorheiu Secuiesc: închideri în lanț în textile și alimentație.",0,66,https://www.reddit.com/r/Roumanie/comments/1ryr60g/firmele_mari_iau_deciziile_pe_care_și_românii_au/,https://www.reddit.com/r/Roumanie/comments/1ryr60g/firmele_mari_iau_deciziile_pe_care_și_românii_au/,1773997068.0,2026-03-20 08:57:48,spumespeologul,1ryr60g
+– Miercurea Ciuc – Odorheiu Secuiesc: închideri în lanț în textile și alimentație.",0,68,https://www.reddit.com/r/Roumanie/comments/1ryr60g/firmele_mari_iau_deciziile_pe_care_și_românii_au/,https://www.reddit.com/r/Roumanie/comments/1ryr60g/firmele_mari_iau_deciziile_pe_care_și_românii_au/,1773997068.0,2026-03-20 08:57:48,spumespeologul,1ryr60g
 EI,programare,Merita cursurile de la ItSchool?,"Sunt dev cu vreo 4 ani de exp si ma gandeam sa-mi mai largesc putin orizonturile si sa invat lucruri noi. Poate va iesi si o noua directie in cariera, who knows. Am gasit la scoala asta doua cursuri online care par facute cat de cat serios (cel putin profii par baieti ok care au facut facultati seriose si chiar lucreaza in domeniu). M-ar interesa cursul de Product Owner sau cel de DevOps
 
   
 Am doua lucruri care ma retin tho. In primul rand nu stiu daca se justifica pretul (de 1000eur/curs) pentru asa ceva si daca chiar inveti mai bine decat as putea sa o fac cu niste cursuri pe Udemy si subscriptia la ChatGPT. In al doilea rand sunt curios daca are vreo minima valoare un astfel de curs odata trecut in CV. Stiu clar ca un curs similar de dev nu prea ajuta, dar ma gandesc ca poate pentru astfel de pozitii lucrurile ar sta un pic mai bine ( eu personal n-am facut in facultate asa de multe lucruri similare cu ce se pretinde ca s-ar invata acolo).
 
-Orice parere de la oameni care au facut cursuri la ei m-ar ajuta. Multumesc,.",0,10,https://www.reddit.com/r/programare/comments/1ryr3yn/merita_cursurile_de_la_itschool/,https://www.reddit.com/r/programare/comments/1ryr3yn/merita_cursurile_de_la_itschool/,1773996851.0,2026-03-20 08:54:11,Sweaty_Comfort9401,1ryr3yn
+Orice parere de la oameni care au facut cursuri la ei m-ar ajuta. Multumesc,.",0,11,https://www.reddit.com/r/programare/comments/1ryr3yn/merita_cursurile_de_la_itschool/,https://www.reddit.com/r/programare/comments/1ryr3yn/merita_cursurile_de_la_itschool/,1773996851.0,2026-03-20 08:54:11,Sweaty_Comfort9401,1ryr3yn
 EI,arkisuomi,Tarviin neuvoo auton kanssa,"Moikka! Elikkäs tarttisin viisaamilta taas neuvoo. Mulla on auto minkä moottori pitäs korjata tai vaihtaa kokonaa. Mulla ei oo rahaa korjaa sitä. En voi myydäkkää sitä, koska velkaa on viel ruhtinaallisen 3600€. Täyttä kaskoo maksan autosta mikä ei jumalauta toimi jes. 
 
 Sitte ite asiaan, oon muuttamassa nyt kuun vaihteessa ja autolle pitäs nyt keksii joku suunnitelma. Se paska ei liiku ja mulla ei oo varaa maksaa 180€ hinausta. Mulla on hinausturva, mutta if työntekijöiden mukaa en saa käyttää sitä, vaikka hinaisin sen korjaamon pihaan. Olin hinauksesta yhteydessä kuukaus sit, mutta taloudellinen tilanne muuttu nii, etten nyt voikkaa maksaa sitä. 
 
 Antakaa jotai ehdotuksii mitä mä voin tehä tän asian kanssa. Yks vaihtoehto on et kaverit hinais sen, mut matka on aika pitkä hinaa narul. Eikä mun autoo voi laittaa käyntii, jolloinka ohjaustehostin toimis. Se pitäs hinaa pk seudulta vihdin suuntaa.
 
-Pahottelut sekavasta tekstistä. Oon kuumeessa ja kovan stressin alla. Tänää on mun synttärit ja tää on eka synttäri minkä vietän ilman mun kihlattua kuka menehty jouluna ni mulla jyllää kaikki asiat ny päässä ja muutto pitäs tapahtuu viikon päästä. En ollu myöskää varma et meneeks tää ny pohdintaan autoiluun vai murheisiin. ",9,43,https://www.reddit.com/r/arkisuomi/comments/1ryr17l/tarviin_neuvoo_auton_kanssa/,https://www.reddit.com/r/arkisuomi/comments/1ryr17l/tarviin_neuvoo_auton_kanssa/,1773996563.0,2026-03-20 08:49:23,Apsu69,1ryr17l
+Pahottelut sekavasta tekstistä. Oon kuumeessa ja kovan stressin alla. Tänää on mun synttärit ja tää on eka synttäri minkä vietän ilman mun kihlattua kuka menehty jouluna ni mulla jyllää kaikki asiat ny päässä ja muutto pitäs tapahtuu viikon päästä. En ollu myöskää varma et meneeks tää ny pohdintaan autoiluun vai murheisiin. ",13,44,https://www.reddit.com/r/arkisuomi/comments/1ryr17l/tarviin_neuvoo_auton_kanssa/,https://www.reddit.com/r/arkisuomi/comments/1ryr17l/tarviin_neuvoo_auton_kanssa/,1773996563.0,2026-03-20 08:49:23,Apsu69,1ryr17l
 EI,relationship_adviceBD,An Eid without him.,"Tmrw is eid-ul-fitr, everyone will be happy kids will be getting eidi some happy couple haat e haat dhore rastai hatbe husband wife saree punjabi pore ghurbe, nibba nibbi ra nijeder niye moja korbe. Amr classmates and friends ra ajke chand raat e nijeder partner r nam oder mehedi te lukai rakhbe kal oder ke diye khujabe. Ami ak matro bekti ei eid e ig jar partner nai tar nam r mehedi o haat e nai. Still remember the last year 2 ta eid and anniversary r shomoy jokhn haat vora biye barir bou r moto mehedi lagaisi jayegai jayegai or nam r initials lukaisi jeidin dekha korsi tare diye khujaisi the struggle I saw on his face while searching made me smile even for a little bit je at least keo toh ase jar nam lukanor moto jei khujbeo. 
 
 Kalke se insta story te dei je how women wanna be loved by the way they want but isnt willing to face their anger and ego my mind was like bro- dump korsos 14th Feb tao tor shathe clingy hoye march 7th porjonto beg korsi je jais na akhn se bole indirectly khocha maire ami naki ego dekhaitesi. Iftar r por arekta reel dei jekhane reel e lekha ""another eid without my name on someone's mehndi"" this time it threw me off ngl.
 I felt all these mehedi lagano tried acting feminine for him went down the drain coz he just denied this efforts thru his story. 
 
-Honestly just fed up. Im tired bhai Chad theke laf diye more jaite iccha kortese. Ki bal r eid celebrate korbo kalke nijei toh mentally emotionally moire pore asi. ",8,13,https://www.reddit.com/r/relationship_adviceBD/comments/1ryqzdd/an_eid_without_him/,https://www.reddit.com/r/relationship_adviceBD/comments/1ryqzdd/an_eid_without_him/,1773996362.0,2026-03-20 08:46:02,Steamy-Odin,1ryqzdd
+Honestly just fed up. Im tired bhai Chad theke laf diye more jaite iccha kortese. Ki bal r eid celebrate korbo kalke nijei toh mentally emotionally moire pore asi. ",6,13,https://www.reddit.com/r/relationship_adviceBD/comments/1ryqzdd/an_eid_without_him/,https://www.reddit.com/r/relationship_adviceBD/comments/1ryqzdd/an_eid_without_him/,1773996362.0,2026-03-20 08:46:02,Steamy-Odin,1ryqzdd
 EI,AmazDeals,"18,99€ LEGO Technic Monster Jam Grave Digger Feuer und EIS - Monstertruck Modellbau & Konstruktionsspielzeug mit Rückziehmotor - Spielzeug für Kinder, Mädchen & Jungen - Geschenke für Kinder - 42219",,1,0,https://amzn.to/4t0ElsA,https://www.reddit.com/r/AmazDeals/comments/1ryqw30/1899_lego_technic_monster_jam_grave_digger_feuer/,1773996001.0,2026-03-20 08:40:01,RolePretend7269,1ryqw30
-EI,arkisuomi,DNA kauppaamassa uutta kaapelimodeemia?,"Sain DNA:lta tekstarin, jonka mukaan ""Laajakaistaasi käytetään laitteella, joka ei ole enää tietoturvallinen. Asiantuntijamme soittaa sinulle tänään \[...\]"". Eli varmaan halutaan myydä uutta kaapelimodeemia vanhan Sagemcom 3686v2:n tilalle. Onko muille tullut samanlaista viestiä? Vaihdoitteko?",7,25,https://www.reddit.com/r/arkisuomi/comments/1ryqorz/dna_kauppaamassa_uutta_kaapelimodeemia/,https://www.reddit.com/r/arkisuomi/comments/1ryqorz/dna_kauppaamassa_uutta_kaapelimodeemia/,1773995202.0,2026-03-20 08:26:42,TheMettaAnalysis,1ryqorz
+EI,arkisuomi,DNA kauppaamassa uutta kaapelimodeemia?,"Sain DNA:lta tekstarin, jonka mukaan ""Laajakaistaasi käytetään laitteella, joka ei ole enää tietoturvallinen. Asiantuntijamme soittaa sinulle tänään \[...\]"". Eli varmaan halutaan myydä uutta kaapelimodeemia vanhan Sagemcom 3686v2:n tilalle. Onko muille tullut samanlaista viestiä? Vaihdoitteko?",6,25,https://www.reddit.com/r/arkisuomi/comments/1ryqorz/dna_kauppaamassa_uutta_kaapelimodeemia/,https://www.reddit.com/r/arkisuomi/comments/1ryqorz/dna_kauppaamassa_uutta_kaapelimodeemia/,1773995202.0,2026-03-20 08:26:42,TheMettaAnalysis,1ryqorz
 EI,AmexSuomi,Missä Amex käy Suomessa 2026? Kattava lista ja vinkit,"Suurin kysymysmerkki American Express-korttia harkitsevilla on aina: missä sillä voi oikeasti maksaa Suomessa?
 
 Koska Amexin omat sivut kertovat tästä yllättävän huonosti, kokosin alle ajantasaisen listan omista havainnoistani.
@@ -1827,11 +2023,11 @@ OPERATING SYSTEM: Running on OriginOS 6, the Z11x offers 2 years of Android upda
 IP & DURABILITY: Industry’s Leading IP68 & IP69+ dust and water resistance. It also comes with Military Grade Durability, designed to withstand drops, shocks, and tough daily use.
 CAMERA: The Z11x includes a 50MP Sony IMX 852 Ultra-HD AI-powered main camera with a 32MP front camera. It supports 4K video recording on both front and rear cameras, 4K Video-to-Live Photo conversion, Dual-View Video Recording, Video Electronic Image Stabilisation (EIS), and Live Photo.
 https://amzn.to/4rGrUAU",1,0,https://www.reddit.com/gallery/1ryqisg,https://www.reddit.com/r/u_product_trends/comments/1ryqisg/iqoo_z11x_5g_prismatic_green_8gb_ram_256_gb/,1773994564.0,2026-03-20 08:16:04,product_trends,1ryqisg
-EI,wortwitzkasse,Womit essen italienische Freiheitskämpfer ihr Eis?,Mit Partisahne!,18,4,https://www.reddit.com/r/wortwitzkasse/comments/1ryqi8l/womit_essen_italienische_freiheitskämpfer_ihr_eis/,https://www.reddit.com/r/wortwitzkasse/comments/1ryqi8l/womit_essen_italienische_freiheitskämpfer_ihr_eis/,1773994503.0,2026-03-20 08:15:03,LosPfeffos,1ryqi8l
+EI,wortwitzkasse,Womit essen italienische Freiheitskämpfer ihr Eis?,Mit Partisahne!,15,6,https://www.reddit.com/r/wortwitzkasse/comments/1ryqi8l/womit_essen_italienische_freiheitskämpfer_ihr_eis/,https://www.reddit.com/r/wortwitzkasse/comments/1ryqi8l/womit_essen_italienische_freiheitskämpfer_ihr_eis/,1773994503.0,2026-03-20 08:15:03,LosPfeffos,1ryqi8l
 EI,snappisensuroimat0n,Venla ja somepresenssi,"Tää on kyllä surullinen tapaus. Onko Venla niin sekasin, että ei vaan huomaa postaavansa samoja kuvia ja keikistelyvideoita useamman kerran? Ja eikö tää just puhunu (sadannen kerran) menevänsä katkolle?
 
-Onko kellään tietoa tän äidistä? Vieläkö on hengissä? ",42,15,https://v.redd.it/sbsrok87s5qg1,https://www.reddit.com/r/snappisensuroimat0n/comments/1ryqhnh/venla_ja_somepresenssi/,1773994434.0,2026-03-20 08:13:54,RecommendationBoth66,1ryqhnh
-EI,ZZZ_Official,Miyabi (by @EiF1348939),[https://x.com/eif1348939/status/1941132709633597805](https://x.com/eif1348939/status/1941132709633597805),274,5,https://i.redd.it/g1j1pkvhq5qg1.jpeg,https://www.reddit.com/r/ZZZ_Official/comments/1ryqc4t/miyabi_by_eif1348939/,1773993855.0,2026-03-20 08:04:15,Beneficial_Dust_5361,1ryqc4t
+Onko kellään tietoa tän äidistä? Vieläkö on hengissä? ",47,15,https://v.redd.it/sbsrok87s5qg1,https://www.reddit.com/r/snappisensuroimat0n/comments/1ryqhnh/venla_ja_somepresenssi/,1773994434.0,2026-03-20 08:13:54,RecommendationBoth66,1ryqhnh
+EI,ZZZ_Official,Miyabi (by @EiF1348939),[https://x.com/eif1348939/status/1941132709633597805](https://x.com/eif1348939/status/1941132709633597805),294,5,https://i.redd.it/g1j1pkvhq5qg1.jpeg,https://www.reddit.com/r/ZZZ_Official/comments/1ryqc4t/miyabi_by_eif1348939/,1773993855.0,2026-03-20 08:04:15,Beneficial_Dust_5361,1ryqc4t
 EI,skiing,"[Mar 20, 2026] Weekly Discussion: Ask your gear, travel, conditions and other ski-related questions","Welcome! This is the place to ask your skiing questions! You can also search for previously asked questions or use one of our resources covered below.
 
 * [The guide](https://www.reddit.com/r/skiing/comments/2ez2pg/faqs_about_gear_and_some_tips_for_beginners)  for beginners by a professional bootfitter and tech.
@@ -1850,7 +2046,7 @@ Tuntuu että opiskelijat on hinnoiteltu ulos junasta. Aikaisemmin olen kulkenut 
 Sarjalipustakaan ei löydy vastausta. 4kk käyttöikkuna tarkoittaa, että se on kelvoton käyttämättömien matkojen vuoksi. 6kk mielestäni soveltuu n.1kk suoritettavien matkojen kulkuun. Sarjalippu 4kk tarkoittaa vähintään 2 käyttämätöntä matkaa.  Sarjalippukin häviää kustannuksissa kahden hengen polttoaine kuluille ja bussille kulkemallani välillä.
 
 Onko tämä nyt vain junaa vaihtavan ihmisen ongelma? Empä tiedä päteekö se suorilla matkoilla?
-Toivoisin positiivista muutosta tähän, muutoin juna vaihtuu autoon pysyvästi.",157,90,https://www.reddit.com/r/Suomi/comments/1ryq9ku/junalippujen_hinnan_nousu/,https://www.reddit.com/r/Suomi/comments/1ryq9ku/junalippujen_hinnan_nousu/,1773993600.0,2026-03-20 08:00:00,Inevitable-Mind-5777,1ryq9ku
+Toivoisin positiivista muutosta tähän, muutoin juna vaihtuu autoon pysyvästi.",158,92,https://www.reddit.com/r/Suomi/comments/1ryq9ku/junalippujen_hinnan_nousu/,https://www.reddit.com/r/Suomi/comments/1ryq9ku/junalippujen_hinnan_nousu/,1773993600.0,2026-03-20 08:00:00,Inevitable-Mind-5777,1ryq9ku
 EI,academia,Is it appropriate to mention “SCIE/EI indexed” papers when contacting potential graduate advisors?,"Hi everyone,
 
 I have a question about how to present publications when applying for graduate programs. As an undergraduate, if I’ve published or submitted papers that are indexed (or expected to be indexed) in SCIE or EI, is it appropriate to explicitly mention this when introducing myself to potential advisors?
@@ -1869,7 +2065,7 @@ EI,fuckcarsRomania,Masini parcate pe locuri de motociclete sector 5,"Vin la dumn
 
 Am sunat si la astia de la parcari/dat mailuri cu sezisari si cereri de montat stalpisori ca sa nu mai intre masinile si nimic. Niciun raspuns la 3 sesizari, nici macar inregistrare, nimic. La telefon se blocheaza ca niste roboti la ‘nu au fost date spre inchiriere, nu se poate face nimic’.
 
-Deci intrebarea este – ce mai pot face/unde mai pot scrie pentru a incerca sa rezolv treaba asta?",9,2,https://www.reddit.com/r/fuckcarsRomania/comments/1ryq8pb/masini_parcate_pe_locuri_de_motociclete_sector_5/,https://www.reddit.com/r/fuckcarsRomania/comments/1ryq8pb/masini_parcate_pe_locuri_de_motociclete_sector_5/,1773993496.0,2026-03-20 07:58:16,alun15,1ryq8pb
+Deci intrebarea este – ce mai pot face/unde mai pot scrie pentru a incerca sa rezolv treaba asta?",10,2,https://www.reddit.com/r/fuckcarsRomania/comments/1ryq8pb/masini_parcate_pe_locuri_de_motociclete_sector_5/,https://www.reddit.com/r/fuckcarsRomania/comments/1ryq8pb/masini_parcate_pe_locuri_de_motociclete_sector_5/,1773993496.0,2026-03-20 07:58:16,alun15,1ryq8pb
 EI,MentalHealthPH,"...searched about what kind of coffee drink is sweeter, and ended up with a river of tears. :(","NGA BA NAMAN EI!!! Gusto ko lang sana malaman ano mas matamis, pero tinamaan tuloy ako ng kakulangan ng tamis sa pag-ibig.
 
 ANSAKIT! Quite the emotional distraction from the bad things happening in today's life. Made me wonder a few things:
@@ -1888,7 +2084,7 @@ Having already gone through that before, and having bounced back and finally cri
 
 HUHUHU as in.
 
-Have you had your obligatory night cry session this month? Try mo na, pampagaan ng kalooban. Chos. Cheers!",2,1,https://www.reddit.com/gallery/1ryq7rs,https://www.reddit.com/r/MentalHealthPH/comments/1ryq7rs/searched_about_what_kind_of_coffee_drink_is/,1773993395.0,2026-03-20 07:56:35,Paradoxiamme,1ryq7rs
+Have you had your obligatory night cry session this month? Try mo na, pampagaan ng kalooban. Chos. Cheers!",3,1,https://www.reddit.com/gallery/1ryq7rs,https://www.reddit.com/r/MentalHealthPH/comments/1ryq7rs/searched_about_what_kind_of_coffee_drink_is/,1773993395.0,2026-03-20 07:56:35,Paradoxiamme,1ryq7rs
 EI,Siebenbuerger,👋 Willkommen bei r/Siebenbuerger – Stell dich vor und lies dich zuerst ein!,"Hallo zusammen, ich bin u/Kbr\_16, und habe r/Siebenbuerger zusammen mit anderen Mods ins Leben gerufen.
 
 Dies ist unser neues Zuhause für alles, was mit Siebenbürgen zusammenhängt. Wir freuen uns, dich bei uns begrüßen zu dürfen!
@@ -1903,17 +2099,17 @@ Bei uns dreht sich alles um ein freundliches, konstruktives und inklusives Mitei
 
 Danke, dass du Teil der allerersten Welle warst. Lass uns r/Siebenbuerger gemeinsam großartig machen.
 
-Häerzlech wëllkomm un all Siebenbierjer — hei kenne mer zesummen iwer eis Hiemet schwätzen, Bräich deelen an eis Geschicht lieweg halen.",1,0,https://www.reddit.com/r/Siebenbuerger/comments/1ryq63m/willkommen_bei_rsiebenbuerger_stell_dich_vor_und/,https://www.reddit.com/r/Siebenbuerger/comments/1ryq63m/willkommen_bei_rsiebenbuerger_stell_dich_vor_und/,1773993212.0,2026-03-20 07:53:32,Kbr_16,1ryq63m
-EI,fotbal,"Radu Banciu: Liverpool este ceva grotesc, Salah a fost infiorator. Nici Apulum Alba Iulia pe vremuri nu era sub ei.",[https://www.youtube.com/shorts/sHHl66QUV4A](https://www.youtube.com/shorts/sHHl66QUV4A),24,44,https://www.reddit.com/r/fotbal/comments/1rypu47/radu_banciu_liverpool_este_ceva_grotesc_salah_a/,https://www.reddit.com/r/fotbal/comments/1rypu47/radu_banciu_liverpool_este_ceva_grotesc_salah_a/,1773991962.0,2026-03-20 07:32:42,Old-League-347,1rypu47
+Häerzlech wëllkomm un all Siebenbierjer — hei kenne mer zesummen iwer eis Hiemet schwätzen, Bräich deelen an eis Geschicht lieweg halen.",2,0,https://www.reddit.com/r/Siebenbuerger/comments/1ryq63m/willkommen_bei_rsiebenbuerger_stell_dich_vor_und/,https://www.reddit.com/r/Siebenbuerger/comments/1ryq63m/willkommen_bei_rsiebenbuerger_stell_dich_vor_und/,1773993212.0,2026-03-20 07:53:32,Kbr_16,1ryq63m
+EI,fotbal,"Radu Banciu: Liverpool este ceva grotesc, Salah a fost infiorator. Nici Apulum Alba Iulia pe vremuri nu era sub ei.",[https://www.youtube.com/shorts/sHHl66QUV4A](https://www.youtube.com/shorts/sHHl66QUV4A),23,46,https://www.reddit.com/r/fotbal/comments/1rypu47/radu_banciu_liverpool_este_ceva_grotesc_salah_a/,https://www.reddit.com/r/fotbal/comments/1rypu47/radu_banciu_liverpool_este_ceva_grotesc_salah_a/,1773991962.0,2026-03-20 07:32:42,Old-League-347,1rypu47
 EI,aviation,Ryanair Singapore registry,I thought all Ryanair planes were registered in Ireland and had an ‘EI’ prefix. ,0,14,https://i.redd.it/c8actm0wj5qg1.jpeg,https://www.reddit.com/r/aviation/comments/1rypqxw/ryanair_singapore_registry/,1773991626.0,2026-03-20 07:27:06,gtadvance,1rypqxw
 EI,NuclearOption,Nuclear Option is on GeForce Now,"Nuclear Option is now playable on GeForce Now.
 
 Thanks devs!
 
-https://youtu.be/uXS1RmcjvEI",129,19,https://i.redd.it/c53q6358j5qg1.jpeg,https://www.reddit.com/r/NuclearOption/comments/1rypouc/nuclear_option_is_on_geforce_now/,1773991401.0,2026-03-20 07:23:21,CarelessAd2533,1rypouc
+https://youtu.be/uXS1RmcjvEI",137,19,https://i.redd.it/c53q6358j5qg1.jpeg,https://www.reddit.com/r/NuclearOption/comments/1rypouc/nuclear_option_is_on_geforce_now/,1773991401.0,2026-03-20 07:23:21,CarelessAd2533,1rypouc
 EI,snappijuorutofftopic,mielipiteitä seksitaudeista,"mitä mieltä ootte et pitäiskö sitä hävetä et on joskus ollu joku seksitauti? 
 
-itellä on ollu 2 kertaa klamydia. molemmilla kerroilla olin saanu sen vakituiselta kumppanilta. ensimmäisellä kerralla kumppani ei ite tienny et hänellä on se, ja oli saanut sen seksisuhteesta mikä oli ennen meidän suhdetta. toisella kerralla oli myös vakituinen kumppani mut hän oli aivan sekasin päästään ja vasta eron jälkeen kertoi et hänellä on klamydia ja ollut tietonen asiasta. ",27,41,https://www.reddit.com/r/snappijuorutofftopic/comments/1rypn03/mielipiteitä_seksitaudeista/,https://www.reddit.com/r/snappijuorutofftopic/comments/1rypn03/mielipiteitä_seksitaudeista/,1773991207.0,2026-03-20 07:20:07,golden_treasure,1rypn03
+itellä on ollu 2 kertaa klamydia. molemmilla kerroilla olin saanu sen vakituiselta kumppanilta. ensimmäisellä kerralla kumppani ei ite tienny et hänellä on se, ja oli saanut sen seksisuhteesta mikä oli ennen meidän suhdetta. toisella kerralla oli myös vakituinen kumppani mut hän oli aivan sekasin päästään ja vasta eron jälkeen kertoi et hänellä on klamydia ja ollut tietonen asiasta. ",30,43,https://www.reddit.com/r/snappijuorutofftopic/comments/1rypn03/mielipiteitä_seksitaudeista/,https://www.reddit.com/r/snappijuorutofftopic/comments/1rypn03/mielipiteitä_seksitaudeista/,1773991207.0,2026-03-20 07:20:07,golden_treasure,1rypn03
 EI,legaladvicecanada,EI Benefits if I can only work part time due to health,"I have worked part time as a nanny since 2012. I was diagnosed with Lupus in 2010 and by 2012 working full time was killing me health wise. I was constantly sick and constantly having to take off work cause I was not well enough to come in or I had to take time off for my many dr appointments I had. 
 
 I made the decision to go to working part time jobs since then as anytime I try to go back to full time my health gets worse. 
@@ -1928,20 +2124,20 @@ I love being a nanny and as long as I can still mange part time work I want to c
 
 What are my options for a situation like this? ",0,2,https://www.reddit.com/r/legaladvicecanada/comments/1rypmd5/ei_benefits_if_i_can_only_work_part_time_due_to/,https://www.reddit.com/r/legaladvicecanada/comments/1rypmd5/ei_benefits_if_i_can_only_work_part_time_due_to/,1773991140.0,2026-03-20 07:19:00,MaryPoppins37,1rypmd5
 EI,Monopoly_GO,Monopoly go add friends,Play MONOPOLY GO! with me! Download it here: https://mply.io/WS_dpEiINeE ,1,1,https://i.redd.it/8u814rb3i5qg1.jpeg,https://www.reddit.com/r/Monopoly_GO/comments/1rypl5m/monopoly_go_add_friends/,1773991019.0,2026-03-20 07:16:59,Abject-Homework-3252,1rypl5m
-EI,EmeraldImperium,First Ever Playthrough: EI Shinylocke!! :D,"Of course, Sprigatito is the cheat-y ShinyS one, but I got my other guys playing through the game by shiny hunting every new route. Are these good for my first 5 hours of playing the game?",2,1,https://www.reddit.com/gallery/1rypkvd,https://www.reddit.com/r/EmeraldImperium/comments/1rypkvd/first_ever_playthrough_ei_shinylocke_d/,1773990990.0,2026-03-20 07:16:30,Flat-County8669,1rypkvd
+EI,EmeraldImperium,First Ever Playthrough: EI Shinylocke!! :D,"Of course, Sprigatito is the cheat-y ShinyS one, but I got my other guys playing through the game by shiny hunting every new route. Are these good for my first 5 hours of playing the game?",3,1,https://www.reddit.com/gallery/1rypkvd,https://www.reddit.com/r/EmeraldImperium/comments/1rypkvd/first_ever_playthrough_ei_shinylocke_d/,1773990990.0,2026-03-20 07:16:30,Flat-County8669,1rypkvd
 EI,Suomi,Kokoomuksen Valkonen: Suomi on matkalla hallitsemattomaan kriisiin – ”Vappusatasten aika on ohi”,"\> Kokoomuksen kansanedustaja Ville Valkonen arvioi, että Suomi on 10–15 vuoden päästä hallitsemattomassa kriisissä, jos merkittäviä sopeutustoimia ei tehdä.
 
-\> ”Vuotuiset julkiset menot ovat noin 160 miljardia euroa. Kyllä 8–11 miljardia on sopeutettavissa ilman, että joudumme purkamaan hyvinvointiyhteiskuntaa tai sen osia. Asioita täytyy tehdä keskittyneemmin ja tehokkaammin, ja jonkun verran täytyy siirtää julkisen sektorin tehtäviä ihmisten itse tehtäviksi.”",14,85,https://www.hs.fi/politiikka/art-2000011870725.html,https://www.reddit.com/r/Suomi/comments/1rypjfa/kokoomuksen_valkonen_suomi_on_matkalla/,1773990840.0,2026-03-20 07:14:00,kakoni,1rypjfa
+\> ”Vuotuiset julkiset menot ovat noin 160 miljardia euroa. Kyllä 8–11 miljardia on sopeutettavissa ilman, että joudumme purkamaan hyvinvointiyhteiskuntaa tai sen osia. Asioita täytyy tehdä keskittyneemmin ja tehokkaammin, ja jonkun verran täytyy siirtää julkisen sektorin tehtäviä ihmisten itse tehtäviksi.”",16,85,https://www.hs.fi/politiikka/art-2000011870725.html,https://www.reddit.com/r/Suomi/comments/1rypjfa/kokoomuksen_valkonen_suomi_on_matkalla/,1773990840.0,2026-03-20 07:14:00,kakoni,1rypjfa
 EI,WomenRO,Prietenie după căsătorie și copil,"Bună tuturor! Scriu aici în speranța ca aveți un sfat bun pentru mine. E o problemă cu care mă confrunt, mai ales în perioadele mai vulnerabile; acum 5-6 ani am avut o prietenă foarte bună care s-a îndepărtat brusc, iar peste această plecare nu am putut trece nici cu ajutorul psihologului, doar timpul m-a ajutat să accept ideea. Știu ca suna prea siropos pentru o prietenie, eu nu prea am încredere în oameni iar cu fata asta eram pe același vibe, și gândeam la fel - exact ca o soră. Ei bine, pentru context, ea a fost împreună cu cel mai bun prieten al soțului meu (pe atunci nu îmi era soț), dar relația lor “a murit” din cauza comodității și a alcoolului. Spun asta pentru ca au fost dăți când am simțit un fel de invidie ca relația ei nu e ca a mea (nici a mea nu a fost perfectă, am muncit amândoi ca lucrurile să funcționeze, doar ca nu a fost nimic grav). De altfel, ea și-a schimbat religia și încet încet s-a îndepărtat de mine. Niciodată nu am înțeles motivul, nici nu mi l-a spus. 
 
 Eu mă înțeleg foarte bine și cu mama mea, cu soțul, cu nașa (prietena de 10 ani, ulterior devenind nașa mea de cununie însă locuiește în alt oraș), dar parcă îmi lipsește acea prietenă cu care să stau la cafea, să ne spunem toate prostiile una alteia-cred ca înțelegeți la ce mă refer. Nu sunt antisociala, ne întâlnim des cu familia extinsă (a soțului) și stăm la masa toți, o dată la câteva luni mai dau o fugă la nașa mea (acum e mai greu, am un bebe de 8 luni), vin finii pe la noi și ieșim și în oraș, dar parcă îmi lipsește acea prietenie strânsă cu o fată. 
 
-Voi ați trecut printr-o situație similară? Sau cum vedeți lucrurile din exterior? Orice sfat/ poveste poate m-ar ajuta să gestionez această situație. Mulțumesc! 🌸",4,6,https://www.reddit.com/r/WomenRO/comments/1rypgz8/prietenie_după_căsătorie_și_copil/,https://www.reddit.com/r/WomenRO/comments/1rypgz8/prietenie_după_căsătorie_și_copil/,1773990583.0,2026-03-20 07:09:43,SimpleWeekly8610,1rypgz8
+Voi ați trecut printr-o situație similară? Sau cum vedeți lucrurile din exterior? Orice sfat/ poveste poate m-ar ajuta să gestionez această situație. Mulțumesc! 🌸",3,6,https://www.reddit.com/r/WomenRO/comments/1rypgz8/prietenie_după_căsătorie_și_copil/,https://www.reddit.com/r/WomenRO/comments/1rypgz8/prietenie_după_căsătorie_și_copil/,1773990583.0,2026-03-20 07:09:43,SimpleWeekly8610,1rypgz8
 EI,Intti,Lenturit,Onks missää myynnissä mitää hanskoja mitkä näyttää iha lentureilta ku ei jaksa tehä hävärii,0,1,https://www.reddit.com/r/Intti/comments/1rypcq4/lenturit/,https://www.reddit.com/r/Intti/comments/1rypcq4/lenturit/,1773990144.0,2026-03-20 07:02:24,MarsupialRegular5285,1rypcq4
 EI,Suomi,"Onko valikoivaa moraalia, jos ei kritisoi vapaaehtoista lapsettomuutta mutta samalla kritisoi niitä, jotka päättävät asua syrjäseudulla ja siten toiminnallaan pakottavat yhteiskunnan jarruttamaan kaupungistumista?","Molemmissahan voidaan sanoa olevan kyse ""itsekkäästä"" valinnasta, jossa omaa elämäntyyliä priorisoidaan yhteiskunnan edun kustannuksella, tietynlaista luontaista kulkua vastaan. Ja samalla vaaditaan, että valinta ei saisi rajoittaa yhteiskunnan tarjoamia etuja tai palveluita niille, jotka kyseisen valinnan ovat tehneet.
 
   
-Itselle molemmat ovat OK. Mutta ristiriita kiehtoo.",0,101,https://www.reddit.com/r/Suomi/comments/1ryp84j/onko_valikoivaa_moraalia_jos_ei_kritisoi/,https://www.reddit.com/r/Suomi/comments/1ryp84j/onko_valikoivaa_moraalia_jos_ei_kritisoi/,1773989712.0,2026-03-20 06:55:12,ExternalTree1949,1ryp84j
+Itselle molemmat ovat OK. Mutta ristiriita kiehtoo.",0,102,https://www.reddit.com/r/Suomi/comments/1ryp84j/onko_valikoivaa_moraalia_jos_ei_kritisoi/,https://www.reddit.com/r/Suomi/comments/1ryp84j/onko_valikoivaa_moraalia_jos_ei_kritisoi/,1773989712.0,2026-03-20 06:55:12,ExternalTree1949,1ryp84j
 EI,csakmamik,Párom elhidegülése,"Sziasztok!
 
 38hetes terhes vagyok, és úgy érzem a párom abszolút nem tekint már rám nőként.:(
@@ -1950,7 +2146,7 @@ Alapjáraton mindketten nagy libidóval rendelkezünk, a várandósságom előtt
 
 Hiába mondja, hogy szeret, sajnos annyira megrázott, hogy neki erre van szüksége, hogy ezeket nézze, miközben vannak napok ahol egy csókot sem kapok tőle, próbálkozok be nála, de úgy csinál mintha nem lenne egyértelmű.
 
-Segítsetek.:(",3,24,https://www.reddit.com/r/csakmamik/comments/1ryp7n9/párom_elhidegülése/,https://www.reddit.com/r/csakmamik/comments/1ryp7n9/párom_elhidegülése/,1773989659.0,2026-03-20 06:54:19,WarmEscape4729,1ryp7n9
+Segítsetek.:(",2,24,https://www.reddit.com/r/csakmamik/comments/1ryp7n9/párom_elhidegülése/,https://www.reddit.com/r/csakmamik/comments/1ryp7n9/párom_elhidegülése/,1773989659.0,2026-03-20 06:54:19,WarmEscape4729,1ryp7n9
 EI,nachfolge,Unternehmensbewertung Multiples,"Followup zu [meinem letzten Post zur Unternehmenswertberechnung](https://www.reddit.com/r/nachfolge/comments/1rwy27h/wie_berechnet_man_den_unternehmenswert_f%C3%BCr_eine/).
 
 Multiples sind ein guter erster Anker. Der Unternehmenswert ergibt sich aus EBITDA × Multiple. Also z.B. 100k€ EBIT und Multiple 4 → Unternehmen ist ca. 400k€ wert.
@@ -1986,7 +2182,7 @@ Majoritatea incercau sa mute conversatia pe Snapchat sau Telegram folosind scuze
 
 Unii dintre ei recunosteau cu greu ca au deja iubita, CHIAR SI SOTIE SI COPII (2 cazuri) dar ca partnera a devenit ""nebuna"" sau ""nu mai fac nimic cu ea"" si asta era o scuza suficient de buna ca sa dea mesaje la tipe pe Reddit
 
-Cativa dintre ei mi-au dat mesaje de pe conturi multiple, semn ca ei probabil dau mesaje la absolut orice avatar de femeie le apare pe Reddit. A fost amuzant sa imi bat joc de ei spunand chestii despre ei din alte conversatii, erau foarte confuzi",85,56,https://i.redd.it/n42pkmb465qg1.jpeg,https://www.reddit.com/r/RoGenZ/comments/1ryoh89/mam_prefăcut_că_sunt_minoră_vorbind_cu_tipi_pe/,1773986993.0,2026-03-20 06:09:53,zdreantacomunista,1ryoh89
+Cativa dintre ei mi-au dat mesaje de pe conturi multiple, semn ca ei probabil dau mesaje la absolut orice avatar de femeie le apare pe Reddit. A fost amuzant sa imi bat joc de ei spunand chestii despre ei din alte conversatii, erau foarte confuzi",88,56,https://i.redd.it/n42pkmb465qg1.jpeg,https://www.reddit.com/r/RoGenZ/comments/1ryoh89/mam_prefăcut_că_sunt_minoră_vorbind_cu_tipi_pe/,1773986993.0,2026-03-20 06:09:53,zdreantacomunista,1ryoh89
 EI,Dentists,"Impacted Wisdom Tooth Surgery: Causes, Types & Treatment Options","# Introduction
 
 An impacted wisdom tooth occurs when the tooth does not have enough space to emerge properly and gets trapped under the gums or in the jawbone. This condition often requires surgical removal to prevent pain and complications.
@@ -4969,7 +5165,7 @@ Sub 140 lei pentru un tricou Napapijri mi se pare un pret bun. La mall e cel put
 🔗 https://beslim.ro/products/napapijri-s-montepiana-ss
 
 *Voi ce branduri preferati la tricouri barbati?*",1,0,https://www.reddit.com/r/FashionRomania/comments/1rym8me/tricou_napapijri_barbati_136_lei_pe_beslim_merita/,https://www.reddit.com/r/FashionRomania/comments/1rym8me/tricou_napapijri_barbati_136_lei_pe_beslim_merita/,1773979536.0,2026-03-20 04:05:36,IulianHI,1rym8me
-EI,jojobrasiladventures,"Mano, Porque diabos o canal Ei Nerd nunca fala de Jojo?",,6,4,https://i.redd.it/tuyq7xmig4qg1.jpeg,https://www.reddit.com/r/jojobrasiladventures/comments/1rylusi/mano_porque_diabos_o_canal_ei_nerd_nunca_fala_de/,1773978383.0,2026-03-20 03:46:23,cenora97,1rylusi
+EI,jojobrasiladventures,"Mano, Porque diabos o canal Ei Nerd nunca fala de Jojo?",,8,4,https://i.redd.it/tuyq7xmig4qg1.jpeg,https://www.reddit.com/r/jojobrasiladventures/comments/1rylusi/mano_porque_diabos_o_canal_ei_nerd_nunca_fala_de/,1773978383.0,2026-03-20 03:46:23,cenora97,1rylusi
 EI,SoberanaTV,Plataformismo Anarquista Brasileiro,"Você já se cansou da politicagem no Brasil? Vá no YouTube e digite: Ei, TRABALHADOR! ESTE VIDEO TE INTERESSA.
 
 Ou entre aqui: linktr.ee/nous72
@@ -4979,7 +5175,7 @@ Em breve farei uma série de vídeos curtos sobre o assunto.
 Mande para os coleguinhas conscientes da realidade política do mundo.
 
 #anarquismo #comunismo #anarcocomunismo
-#dev #plataformismo",12,1,https://www.reddit.com/gallery/1ryls02,https://www.reddit.com/r/SoberanaTV/comments/1ryls02/plataformismo_anarquista_brasileiro/,1773978151.0,2026-03-20 03:42:31,Leonardomak,1ryls02
+#dev #plataformismo",14,1,https://www.reddit.com/gallery/1ryls02,https://www.reddit.com/r/SoberanaTV/comments/1ryls02/plataformismo_anarquista_brasileiro/,1773978151.0,2026-03-20 03:42:31,Leonardomak,1ryls02
 EI,PersonalFinanceCanada,Mortgage renewal question,"My mortgage is coming due in mid June this year, and I just received a letter from my credit union to book an appointment to discuss it. They didn't have anything about the rate in the letter. Currently I'm on a 5 year fixed rate at 2.14% with 283K owing.
 
 My wife is currently on Sick leave EI before going on Maternity leave in April. Right before Christmas, she was laid off from her job.
@@ -5007,192 +5203,6 @@ Hoje, porém, algo novo aconteceu: a investigação do Felca, embora tenha despe
 Meus caros, é este mesmo o efeito da indignação: decisões tomadas às pressas, mal calculadas, sem ponderação. Isso fica especialmente claro no processo legislativo: quantas leis, incluindo normas penais incriminadoras, não foram feitas nas coxas durante os anos anteriores, quase sempre para atender o clamor popular?
 
 Eu não estou dizendo que seja bobagem lutar pelo que é certo, mas cabe parar para pensar antes de sentir. Isto é: pressupondo que realmente sintam algo - e não apenas performem senti-lo por aprovação.",5,6,https://www.reddit.com/r/opiniaoimpopular/comments/1ryjv3k/eis_o_diagnóstico_o_mal_da_internet_chamase/,https://www.reddit.com/r/opiniaoimpopular/comments/1ryjv3k/eis_o_diagnóstico_o_mal_da_internet_chamase/,1773972800.0,2026-03-20 02:13:20,arcanecuriosity,1ryjv3k
-EI,frugalcanada,Need a doctor for medical leave—current GP dismisses mental health and I’m in a physical crisis.,"I am in a desperate situation and need advice on where to find a compassionate doctor or clinic in Brampton/the GTA.
-
-The stress from my job and family issues has reached a breaking point. I haven’t slept in 4 days, my heart is constantly racing, and I have lost 11 pounds in a single week. I feel like I am falling apart and I cannot go into work.
-
-I went to my family doctor for help and a medical note for a leave of absence, but he told me he “doesn’t believe” in anxiety or stress-related illness. He refused to give me a note or medication and told me to just “exercise.”
-
-I am not in a state to exercise; I am in a state of physical collapse. I need to take a medical leave from work immediately to save my health, but I need a doctor who will actually listen and provide the necessary documentation for HR and potentially EI Sickness Benefits.
-
-Does anyone know of a walk-in clinic or a specific doctor in Brampton who takes mental health/burnout seriously?
-
-Can a virtual doctor (like Maple or Rocket Doctor) provide a note for a 2-4 week leave of absence?
-
-What are my options if my primary GP refuses to help during a crisis?
-
-I just need to disappear and recover for a few weeks before I completely break down. Any help or clinic names would be appreciated.",19,6,https://www.reddit.com/r/frugalcanada/comments/1ryjri1/need_a_doctor_for_medical_leavecurrent_gp/,https://www.reddit.com/r/frugalcanada/comments/1ryjri1/need_a_doctor_for_medical_leavecurrent_gp/,1773972529.0,2026-03-20 02:08:49,Lopsided-Charge8183,1ryjri1
-EI,bengaliracism,Amar Observation and Racism I faced on reddit,"As apnara janen Reddit e goto bochor opdhi public GCs hoto r ta chara o emni reddit er Subreddit aache. As everyone is anonymous here, tai lok jon nijer bhetorer icche prokash kore freely. Regarding my Observation ami eta peyechi j Bangali sobdho ta neki ekti gaali hiseb o bebohar kora hoy Delhi er kichu anchal e. R toh ek Assamia chele jar maa neki Bengali se holo, Bengali mey der k joghonno bhasay describe korto, ar sobar che Assamia aro Onno NE er lok jon Bangali der sob abol-tabol bole. Ek somoy ekta kotha chilo ""what Bengal thinks today, India thinks Tommorow"" ei jinis ta amra kothay hariye fellam. R toh j ""kala jadu"" er stereotype er kotha toh chere e dilam. Dokkhin bharat e same jinish Bangali sobdho ta gali hiseb use kore. 
-Apnara jara probashi ra Acchen apnader ki experience aache as a Bangali, kiki Racist remarks k face korte hoyeche. R eta ashlo ta kothat theke j amra ""kala jadu"" kori r Bangali mey der toh ja kharab bhabe stereotype kora hoyeche, ar Bangali purush ra neki othorbo. Ami just nijer observation ti likhlam",9,0,https://www.reddit.com/r/bengaliracism/comments/1ryjrat/amar_observation_and_racism_i_faced_on_reddit/,https://www.reddit.com/r/bengaliracism/comments/1ryjrat/amar_observation_and_racism_i_faced_on_reddit/,1773972513.0,2026-03-20 02:08:33,Melodic_Juggernaut18,1ryjrat
-EI,WithHarbour,👋 Welcome to r/WithHarbour! Here's what this place is for.,"A little over a year ago a few of us went through layoffs within our own networks and watched smart, capable people completely freeze up. Not because they didn't know what they were doing professionally, but because nobody had ever taught them what to do when the job disappears. The EI filing, the severance negotiation, the question of what comes next. It was all just... figuring it out alone.
-
-That's what led us to start building Harbour. But before we talk about the product, we want to talk about this community, because honestly this subreddit matters more to us right now than the app does.
-
-**What this subreddit is for**
-
-This is a place for people navigating career transitions to talk openly about what that actually looks like. The messy parts included.
-
-That means:
-
-* Sharing what worked and what didn't when you were laid off
-* Asking questions about EI, severance, incorporation, pricing your services, finding clients
-* Talking about the emotional side of it too, because that's real and most communities pretend it isn't
-* Connecting with others who are in the same boat or have come out the other side
-
-If you've been laid off, are thinking about going fractional, are already doing contract work and want to compare notes, or are just trying to figure out what your next chapter looks like, you're in the right place.
-
-**What this subreddit is not for**
-
-It's not a sales channel. We're building a product and yes we'll mention it sometimes, but that's not why this exists. If a post ever feels like a pitch, call it out. We mean that.
-
-It's also not a place for generic career advice. There are plenty of subreddits for that. This one is specifically for people navigating the gap between what was and what's next, with a particular focus on the Canadian context around EI, severance, and independent work.
-
-**A bit about us**
-
-We're a small team based in Ontario. We've been building Harbour as a platform to help people move through career transitions faster and with less stress, covering everything from severance negotiation and EI filing through to finding fractional clients and getting paid properly. It's early, we're still in alpha, and we're learning as much as we're building.
-
-We started this subreddit because the conversations we've been having with people going through transitions have been the most valuable thing we've done so far. We'd rather have those conversations in the open where more people can benefit from them.
-
-**To get things started, a few questions for anyone reading this:**
-
-What's the one thing you wish you had known in the first week after being laid off?
-
-What's the hardest part of the transition that nobody talks about honestly?
-
-We'll be in the comments. This community is yours as much as ours.
-
-",2,0,https://www.reddit.com/r/WithHarbour/comments/1ryjpbn/welcome_to_rwithharbour_heres_what_this_place_is/,https://www.reddit.com/r/WithHarbour/comments/1ryjpbn/welcome_to_rwithharbour_heres_what_this_place_is/,1773972365.0,2026-03-20 02:06:05,withharbour,1ryjpbn
-EI,barTEOLOGIA,Acho que entendi o lance da igreja católica,"Esse post é mais um desabafo.
-
-Eu fiz um post antes questionando se a igreja católica não fazem o que Jesus e Deus condenam. E eu tirei minha conclusão sobre as religiões em geral.
-
-Eu entendi que, não fazem nada do que Jesus condenou, pelo menos na cabeça deles. Porque eles pegam tudo o que ta escrito, e distorcem para caber na narrativa deles. Eles pegam um versículo que diz ""Jesus deu autoridade para os apostolos"" e convertem isso em ""então devemos ter papas"".
-
-Toda discussão é inútil, porque não é falta de entendimento, é cegueira consciente e auto justificada, não se preocupam com o certo, se preocupam com o conforto.
-
-Mas está ""certo"", é exatamente o que Jesus falou sobre os religiosos, que gostam dos lugares de privilégio, que gostam de ser tratados assim, nada mudou, só mudou os nomes.
-
-Pra quem tem ouvidos pra ouvir, e olhos pra ver, fica aqui o capítulo de Mateus 23, que Jesus faz a perfeita explicação dos comportamentos de religiosos. Eles não são o anticristo, são o palco pra ele:
-
-Mateus 23:1 Então, Jesus pregou às multidões e aos seus discípulos:
-
-2 “Os escribas e os fariseus se assentam na cadeira de Moisés.
-
-3 Fazei e obedecei, portanto, a tudo quanto eles vos disserem. Contudo, não façais o que eles fazem, porquanto não praticam o que ensinam.
-
-4 Eles atam fardos pesados e os colocam sobre os ombros dos homens. No entanto, eles próprios não se dispõem a levantar um só dedo para movê-los.
-
-5 Tudo o que realizam tem como alvo serem observados pelas pessoas. Por isso, fazem seus filactérios bem largos e as franjas de suas vestes mais longas.
-
-6 Amam o lugar de honra nos banquetes e os primeiros assentos nas sinagogas.
-
-7 Gostam de ser cumprimentados nas praças e de serem, pelas pessoas, chamados: ‘Rabi, Rabi!’.
-
-8 Vós, todavia, não sereis tratados de ‘Rabis’; pois um só é vosso Mestre, e vós todos sois irmãos.
-
-9 E a ninguém sobre a terra tratai de vosso Pai; porquanto só um é o vosso Pai, aquele que está nos céus.
-
-10 Também não sereis chamados de líderes, pois um só é o vosso Líder, o Cristo.
-
-11 Porém o maior dentre vós seja vosso servo. 
-
-12 Portanto, todo aquele que a si mesmo se exaltar será humilhado, e todo aquele que a si mesmo se humilhar será exaltado. 
-
-13 Ai de vós, doutores da Lei e fariseus, hipócritas! Porque fechais o reino dos céus diante dos homens. Porquanto vós mesmos não entrais, nem tampouco deixais entrar os que estão a caminho!
-
-14 Ai de vós, doutores da Lei e fariseus, hipócritas! Porque devorais as casas das viúvas e, para disfarçar, encenais longas orações. E, por isso, recebereis castigo ainda mais severo!
-
-15 Ai de vós, doutores da Lei e fariseus, hipócritas! Porque viajais por mares e terras para fazer de alguém um prosélito. No entanto, uma vez convertido, o tornais duas vezes mais filho do inferno do que vós!
-
-16 Ai de vós, guias cegos! Porque ensinais: ‘Se uma pessoa jurar pelo santuário, isso não tem significado; porém, se alguém jurar pelo ouro do santuário, fica obrigado a cumprir o que prometeu’.
-
-17 Tolos e cegos! Pois o que é mais importante: o ouro ou o santuário que santifica o ouro?
-
-18 E mais, dizeis: ‘Se uma pessoa jurar pelo altar, isso nada significa; mas, se alguém jurar pela oferta que está sobre ele, fica, assim, comprometido ao seu juramento’.
-
-19 Embotados! O que é mais importante: a oferta, ou o altar que santifica a oferta?
-
-20 Portanto, a pessoa que jurar em nome do altar, jura pelo altar e por tudo o que está sobre ele.
-
-21 E quem jurar pelo santuário, jura pelo santuário e em nome daquele que nele habita. 
-
-22 E aquele que jurar pelos céus, jura pelo trono de Deus e em nome daquele que nele está assentado.
-
-23 Ai de vós, doutores da Lei e fariseus, hipócritas! Porque dais o dízimo da hortelã, do endro e do cominho, mas tendes descuidado dos preceitos mais importantes da Lei: a justiça, a misericórdia e a fé. Deveis, sim, praticar estes preceitos, sem omitir aqueles! 
-
-24 Líderes insensíveis! Pois coais o pequeno mosquito, mas engolis um camelo!
-
-25 Ai de vós, doutores da Lei e fariseus, hipócritas! Porque limpais o exterior do copo e do prato, mas por dentro, estes estão repletos de avareza e cobiça.
-
-26 Fariseu que não enxerga! Limpa, antes de tudo, o interior do copo e do prato, para que da mesma forma, o exterior fique limpo!
-
-27 Ai de vós, doutores da Lei e fariseus, hipócritas! Porque sois parecidos aos túmulos caiados: com bela aparência por fora, mas por dentro estão cheios de ossos de mortos e toda espécie de imundície!
-
-28 Assim também sois vós: exteriormente pareceis justos ao povo, mas vosso interior está repleto de falsidade e perversidade.
-
-29 Ai de vós, doutores da Lei e fariseus, hipócritas! Porque construís os sepulcros dos profetas, adornais os túmulos dos justos.
-
-30 E declarais: ‘Se tivéssemos vivido na época dos nossos antepassados, não teríamos tomado parte com eles no assassinato dos profetas!’
-
-31 Dessa forma, porém, testemunhais contra vós mesmos que sois filhos dos que mataram os profetas.
-
-32 Acabai, pois, de encher a medida do pecado de vossos pais!
-
-33 Cobras venenosas, ninho de víboras! Como escapareis da condenação do inferno?
-
-34 Por isso, eis que Eu vos envio profetas, sábios e mestres. A uns assassinareis e crucificareis; a outros açoitareis nas vossas sinagogas e perseguireis de cidade em cidade.
-
-35 E, dessa maneira, sobre vós recairá todo o sangue justo derramado na terra, desde o sangue do justo Abel, até o sangue de Zacarias, filho de Baraquias, a quem matastes entre o santuário e o altar.
-
-36 Com toda a certeza vos asseguro, que tudo isso ocorrerá a esta geração”.
-
-37 “Ó Jerusalém, Jerusalém, que assassinas os profetas e apedrejas os que te são enviados! Quantas vezes Eu quis reunir os teus filhos, como a galinha acolhe os seus pintinhos debaixo das suas asas, mas vós não o aceitastes!
-
-38 Eis que a vossa casa ficará abandonada! 
-
-39 Pois eu vos declaro que, a partir de agora, de modo algum me vereis, até que venhais a dizer: ‘Bendito é o que vem em o Nome do Senhor!’”",0,35,https://www.reddit.com/r/barTEOLOGIA/comments/1ryjaie/acho_que_entendi_o_lance_da_igreja_católica/,https://www.reddit.com/r/barTEOLOGIA/comments/1ryjaie/acho_que_entendi_o_lance_da_igreja_católica/,1773971262.0,2026-03-20 01:47:42,mahzelli,1ryjaie
-EI,AmizadeVirtual,Amizades 20+ pra conversar ou jogar algo junto?,"Sou H27 e gosto muito de jogos e animes.
-
-Normalmente tendo a fazer posts mais longos mas eis um curto pra variar um pouco.
-
-Se tiver interesse me mande uma introdução sua no privado.",2,0,https://www.reddit.com/r/AmizadeVirtual/comments/1ryj2u6/amizades_20_pra_conversar_ou_jogar_algo_junto/,https://www.reddit.com/r/AmizadeVirtual/comments/1ryj2u6/amizades_20_pra_conversar_ou_jogar_algo_junto/,1773970693.0,2026-03-20 01:38:13,SadEnthusiasm6544,1ryj2u6
-EI,Oceanlinerporn,Fun fact,"In the movie In Nacht und Eis, on the interior recordings it was used Auguste Victoria to make it.",10,0,https://www.reddit.com/gallery/1ryj2qg,https://www.reddit.com/r/Oceanlinerporn/comments/1ryj2qg/fun_fact/,1773970685.0,2026-03-20 01:38:05,Wild-Tennis6843,1ryj2qg
-EI,slp,Preschool evals,"I work in a public preschool completing evals for kiddos anywhere from aging out of EI up until 5.11. Recently we have had so many speech evaluations for children whose home language exposure is not English and they don’t attend school, or they do attend school but have been in school for a long period of time. Translators are only present for evals if the family requests one and they rarely do in these instances. What are you guys doing in these situations?! It’s starting to get really tricky both the evals themselves but also conversations with parents who have all these concerns. ",4,4,https://www.reddit.com/r/slp/comments/1ryj1yv/preschool_evals/,https://www.reddit.com/r/slp/comments/1ryj1yv/preschool_evals/,1773970631.0,2026-03-20 01:37:11,nmt0628,1ryj1yv
-EI,SkirkMains,Feeling grateful with the Community and this banner.,"***TL;dr I’m in love with my Skirk C1R1 and my Escoffier C1R1.***
-
-I got Skirk when she first arrived in Genshin. Back in the day I wasn’t playing much, but I was surprised by her design: she became part of my 4 favorites characters, the others being Raiden Shogun, Jean and Arlecchino. To this day they still are my favorites, specially Ei.
-
-Anyways thanks to the leakers I discovered both Skirk and Escoffier were returning like back in January. So I decided I was going to 100% every map to get enough primos. I gathered 35k. And well, thanks to the investment plans posted here, I already knew what to do.
-
-***I got Skirk C1R1 and Escoffier C1R1.***
-
-I want to thanks the person named “Jamie” and his investment plan for Skirk. Now I know all I’m missing it’s Skirk’s C2 and I’m gold but anyways, thanks to her, along with my Furina C0 FavoniousR5 and Shenhe C1 FavoniousR5 I was able to get both the Abyss and Theater fully done for the first time. What a sick character, man. She’s really awesome. Also thanks to all the people that keeps asking the same questions all over and over again. Thanks to you all I’m an expert now.",10,1,https://i.redd.it/asgdf1hkq3qg1.jpeg,https://www.reddit.com/r/SkirkMains/comments/1ryip0h/feeling_grateful_with_the_community_and_this/,1773969655.0,2026-03-20 01:20:55,DemixJames,1ryip0h
-EI,Payroll,Tax Reporting for Wellness Spending Account (WSA) benefit.,"Hoping somebody can clarify this for me as I can’t seem to find a clear answer anywhere. I’m trying to determine what the correct tax reporting is for our employee WSA benefits. 
-
-My research tells me that it should be classed as a “Non-Cash Taxable Benefit”. Non-Cash taxable benefits get reported on box 14, 26, & 40 on the T4.
-
-I am also finding (depending where I look) that WSA benefits are an EI insurable earning which contradicts it being a Non-cash taxable benefit, as it would also need to be reported in box 24.
-
-So which is it? I keep finding contradicting answers. Thanks!",1,0,https://www.reddit.com/r/Payroll/comments/1ryimwn/tax_reporting_for_wellness_spending_account_wsa/,https://www.reddit.com/r/Payroll/comments/1ryimwn/tax_reporting_for_wellness_spending_account_wsa/,1773969502.0,2026-03-20 01:18:22,Book_Lover_77,1ryimwn
-EI,Minneapolis,Looking for a local shop that will install a Mercedes electric steering lock emulator,"Hey all,
-
-I know this is a long shot, but I figured I'd try. I have an older Mercedes that has the electric steering lock motor that is known to fail, which leaves the car inoperable. It is currently working fine but I want to try to head off potential future issues. 
-
-There is a way to install an emulator that eliminates the esl motor, it needs to be programmed to the electric ignition system and key. 
-
-Anybody out there know of a shop that can program this emulator, the eis, and my keys? ",2,5,https://www.reddit.com/r/Minneapolis/comments/1ryihl9/looking_for_a_local_shop_that_will_install_a/,https://www.reddit.com/r/Minneapolis/comments/1ryihl9/looking_for_a_local_shop_that_will_install_a/,1773969101.0,2026-03-20 01:11:41,bra1n_rot,1ryihl9
-EI,WomenRO,"Single by choice, dar lumea nu-i de acord","29F aici. Sunt single de 4 ani si, desi in timpul asta au fost mai multi barbati care au gravitat pe langa mine, nu am simtit ceva semnificativ pentru vreunul din ei. Prin urmare, nu s-a concretizat ceva.
-
-Stiu ce vreau, stiu ce pot oferi. Sunt constienta de limitele mele, dar si de partile mele vulnerabile. Nu-mi plac joculetele, semi-relatiile sau chestiile ambigue, nu am putut niciodata sa fiu cu cineva intr-o relatie doar pentru ca nu am companie sau ma plictisesc sau am vreun interes. I have my own life si sunt dornica sa o impartasesc cu cineva cu care sa simt ca pot construi ceva. Sunt deschisa catre a cunoaste oameni si imi doresc o conexiune reala. Nu cred ca exista un timing sau un deadline pentru a intalni pe cineva cu care sa faci click pe mai multe planuri, se va intampla cand se va intampla. Si mai cred ca viata nu trebuie pusa pe hold doar pentru ca nu ai un partener langa tine.
-
-Ce e interesant insa e ca desi I'm ok with myself, observ ca oamenii vin catre mine cu ""pareri"" despre ce ar trebui de fapt sa fac. Ca nu e bine sa astept, ca nu e bine sa te obisnuiesti single, ca nu trebuie sa imi placa foarte mult de cineva, ca timpul trece, ca imi pot lua un barbat pe care ""sa il cresc cum vreau eu"", ca ma chinui singura, ca ceva nu e in regula cu mine.
-
-Oamenii astia nu-s apropiati si recunosc ca uneori ma socheaza acest entitlement de a-mi spune ca eu nu sunt ok, in conditiile in care sunt a grown up woman, impacata cu deciziile mele. Cu totii decidem ce e mai ok pentru noi, avem voie sa vrem sau sa nu vrem ceva, uneori gresim, invatam, facem diferit, samd.
-
-As vrea sa zic ca nu ma afecteaza si nu ma influenteaza deloc vorbele astea de la te-miri-cine. La prima vedere, nu le iau in seama. Dar de fapt raman cu ecoul ala in the background si ma simt looked down upon. Ba mai mult, simt ca nu e un ok sa ma simt ok cu propriile decizii.
-
-Bai, nene, uneori chiar ne facem gratuit viata mai grea unii altora...",107,68,https://www.reddit.com/r/WomenRO/comments/1ryigva/single_by_choice_dar_lumea_nui_de_acord/,https://www.reddit.com/r/WomenRO/comments/1ryigva/single_by_choice_dar_lumea_nui_de_acord/,1773969044.0,2026-03-20 01:10:44,monsteragal_al,1ryigva
-EI,FixMyPrint,Epson ET-2800 Firmware Reset,Does anyone have a previous version of the EI-2800 Firmware? Apparently I updated mine and now can no longer update the WIC when I change out the ink pad.,1,2,https://www.reddit.com/r/FixMyPrint/comments/1ryigbu/epson_et2800_firmware_reset/,https://www.reddit.com/r/FixMyPrint/comments/1ryigbu/epson_et2800_firmware_reset/,1773969007.0,2026-03-20 01:10:07,Vegetable_Minute_624,1ryigbu
 FAB,UAE,Need Banking Help,"Hi There! Eid Mubarak!
 
 For those who chose to bank with First Abu Dhabi Bank, I have a REALLY important question
